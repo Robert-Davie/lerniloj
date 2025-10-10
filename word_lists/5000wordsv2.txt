@@ -1,0 +1,5001 @@
+LANGUAGE=FRENCH
+à    (prep);to, at, in
+abaisser    (v);to pull down, lower, reduce
+abandon    (nm);abandonment, desertion, withdrawal
+abandonner    (v);to give up, abandon
+abattre    (v);to pull down, kill, beat
+abbé    (nm);abbot, priest
+abolir    (v);to abolish, do away with
+abonné    (nadj);subscribed, subscriber
+abord    (nm);manner, approach, access, environs
+aborder    (v);to reach, approach
+aboutir    (v);to succeed, end up at
+aboutissement    (nm);outcome, result
+abri    (nm);shelter
+abriter    (v);to shelter, shade
+absence    (nf);absence
+absent    (nadj);absent
+absolu    (nadj);absolute
+absolument    (adv);absolutely
+absorber    (v);to absorb, remove, take up, take over
+abstenir    (v);to abstain, refrain
+absurde    (nadj(f));absurd
+abus    (nm(pl));abuse, misuse, breach
+abuser    (v);to abuse, mislead, take advantage
+accéder    (v);to access, reach, attain
+accélération    (nf);acceleration
+accélérer    (v);to speed up, accelerate
+accent    (nm);accent
+accentuer    (v);to stress, emphasize, become more pronounced
+acceptable    (adj(f));acceptable, satisfactory
+acceptation    (nf);acceptance
+accepter    (v);to accept
+accès    (nm(pl));access
+accessible    (adj(f));accessible, approachable
+accessoire    (nm);accessory
+accident    (nm);accident
+accompagner    (v);to accompany
+accompli    (adj);accomplished
+accomplir    (v);to accomplish
+accord    (nm);agreement
+accorder    (v);to grant
+accrocher    (v);to hang up, hang on, put up
+accroissement    (nm);increase
+accroître    (v);to increase
+accueil    (nm);welcome, reception
+accueillir    (v);to welcome, greet, accommodate
+accumulation    (nf);accumulation, amassing, storage, stockpiling, build-up,
+accumuler    (v);to accumulate, amass, store, stockpile
+accusation    (nf);accusation, indictment
+accusé    (nadj);defendant
+accuser    (v);to accuse
+acharner    (v);to go at fiercely and unrelentingly
+achat    (nm);purchase
+acheminement    (nm);routing, shipment
+acheminer    (v);to forward, dispatch, transport
+acheter    (v);to buy
+acheteur    (nm);buyer, purchaser
+achever    (v);to complete, finish, end
+acide    (nadj(f));acid
+acier    (nm);steel
+acquérir    (v);to acquire
+acquis    (nadj(pl));acquired, experience
+acquisition    (nf);acquisition, acquire, purchase
+acquitter    (v);to acquit, pay, settle, pay off
+acte    (nm);act
+acteur    (nm);actor
+actif    (nadj);active
+action    (nf);action
+actionnaire    (nm,nf);shareholder
+activement    (adv);actively
+activer    (v);to activate, speed up, stroke, get moving
+activité    (nf);activity
+actualité    (nf);current events, news
+actuel    (adj);current, present
+actuellement    (adv);at present, at the moment
+adaptation    (nf);adaptation
+adapter    (v);to adapt
+additionnel    (adj);additional
+adéquat    (adj);appropriate, suitable, adequate
+adhérer    (v);to stick to, support, join, be a member of
+adhésion    (nf);membership, support
+adieu    (intj,nm);goodbye, farewell, adieu
+adjoint    (nadj);assistant, deputy
+admettre    (v);to admit
+administrateur    (nm);administrator
+administratif    (nadj);administrative
+administration    (nf);administration
+administrer    (v);to manage, run, administer, to give
+admiration    (nf);admiration
+admirer    (v);to admire
+adolescent    (nm);teenager, adolescent
+adopter    (v);to adopt
+adoption    (nf);adoption, passing
+adorer    (v);to adore, worship
+adresse    (nf);address
+adresser    (v);to address
+adulte    (nadj(f));adult
+advenir    (v);to happen that, happen to
+adversaire    (nm,nf);opponent, adversary
+aérien    (adj);aerial
+aéroport    (nm);airport
+affaiblir    (v);to weaken
+affaiblissement    (nm);weakening
+affaire    (nf);business, matter
+affectation    (nf);appointment, allocation, show, pretence
+affecter    (v);to affect
+affection    (nf);affection, ailment
+affiche    (nf);poster, public notice, bill
+afficher    (v);to display
+affirmation    (nf);assertion, affirmation
+affirmer    (v);to affirm, maintain, declare, allege
+affreux    (nadj(pl));dreadful, awful, horrible
+affrontement    (nm);clash, confrontation
+affronter    (v);to confront, face
+afin    (in);order to, so that
+africain    (nadj);African
+âgé    (adj);old
+âge    (nm);age
+agence    (nf);agency
+agenda    (nm);diary, planner
+agent    (nm,nf);agent
+aggraver    (v);to worsen, aggravate
+agir    (v);to act
+agitation    (nf);agitation, excitement
+agiter    (v);to shake, disturb
+agrandir    (v);to enlarge, extend
+agréable    (nadj(f));pleasant, nice, agreeable
+agréer    (v);to accept, approve of
+agressif    (nadj);aggressive
+agression    (nf);agression
+agricole    (adj(f));agricultural, farming
+agriculteur    (nm);farmer
+agriculture    (nf);agriculture
+ah    (intj);ah, oh
+aide    (nm,nf);help, assistance
+aider    (v);to help, assist
+aile    (nf);wing, sail, blade
+ailleurs    (adv);elsewhere, somewhere else
+aimable    (adj(f));pleasant, kind, nice, likeable, amiable
+aimer    (v);to like, love
+aîné    (nadj);oldest, eldest
+ainsi    (adv);thus
+air    (nm);air, appearance
+aire    (nf);surface, area
+aisé    (adj);easy, well off, well-to-do
+aise    (nadj(f));comfort, joy, pleasure, ease
+ajourner    (v);to adjourn, defer, postpone
+ajouter    (v);to add
+ajustement    (nm);adjustment
+ajuster    (v);to adjust, alter, aim, aim at
+alarme    (nf);alarm
+albanais    (nadj(pl));Albanian
+album    (nm);album
+alcool    (nm);alcohol
+alentour    (adv);around, round about
+alerte    (adj(f),nf);agile, alert, warning
+alerter    (v);to alert, inform, warn
+algérien    (nadj);Algerian
+aligner    (v);to lign up, align
+aliment    (nm);food
+alimentaire    (adj(f));food
+alimentation    (nf);diet, food, groceries, supply
+alimenter    (v);to feed, supply
+allégement    (nm);lightening, unweighting, reduction
+alléger    (v);to lighten, alleviate
+allemand    (nadj);German
+aller    (nm,v);to go
+alliance    (nf);alliance
+allié    (nadj);allied, ally
+allier    (v);to ally, match, unite
+allocation    (nf);allocation, granting, allotment, allowance
+allonger    (v);to lengthen, extend, stretch out
+allouer    (v);to allocate
+allumer    (v);to switch on, light up, turn on
+allure    (nf);speed, pace, walk, look, appearance
+allusion    (nf);allusion
+alors    (adv);then, so
+alourdir    (v);to weigh down, make heavy
+alternatif    (adj);alternate, alternating
+alternative    (nf);alternative, choice
+altitude    (nf);altitude, height
+amant    (nm);lover
+amateur    (nm,nf);amateur
+ambassade    (nf);embassy
+ambassadeur    (nm);ambassador
+ambiance    (nf);atmosphere, mood, ambiance
+ambiguïté    (nf);ambiguity
+ambitieux    (nadj(pl));ambitious, man with ambition
+ambition    (nf);ambition
+âme    (nf);soul
+amélioration    (nf);improvement
+améliorer    (v);to improve
+aménagement    (nm);development, planning, fitting, adjustment
+aménager    (v);to develop, plan, fit, adjust
+amende    (nf);fine
+amendement    (nm);amendment
+amener    (v);to bring
+amer    (adj,nm);bitter
+américain    (nadj);American
+ami    (nadj);friend
+amical    (adj);friendly
+amitié    (nf);friendship
+amorcer    (v);to bait, prime, begin, initiate
+amour    (nm);love
+amoureux    (nadj(pl));in love, amorous
+ampleur    (nf);extent, scope, range
+amplifier    (v);to amplify, magnify, expand
+amusant    (nadj);funny, amusing, entertaining
+amuser    (v);to amuse
+an    (nm);year
+analogue    (nadj(f));similar, analogous
+analyse    (nf);analysis
+analyser    (v);to analyse
+analyste    (nm,nf);analyst
+ancêtre    (nm,nf);ancestor, forerunner
+ancien    (adj,nm);ancient, former
+ancrer    (v);to anchor
+anéantir    (v);to annihilate, wipe out, ruin, vanish
+ange    (nm);angel
+anglais    (nadj(pl));English
+angle    (nm);angle, point of view
+anglo-saxon    (nadj);Anglo-Saxon
+angoisse    (nf);distress, anguish, dread, fear
+animal    (nadj);animal
+animateur    (nadj);animator, host
+animer    (v);to lead, conduct, animate
+année    (nf);year
+annexe    (adj(f),nf);annex, appendix, related issue
+anniversaire    (nadj(f));anniversary, birthday
+annonce    (nf);announcement
+annoncer    (v);to announce
+annuel    (adj);annual
+annulation    (nf);cancellation, annulment
+annuler    (v);to cancel
+anonyme    (adj(f));anonymous
+anormal    (nadj);abnormal
+antenne    (nf);antenna
+antérieur    (nadj);previous, earlier, front
+anticiper    (v);to anticipate, foresee, look or think ahead
+antique    (nadj(f));antique, ancient
+août    (nm);August
+apaiser    (v);to calm, appease, calm down
+apercevoir    (v);to see, notice
+apparaître    (v);to appear
+appareil    (nm);apparatus, device
+apparemment    (adv);apparently
+apparence    (nf);appearance
+apparent    (adj);apparent, obvious
+apparition    (nf);appearance, apparition
+appartement    (nm);apartment, flat
+appartenance    (nf);membership, belonging
+appartenir    (v);to belong
+appel    (nm);call
+appeler    (v);to call
+applaudir    (v);to clap, applaud
+applicable    (adj(f));applicable
+application    (nf);application
+appliqué    (adj);assiduous, industrious, careful
+appliquer    (v);to apply
+apport    (nm);supply, contribution
+apporter    (v);to bring
+appréciation    (nf);appreciation, assessment, appraisal
+apprécier    (v);to appreciate
+appréhender    (v);to dread, apprehend
+apprendre    (v);to learn
+apprentissage    (nm);learning, apprenticeship
+apprêter    (v);to prepare, get ready, dress
+approbation    (nf);approval
+approche    (nf);approach
+approcher    (v);to approach
+approfondir    (v);to deepen, make deeper, go further into
+approprié    (adj);appropriate
+approprier    (v);to adapt, appropriate, take over
+approuver    (v);to approve
+approvisionnement    (nm);supply, supplies, stock, supplying, stocking
+appui    (nm);support
+appuyer    (v);to lean, support
+après    (adv,prep);after
+après-midi    (nmi);afternoon
+apte    (adj(f));capable
+aptitude    (nf);ability, aptitude
+arabe    (nadj(f));Arabic, Arab
+arbitrage    (nm);refereeing, umpiring, arbitration
+arbitraire    (nadj(f));arbitrary
+arbitre    (nm,nf);referee, arbitrer, arbitrator
+arbre    (nm);tree
+architecte    (nm,nf);architect
+architecture    (nf);architecture
+archives    (nfpl);archives, records
+argent    (nm);money, silver
+argument    (nm);argument
+armé    (adj);armed
+arme    (nf);weapon
+armée    (nf);army
+armement    (nm);arms, weapons, armament
+armer    (v);to arm
+arracher    (v);to pull up, tear up
+arrangement    (nm);arrangement, layout, order agreement,
+arranger    (v);to arrange
+arrestation    (nf);arrest
+arrêt    (nm);stop
+arrêté    (nadj);decree, order
+arrêter    (v);to stop, arrest
+arrière    (adji,adv,nm);back, rear
+arrivant    (nm);arrival, comer
+arrivé    (adj);arrived
+arrivée    (nf);arrival
+arriver    (v);to arrive, happen
+art    (nm);art
+article    (nm);article
+articuler    (v);to articulate
+artificiel    (adj);artificial
+artisan    (nm);craftsman, self-employed, artisan
+artiste    (nadj(f));artist
+artistique    (adj(f));artistic
+asiatique    (nadj(f));Asian
+asile    (nm);shelter, asylum, hospital
+aspect    (nm);aspect
+aspiration    (nf);aspiration
+aspirer    (v);to breathe in, inhale, aspire to
+assassin    (nadj);murderer, assassin
+assassinat    (nm);murder, assassination
+assassiner    (v);to murder, assassinate
+assaut    (nm);assault, attack, bout
+assemblée    (nf);assembly, meeting
+asseoir    (v);to sit
+assez    (adv);enough, quite
+assiette    (nf);plate, dish, bowl
+assigner    (v);to assign, allocate, attach, attribute
+assimiler    (v);to assimilate, take in
+assise    (nf);basis, foundation
+assistance    (nf);attendance, assistance
+assistant    (nm);assistant
+assister    (v);to attend, assist, help
+association    (nf);association
+associer    (v);to associate
+assortir    (v);to match, accompany
+assumer    (v);to assume
+assurance    (nf);insurance, confidence
+assurément    (adv);most certainly, certainly, assuredly
+assurer    (v);to assure, insure
+atelier    (nm);workshop, studio
+athlète    (nm,nf);athlete
+atlantique    (nadj(f));Atlantic
+atmosphère    (nf);atmosphere
+atomique    (adj(f));atomic
+atout    (nm);trump, asset
+atroce    (adj(f));atrocious
+attachement    (nm);attachment, affection
+attacher    (v);to attach
+attaque    (nf);attack
+attaquer    (v);to attack
+attarder    (v);to linger
+atteindre    (v);to reach
+atteinte    (nf);reach, attack, blow
+attendre    (v);to wait
+attentat    (nm);attack, assassination attempt
+attente    (nf);wait
+attentif    (adj);attentive, scrupulous, careful
+attention    (nf);attention
+attentivement    (adv);attentively, carefully, closely
+atténuer    (v);to lessen, diminish, dim, subdue, reduce
+attester    (v);to attest, confirm
+attirer    (v);to attract
+attitude    (nf);attitude
+attraper    (v);to catch, get, pick up
+attribuer    (v);to award, grant, attribute
+attribution    (nf);awarding, allocation, assignment, attribution
+au-delà    (adv,nmi);beyond
+au-dessous    (adv);underneath
+au-dessus    (adv);above
+aube    (nf);dawn, daybreak
+aucun    (det,adj,pro);none, either, neither, not any
+aucunement    (adv);in no way, not in the least, not at all
+audacieux    (nadj(pl));daring, audacious, bold
+audience    (nf);audience, hearing
+audiovisuel    (nadj);audio-visual
+auditeur    (nm);auditor, listener
+audition    (nf);hearing, examination, audition
+augmentation    (nf);increase, rise
+augmenter    (v);to increase, raise
+aujourd'hui    (adv);today
+auparavant    (adv);beforehand
+auprès    (adv);nearby, close to
+aussi    (adv,conj);too, also, as
+aussitôt    (adv);straight away, immediately
+autant    (adv);as much, as many
+auteur    (nm,nf);author
+authentique    (adj(f));genuine, authentic
+auto    (nm,nf);car
+autobus    (nm(pl));bus
+autochtone    (nadj(f));native, indigenous peoples
+automatique    (adj(f));automatic
+automatiquement    (adv);automatically
+automne    (nm);fall, autumn
+automobile    (nadj(f));automobile
+autonome    (nadj(f));autonomous, independent
+autonomie    (nf);autonomy
+autorisation    (nf);authorization, permission, permit, authorisation
+autoriser    (v);to authorize
+autoritaire    (adj(f));authoritarian
+autorité    (nf);authority
+autoroute    (nf);motorway, highway, freeway
+autour    (adv,nm);around
+autre    (det,nadj(f),pro);other
+autrefois    (adv);in the past
+autrement    (adv);differently, something else, otherwise
+autrui    (pro);others
+aval    (nm);downstream, downhill
+avalanche    (nf);avalanche
+avaler    (v);to swallow
+avance    (nf);advance
+avancée    (nf);advanced, overhung
+avancer    (v);to advance, move forward
+avant    (adji,adv,nm,prep);before
+avantage    (nm);advantage
+avantageux    (nadj(pl));profitable, worthwhile, advantageous, attractive,
+avec    (prep);with
+avenir    (nm);future
+aventure    (nf);adventure
+avenue    (nf);avenue
+avérer    (v);to prove to be, turn out
+avertir    (v);to warn
+avertissement    (nm);warning
+aveu    (nm);confession
+aveugle    (nadj(f));blind
+aviation    (nf);aviation
+avion    (nm);plane
+avis    (nm(pl));opinion, mind
+aviser    (v);to notice, advise
+avocat    (nm);lawyer
+avoir    (nm,v);to have
+avouer    (v);to admit
+avril    (nm);April
+axe    (nm);axis, axle, main line
+axer    (v);to center
+bagage    (nm);luggage, baggage
+baie    (nf);bay, berry
+baigner    (v);to bathe, wash, get a bath, go for a swim
+bain    (nm);bath, bathing
+baiser    (nm,v);to kiss
+baisse    (nf);fall, drop
+baisser    (v);to lower, turn down, bend down
+balance    (nf);scales, balance
+balancer    (v);to swing, sway
+balayer    (v);to sweep up, sweep out
+balle    (nf);ball, bullet
+ballon    (nm);ball
+banal    (adj);banal, trite, commonplace, ordinary
+banc    (nm);bench, workbench, pew
+bancaire    (adj(f));banking
+bande    (nf);band, strip
+banlieue    (nf);suburbs, outskirts
+bannir    (v);to banish, ban
+banque    (nf);bank
+banquier    (nm);banker
+baptiser    (v);to name, christen, baptize
+bar    (nm);bar
+barbare    (nadj(f));barbaric, barbarian
+barrage    (nm);barrier, obstruction, dam, roadblock
+barre    (nf);bar, rod
+barreau    (nm);bar
+barrer    (v);to close, block, bar, cross
+barrière    (nf);fence, barrier, gate
+bas    (adv,nadj(pl),nm(pl));low, stockings
+basculer    (v);to topple, fall over, knock off
+base    (nf);base
+baser    (v);to base
+basque    (nadj(f));Basque
+bassin    (nm);bowl, basin
+bataille    (nf);battle
+bateau    (nm);boat, ship
+bâtiment    (nm);building
+bâtir    (v);to build
+bâton    (nm);tick, club, baton
+batterie    (nf);battery, drum set
+battre    (v);to beat, hit
+beau    (adj,nm);handsome, fine, right
+beaucoup    (adv);much, a lot of, many
+beauté    (nf);beauty
+bébé    (nadj(f));baby
+belge    (nadj(f));Belgian
+ben    (adv);well
+bénéfice    (nm);benefit, profit
+bénéficiaire    (nadj(f));beneficiary
+bénéficier    (nm,v);to benefit
+bénéfique    (adj(f));beneficial
+bénévole    (nadj(f));volunteer, voluntary, unpaid
+besoin    (nm);need
+bétail    (nm);livestock, cattle
+bête    (nadj(f));animal, beast, stupid
+béton    (nm);concrete
+beurre    (nm);butter
+biais    (nm(pl));way, device, bias
+bibliothèque    (nf);library
+bien    (adji,adv,nm);well
+bien-être    (nmi);well being
+bientôt    (adv);soon
+bienvenu    (nadj);welcome
+bière    (nf);beer, coffin
+bijou    (nm);jewel
+bilan    (nm);balance sheet, outcome
+bilatéral    (adj);bilateral
+billet    (nm);ticket
+biologique    (adj(f));biological, nature
+bizarre    (nadj(f));strange, odd, bizarre
+blague    (nf);joke
+blâmer    (v);to blame, reprimand
+blanc    (adj,nm);white
+blé    (nm);wheat
+blessé    (nadj);injured
+blesser    (v);to hurt
+blessure    (nf);injury, wound
+bleu    (adj,nm);blue
+blindé    (adj);armored
+bloc    (nm);block
+blocage    (nm);block
+blond    (nadj);blond, fair-haired
+bloquer    (v);to block
+bœuf    (nm);ox, steer, beef
+boire    (nm,v);to drink
+bois    (nm(pl));wood
+boisson    (nf);drink, beverage
+boîte    (nf);box
+bombardement    (nm);bombing, shelling
+bombarder    (v);to bomb
+bombe    (nf);bomb
+bon    (adj,adv,intj,nm);good
+bond    (nm);leap, rebound
+bonheur    (nm);happiness
+bonjour    (nm);hello
+bonsoir    (nm);good evening
+bord    (nm);edge, side
+bordel    (nm);brothel, mess, chaos
+borne    (nf);milestone, boundary stone
+borner    (v);to limit, confine
+bosniaque    (nadj(f));Bosnian
+bosser    (v);to work, bash on
+bouche    (nf);mouth
+boucher    (nm,v);butcher, to fill in, get clogged up
+boucle    (nf);loop, buckle, curl
+boucler    (v);to fasten, loop, resolve
+boue    (nf);mud
+bouger    (v);to move, shift, budge
+boule    (nf);ball
+boulevard    (nm);boulevard
+bouleversement    (nm);upheaval
+bouleverser    (v);to upset, distress, disturb, turn upside down
+boulot    (adj,nm);work, job
+bourgeois    (nadj(pl));middle class, bourgeois
+bourse    (nf);purse, scholarship
+boursier    (nadj);grant-holder, scholarship holder, stock
+bousculer    (v);to knock over, knock over, knock into
+bout    (nm);bit, tip, end
+bouteille    (nf);bottle
+boutique    (nf);shop
+bouton    (nm);button, knob, spot
+branche    (nf);branch
+brancher    (v);to plug in, connect
+brandir    (v);to brandish, wield, wave
+bras    (nm(pl));arm
+bravo    (intj,nm);bravo, well done
+brèche    (nf);breach, gap
+bref    (adj,adv,nm);brief
+brièvement    (adv);briefly
+brigade    (nf);team, squad, brigade
+brillant    (adj,nm);brilliant
+briller    (v);to shine
+briser    (v);to break
+britannique    (nadj(f));British
+brouillard    (nm);fog, mist, haze
+brouiller    (v);to mix-up, confuse, scramble
+bruit    (nm);noise
+brûler    (v);to burn
+brusquement    (adv);abruptly, suddenly
+brut    (adv,nadj);raw, crude
+brutal    (nadj);brutal
+brutalement    (adv);brutally
+budget    (nm);budget
+budgétaire    (adj(f));budgetary
+bulle    (nf);bubble
+bulletin    (nm);bulletin, report
+bureau    (nm);office, desk
+bus    (nm(pl));bus
+but    (nm);goal, aim, objective, purpose
+buter    (v);to stumble, trip, run into, prop up, score
+c'est-à-dire    (adv);in other words
+cabine    (nf);hut, cubicle, booth, box, room
+cabinet    (nm);cabinet, agency, office
+câble    (nm);cable, wire
+cacher    (v);to hide
+cadavre    (nm);corpse, cadaver
+cadeau    (nm);present, gift
+cadre    (nm);frame, executive
+café    (nm);coffee, café
+cage    (nf);cage
+cahier    (nm);notebook
+caisse    (nf);till, cash desk
+calcul    (nm);calculation
+calculer    (v);to calculate
+calendrier    (nm);calendar
+calme    (nadj(f));calm
+calmer    (v);to calm down
+camarade    (nm,nf);friend, comrade, pal, mate
+caméra    (nf);camera
+camion    (nm);truck
+camoufler    (v);to cover up, conceal, camouflage
+camp    (nm);camp
+campagne    (nf);countryside
+canadien    (nadj);Canadian
+canal    (nm);canal, channel
+cancer    (nm);cancer
+candidat    (nm);candidate
+candidature    (nf);application, candidacy, candidature
+canon    (nm);gun, cannon
+cap    (nm);cape
+capable    (adj(f));able, capable
+capacité    (nf);capacity, ability
+capitaine    (nm);captain
+capital    (nadj);major, chief, principal, capital, assets
+capitale    (nf);capital
+capitalisme    (nm);capitalism
+capter    (v);to pick up, capture, tap
+capturer    (v);to capture, catch
+car    (conj,nm);because
+caractère    (nm);nature, character
+caractériser    (v);to characterize
+caractéristique    (nadj(f));characteristic
+carburant    (nadj);fuel
+caresser    (v);to fondle, caress
+carnet    (nm);notebook, notepad
+carré    (nadj);square, broad, plain
+carrément    (adv);completely, directly, straight out, squarely
+carrière    (nf);career
+carte    (nf);card
+carton    (nm);cardboard, card, score, carton
+cas    (nm(pl));case
+case    (nf);box, hut, field
+casque    (nm);helmet
+casser    (v);to break
+cassette    (nf);cassette
+catastrophe    (nf);catastrophe, disaster
+catastrophique    (adj(f));catastrophic, disastrous
+catégorie    (nf);category
+catholique    (nadj(f));catholic
+cauchemar    (nm);nightmare, bad dream
+cause    (nf);cause
+causer    (v);to cause, to chat
+caution    (nf);deposit, guarantee, bail
+cave    (adj(f),nm,nf);cellar, basement
+ce    (det,pro);this, that
+ceci    (pro);this
+céder    (v);to give up, give way
+ceinture    (nf);belt, waist
+cela    (pro);that, it
+célèbre    (adj(f));famous
+célébrer    (v);to celebrate
+célibataire    (nadj(f));single, unmarried, celibate
+cellule    (nf);cell
+celui    (pro);that, the one, he, him
+censé    (adj);supposed
+censure    (nf);censorship
+cent    (det,nm);one hundred, cent
+centaine    (nf);hundred
+central    (nadj);central
+centrale    (nf);power station, central office
+centre    (nm);center
+centrer    (v);to center
+cependant    (adv,conj);however
+cercle    (nm);circle, cycle
+céréale    (nf);cereal
+cérémonie    (nf);ceremony
+cerner    (v);to surround, encircle, delimit
+certain    (adj,det,nm,pro);certain, sure
+certainement    (adv);certainly
+certes    (adv);indeed, certainly, of course
+certificat    (nm);certificate
+certitude    (nf);certainty
+cerveau    (nm);brain
+cesser    (v);to cease, stop
+cessez-le-feu    (nmi);ceasefire
+chacun    (pro);each
+chagrin    (adj,nm);grief, sorrow
+chaîne    (nf);chain, channel
+chair    (nf);flesh
+chaise    (nf);chair
+chaleur    (nf);heat
+chaleureux    (adj(pl));warm
+chambre    (nf);bedroom, chamber
+champ    (nm);field, realm
+champion    (nadj);champion
+championnat    (nm);championship
+chance    (nf);luck, chance
+chancelier    (nm);chancellor
+change    (nm);exchange
+changement    (nm);change
+changer    (v);to change
+chanson    (nf);song
+chant    (nm);song
+chanter    (v);to sing
+chanteur    (nadj);singer
+chantier    (nm);construction site, roadworks
+chaos    (nm(pl));chaos
+chapeau    (nm);hat
+chapitre    (nm);chapter
+chaque    (det,adj);each
+char    (nm);tank
+charbon    (nm);coal
+charge    (nf);to charge, load
+charger    (v);to load, charge
+charité    (nf);charity
+charmant    (adj);charming
+charme    (nm);charm
+charte    (nf);charter
+chasse    (nf);chase, hunt, hunting
+chasser    (v);to hunt, chase away
+chasseur    (nm);hunter, fighter, page, messenger
+chat    (nm);cat, chat
+château    (nm);castle
+chaud    (adv,nadj);warm, hot
+chauffeur    (nm);driver, chauffeur
+chaussure    (nf);shoe, sneakers
+chef    (nm);head, leader, chief
+chemin    (nm);path, way
+chemise    (nf);shirt, folder
+chèque    (nm);check
+cher    (adj,adv);expensive
+chercher    (v);to look for
+chercheur    (nadj);researcher
+chéri    (nadj);darling, love, dear
+cheval    (nm);horse
+cheveu    (nm);hair
+chez    (prep);at, with
+chien    (nm);dog
+chier    (v);to shit, piss off, get pissed off
+chiffre    (nm);figure, number
+chiffrer    (v);to put a figure to, assess, quantify, number
+chiite    (nadj(f));Shiite
+chimie    (nf);chemistry
+chimique    (adj(f));chemical
+chinois    (nadj(pl));Chinese
+chirurgien    (nm);surgeon
+choc    (nm);shock, clash
+chocolat    (adji,nm);chocolate
+choisir    (v);to choose
+choix    (nm(pl));choice
+chômage    (nm);unemployment
+chômeur    (nm);unemployed person
+choquer    (v);to shock, offend, shake, disturb
+chose    (adj(f),nf);thing
+chrétien    (nadj);christian
+chronique    (nadj(f));chronic, column, page, chronicle
+chute    (nf);fall
+chuter    (v);to fall
+ci    (adv,pro);this one, here
+cible    (nf);target
+cibler    (v);to target
+ciel    (nm);sky
+cigarette    (nf);cigarette
+cimetière    (nm);cemetary, graveyard
+cinéma    (nm);cinema
+cinq    (det,nm(pl));five
+cinquantaine    (nf);about fifty
+cinquante    (det,nmi);fifty
+cinquième    (det,nm,nf);fifth
+circonscription    (nf);district, constituency
+circonstance    (nf);circumstance
+circuit    (nm);circuit
+circulation    (nf);circulation, traffic
+circuler    (v);to drive, circulate
+cirque    (nm);circus, cirque
+citation    (nf);quote, quotation, citation
+cité    (nf);city
+citer    (v);to quote
+citoyen    (nadj);citizen
+citoyenneté    (nf);citizenship
+civil    (nadj);civil, civilian
+civilisation    (nf);civilization, civilisation
+civiliser    (v);to civilize
+civique    (adj(f));civil, civics
+clair    (adv,nadj);clear
+clairement    (adv);clearly
+clan    (nm);clan
+clandestin    (nadj);underground, clandestine
+claquer    (v);to flap, bang, slam, snap
+clarifier    (v);to clarify
+clarté    (nf);lightness, brightness clearness, clarity
+classe    (nf);class
+classement    (nm);classification, ranking
+classer    (v);to classify, file, grade, rate
+classique    (nadj(f));classic
+clause    (nf);clause
+clé    (nf);key
+clef    (nf);key
+cliché    (nm);cliché, negative
+client    (nm);client
+clientèle    (nf);customers, clientele
+climat    (nm);climate
+climatique    (adj(f));climatic
+clinique    (nadj(f));clinic
+cloche    (nf);bell
+clore    (v);to close
+clôture    (nf);enclosure, termination, closure
+club    (nm);club
+coalition    (nf);coalition
+cochon    (nadj);pig
+cocktail    (nm);cocktail, cocktail party
+code    (nm);code
+coder    (v);to code, encode
+cœur    (nm);heart
+coffre    (nm);trunk, boot, chest
+cohérence    (nf);coherence, consistency
+cohérent    (adj);coherent
+cohésion    (nf);cohesion
+coin    (nm);corner
+coincer    (v);to jam, hinder, get stuck
+coïncidence    (nf);coincidence
+coïncider    (v);to coincide, correspond
+col    (nm);collar, mountain pass
+colère    (nf);anger
+collaborateur    (nm);associate, fellow worker, contributor, collaborator
+collaboration    (nf);collaboration
+collaborer    (v);to collaborate, contribute
+collectif    (nadj);collective
+collection    (nf);collection, series
+collectivité    (nf);community, group
+collège    (nm);secondary school, college
+collègue    (nm,nf);colleague
+coller    (v);to stick, paste
+colline    (nf);hill
+colonel    (nm);colonel
+colonial    (nadj);colonial
+colonie    (nf);colony
+colonne    (nf);column
+combat    (nm);fight, combat
+combattant    (adj,nm);fighter
+combattre    (v);to fight
+combien    (adv,conj);how much, how many
+combinaison    (nf);combination
+combiner    (v);to combine, devise
+comble    (nadj(f));despair, summit, overmeasure, roof
+combler    (v);to fill, fill in, fulfil
+combustible    (nadj(f));fuel, combustible
+comédie    (nf);comedy, playacting
+comédien    (nadj);comedian, comedy
+comique    (nadj(f));comical, comic, comedian
+comité    (nm);committee
+commandant    (nadj);commander
+commande    (nf);order, control
+commandement    (nm);command, order, commandment
+commander    (v);to order, command
+comme    (adv,conj);like, as
+commencement    (nm);beginning, start
+commencer    (v);to begin, start
+comment    (adv,conj,intj,nmi);how
+commentaire    (nm);comment, remark
+commenter    (v);to comment
+commerçant    (nadj);shopkeeper, merchant, commercial
+commerce    (nm);trade, commerce
+commercial    (nadj);commercial
+commettre    (v);to commit
+commissaire    (nm,nf);superintendent, commissioner
+commissariat    (nm);police station
+commission    (nf);commission
+commun    (nadj);common
+communautaire    (adj(f));community, communal
+communauté    (nf);community
+commune    (nf);locality, common, joint
+communication    (nf);communication
+communiqué    (nm);communiqué, release, statement
+communiquer    (v);to communicate
+communisme    (nm);communism
+communiste    (nadj(f));communist
+compagnie    (nf);company
+compagnon    (nm);companion, craftsman, journeyman
+comparable    (adj(f));comparable
+comparaison    (nf);comparison
+comparaître    (v);to appear
+comparer    (v);to compare
+compassion    (nf);compassion
+compatriote    (nm,nf);compatriot
+compensation    (nf);compensation, clearing
+compenser    (v);to compensate for, make up for
+compétence    (nf);competence
+compétent    (adj);competent
+compétitif    (adj);competitive
+compétition    (nf);competition
+compétitivité    (nf);competitiveness
+complément    (nm);complement
+complémentaire    (adj(f));complementary, supplementary
+complet    (adj,nm);full, complete
+complètement    (adv,nm);completely
+compléter    (v);to complete
+complexe    (nadj(f));complex
+complexité    (nf);complexity
+complice    (nadj(f));accomplice
+complicité    (nf);complicity
+compliment    (nm);compliment
+compliqué    (nadj);complicated, complex
+compliquer    (v);to complicate
+complot    (nm);plot, conspiracy
+comportement    (nm);behavior, behaviour
+comporter    (v);to comprise, include, to behave
+composant    (nadj);component, constituent
+composante    (nf);component
+composer    (v);to compose, dial
+composition    (nf);composition, essay, dialling
+compréhensible    (adj(f));comprehensible, understandable
+compréhension    (nf);understanding, comprehension
+comprendre    (v);to understand
+compression    (nf);compression, cutback, reduction
+compromettre    (v);to compromise
+compromis    (nm(pl));compromise, agreement
+comptabilité    (nf);accountancy, accounting, book-keeping
+comptable    (nadj(f));accountant, accountable
+compte    (nm);account, count
+compter    (v);to count
+comte    (nm);count
+comté    (nm);county, earldom
+con    (nadj);stupid
+concéder    (v);to grant, concede
+concentration    (nf);concentration
+concentrer    (v);to concentrate
+concept    (nm);concept
+conception    (nf);conception
+concerner    (v);to concern
+concert    (nm);concert
+concertation    (nf);meeting, consultation
+concerter    (v);to devise, consult
+concession    (nf);concession
+concevoir    (v);to conceive
+concilier    (v);to reconcile
+concitoyen    (nm);fellow citizen
+conclure    (v);to conclude
+conclusion    (nf);conclusion
+concours    (nm(pl));entrance exam, competition
+concret    (nadj);concrete
+concrètement    (adv);in concrete terms
+concrétiser    (v);to materialize, materialise
+concurrence    (nf);competition
+concurrent    (nadj);competitor, rival
+concurrentiel    (adj);competitive
+condamnation    (nf);condemnation
+condamner    (v);to condemn
+condition    (nf);condition
+conditionnel    (nadj);conditional
+conducteur    (nadj);driver, operator, conductor
+conduire    (v);to lead, drive
+conduite    (nf);behavior, driving, behaviour
+confédération    (nf);confederation
+conférence    (nf);conference
+conférer    (v);to confer
+confession    (nf);confession
+confiance    (nf);confidence, trust
+confiant    (adj);trusting, confident
+confidentiel    (adj);confidential
+confier    (v);to entrust
+configuration    (nf);configuration, layout
+confiner    (v);to confine
+confirmation    (nf);confirmation
+confirmer    (v);to confirm
+conflit    (nm);conflict
+confondre    (v);to mix up, confuse
+conforme    (adj(f));conform
+conformément    (adv);in accordance
+conformer    (v);to model, conform
+conformité    (nf);conformity
+confort    (nm);comfort
+confortable    (adj(f));comfortable
+confrère    (nm);colleague
+confrontation    (nf);confrontation
+confronter    (v);to confront
+confus    (adj(pl));confused, embarrassed
+confusion    (nf);confusion, mix-up
+congé    (nm);holiday, time off, day off, notice
+congrès    (nm(pl));congress, conference
+conjoint    (nadj);spouse, joint
+conjointement    (adv);jointly
+conjoncture    (nf);situation, climate
+conjugal    (adj);conjugal, married
+connaissance    (nf);knowledge
+connaître    (v);to know
+connecter    (v);to connect, go on-line
+connerie    (nf);crap, bullshit, stupidity
+connexion    (nf);connection
+conquérir    (v);to conquer
+conquête    (nf);conquest
+consacrer    (v);to devote, consecrate
+conscience    (nf);conscience, consciousness
+conscient    (adj);conscious, aware
+consécutif    (adj);consecutive
+conseil    (nm);advice, counsel, council
+conseiller    (nm,v);adviser, to advise
+consensus    (nm(pl));consensus
+consentement    (nm);consent
+consentir    (v);to consent, agree
+conséquence    (nf);consequence
+conséquent    (nadj);logical, rational, consistent
+conservateur    (nadj);conservative
+conservation    (nf);preservation, preserving, retention
+conserver    (v);to keep, preserve
+considérable    (adj(f));considerable, significant
+considérablement    (adv);considerably, significantly, extensively
+considération    (nf);consideration
+considérer    (v);to consider
+consigne    (nf);deposit, orders, detention
+consister    (v);to consist
+consolider    (v);to strengthen, reinforce
+consommateur    (nm);consumer, customer
+consommation    (nf);consumption
+consommer    (v);to eat, consume, drink, use, consummate
+constamment    (adv);constantly, continuously, consistent
+constant    (adj);constant
+constat    (nm);report, statement
+constater    (v);to note, notice, to establish, certify
+constituer    (v);to constitute
+constitution    (nf);constitution
+constitutionnel    (nadj);constitutional
+constructeur    (nadj);builder, manufacturer
+constructif    (adj);constructive
+construction    (nf);construction, building
+construire    (v);to build, construct
+consultatif    (adj);advisory
+consultation    (nf);consultation
+consulter    (v);to consult
+contact    (nm);contact
+contacter    (v);to contact, get in touch with
+contaminer    (v);to contaminate, infect
+conte    (nm);tale
+contemporain    (nadj);contemporary
+contenir    (v);to contain
+content    (adj);glad, pleased, happy
+contenter    (v);to satisfy, please
+contenu    (nadj);contents
+contestation    (nf);questioning, protest
+contester    (v);to contest, question
+contexte    (nm);context
+continent    (adj,nm);continent
+continental    (adj);continental
+contingent    (nadj);contingent, draft, quota
+continu    (nadj);continuous
+continuellement    (adv);continually, continuously
+continuer    (v);to continue
+continuité    (nf);continuity, continuation
+contourner    (v);to bypass, go round
+contracter    (v);to contract, take out, tense
+contradiction    (nf);contradiction
+contradictoire    (adj(f));contradictory, conflicting
+contraindre    (v);to compel, force
+contrainte    (nf);constraint
+contraire    (nadj(f));opposite, contrary
+contrairement    (adv);contrary
+contrarier    (v);to annoy, bother, thwart
+contrat    (nm);contract
+contre    (adv,nm,prep);against
+contredire    (v);to contradict
+contrepartie    (nf);counterpart, opposite, alternative
+contrer    (v);to counter
+contrevenant    (nadj);offender, offending
+contribuable    (nm,nf);taxpayer
+contribuer    (v);to contribute
+contribution    (nf);contribution
+contrôle    (nm);control
+contrôler    (v);to control, check, inspect, monitor
+contrôleur    (nm);inspector, controller
+controversé    (adj);much debated, controversial
+controverse    (nf);controversy
+convaincant    (adj);convincing
+convaincre    (v);to convince
+convenable    (adj(f));suitable, appropriate, correct, proper, acceptable
+convenir    (v);to agree, be suitable
+convention    (nf);agreement, convention
+conventionnel    (nadj);conventional
+conversation    (nf);conversation
+conversion    (nf);conversion
+convertir    (v);to convert
+conviction    (nf);conviction, belief
+convoi    (nm);convoy, train
+convoquer    (v);to call, summon
+coopération    (nf);cooperation
+coopérer    (v);to cooperate
+coordination    (nf);coordination
+coordonner    (v);to coordinate
+copain    (nm);friend, buddy, mate
+copie    (nf);copy, replica, paper
+copier    (v);to copy, reproduce
+corde    (nf);rope, cord, string
+cordon    (nm);cord, string, lead
+corps    (nm(pl));body
+correct    (adj);correct
+correctement    (adv);properly
+correction    (nf);correction
+correspondance    (nf);correspondance, connection
+correspondant    (nadj);correspondent
+correspondre    (v);to correspond
+corriger    (v);to correct
+corrompre    (v);to corrupt, bribe
+corruption    (nf);corruption
+costume    (nm);suit, costume, dress
+côte    (nf);coast
+cote    (nf);rating, share index, quoted value
+côté    (nm);side
+coter    (v);to quote, rate
+cotisation    (nf);subscription
+coton    (nm);cotton
+cou    (nm);neck
+couche    (nf);layer, coat, bed
+coucher    (nm,v);lie down, sleep
+coude    (nm);elbow
+couler    (v);to flow, run, sink
+couleur    (nf);color, colour
+coulisse    (nf);backstage, wings, behind the scenes
+couloir    (nm);corridor, aisle
+coup    (nm);coup, blow, knock, stroke
+coupable    (nadj(f));guilty
+coupe    (nf);bowl, dish, cut
+couper    (v);to cut
+couple    (nm,nf);couple
+coupure    (nf);cut, cutting
+cour    (nf);yard, court
+courage    (nm);courage
+courageux    (nadj(pl));courageous
+couramment    (adv);fluently, commonly
+courant    (adj,nm);current
+courbe    (nadj(f));curve, curved
+courir    (v);to run
+couronne    (nf);crown, wreath
+couronner    (v);to crown, award
+courrier    (nm);mail, post
+cours    (nfpl,nm(pl));course
+course    (nf);race, shopping
+court    (adj,adv,nm);short
+cousin    (nm);cousin
+coût    (nm);cost
+couteau    (nm);knife
+coûter    (v);to cost
+coûteux    (adj(pl));expensive, costly
+coutume    (nf);custom
+couvert    (nadj);covered, overcast, place, seat, cutlery
+couverture    (nf);blanket
+couvrir    (v);to cover
+craindre    (v);to fear, be afraid of
+crainte    (nf);fear
+crâne    (adj(f),nm);skull
+craquer    (v);to creak, squeak, crackle, give in, strike
+créateur    (nadj);creator
+création    (nf);creation
+créature    (nf);creature
+crédibilité    (nf);credibility
+crédible    (adj(f));credible
+crédit    (nm);credit
+créer    (v);to create
+crème    (adji,nf);cream
+crête    (nf);crest, top, ridge
+creuser    (v);to dig
+creux    (nadj(pl));hollow, empty, hole
+crever    (v);to burst, puncture
+cri    (nm);shout, cry
+crier    (v);to shout, scream, cry out
+crime    (nm);crime
+criminalité    (nf);crime
+criminel    (nadj);criminal
+crise    (nf);crisis
+critère    (nm);criterion, criteria
+critique    (nadj(f));criticism, critic, critical
+critiquer    (v);to criticize, criticise
+croire    (v);to believe
+croisé    (nadj);twill, alternate, crusader, crossed
+croiser    (v);to cross
+croisière    (nf);cruise
+croissance    (nf);growth
+croissant    (nadj);growing, crescent, crescent-shape
+croître    (v);to grow, increase
+croix    (nf(pl));cross
+croyance    (nf);belief
+croyant    (nadj);believer
+cruauté    (nf);cruelty
+crucial    (adj);crucial, critical
+cruel    (adj);cruel, ferocious, bitter
+cuire    (v);to cook, bake, roast
+cuisine    (nf);cooking, kitchen
+cul    (nm);bum, arse, ass
+culpabilité    (nf);guilt
+culte    (nm);worship, cult
+cultiver    (v);to cultivate, grow
+culture    (nf);culture
+culturel    (adj);cultural
+curé    (nm);parish priest
+curieux    (nadj(pl));curious
+curiosité    (nf);curiosity
+cycle    (nm);cycle
+cynique    (nadj(f));cynical, cynic
+d'abord    (adv);first of all
+d'accord    (intj);okay, alright, ok
+d'ailleurs    (adv);moreover, besides, for that matter
+d'après    (x);according to
+d'autant    (x);since
+dame    (intj,nf);lady
+danger    (nm);danger
+dangereux    (adj(pl));dangerous
+danois    (nadj(pl));Danish, Dane
+dans    (prep);in, into, from
+danse    (nf);dance, dancing
+danser    (v);to dance
+danseur    (nm);dancer
+date    (nf);date
+dater    (v);to date
+davantage    (adv);more
+de    (det,prep);of, from, some, any
+débarquer    (v);to unload, land, disembark
+débarrasser    (v);to clear, get rid of
+débat    (nm);debate
+débattre    (v);to discuss, debate
+débit    (nm);debit, turnover, delivery, rate
+débloquer    (v);to free, unfreeze, unjam, release, unblock
+déborder    (v);to overflow, boil over, go out, go over
+débouché    (nm);prospect, opportunity, opening
+déboucher    (v);to unblock, uncork
+debout    (adv);standing
+débrouiller    (v);to untangle, sort out, manage, get by
+début    (nm);beginning, debut
+débuter    (v);to start, begin
+décéder    (v);to die, pass away, pass on
+déceler    (v);to discover, detect
+décembre    (nm);December
+décennie    (nf);decade
+décent    (adj);decent, proper
+déception    (nf);disappointment, let-down
+décerner    (v);to award, give, issue
+décès    (nm(pl));death
+décevant    (adj);disappointing
+décevoir    (v);to disappoint
+décharger    (v);to unload
+déchet    (nm);scrap, waste, trash, garbage
+déchirer    (v);to tear up, tear, rip
+décider    (v);to decide
+décisif    (adj);decisive
+décision    (nf);decision
+déclaration    (nf);declaration
+déclarer    (v);to declare
+déclencher    (v);to trigger, release, unleash
+déclin    (nm);decline, deterioration
+décliner    (v);to decline, refuse, turn down
+décoller    (v);to take off, to loosen, unstick
+décor    (nm);scenery, décor, set
+découler    (v);to ensue, follow
+découper    (v);to carve, cut
+décourager    (v);to discourage, dishearten, lose heart
+découverte    (nf);discovery
+découvrir    (v);to discover
+décret    (nm);decree
+décréter    (v);to declare, decree
+décrire    (v);to describe
+décrocher    (v);to take down, take off, pick up, lift
+dedans    (adv,nm(pl),prep);inside, indoors
+dédier    (v);to dedicate
+déduire    (v);to deduct, deduce, infer, figure out
+défaillance    (nf);fault, failure, breakdown, blackout, weakness
+défaire    (v);to undo, dismantle, strip, break up
+défaite    (nf);defeat
+défaut    (nm);fault, flaw, shortcoming
+défavorable    (adj(f));unfavorable
+défavoriser    (v);to put at a disadvantage
+défendre    (v);to defend, forbid
+défense    (nf);defence
+défenseur    (nm,nf);defender
+défi    (nm);challenge
+déficit    (nm);deficit
+défier    (v);to challenge, defy, distrust
+défiler    (v);to unthread, parade
+défini    (nadj);definite
+définir    (v);to define
+définitif    (nadj);definitive, final
+définition    (nf);definition
+définitivement    (adv);definitely, permanently, for good
+déformer    (v);to bend, distort, deform
+dégager    (v);to free, clear
+dégât    (nm);damage
+dégradation    (nf);degrading, damaging, erosion, demotion
+dégrader    (v);to degrade, debase, damage, erode
+degré    (nm);degree
+déguiser    (v);to disguise
+dehors    (adv,nm(pl),prep);outside
+déjà    (adv);already
+déjeuner    (nm,v);lunch, to have lunch
+delà    (adv);beyond, above, over
+délai    (nm);delay
+délégation    (nf);delegation
+délégué    (nadj);delegate
+déléguer    (v);to delegate
+délibération    (nf);deliberation, debate, consideration
+délibérément    (adv);deliberately
+délibérer    (v);to deliberate, debate
+délicat    (nadj);delicate, fine, gentle
+délinquant    (nadj);delinquent, offender
+délit    (nm);crime, offence
+délivrer    (v);to set free, rid, relieve
+demain    (adv,nm);tomorrow
+demande    (nf);request, demand
+demander    (v);to ask for
+demandeur    (nm);seeker, complainant
+démarche    (nf);walk, process
+démarrage    (nm);start, moving off
+démarrer    (v);to start up
+déménager    (v);to move
+démentir    (v);to deny, refute, contradict
+demeure    (nf);residence, home
+demeurer    (v);to remain, live
+demi    (adji,adv,nm);half
+demi-heure    (nf);half an hour
+démission    (nf);resignation
+démissionner    (v);to resign
+démocrate    (nadj(f));democrat, democratic
+démocratie    (nf);democracy
+démocratique    (adj(f));democratic
+démographique    (adj(f));demographic
+démon    (nm);demon, fiend
+démonstration    (nf);demonstration
+démontrer    (v);to demonstrate
+dénoncer    (v);to denounce
+dénonciation    (nf);denunciation
+dent    (nf);tooth
+départ    (nm);departure
+département    (nm);department
+dépasser    (v);to pass, go beyond
+dépêcher    (v);to dispatch, send, hurry
+dépendance    (nf);dependence, dependency
+dépendant    (adj);answerable, responsible, dependent
+dépendre    (v);to depend
+dépens    (nmpl);expense
+dépense    (nf);expense, expenditure
+dépenser    (v);to spend
+dépit    (nm);spite, heartache
+déplacement    (nm);movement, displacement, trip, travel
+déplacer    (v);to move, displace
+déplaire    (v);to displease, be unhappy
+déploiement    (nm);deployment, spreading, unfurling, display
+déplorer    (v);to deplore
+déployer    (v);to deploy, open
+déposer    (v);to deposit, put down
+dépôt    (nm);deposit, depot
+dépouiller    (v);to skin, strip away, deprive, to analyze, analyse
+dépression    (nf);depression
+depuis    (adv,prep);since, for
+député    (nm);deputy, parlementary delegate
+déranger    (v);to disturb, bother
+dérive    (nf);drift
+dériver    (v);to divert, derive
+dernier    (nadj);last
+dérober    (v);to steal, hide
+déroulement    (nm);development, progress
+dérouler    (v);to unwind, enroll
+derrière    (adv,nm,prep);last, behind
+dès    (prep);from, as soon
+désaccord    (nm);disagreement, discord, conflict
+désarmement    (nm);disarmament, disarming
+désastre    (nm);disaster
+désastreux    (adj(pl));disastrous
+descendant    (nadj);downward, descending, descendant
+descendre    (v);to go down, come down, descend
+descente    (nf);descent, raid, downward slope
+description    (nf);description
+déséquilibre    (nm);imbalance
+désert    (adj,nm);desert, wilderness
+désespéré    (nadj);desperate, hopeless
+désespérer    (v);to despair
+désespoir    (nm);despair
+désignation    (nf);designation
+désigner    (v);to designate
+désir    (nm);desire
+désirer    (v);to desire
+désireux    (adj(pl));avid for, anxious to, desirous of
+désoler    (v);to upset, sadden
+désordre    (nm);disorder, confusion
+désormais    (adv);from now on, henceforth
+desservir    (v);to clear, go against, harm, serve
+dessin    (nm);drawing, pattern, design
+dessiner    (v);to draw, design
+dessous    (adv,nm(pl),prep);underneath, below, bottom, underside
+dessus    (adv,nm(pl),prep);above, on top
+destin    (nm);fate, destiny
+destination    (nf);destination
+destinée    (nf);fate, destiny
+destiner    (v);to intend, be used
+destruction    (nf);destruction
+détachement    (nm);detachment
+détacher    (v);to untie, detach, remove
+détail    (nm);detail
+détailler    (v);to detail
+détecter    (v);to detect
+détendre    (v);to release, slacken, loosen, relax
+détenir    (v);to hold, detain
+détente    (nf);release, relaxation, détente, loosening
+détenteur    (nadj);holder, possessor, bearer
+détention    (nf);detention, possession
+détenu    (nadj);prisoner
+détérioration    (nf);deterioration
+détériorer    (v);to deteriorate
+déterminant    (nadj);determining, deciding, crucial, determinant
+détermination    (nf);determination, resolution
+déterminé    (nadj);determined, resolute, specific
+déterminer    (v);to determine, find out, specify
+détester    (v);to hate, detest
+détour    (nm);bend, curve, detour
+détourner    (v);to redirect, divert
+détresse    (nf);distress
+détriment    (nm);detriment
+détruire    (v);to destroy
+dette    (nf);debt
+deuil    (nm);mourning, grief
+deux    (det,nmi);two
+deuxième    (det,nm,nf);second
+deuxièmement    (adv);secondly
+devant    (adv,nm,prep);in front, ahead
+développement    (nm);development
+développer    (v);to develop
+devenir    (nm,v);to become
+deviner    (v);to guess, solve
+devise    (nf);currency, motto, slogan
+dévoiler    (v);to unveil, reveal, disclose
+devoir    (nm,v);to have to, owe, duty
+dévouer    (v);to devote, sacrifice oneself
+diable    (intj,nm);devil
+diagnostic    (nm);diagnosis
+dialogue    (nm);dialogue
+diamant    (nm);diamond
+dictateur    (nm);dictator
+dictature    (nf);dictatorship
+dicter    (v);to dictate, lay down
+dictionnaire    (nm);dictionary
+dieu    (intj,nm);god
+différemment    (adv);differently
+différence    (nf);difference
+différencier    (v);to differentiate
+différend    (nm);disagreement, controversy
+différent    (adj);different
+différer    (v);to differ, vary
+difficile    (nadj(f));difficult
+difficilement    (adv);with difficulty
+difficulté    (nf);difficulty
+diffuser    (v);to diffuse, broadcast
+diffusion    (nf);diffusion, spreading, circulation
+digne    (adj(f));dignified, worthy
+dignité    (nf);dignity
+dilemme    (nm);dilemma
+dimanche    (nm);Sunday
+dimension    (nf);dimension
+diminuer    (v);to diminish, decrease
+diminution    (nf);reduction, decreasing
+dîner    (nm,v);dinner, to dine
+diplomate    (nadj(f),nm);diplomat, diplomatic
+diplomatie    (nf);diplomacy
+diplomatique    (nadj(f));diplomatic
+diplôme    (nm);diploma, certificate
+dire    (nm,v);to say
+direct    (nadj);direct
+directement    (adv);directly
+directeur    (nadj);director
+direction    (nf);direction, management
+directive    (nf);guideline
+dirigeant    (nadj);leader
+diriger    (v);to lead, direct
+discipline    (nf);discipline
+discours    (nm(pl));speech, talk, discourse
+discret    (adj);discreet, tactful, quiet
+discrétion    (nf);discretion
+discrimination    (nf);discrimination
+discussion    (nf);discussion
+discuter    (v);to discuss, debate, to question
+disparaître    (v);to disappear, vanish
+disparition    (nf);disappearance
+dispenser    (v);to exempt, avoid
+disperser    (v);to scatter, spread, disperse
+disponibilité    (nf);availability
+disponible    (adj(f));available
+disposer    (v);to arrange, set
+dispositif    (nm);device, apparatus
+disposition    (nf);arrangement, disposition
+disputer    (v);to dispute
+disque    (nm);disc
+dissimuler    (v);to conceal, hide
+dissiper    (v);to dispel, disperse, clear away
+dissoudre    (v);to dissolve, disband, break up
+distance    (nf);distance
+distant    (adj);far-off, distant, faraway
+distinct    (adj);distinct
+distinction    (nf);distinction
+distinguer    (v);to distinguish
+distorsion    (nf);distortion
+distribuer    (v);to distribute, give out
+distributeur    (nadj);distributor, machine
+distribution    (nf);distribution
+dit    (nadj);said, so-called, tale
+divergence    (nf);divergence, difference
+divers    (adj(pl),det);diverse, various
+diversifier    (v);to vary, diversify
+diversité    (nf);diversity
+divin    (adj,nm);divine, heavenly
+diviser    (v);to divide
+division    (nf);division
+divorce    (nm);divorce
+dix    (det,nmi);ten
+dix-huit    (det,nmi);eighteen
+dix-neuf    (det,nmi);nineteen
+dix-neuvième    (det,nm,nf);nineteenth
+dix-sept    (det,nmi);seventeen
+dixième    (det,nm,nf);tenth
+dizaine    (nf);approximately ten, about ten, ten
+docteur    (nm);doctor
+doctrine    (nf);doctrine
+document    (nm);document
+documentation    (nf);documentation, literature
+doigt    (nm);finger
+dollar    (nm);dollar
+domaine    (nm);domain, field
+domestique    (nadj(f));servant, domestic
+domicile    (nm);home, place of residence
+dominant    (adj);dominant, prevailing
+domination    (nf);domination, dominion, rule
+dominer    (v);to dominate
+dommage    (nm);damage, harm, too bad
+don    (nm);gift
+donc    (conj);so, then, therefore, thus
+donnée    (nf);fact, datum
+donner    (v);to give
+dont    (pro);whose, of which
+doré    (adj);golden
+dorénavant    (adv);from now on, henceforth
+dormir    (v);to sleep
+dos    (nm(pl));back
+dose    (nf);dose, amount
+dossier    (nm);file, record, case
+doter    (v);to endow, provide
+douane    (nf);customs, duty
+douanier    (nadj);customs officer
+double    (nadj(f));double
+doubler    (v);to double, pass, to dub
+doucement    (adv);gently, softly
+douceur    (nf);softness, smoothness, mildness, gentleness, sweetness
+douleur    (nf);pain
+douloureux    (adj(pl));painful, grievous, distressing
+doute    (nm);doubt
+douter    (v);to doubt
+doux    (adv,nadj(pl));soft, sweet
+douzaine    (nf);dozen
+douze    (det,nmi);twelve
+dramatique    (nadj(f));dramatic, tragic, drama
+drame    (nm);drama
+drapeau    (nm);flag
+dresser    (v);to draw up, put up, raise
+drogue    (nf);drug
+droguer    (v);to drug, take drugs
+droit    (adj,adv,nm);right
+droite    (nf);right
+drôle    (adj(f),nm);funny, strange
+duc    (nm);duke
+dur    (adv,nadj);hard
+durable    (adj(f));durable, long-lasting
+durant    (prep);during, for
+durée    (nf);length, duration
+durement    (adv);harshly, severely
+durer    (v);to last
+dynamique    (nadj(f));dynamic
+dynamisme    (nm);dynamism
+eau    (nf);water
+ébranler    (v);to shake, rattle
+écart    (nm);space, gap
+écarter    (v);to separate, move apart, keep away
+échange    (nm);exchange
+échanger    (v);to exchange
+échantillon    (nm);sample
+échapper    (v);to escape
+échéance    (nf);expiration date, date of payment, deadline
+échéant    (adj);if need be
+échec    (adji,nm);failure
+échelle    (nf);ladder, scale
+échelon    (nm);rung, step, grade, echelon
+écho    (nm);echo
+échouer    (v);to fail
+éclaircir    (v);to brighten up, clear up
+éclairer    (v);to light up
+éclat    (nm);splinter, fragment, brightness, burst
+éclater    (v);to burst, explode
+école    (nf);school
+écologique    (adj(f));ecological
+économie    (nf);economy
+économique    (nadj(f));economic, economical
+économiquement    (adv);economically
+économiser    (v);to save, save on, conserve
+économiste    (nm,nf);economist
+écouler    (v);to sell, run off, flow out
+écoute    (nf);listening
+écouter    (v);to listen to
+écran    (nm);screen
+écrasant    (adj);crushing, overwhelming
+écraser    (v);to crush, grind
+écrier    (v);to exclaim, cry out
+écrire    (v);to write
+écrit    (nadj);writing
+écriture    (nf);writing
+écrivain    (nm);writer
+écrouler    (v);to collapse, tumble
+écu    (nm);ecu
+édifice    (nm);building
+éditeur    (nm);publisher, editor
+édition    (nf);publishing, editing, edition
+éditorial    (nadj);editorial
+éducation    (nf);education
+effacer    (v);to erase, clean
+effectif    (nadj);effective, size, workforce
+effectivement    (adv);effectively
+effectuer    (v);to carry out, undergo
+effet    (nm);effect
+efficace    (adj(f));efficient, effective
+efficacement    (adv);efficiently, effectively
+efficacité    (nf);efficiency, effectiveness
+effondrement    (nm);collapse, caving-in, falling-in, breaking-down
+effondrer    (v);to collapse, cave in, fall down
+efforcer    (v);to endeavor
+effort    (nm);effort
+effrayer    (v);to frighten, scare
+égal    (nadj);equal
+également    (adv);also, too, as well, equally
+égalité    (nf);equality
+égard    (nm);consideration, respect, regard
+église    (nf);church
+égyptien    (nadj);Egyptian
+eh    (intj);hey, uh
+élaboration    (nf);working-out, development
+élaborer    (v);to work out, develop
+élan    (nm);momentum, surge, rush, elk, moose
+élargir    (v);to widen, expand, broaden, stretch, let out
+élargissement    (nm);widening, letting-out, stretching, broadening
+électeur    (nm);elector, voter
+élection    (nf);election
+électoral    (adj);electoral
+électricité    (nf);electricity
+électrique    (adj(f));electric
+électronique    (nadj(f));electronic
+élégant    (adj);elegant, stylish
+élément    (nm);element
+élémentaire    (adj(f));elementary, rudimentary, basic
+élevé    (adj);high, heavy, tall, elevated
+élève    (nm,nf);pupil, student
+élever    (v);to grow, lift, raise
+élimination    (nf);elimination
+éliminer    (v);to eliminate
+élire    (v);to elect
+élite    (nf);elite
+elle    (pro);she, her
+elle-même    (pro);herself, itself
+éloge    (nm);praise
+éloigner    (v);to move away, take away, distance
+élu    (nadj);elected, elected member
+émaner    (v);to issue from, emanate from, come from, radiate from
+embargo    (nm);embargo
+embarquer    (v);to embark, board, take on board, load
+embauche    (nf);job vacancy, hiring
+embaucher    (v);to hire
+embrasser    (v);to kiss, embrace
+émerger    (v);to emerge, rise up, come out
+émetteur    (nm);transmitter, issuer
+émettre    (v);to emit, issue
+émeute    (nf);riot, rioting
+éminent    (adj);eminent, distinguished
+émission    (nf);transmision, broadcasting, programme
+emmener    (v);to take
+emmerder    (v);to bug, bother
+émotion    (nf);emotion, feeling
+émouvoir    (v);to move, touch
+emparer    (v);to seize, grab, snatch
+empêcher    (v);to prevent
+empereur    (nm);emperor
+empire    (nm);empire
+emplacement    (nm);site, location
+emploi    (nm);employment, work, use
+employé    (nm);employee
+employer    (v);to use, employ
+employeur    (nm);employer
+emporter    (v);to take, remove
+empreinte    (nf);imprint, print, mark, impression
+empresser    (v);to bustle about, hasten to do
+emprisonner    (v);to imprison, jail, put in jail, trap
+emprunt    (nm);loan
+emprunter    (v);to borrow
+en    (adv,prep,pro);in, by
+encadrement    (nm);training, framing, supervision
+encadrer    (v);to frame, train
+encaisser    (v);to receive, collect, cash
+enceinte    (adjf,nf);pregnant, enclosure
+enchaîner    (v);to chain up, connect, string together
+enchanter    (v);to delight, enchant, rejoice
+enclin    (adj);enclined, prone
+encontre    (n);contrary to
+encore    (adv);again, yet
+encourageant    (adj);encouraging
+encouragement    (nm);encouragement
+encourager    (v);to encourage
+endormir    (v);to put to sleep, fall asleep
+endroit    (nm);place, spot
+énergétique    (nadj(f));energetic, vigorous
+énergie    (nf);energy
+énergique    (adj(f));energetic
+enfance    (nf);childhood
+enfant    (nm,nf,adj(f));child
+enfer    (nm);hell
+enfermer    (v);to shut
+enfin    (adv);at last, finally
+enfoncer    (v);to ram, drive in, hammer in, sink in
+enfuir    (v);to run away, flee
+engagement    (nm);agreement, commitment
+engager    (v);to hire, involve
+engendrer    (v);to father, breed, generate
+engin    (nm);machine, tool, vehicle, device
+englober    (v);to include, encompass, incorporate
+enjeu    (nm);stake
+enlever    (v);to remove
+ennemi    (nadj);enemy
+ennui    (nm);boredom, trouble, worry
+ennuyer    (v);to bore, worry, bother
+énoncer    (v);to state, set out, express
+énorme    (adj(f));enormous
+énormément    (adv);enormously
+enquête    (nf);inquiry, enquiry, investigation
+enquêter    (v);to investigate, hold inquiry, conduct a survey
+enquêteur    (nm);investigator, pollster
+enregistrement    (nm);recording, registration, check-in, logging
+enregistrer    (v);to record, check in
+enrichir    (v);to expand, enrich, make somebody rich
+enseignant    (nadj);teacher
+enseignement    (nm);education, teaching
+enseigner    (v);to teach
+ensemble    (adv,nm);together
+ensuite    (adv);next
+ensuivre    (v);to follow, result, ensue
+entamer    (v);to start
+entendre    (v);to hear
+entente    (nf);understanding, agreement
+enterrer    (v);to bury, lay aside
+enthousiasme    (nm);enthusiasm, enthusiastically
+enthousiaste    (adj(f));enthusiastic
+entier    (nadj);whole, full, entire
+entièrement    (adv);entirely, completely
+entité    (nf);entity
+entourage    (nm);circle, entourage
+entourer    (v);to surround
+entraînement    (nm);training, coaching, drive
+entraîner    (v);to carry along, train
+entraîneur    (nm);coach, trainer
+entraver    (v);to hinder, hamper, get in the way of
+entre    (prep);between
+entre-temps    (adv,nm(pl));meanwhile, in the meantime
+entrée    (nf);entrance
+entreprendre    (v);to begin, start, undertake
+entrepreneur    (nm);contractor, entrepreneur
+entreprise    (nf);enterprise, business
+entrer    (v);to enter, go in, come in
+entretenir    (v);to maintain
+entretien    (nm);interview, discussion, maintenance
+entrevoir    (v);to make out, catch a glimpse of, foresee
+entrevue    (nf);meeting, interview
+énumérer    (v);to enumerate
+envahir    (v);to invade, overrun
+enveloppe    (nf);envelope
+envelopper    (v);to wrap, surround, veil
+envergure    (nf);wingspan, breadth, scope
+envers    (nm(pl),prep);towards
+envie    (nf);envy
+environ    (adv,prep,nm);about, thereabouts, or so
+environnement    (nm);environment
+environnemental    (adj);environmental
+envisager    (v);to view, contemplate
+envoi    (nm);sending, dispatching
+envoler    (v);to fly away, fly off, take off
+envoyer    (v);to send
+épais    (adj(pl),adv);thick, pitch dark, thickly
+épanouir    (v);to bloom, blossom
+épargne    (nf);savings, saving
+épargner    (v);to save, spare
+épaule    (nf);shoulder
+épidémie    (nf);epidemic
+épisode    (nm);episode
+époque    (nf);era, period
+épouser    (v);to marry, wed
+épouvantable    (adj(f));terrible, appalling, dreadful
+époux    (nm(pl));husband, spouse
+épreuve    (nf);test, ordeal, trial
+éprouver    (v);to feel, experience
+épuiser    (v);to exhaust, tire out, wear out, use up
+équation    (nf);equation
+équilibre    (nm);balance, equilibrium
+équilibrer    (v);to balance
+équipage    (nm);crew, gear
+équipe    (nf);team
+équipement    (nm);equipment
+équiper    (v);to equip, kit out, fit out, tool up
+équitable    (adj(f));equitable, fair
+équité    (nf);equity, fairly
+équivalent    (nadj);equivalent
+équivaloir    (v);to be equivalent, amount to
+ère    (nf);era
+ériger    (v);to erect, set up
+erreur    (nf);mistake, error
+erroné    (adj);erroneous
+escalier    (nm);stairs, staircase
+esclave    (nadj(f));slave
+escompter    (v);to discount, to expect
+espace    (nm,nf);space
+espagnol    (nadj);Spanish
+espèce    (nf);species
+espérance    (nf);hope
+espérer    (v);to hope
+espoir    (nm);hope
+esprit    (nm);mind, spirit
+essai    (nm);attempt, try, test
+essayer    (v);to try
+essence    (nf);gas, petrol
+essentiel    (nadj);essential
+essentiellement    (adv);essentially
+essor    (nm);expansion, development, flight
+essuyer    (v);to wipe, dry, mop, dust
+est    (nmi);east
+esthétique    (nadj(f));aesthetics, attractiveness, attractive
+estimation    (nf);appraisal, valuation, assessment estimate,
+estimer    (v);to estimate, to consider, deem
+et    (conj);and
+établir    (v);to establish
+établissement    (nm);establishment, organization, organisation
+étage    (nm);floor
+étaler    (v);to spread, display, apply
+étape    (nf);stage, step
+état    (nm);state
+état-major    (nm);staff, staff headquarters
+etc    (etc.,);et cetera
+été    (nm);summer
+éteindre    (v);to extinguish, put out, turn off
+étendre    (v);to spread out, stretch out
+étendue    (nf);area, expanse, duration, extent, range
+éternel    (nadj);eternal, everlasting
+éthique    (nadj(f));ethical, ethics
+ethnique    (nadj(f));ethnic
+étiquette    (nf);label, ticket, etiquette, sticker, tag
+étoile    (nf);star
+étonnant    (nadj);surprising, amazing, incredible
+étonner    (v);to astonish, amaze
+étouffer    (v);to suffocate, smother, muffle
+étrange    (nadj(f));strange, odd
+étranger    (nadj);foreigner, foreign
+être    (nm,v);to be, being
+étroit    (adj);narrow, tight
+étroitement    (adv);closely
+étude    (nf);study
+étudiant    (nadj);student
+étudier    (v);to study
+euh    (intj);er, um, uh
+euro    (nm);euro
+européen    (nadj);European
+eux    (pro);them
+évacuer    (v);to evacuate, clear
+évaluation    (nf);evaluation
+évaluer    (v);to evaluate
+évasion    (nf);escape, evasion
+éveiller    (v);to arouse, stimulate, awaken
+événement    (nm);event
+éventail    (nm);fan, range
+éventualité    (nf);eventuality, possibility
+éventuel    (nadj);possible
+éventuellement    (adv);possibly
+évêque    (nm);bishop
+évidemment    (adv);obviously
+évidence    (nf);evidence
+évident    (adj);obvious, evident
+éviter    (v);to avoid
+évoluer    (v);to evolve
+évolution    (nf);evolution
+évoquer    (v);to recall, evoke
+ex    (nmfi);ex
+exact    (adj);exact, correct
+exactement    (adv);exactly
+exagérer    (v);to exaggerate, overdo
+examen    (nm);exam
+examiner    (v);to examine
+excédent    (nm);surplus
+excéder    (v);to exceed
+excellence    (nf);excellence
+excellent    (adj);excellent
+exception    (nf);exception
+exceptionnel    (nadj);exceptional
+excès    (nm(pl));excess, surplus, abuse
+excessif    (nadj);excessive, inordinate
+exciter    (v);to arouse, waken, excite, turn on
+exclu    (nm,adj);outcast
+exclure    (v);to exclude
+exclusif    (nadj);exclusive, sole
+exclusion    (nf);exclusion, expulsion
+exclusivement    (adv);exclusively, solely
+excuse    (nf);excuse, apology
+excuser    (v);to excuse
+exécuter    (v);to execute, carry out
+exécutif    (nadj);executive
+exécution    (nf);execution, accomplishment
+exemplaire    (nadj(f));exemplary, copy
+exemple    (nm);example
+exercer    (v);to exercise, exert, practice, carry out
+exercice    (nm);exercise,
+exhorter    (v);to exhort, urge
+exigeant    (adj);demanding, difficult
+exigence    (nf);demand, strictness
+exiger    (v);to require, demand
+exil    (nm);exile
+exiler    (v);to exile
+existant    (adj);existing
+existence    (nf);existence
+exister    (v);to exist
+exode    (nm);exodus
+expansion    (nf);expansion
+expédier    (v);to send, dispatch
+expédition    (nf);dispatch, shipping, shipment expedition,
+expérience    (nf);experience
+expérimental    (adj);experimental
+expérimenter    (v);to experiment
+expert    (nadj);expert
+expertise    (nf);expertise
+explication    (nf);explanation
+explicite    (adj(f));explicitly
+explicitement    (adv);explicitly
+expliquer    (v);to explain
+exploit    (nm);exploit
+exploitation    (nf);operation, exploitation
+exploiter    (v);to exploit
+exploration    (nf);exploration, investigation, examination
+explorer    (v);to explore, investigate, examine
+exploser    (v);to explode, blow up
+explosif    (nadj);explosive
+explosion    (nf);explosion
+exportateur    (nadj);exporter, exporting
+exportation    (nf);export
+exporter    (v);to export
+exposé    (nadj);account, statement, talk
+exposer    (v);to display, exhibit, expose
+exposition    (nf);exhibition, show
+exprès    (adj(pl),adv);deliberately, on purpose, intentionally
+expression    (nf);expression
+exprimer    (v);to express
+expulser    (v);to expel, evict, deport, throw out
+extension    (nf);extension, stretching, expansion
+extérieur    (nadj);exterior
+externe    (nadj(f));external, outer
+extraction    (nf);extraction
+extraire    (v);to extract, mine, quarry, pull out, remove
+extrait    (nm);extract, excerpt
+extraordinaire    (adj(f));extraordinary
+extrême    (nadj(f));extreme
+extrêmement    (adv);extremely
+extrémité    (nf);end, extremity
+fabricant    (nm);manufacturer
+fabrication    (nf);manufacture, production
+fabriquer    (v);to manufacture, invent, make
+façade    (nf);front, façade
+face    (nf);front, side, face
+fâcher    (v);to anger, make angry, get angry
+facile    (adj(f));easy
+facilement    (adv);easily
+facilité    (nf);easiness, ease, aptitude
+faciliter    (v);to make easier, facilitate
+façon    (nf);way, manner
+facteur    (nm);postman, mailman, factor
+facture    (nf);invoice, bill
+faculté    (nf);ability, right, option, faculty, university
+faible    (nadj(f));weak
+faiblesse    (nf);weakness
+faille    (nf);fault
+faillir    (v);to have almost, fail, fail to
+faillite    (nf);bankruptcy, collapse, failure
+faim    (nf);hungry
+faire    (nm,v);to do, make
+faisceau    (nm);bundle, beam, stack
+fait    (adj,nm);done, fact
+falloir    (v);to take, require, need
+fameux    (adj(pl));famous
+familial    (adj);family
+familier    (nadj);familiar, informal
+famille    (nf);family
+famine    (nf);famine
+fantastique    (nadj(f));fantastic, terrific, great, weird, eerie
+fantôme    (nm);ghost, phantom
+farce    (nf);joke, prank, hoax, farce
+fardeau    (nm);burden
+fasciner    (v);to fascinate
+fatal    (adj);fatal, deadly, fateful
+fatigue    (nf);tiredness, fatigue tired
+fatiguer    (v);to tire, get
+faute    (nf);mistake, error, fault
+fauteuil    (nm);armchair, seat
+faux    (adv,adj(pl),nm(pl),nf(pl));false, scythe
+faveur    (nf);favor, favour
+favorable    (adj(f));favorable
+favori    (nadj);favourite, favorite
+favoriser    (v);to favor, favour
+fédéral    (nadj);federal
+fédération    (nf);federation
+félicitation    (nf);congratulation
+féliciter    (v);to congratulate
+féminin    (nadj);feminine
+femme    (nf);woman, wife
+fenêtre    (nf);window
+fer    (nm);iron
+fermé    (adj);shut, closed, locked
+ferme    (adj(f),adv,nf);farm, firm
+fermement    (adv);firmly
+fermer    (v);to close, shut
+fermeté    (nf);firmness, solidness, steadiness
+fermeture    (nf);closing
+fermier    (nadj);farmer
+féroce    (adj(f));ferocious, fierce
+ferroviaire    (adj(f));railway, rail
+festival    (nm);festival
+fête    (nf);holiday, celebration
+fêter    (v);to celebrate
+feu    (adj(f),nm);fire
+feuille    (nf);leaf, sheet, slip
+février    (nm);February
+fiable    (adj(f));reliable, trustworthy
+fiche    (nf);card, sheet, slip, form
+ficher    (v);to file, to make fun of, not care, not give a damn
+fichier    (nm);file
+fiction    (nf);fiction
+fidèle    (nadj(f));faithful
+fidélité    (nf);loyalty, faithfulness, accuracy, reliability, fidelity
+fier    (adj,v);to rely on, proud
+fierté    (nf);pride
+fièvre    (nf);fever
+figer    (v);to clot, coagulate, congeal, set
+figure    (nf);face, figure
+figurer    (v);to represent, appear
+fil    (nm);thread, wire
+file    (nf);line, queue
+filer    (v);to spin, run, get out
+filet    (nm);dribble, trickle, wisp, streak, thread, fillet, net
+filial    (adj);filial, branch office
+fille    (nf);girl, daughter
+fillette    (nf);little girl, girl
+film    (nm);film
+filmer    (v);to film, shoot
+fils    (nm(pl));son
+fin    (adj,adv,nf,nm);end, gist, clever person
+final    (nadj);final
+finale    (nm,nf);finale, final event
+finalement    (adv);finally, eventually
+finance    (nf);finance
+financement    (nm);financing
+financer    (v);to finance
+financier    (nadj);financial, financier
+finir    (v);to finish
+firme    (nf);firm
+fiscal    (adj);fiscal
+fixation    (nf);fixation, fixing
+fixe    (nadj);fixed
+fixer    (v);to fix, arrange, set
+flagrant    (adj);blatant, glaring
+flamme    (nf);flame, fire, fervor, brilliance
+fléau    (nm);scourge, plague
+flèche    (nf);arrow
+fleur    (nf);flower
+fleuve    (nm);river
+flic    (nm,nf);cop
+flot    (nm);floodtide, stream of, flood of
+flotte    (nf);fleet
+flotter    (v);to float, hang, stream
+flou    (adj);blurred, fuzzy, vague
+flux    (nm(pl));flow
+foi    (nf);faith
+foie    (nm);liver
+foire    (nf);fair
+fois    (nf(pl));time, times
+folie    (nf);madness, folly, insanity
+foncier    (adj);land-related, land, fundamental
+fonction    (nf);function
+fonctionnaire    (nm,nf);state employee, public servant
+fonctionnel    (adj);functional
+fonctionnement    (nm);operation, functioning
+fonctionner    (v);to function, work
+fond    (nm);bottom
+fondamental    (adj);fondamental
+fondamentalement    (adv);basically, fundamentally, inherently
+fondateur    (nm);founder
+fondation    (nf);foundation
+fondé    (adj,nm,nf);founded, justified, agent, clerk
+fondement    (nm);foundation
+fonder    (v);to found, set
+fondre    (v);to melt, merge
+fonds    (nm(pl));funds
+football    (nm);football, soccer
+force    (adv,nf);force
+forcément    (adv);without question, inevitably
+forcer    (v);to force
+forestier    (nadj);forest, forester
+forêt    (nf);forest
+forger    (v);to forge, contrive, make up
+formalité    (nf);formality
+format    (nm);format
+formation    (nf);training
+forme    (nf);form
+formé    (nm);formed
+formel    (adj);formal, definite
+former    (v);to form
+formidable    (adj(f));tremendous, considerable
+formule    (nf);formula, expression
+formuler    (v);to formulate
+fort    (adv,adj,nm);strong
+fortement    (adv);strongly
+fortune    (nf);fortune
+forum    (nm);forum, newsgroup
+fossé    (nm);ditch
+fou    (adj,nm);mad, crazy
+foudre    (nf);lightning
+fouet    (nm);whip
+fouiller    (v);to search, frisk, go through, rummage through
+foule    (nf);crowd
+fournir    (v);to provide, supply
+fournisseur    (nm);supplier, provider
+fourniture    (nf);supply, provision
+foutre    (v,nm);to fuck, shove off
+foyer    (nm);home, hearth
+fraction    (nf);fraction
+fragile    (adj(f));fragile, delicate, frail
+frais    (adj(pl),adv,nm(pl));cool, fresh, fee, expense
+franc    (adj,adv,adj,nm);frank, franc
+français    (nadj(pl));French
+franchement    (adv);frankly
+franchir    (v);to get over
+franchise    (nf);frankness, exemption, duty-free franchise, deductible,
+francophone    (adj(f));French-speaking, French speaker, francophone
+frappe    (nf);strike, striking, stamp, impression, punch, knock
+frapper    (v);to hit, strike, knock
+fraude    (nf);fraud
+frein    (nm);brake
+freiner    (v);to brake, slow down
+fréquemment    (adv);frequently
+fréquence    (nf);frequency
+fréquent    (adj);frequent
+fréquenter    (v);to frequent, go around with
+frère    (nm);brother
+froid    (nadj);cold
+fromage    (nm);cheese
+front    (nm);front, forehead
+frontière    (nf);border
+fruit    (nm);fruit
+frustration    (nf);frustration
+frustrer    (v);to frustrate
+fuir    (v);to flee
+fuite    (nf);escape
+fumée    (nf);smoke
+fumer    (v);to smoke
+furieux    (nadj(pl));furious, raging, violent
+fusil    (nm);rifle, gun
+fusion    (nf);fusion, melting, merging
+futur    (nadj);future
+gâcher    (v);to waste, spoil
+gagnant    (nadj);winner, winning
+gagner    (v);to win, earn
+gai    (adj);cheerful, merry, gay
+gain    (nm);gain
+galerie    (nf);gallery
+gamin    (nm);kid
+gamme    (nf);range, scale
+garage    (nm);garage
+garantie    (nf);guarantee
+garantir    (v);to guarantee
+garçon    (nm);boy
+garde    (nm,nf);guard
+garder    (v);to keep
+gardien    (nadj);guardian, keeper
+gare    (intj,nf);station, railway station, beware
+gars    (nm(pl));guy
+gâteau    (nadj);cake
+gauche    (nadj(f));left
+gaz    (nm(pl));gas
+géant    (nadj);giant, gigantic
+gel    (nm);frost, freezing, gel
+geler    (v);to freeze, ice over, suspend
+gendarme    (nm,nf);policeman
+gendarmerie    (nf);police force, police station
+gène    (nm);gene
+gêner    (v);to bother, trouble
+général    (nadj);general
+généralement    (adv);generally
+généraliser    (v);to generalize, generalise
+génération    (nf);generation
+générer    (v);to generate
+généreux    (adj(pl));generous
+générosité    (nf);generosity, generously
+génétique    (nadj(f));genetic
+génétiquement    (adv);genetically
+génial    (adj);inspired, great, brilliant
+génie    (nm);genius
+génocide    (nm);genocide
+genou    (nm);knee
+genre    (nm);type, kind, sort
+gens    (nmpl);people
+gentil    (nadj);nice, kind
+géographique    (adj(f));geographic, geographical
+gérer    (v);to manage
+geste    (nm);gesture
+gestion    (nf);management
+gestionnaire    (adj(f),nm,nf);administrator, administrative
+gigantesque    (nadj(f));gigantic, immense
+glace    (nf);ice, ice cream, mirror
+glissement    (nm);sliding, slipping, skidding
+glisser    (v);to slide, slip
+global    (adj);global
+globalement    (adv);globally
+globe    (nm);globe
+gloire    (nf);glory, fame
+golf    (nm);golf, golf course
+golfe    (nm);gulf
+gonfler    (v);to inflate, blow up, swell
+gorge    (nf);throat
+gosse    (nm,nf);kid
+goût    (nm);taste
+goûter    (nm,v);to taste, snack
+goutte    (nf);drop
+gouvernement    (nm);government
+gouvernemental    (adj);governmental
+gouverner    (v);to govern, rule, steer, helm
+gouverneur    (nm,nf);governor
+grâce    (nf);thanks, grace, favor, favour
+grain    (nm);grain, bean, bead, spot, mole
+grand    (adv,nadj);great, big, tall
+grand-chose    (nmi);not very much
+grand-mère    (nf);grandmother
+grand-père    (nm);grandfather
+grandeur    (nf);size, greatness
+grandir    (v);to grow, increase, expand
+grandissant    (adj);growing, increasing
+graphique    (nadj(f));graph, graphic
+gras    (adj(pl),adv,nm(pl));fatty, fat, greasy
+gratuit    (adj);free, gratuitous, unwarranted
+gratuitement    (adv);free, gratuitously
+grave    (adv,nadj(f),nm);serious, grave
+gravement    (adv);seriously, solemnly, gravely
+gravité    (nf);seriousness, solemnity, gravity
+gré    (nm);liking
+grec    (nadj);Greek
+grève    (nf);strike
+grille    (nf);railings, gate, grid, scale
+grimper    (v);to climb, go up
+gris    (nadj(pl));grey
+gros    (adv,nadj(pl));big
+grossesse    (nf);pregnancy
+grossier    (adj);unrefined, crude, coarse, rude, rough, gross
+grossir    (v);to get larger
+groupe    (nm);group
+groupement    (nm);grouping, group, categorization, categorisation
+guère    (adv);hardly
+guérir    (v);to cure, heal, get better
+guerre    (nf);war
+guerrier    (nadj);warrior, warlike
+guetter    (v);to watch over, watch out for
+gueule    (nf);mouth, trap
+guide    (nm,nf);guide
+guider    (v);to guide
+guise    (nf);wish like, by way of
+ha    (intj);oh
+habiller    (v);to dress, get dressed
+habitant    (nm);inhabitant
+habitation    (nf);residence, home, dwelling, housing
+habiter    (v);to live
+habitude    (nf);habit
+habituel    (adj);customary, habitual
+habituellement    (adv);usually, generally
+habituer    (v);to accustom, get used to
+haine    (nf);hatred, hate
+haïr    (v);to detest, hate, abhor
+hall    (nm);foyer, lobby
+handicap    (nm);handicap
+handicapé    (nadj);disabled, handicapped
+handicaper    (v);to handicap
+hanter    (v);to haunt
+harceler    (v);to harass, plague
+harmonie    (nf);harmony,
+harmonisation    (nf);harmonization, harmonisation
+harmoniser    (v);to harmonize, harmonize with, harmonise
+hasard    (nm);chance, luck
+hâte    (nf);haste, impatience
+hâter    (v);to quicken, hasten
+hausse    (nf);rise, raise, increase
+hausser    (v);to raise
+haut    (adv,nadj);top, high
+hautement    (adv);highly
+hauteur    (nf);height
+hé    (intj);hey
+hebdomadaire    (nadj(f));weekly
+hein    (intj);eh, huh
+hélas    (intj);alas
+hélicoptère    (nm);helicopter
+hépatite    (nf);hepatitis
+herbe    (nf);grass, herb
+héritage    (nm);heritage
+hériter    (v);to inherit
+héritier    (nm);heir
+héroïne    (nf);heroine
+héros    (nm(pl));hero
+hésitation    (nf);hesitation
+hésiter    (v);to hesitate
+heure    (nf);hour
+heureusement    (adv);fortunately, luckily
+heureux    (nadj(pl));happy, lucky, fortunate
+heurter    (v);to strike, hit, collide
+hier    (adv);yesterday
+hiérarchie    (nf);hierarchy
+hisser    (v);to hoist, raise up
+histoire    (nf);history, story
+historien    (nm);historian
+historique    (nadj(f));historical, historic
+hiver    (nm);winter
+hommage    (nm);homage, tribute
+homme    (nm);man
+homologue    (adj(f));counterpart, homologue
+homosexuel    (nadj);homosexual
+honnête    (adj(f));honest, decent, fair
+honneur    (nm);honor, honour
+honorable    (adj(f));honorable, worthy
+honorer    (v);to honor, do credit to, honour
+honte    (nf);shame
+honteux    (adj(pl));ashamed, shameful
+hôpital    (nm);hospital
+horaire    (nadj(f));schedule, timetable, hourly
+horizon    (nm);horizon, skyline
+hormis    (prep);save, but
+horreur    (nf);horror
+horrible    (adj(f));horrible, terrible, dreadful, hideous
+hors    (adv,prep);except, outside
+hostile    (adj(f));hostile
+hostilité    (nf);hostility, hostilities
+hôte    (nm);host, guest
+hôtel    (nm);hotel
+huile    (nf);oil
+huit    (det,nmi);eight
+huitième    (det,nm,nf);eighth
+hum    (intj);um, uh
+humain    (nadj);human
+humanitaire    (adj(f));humanitarian
+humanité    (nf);humanity
+humble    (adj(f));humble, lowly
+humeur    (nf);mood, temper
+humide    (adj(f));moist, damp, humid, wet
+humour    (nm);humor, humour
+hurler    (v);to scream, yell
+hymne    (nm,nf);hymn, anthem
+hypothèse    (nf);hypothesis
+ici    (adv);here
+idéal    (nadj);ideal
+idée    (nf);idea
+identification    (nf);identification
+identifier    (v);to identify
+identique    (adj(f));identical
+identité    (nf);identity
+idéologie    (nf);ideology
+idéologique    (adj(f));ideological
+idiot    (nadj);idiot, fool, stupid
+ignorance    (nf);ignorance
+ignorer    (v);to ignore
+il    (pro);he, it
+île    (nf);island
+illégal    (adj);illegal
+illusion    (nf);illusion
+illustration    (nf);illustration
+illustrer    (v);to illustrate
+image    (nf);picture, image
+imaginaire    (nadj(f));imaginary
+imagination    (nf);imagination
+imaginer    (v);to imagine
+imiter    (v);to imitate
+immédiat    (nadj);immediate
+immédiatement    (adv);immediately
+immense    (adj(f));immense
+immeuble    (nadj(f));building
+immigrant    (nadj);immigrant
+immigration    (nf);immigration
+immigrer    (v);to immigrate
+imminent    (adj);imminent, impending
+immobile    (adj(f));still, motionless
+immobilier    (nadj);property, real estate, property business, real estate business
+impact    (nm);impact
+impasse    (nf);dead end, cul-de-sac
+impatience    (nf);impatience
+impatient    (nadj);impatient
+impératif    (nadj);need, necessity, urgent, imperative
+implantation    (nf);implanting, setting up, establishment, implantation, installation
+implanter    (v);to implant, set up, establish
+implication    (nf);implication
+impliquer    (v);to imply, implicate
+importance    (nf);importance
+important    (nadj);important
+importation    (nf);import
+importer    (v);to import to be important
+imposer    (v);to impose
+imposition    (nf);taxation
+impossibilité    (nf);impossibility
+impossible    (nadj(f));impossible
+impôt    (nm);tax
+impression    (nf);impression
+impressionnant    (adj);impressive, upsetting
+impressionner    (v);to impress, upset
+imprimer    (v);to print, print out
+improbable    (adj(f));unlikely, improbable
+improviser    (v);to improvise
+impuissant    (nadj);powerless, helpless
+impulsion    (nf);impulse, pulse
+imputer    (v);to impute to, attribute to
+inacceptable    (adj(f));unacceptable
+inattendu    (adj);unexpected
+inaugurer    (v);to unveil, open
+incapable    (nadj(f));incapable, incompetent
+incapacité    (nf);incompetence, incapability
+incarner    (v);to embody, incarnate
+incendie    (nm);fire, blaze
+incertain    (nadj);uncertain, unsure
+incertitude    (nf);uncertainty
+inchangé    (adj);unchanged
+incidence    (nf);effect, incidence
+incident    (adj,nm);incident
+incitation    (nf);incitement, incentive
+inciter    (v);to incite, encourage
+incliner    (v);to tilt, tend towards
+inclure    (v);to include
+incomber    (v);to be incumbent upon
+incompatible    (adj(f));incompatible
+incompréhensible    (adj(f));incomprehensible
+inconnu    (nadj);unknown
+inconscient    (nadj);unconscious, thoughtless
+inconvénient    (nm);snag, drawback, disadvantage, inconvenience
+incorporer    (v);to incorporate, insert, merge
+incroyable    (nadj(f));incredible, unbelievable
+inculper    (v);to charge
+indemnisation    (nf);indemnification, compensation
+indépendamment    (adv);independently, irrespective of, regardless of
+indépendance    (nf);independence
+indépendant    (nadj);independent
+indicateur    (nadj);indicator
+indication    (nf);indication
+indice    (nm);indication, sign, clue
+indien    (nadj);Indian
+indifférence    (nf);indifference
+indifférent    (nadj);indifferent, unconcerned, unimportant
+indigène    (nadj(f));native, local
+indiquer    (v);to indicate, signal
+indirect    (adj);indirect
+indirectement    (adv);indirectly
+indispensable    (adj(f));essential
+individu    (nm);individual
+individuel    (adj);individual
+induire    (v);to infer, induce, result in, lead to
+industrialiser    (v);to industrialize, industrialise
+industrie    (nf);industry
+industriel    (nadj);industrial
+inédit    (nadj);unpublished, original, new
+inégalité    (nf);difference, uneveness, inequality
+inévitable    (adj(f));unavoidable, inevitable
+inévitablement    (adv);inevitably
+inexistant    (adj);non-existent
+inférieur    (nadj);inferior
+infini    (nadj);inifinite, infinity
+infiniment    (adv);infinitely
+infirmier    (nadj);nurse
+inflation    (nf);inflation
+infliger    (v);to inflict
+influence    (nf);influence
+influencer    (v);to influence
+influer    (v);to influence, have an influence on
+information    (nf);information
+informatique    (nadj(f));computer science, computing
+informé    (nadj);informed
+informer    (v);to inform
+infraction    (nf);offence, infrigement, infraction
+infrastructure    (nf);infrastructure
+ingénieur    (nm,nf);engineer
+inhabituel    (adj);unusual
+inhérent    (adj);inherent
+initial    (adj);initial
+initialement    (adv);initially
+initiative    (nf);initiative
+initier    (v);to initiate, introduce
+injecter    (v);to inject
+injuste    (adj(f));unfair, unjust
+injustice    (nf);injustice, unfairness
+innocence    (nf);innocence
+innocent    (nadj);innocent
+innombrable    (adj(f));innumerable, countless
+innovation    (nf);innovation
+inondation    (nf);flood, deluge
+inonder    (v);to flood
+inquiet    (nadj);worried, anxious
+inquiétant    (adj);worrying, disturbing
+inquiéter    (v);to worry, disturb
+inquiétude    (nf);worry, anxiety
+inscription    (nf);registration, enrolment, engraving
+inscrire    (v);to register, write down
+insensé    (nadj);insane
+insensible    (adj(f));insensitive
+insérer    (v);to insert
+insignifiant    (adj);insignificant, unimportant
+insister    (v);to insist
+inspecteur    (nm);inspector
+inspection    (nf);inspection
+inspiration    (nf);inspiration
+inspirer    (v);to inspire
+instabilité    (nf);instability
+instable    (adj(f));unstable
+installation    (nf);installation, setup
+installer    (v);to install
+instance    (nf);authority, proceedings, hearing
+instant    (adj,nm);instant, moment
+instaurer    (v);to institute, introduce
+instinct    (nm);instinct
+instituer    (v);to introduce, impose, establish, institute
+institut    (nm);institute
+instituteur    (nm);school teacher
+institution    (nf);institution
+institutionnel    (adj);institutional
+instruction    (nf);instruction, direction
+instruire    (v);to teach, educate, inform, instruct
+instrument    (nm);instrument
+insuffisance    (nf);inadequacy, insufficiency
+insuffisant    (adj);insufficient, inadequate
+insulte    (nf);insult
+insulter    (v);to insult
+insupportable    (adj(f));intolerable
+intact    (adj);intact
+intégral    (adj);complete, unabridged
+intégration    (nf);integration
+intégrer    (v);to integrate
+intégrité    (nf);integrity
+intellectuel    (nadj);intellectual
+intelligence    (nf);intelligence
+intelligent    (adj);intelligent, clever, bright
+intense    (adj(f));intense, severe, dense
+intensif    (nadj);intensive
+intensité    (nf);intensity
+intention    (nf);intention
+interaction    (nf);interaction
+interdiction    (nf);ban, banning
+interdire    (v);to forbid, prohibit, ban
+interdit    (nadj);prohibited, banned
+intéressant    (adj);interesting
+intéressé    (nadj);concerned, involved, interested
+intéresser    (v);to interest, involve
+intérêt    (nm);interest
+interface    (nf);interface
+intergouvernemental    (adj);intergovernmental
+intérieur    (nadj);interior, inside
+interlocuteur    (nm);speaker
+intermédiaire    (nadj(f));intermediate, intermediary
+international    (nadj);international
+interne    (nadj(f));internal, interior, intern
+interpeller    (v);to call out to, question
+interprétation    (nf);interpretation
+interpréter    (v);to interpret
+interrogation    (nf);question, interviewing interrogation, questioning, test,
+interroger    (v);to question, interrogate
+interrompre    (v);to interrupt
+interruption    (nf);interruption, break
+intervalle    (nm);space, distance, interval
+intervenant    (nadj);contributor, intervener
+intervenir    (v);to intervene
+intervention    (nf);intervention, talk
+interview    (nf);interview
+intime    (nadj(f));intimate, close, secret, private
+intimider    (v);to intimidate
+intimité    (nf);privacy, intimacy
+intituler    (v);to entitle, call
+intolérable    (adj(f));intolerable
+introduction    (nf);introduction
+introduire    (v);to introduce
+inutile    (nadj(f));useless
+invasion    (nf);invasion
+inventer    (v);to invent
+invention    (nf);invention
+inverse    (nadj(f));opposite, reverse
+inverser    (v);to reverse, invert
+investir    (v);to invest
+investissement    (nm);investment
+investisseur    (nm);investor
+invisible    (adj(f));invisible
+invitation    (nf);invitation
+invité    (nm);guest
+inviter    (v);to invite
+invoquer    (v);to call upon
+irakien    (nadj);Iraqi
+iranien    (nadj);Iranian
+irlandais    (nadj(pl));Irish
+ironie    (nf);irony
+ironique    (adj(f));ironic
+irrégulier    (adj);irregular, uneven
+irréversible    (adj(f));irreversible
+islam    (nm);Islam
+islamique    (adj(f));Islamic
+islamiste    (nm,nf);Islamist
+isolé    (nadj);remote, isolated, insulated
+isolement    (nm);loneliness, isolation, insulation
+isoler    (v);to isolate, insulate
+israélien    (nadj);Israeli
+issu    (adj);descended from
+issue    (nf);exit, outcome
+italien    (nadj);Italian
+itinéraire    (nadj(f));itinerary, route
+jadis    (adv);formerly, long ago
+jamais    (adv);never
+jambe    (nf);leg
+janvier    (nm);January
+japonais    (nadj(pl));Japanese
+jardin    (nm);garden
+jaune    (adv,nadj(f));yellow
+je    (pro);I
+jet    (nm);jet, throw, spray, nozzle
+jeter    (v);to throw
+jeu    (nm);game
+jeudi    (nm);Thursday
+jeune    (nadj(f));young
+jeunesse    (nf);youth
+joie    (nf);joy
+joindre    (v);to join
+joli    (adj);pretty, attractive
+joue    (nf);cheek
+jouer    (v);to play
+jouet    (nm);toy
+joueur    (nadj);player
+jouir    (v);to enjoy
+jour    (nm);day
+journal    (nm);newspaper, paper
+journaliste    (nm,nf);journalist
+journée    (nf);day
+joyeux    (nadj(pl));merry, joyful, happy
+judiciaire    (adj(f));judiciary
+juge    (nm,nf);judge
+jugement    (nm);judgement
+juger    (v);to judge
+juif    (nadj);Jew, Jewish
+juillet    (nm);July
+juin    (nm);June
+jumeau    (nadj);twin
+jungle    (nf);jungle
+jurer    (v);to swear
+juridiction    (nf);jurisdiction, court of law
+juridique    (adj(f));legal, judicial
+jury    (nm);jury, board of examiners
+jusque    (adv,prep);to, up to, until
+juste    (adv,nadj(f));just, only, fair
+justement    (adv);exactly, rightly, precisely
+justesse    (nf);accuracy, precision
+justice    (nf);justice
+justification    (nf);justification, proof
+justifier    (v);to justify
+kilo    (nm);kilo
+kilomètre    (nm);kilometer
+kurde    (nadj(f));Kurd, Kurdish
+là    (adv,intj);there, here
+là-bas    (adv);over there, out there
+là-dedans    (adv);inside, in it
+là-dessus    (adv);on top, about it
+laboratoire    (nm);laboratory
+lac    (nm);lake
+lâcher    (v);to let go, release
+lacune    (nf);gap, deficiency
+laisser    (v);to leave
+lait    (nm);milk
+lampe    (nf);lamp, light
+lance    (nf);lance
+lancement    (nm);launch
+lancer    (nm,v);to throw, launch
+langage    (nm);language
+langue    (nf);language, tongue
+large    (adj(f),adv,nm);wide, width
+largement    (adv);widely
+larme    (nf);tear
+lasser    (v);to tire, weary, grow weary
+latin    (nadj);Latin
+laver    (v);to wash, clean
+le    (det,pro);the, him, her, it, them
+leader    (nm,nf);leader
+leadership    (nm);leadership
+leçon    (nf);lesson
+lecteur    (nm);reader
+lecture    (nf);reading
+légal    (adj);legal, lawful
+légende    (nf);legend, caption, key
+léger    (adj);light
+légèrement    (adv);lightly, slightly
+légion    (nf);legion
+législatif    (nadj);legislative
+législation    (nf);legislation
+législature    (nf);legislature
+légitime    (nadj(f));legitimate
+légitimité    (nf);legitimacy
+léguer    (v);to bequeath, hand down, pass on
+légume    (nm,nf);vegetable
+lendemain    (nm);next day
+lent    (adj);slow
+lentement    (adv);slowly
+lequel    (pro);who, whom, which
+lettre    (nf);letter
+leur    (det,adj(f),pro);them, their, theirs
+levée    (nf);raising, levying, levee
+lever    (v);to lift, raise
+lèvre    (nf);lip
+liaison    (nf);liaison, connection
+libanais    (nadj(pl));Lebanese
+libéral    (nadj);liberal
+libéralisation    (nf);liberalization, liberalisation
+libération    (nf);liberation
+libérer    (v);to free, liberate, release
+liberté    (nf);liberty, freedom
+librairie    (nf);bookstore, bookshop
+libre    (adj(f));free
+libre-échange    (nm);free trade
+librement    (adv);freely
+licence    (nf);licence, permit
+licenciement    (nm);dismissal, sacking
+lien    (nm);link, bond
+lier    (v);to link, join
+lieu    (nm);place
+lieutenant    (nm);lieutenant
+ligne    (nf);line
+limitation    (nf);limitation, restriction, limit
+limite    (nf);limit
+limiter    (v);to limit
+linguistique    (nadj(f));linguistic, linguistics
+liquide    (nadj(f));liquid
+liquider    (v);to liquidate, sell off, clear
+lire    (nf,v);to read, lira
+liste    (nf);list
+lit    (nm);bed
+litre    (nm,nf);litre
+littéraire    (nadj(f));literary
+littéralement    (adv);literally
+littérature    (nf);literature
+livraison    (nf);delivery
+livre    (nm,nf);book, pound
+livrer    (v);to deliver
+local    (nadj);local
+localité    (nf);town, village
+location    (nf);renting
+logement    (nm);accommodation
+loger    (v);to put up, accommodate, stay, find accommodation
+logiciel    (nm);software, program, application
+logique    (nadj(f));logic, logical
+logiquement    (adv);logically
+loi    (nf);law
+loin    (adv,nm);far
+lointain    (nadj);distant, faraway
+loisir    (nm);leisure
+long    (adv,nadj);long, lengthy
+longtemps    (adv);a long time, a long while
+longuement    (adv);at length
+longueur    (nf);length
+lors    (adv);at the time of
+lorsque    (conj);when
+lot    (nm);share, prize, lot
+louer    (v);to rent, praise
+loup    (nm);wolf
+lourd    (adj);heavy
+lourdement    (adv);heavily
+loyal    (adj);loyal, faithful
+loyer    (nm);rent
+lui    (pro);him, her
+lui-même    (pro);himself
+lumière    (nf);light
+lumineux    (adj(pl));luminous, illuminated, light
+lundi    (nm);Monday
+lune    (nf);moon
+lunette    (nf);telescope, glasses
+lutte    (nf);struggle, fight, conflict
+lutter    (v);to struggle, fight
+luxe    (nm);luxury
+lycée    (nm);high school
+machine    (nf);machine
+madame    (nf);madam, lady
+mademoiselle    (nf);Miss
+magasin    (nm);store
+magazine    (nm);magazine
+magique    (adj(f));magic, magical
+magistrat    (nm);magistrate, judge
+magnifique    (adj(f));magnificent
+mai    (nm);May
+maigre    (nadj(f));thin, skinny, slim, lean
+main    (nf);hand
+main-d'œuvre    (nf);manpower, labor, work force, labour
+maintenance    (nf);maintenance, servicing
+maintenant    (adv);now
+maintenir    (v);to maintain
+maintien    (nm);holding, maintaining
+maire    (nm);mayor
+mairie    (nf);town hall, city hall
+mais    (adv,conj,intj);but
+maison    (nf);house
+maître    (nm);master
+maîtrise    (nf);mastery, command, control, master's degree
+maîtriser    (v);to control, overcome, master
+majesté    (nf);majesty
+majeur    (nadj);major
+majoritaire    (adj(f));majority
+majorité    (nf);majority
+mal    (adji,adv,nm);bad
+malade    (nadj(f));ill, sick
+maladie    (nf);illness, disease
+malaise    (nm);uneasiness, discomfort
+malentendu    (nm);misunderstanding
+malgré    (prep);despite, in spite of
+malheur    (nm);misfortune
+malheureusement    (adv);unfortunately
+malheureux    (nadj(pl));unhappy, miserable, unfortunate
+malin    (nadj);smart, shrewd, cunning
+maltraiter    (v);to manhandle, ill-treat, misuse, slight
+maman    (nf);mom, mother, mum
+manche    (nm,nf);handle, sleeve
+mandat    (nm);term, mandate
+manger    (nm,v);to eat
+manière    (nf);manner, way
+manifestant    (nm);protester, demonstrator
+manifestation    (nf);demonstration, event
+manifestement    (adv);manifestly, clearly
+manifester    (v);to show, demonstrate, display
+manipulation    (nf);handling, manipulation
+manipuler    (v);to handle, manipulate
+manœuvre    (nm,nf);manoeuvre, laborer
+manque    (nm);lack
+manquer    (v);to miss
+manteau    (nm);coat, overcoat
+manuel    (adj,nm);manual
+manuscrit    (adj);manuscript, handwritten
+marchand    (nadj);merchant
+marchandise    (nf);merchandise, commodity
+marche    (nf);walk, step, march
+marché    (nm);market
+marcher    (v);to walk
+mardi    (nm);Tuesday
+marée    (nf);tide
+marge    (nf);margin
+marginal    (nadj);marginal
+mari    (nm);husband
+mariage    (nm);marriage
+marier    (v);to marry
+marin    (nadj);sea, marine, sailor
+marine    (adj,nf);marine, navy
+maritime    (adj(f));maritime
+mark    (nm);mark
+marocain    (nadj);Moroccan
+marque    (nf);brand, mark
+marquer    (v);to mark
+mars    (nm(pl));March, Mars
+masculin    (nadj);male, masculine
+masque    (nm);mask
+masquer    (v);to mask, conceal, put on a mask
+massacre    (nm);massacre, slaughter
+massacrer    (v);to slaughter, massacre
+masse    (nf);mass
+massif    (nadj);massive
+match    (nm);match, game
+matériau    (nm);material
+matériel    (nadj);material, equipment
+maternel    (adj);motherly, maternal
+maternité    (nf);maternity, motherhood
+mathématique    (nadj(f));mathematical mathematics
+matière    (nf);matter, subject, material
+matin    (nm);morning
+matinée    (nf);morning
+mauvais    (adv,nadj(pl));bad, wrong
+maximal    (adj);maximal
+maximum    (nadj);maximum
+me    (pro);me, to me, myself
+mec    (nm);guy
+mécanique    (adj(f));mechanical
+mécanisme    (nm);mechanism
+méchant    (nadj);nasty, wicked, mean
+mécontent    (nadj);discontented, dissatisfied, displeased, malcontent, unhappy 
+mécontentement    (nm);displeasure, dissatisfaction, discontent
+médaille    (nf);medal
+médecin    (nm);physician, doctor
+médecine    (nf);medecine, medical science
+médias    (nmpl);media
+médiation    (nf);mediation, arbitration
+médiatique    (adj(f));media
+médical    (adj);medical
+médicament    (nm);medicine, drug, medication
+médiocre    (nadj(f));mediocre, second-rate
+méfiance    (nf);distrust, mistrust, suspicion
+méfier    (v);to distrust, mistrust
+meilleur    (nadj);better, best
+mélange    (nm);mixing, mixture, blend
+mélanger    (v);to mix, mix up, confuse
+mêler    (v);to mingle, mix
+membre    (nm);member
+même    (adj(f),adv,pro);same, even, self
+mémoire    (nm,nf);memory
+menaçant    (adj);threatening, menacing
+menace    (nf);threat
+menacer    (v);to threaten
+ménage    (nm);housekeeping, housework
+ménager    (nadj,v);to handle, arrange domestic
+mener    (v);to lead
+mensonge    (nm);lie
+mensuel    (nadj);monthly
+mental    (nadj);mental
+mentalité    (nf);mentality
+mention    (nf);mention, note, comment, notice
+mentionner    (v);to mention
+mentir    (v);to lie
+menu    (adv,nadj);menu, slender, slim, minor
+mépris    (nm(pl));contempt, scorn, disdain
+mépriser    (v);to scorn, look down, spurn, disdain
+mer    (nf);sea
+merci    (intj,nm,nf);thank you favor
+mercredi    (nm);Wednesday
+merde    (intj,nf);shit, crap
+mère    (adj,nf);mother
+mérite    (nm);merit
+mériter    (v);to deserve, merit
+merveille    (nf);marvel, wonder
+merveilleux    (adj(pl));marvellous, wonderful
+message    (nm);message
+messe    (nf);mass
+messieurs    (nmpl);gentlemen
+mesure    (nf);measure
+mesurer    (v);to measure
+métal    (nm);metal
+météo    (nf);weather forecast
+méthode    (nf);method, procedure
+métier    (nm);job, occupation, trade
+mètre    (nm);meter
+métro    (nm);underground, metro
+mettre    (v);to put, place
+meuble    (nadj(f));piece of furniture
+meurtre    (nm);murder
+meurtrier    (nadj);murderer, deadly, lethal
+mexicain    (nadj);Mexican
+micro    (nm);mike, micro, microphone
+midi    (nm);noon
+mien    (nadj,pro);mine
+mieux    (adji(pl),adv,nm);better
+milice    (nf);militia
+milieu    (nm);middle
+militaire    (nadj(f));military
+militant    (nadj);militant
+militer    (v);to militate
+mille    (det,nm,nmi);a thousand
+millénaire    (nadj(f));millennium, thousand-year-old
+milliard    (nm);billion, thousand million
+millier    (nm);thousand
+million    (nm);million
+mince    (adj(f),intj);thin, slim, slender
+mine    (nf);mein appearance, look, mien
+miner    (v);to mine, erode
+mineur    (nadj);minor miner
+minier    (adj);mining
+minimal    (adj);minimal, minimum
+minime    (nadj(f));minor, minimal
+minimiser    (v);to minimize, play down, minimise
+minimum    (nadj);minimum
+ministère    (nm);ministry
+ministériel    (adj);ministerial minister
+ministre    (nm,nf);minister
+minoritaire    (nadj(f));minority
+minorité    (nf);minority
+minuit    (nm);midnight
+minute    (nf);minute
+miracle    (nm);miracle
+miroir    (nm);mirror
+mise    (nf);putting, placing
+miser    (v);to bet, stake
+misère    (nf);poverty, misery
+missile    (nm);missile
+mission    (nf);mission
+mixte    (adj(f));mixed
+mobile    (nadj(f));mobile, portable
+mobilisation    (nf);mobilization, mobilisation, mobilisation
+mobiliser    (v);to mobilize, call up, mobilise
+mobilité    (nf);mobility
+modalité    (nf);mode, method, modality
+mode    (nm,nf);mode, way, fashion
+modèle    (nm);model
+modéré    (nadj);moderate, restrained, reasonable
+modérer    (v);to restrain, moderate, reduce
+moderne    (nadj(f));modern
+modernisation    (nf);modernization, modernisation
+moderniser    (v);to modernize, modernise
+modeste    (adj(f));modest
+modification    (nf);modification
+modifier    (v);to modify, adjust
+mœurs    (nfpl);morals, customs, habits, manners, ways
+moi    (nm,pro);me
+moi-même    (pro);myself
+moindre    (adj(f));lesser, least, slightest
+moine    (nm);monk, friar
+moins    (adji(pl),adv,nm(pl),prep);less
+mois    (nm(pl));month
+moitié    (nf);half
+moment    (nm);moment
+mon    (det);my
+monde    (nm);world, people
+mondial    (adj);world, global
+mondialisation    (nf);internationalization, globalization, internationalisation, globalisation
+monétaire    (adj(f));monetary
+monnaie    (nf);currency, coin, change, money
+monopole    (nm);monopoly
+monsieur    (nm);mister, sir, gentleman
+monstre    (nadj(f));monster
+montage    (nm);assembly, setting, pitching, putting, editing
+montagne    (nf);mountain
+montant    (nadj);upright, upwards, sum, total
+montée    (nf);climb, ascent, rise, raising
+monter    (v);to go up, rise, assemble, climb
+montre    (nf);watch
+montrer    (v);to show
+monument    (nm);monument
+moquer    (v);to mock, make fun of
+moral    (nadj);moral, morale
+morale    (nf);ethics, moral
+morceau    (nm);piece, bit
+mordre    (v);to bite, overlap into
+mort    (adj,nf);dead, death
+mortalité    (nf);mortality, death rate
+mortel    (nadj);mortal, deadly, lethal
+mot    (nm);word
+moteur    (nadj);motor
+motif    (nm);motive, purpose
+motion    (nf);motion
+motivation    (nf);motivation, application
+motiver    (v);to justify, account for, motivate
+mou    (adj,nm);soft
+mourir    (v);to die
+mouton    (nadj);sheep
+mouvement    (nm);movement
+moyen    (adj,nm);means, way, medium
+moyenne    (nf);average
+muet    (nadj);mute, silent, dumb
+multinational    (adj);multinational
+multiple    (nadj(f));multiple
+multiplication    (nf);multiplication
+multiplier    (v);to multiply
+municipal    (adj);municipal
+municipalité    (nf);municipality
+munition    (nf);ammunition, supplies
+mur    (nm);wall
+murmurer    (v);to murmur
+musée    (nm);museum
+musical    (adj);musical
+musicien    (nadj);musician
+musique    (nf);music
+musulman    (nadj);Muslim, Moslem
+mutation    (nf);transfer, transformation, mutation
+mutuel    (adj);mutual
+mutuellement    (adv);mutually, one another
+mystère    (nm);mystery
+mystérieux    (nadj(pl));mysterious, secretive
+mythe    (nm);myth
+naïf    (nadj);naïve, innocent
+naissance    (nf);birth
+naître    (v);to be born
+natal    (adj);native, home
+nation    (nf);nation
+national    (nadj);national
+nationaliste    (nadj(f));nationalist
+nationalité    (nf);nationality
+nature    (nf);nature
+naturel    (nadj);natural
+naturellement    (adv);naturally
+naval    (adj);naval
+navette    (nf);shuttle
+navigation    (nf);navigation
+naviguer    (v);to navigate, sail
+navire    (nm);ship
+nazi    (nadj);Nazi
+ne    (adv);not
+néanmoins    (adv,conj);nevertheless
+néant    (nm);nothingness
+nécessaire    (nadj(f));necessary, required
+nécessairement    (adv);necessarily
+nécessité    (nf);necessity, need
+nécessiter    (v);to require, necessitate
+néerlandais    (nadj(pl));Dutch
+néfaste    (adj(f));harmful, ill-fated
+négatif    (nadj);negative
+négligeable    (adj(f));negligible, trivial
+négliger    (v);to neglect
+négociateur    (nadj);negotiator
+négociation    (nf);negotiation
+négocier    (v);to negotiate
+neige    (nf);snow
+nerveux    (nadj(pl));nervous, irritable
+net    (adj,nm);clear, Internet
+nettement    (adv);clearly, distinctly
+nettoyage    (nm);cleaning, cleansing
+nettoyer    (v);to clean
+neuf    (det,adj,nmi);nine, new
+neutre    (adj(f));neutral
+nez    (nm(pl));nose
+ni    (conj);nor
+nier    (v);to deny
+niveau    (nm);level
+noble    (nadj(f));noble
+nocturne    (nadj(f));nocturnal, nocturne
+nœud    (nm);knot
+noir    (nadj);black
+nom    (nm);name
+nombre    (nm);number
+nombreux    (adj(pl));numerous
+nominal    (nadj);nominal
+nomination    (nf);appointment, nomination
+nommer    (v);to call, name, appoint
+non    (adv,nmi);no, not
+nord    (adji,nm);north
+nord-est    (nmi);north-east
+nord-ouest    (nmi);north-west
+normal    (adj);normal
+normalement    (adv);normally
+norme    (nf);norm, standard
+notable    (nadj(f));notable, noteworthy
+notamment    (adv);notably
+note    (nf);note, grade
+noter    (v);to note, notice
+notion    (nf);notion
+notoire    (adj(f));notorious, well-known
+notre    (det);our
+nôtre    (nadj(f));ours, our own
+nouer    (v);to knot, tie
+nourrir    (v);to feed, nourish
+nourriture    (nf);food
+nous    (pro);we, us
+nous-mêmes    (pro);ourselves
+nouveau    (adj,nm);new
+nouveauté    (nf);novelty, new release
+novembre    (nm);November
+noyau    (nm);core, nucleus, pit
+noyer    (nm,v);walnut, to drown, flood, blur, water down
+nu    (nadj);naked, nude
+nuage    (nm);cloud
+nuance    (nf);shade, hue, nuance
+nucléaire    (adj(f));nuclear
+nuire    (v);to harm
+nuit    (nf);night
+nul    (adj,det,pro);nil, null
+nullement    (adv);not in the least
+numérique    (adj(f));numerical
+numéro    (nm);number
+obéir    (v);to obey, comply with, respond to
+objectif    (adj,nm);objective, aim, goal, lens
+objection    (nf);objection
+objet    (nm);objective, object
+obligation    (nf);obligation, bond
+obligatoire    (adj(f));mandatory, compulsory
+obligé    (nadj);necessary, required
+obliger    (v);to require, force, oblige
+obscur    (adj);dark, vague, obscure
+obscurité    (nf);darkness
+obséder    (v);to obsess, haunt
+observateur    (nadj);observer, observant
+observation    (nf);observation
+observer    (v);to observe, watch
+obsession    (nf);obsession
+obstacle    (nm);obstacle
+obtenir    (v);to get, obtain
+obtention    (nf);obtaining, achievement
+occasion    (nf);chance, opportunity
+occasionner    (v);to cause, give rise to
+occidental    (nadj);western
+occupant    (nadj);occupant, occupier, occupying
+occupation    (nf);occupation, pastime
+occuper    (v);to occupy
+occurrence    (nf);instance, case, occurrence
+océan    (nm);ocean
+octobre    (nm);October
+octroyer    (v);to grant, bestow
+odeur    (nf);smell, odor, odour
+odieux    (adj(pl));hateful, odious
+œil    (nm);eye
+œuf    (nm);egg
+œuvre    (nf);work, task
+œuvrer    (v);to work
+offensive    (nf);offensive, offence
+office    (nm);office, bureau
+officiel    (nadj);official
+officiellement    (adv);officially
+officier    (nm,nf,v);officer, officiate
+offre    (nf);offer
+offrir    (v);to offer
+oh    (intj);oh
+oiseau    (nm);bird
+olympique    (adj(f));Olympic
+ombre    (nm,nf);shade, shadow
+omettre    (v);to leave out, miss out, omit
+on    (pro);one, we
+oncle    (nm);uncle
+onde    (nf);wave
+onze    (det,nmi);eleven
+opérateur    (nm);operator
+opération    (nf);operation
+opérationnel    (adj);operational, operating
+opérer    (v);to operate, carry out
+opinion    (nf);opinion
+opportun    (adj);timely,
+opportunité    (nf);opportunity, timeliness
+opposant    (nadj);opponent, opposing
+opposer    (v);to oppose
+opposition    (nf);opposition
+opter    (v);to opt, decide
+optimisme    (nm);optimism
+optimiste    (nadj(f));optimistic
+option    (nf);option
+optique    (nadj(f));optical, optic, perspective
+or    (conj,nm);gold, hence, thus
+orage    (nm);storm, thunderstorm
+oral    (nadj);oral
+orange    (adji,nf);orange
+orchestre    (nm);orchestra
+ordinaire    (adv,nadj(f));ordinary
+ordinateur    (nadj);computer
+ordonnance    (nf);prescription, organization, edict, ruling, organisation
+ordonner    (v);to ordain, organize, order, organise
+ordre    (nm);order
+oreille    (nf);ear
+organe    (nm);organ
+organique    (adj(f));organic
+organisateur    (nadj);organizer, organizing, organiser, organising
+organisation    (nf);organization, organisation
+organiser    (v);to organize, organise
+organisme    (nm);organism
+orgueil    (nm);pride
+oriental    (nadj);Oriental
+orientation    (nf);orientation, trend
+orienter    (v);to position, give advice, direct, orientate
+originaire    (adj(f));original, first, native to
+original    (nadj);original
+origine    (nf);origin, source
+os    (nm(pl));bone
+oser    (v);to dare
+otage    (nm);hostage
+ôter    (v);to remove, take away, take off, take out
+où    (adv,pro);where
+ou    (conj);or
+ouais    (intj);yeah
+oubli    (nm);forgetting, leaving behind, missing
+oublier    (v);to forget
+ouest    (adji,nm);west
+oui    (adv,nmi);yes
+ours    (adji,nm(pl));bear
+outil    (nm);tool
+outre    (adv,nf,prep);besides
+ouvert    (adj);open
+ouvertement    (adv);openly, overtly
+ouverture    (nf);opening
+ouvrage    (nm);work
+ouvrier    (nadj);worker
+ouvrir    (v);to open
+pacifique    (adj(f));peaceful, peace-loving
+pacte    (nm);pact, treaty
+page    (nm,nf);page
+paiement    (nm);payment
+pain    (nm);bread
+pair    (adj,nm);peer, pair, even
+paire    (nf);pair
+paix    (nf(pl));peace
+palais    (nm(pl));palace, palate
+pâle    (adj(f));pale
+palestinien    (nm);Palestinian
+palier    (nm);landing, level, flat
+panier    (nm);basket
+panique    (nadj(f));panic
+panne    (nf);breakdown, failure
+panneau    (nm);sign, notice, panel
+pantalon    (nm);trousers, pants
+papa    (nm);dad, daddy
+pape    (nm);pope
+papier    (nm);paper
+paquet    (nm);packet
+par    (prep);by
+par-dessus    (adv);over
+paradis    (nm(pl));paradise, heaven
+paradoxe    (nm);paradox
+paragraphe    (nm);paragraph
+paraître    (v);to appear
+parallèle    (nadj(f));parallel, similar
+parallèlement    (adv);in parallel, similarly
+paralyser    (v);to paralyze, paralyse
+paramètre    (nm);parameter
+parc    (nm);park
+parcourir    (v);to cover, travel
+parcours    (nm(pl));journey, course, route
+pardon    (nm);forgiveness
+pardonner    (v);to forgive, excuse
+pareil    (nadj);similar, likewise, peer, equal
+parent    (nadj);parent
+parenthèse    (nf);parenthesis, bracket, aside
+parer    (v);to adorn, put on, to ward off, parry
+parfait    (nadj);perfect
+parfaitement    (adv);perfectly
+parfois    (adv);sometimes
+parfum    (nm);perfume, scent, fragrance
+pari    (nm);bet
+parier    (v);to bet
+parisien    (nadj);Parisian
+parlement    (nm);parliament
+parlementaire    (nadj(f));parliamentary, member of parliament
+parler    (nm,v);to speak
+parmi    (prep);among
+parole    (nf);word
+parquet    (nm);parquet floor, hardwood floor, prosecutor's office
+part    (nf);share
+partage    (nm);division, cutting, sharing
+partager    (v);to share
+partenaire    (nm,nf);partner
+partenariat    (nm);partnership
+parti    (nadj);party
+participant    (nadj);participant
+participation    (nf);participation
+participer    (v);to participate
+particulier    (nadj);particular, peculiar, person
+particulièrement    (adv);particularly
+partie    (nf);part
+partiel    (nadj);partial
+partiellement    (adv);partly
+partir    (v);to leave
+partisan    (nadj);partisan, supporter
+partout    (adv);everywhere
+parvenir    (v);to reach, achieve
+pas    (adv,nm(pl));not, n't, footstep
+passage    (nm);passage, way
+passager    (nadj);passenger, temporary
+passé    (nadj,prep);past
+passe    (nm,nf);pass, channel
+passeport    (nm);passport
+passer    (v);to pass
+passif    (nadj);passive, liabilities
+passion    (nf);passion
+passionnant    (adj);fascinating, exciting
+passionner    (v);to fascinate, grip
+pasteur    (nm);minister, clergyman, pastor
+pâte    (nf);paste, dough, pasta
+patience    (nf);patience
+patient    (nadj);patient
+patrie    (nf);homeland, home country
+patrimoine    (nm);heritage, assets
+patron    (nm);boss
+patte    (nf);paw, foot, leg
+pause    (nf);break, pause
+pauvre    (nadj(f));poor
+pauvreté    (nf);poverty
+pavillon    (nm);country house, villa, wing, pavilion, flag
+payer    (v);to pay
+pays    (nm(pl));country
+paysage    (nm);landscape, scenery, countryside
+paysan    (nadj);farmer, peasant
+peau    (nf);skin
+pêche    (nf);fishing, peach
+péché    (nm);sin
+pêcher    (nm,v);to fish, go fishing, peach tree
+pêcheur    (nadj);fisherman
+peindre    (v);to paint, depict, portray
+peine    (nf);effort, trouble
+peiner    (v);to toil, labor, struggle, labour
+peintre    (nm);painter
+peinture    (nf);painting, paint, picture
+pénal    (adj);penal
+pénaliser    (v);to penalize, punish, penalise
+pencher    (v);to lean, tilt
+pendant    (adj,prep,nm);during, pendant
+pendre    (v);to hang down
+pénétrer    (v);to penetrate
+pénible    (adj(f));hard, difficult, painful, tiresome
+pensée    (nf);thought
+penser    (nm,v);to think
+pension    (nf);pension, room and board, boarding school
+pente    (nf);slope
+pénurie    (nf);shortage
+perception    (nf);perception, collection
+percer    (v);to pierce, drill, break into
+percevoir    (v);to perceive
+perdant    (nadj);losing, loser
+perdre    (v);to lose
+perdu    (nadj);lost, stray, wasted
+père    (nm);father
+performance    (nf);performance
+performant    (adj);productive, efficient
+péril    (nm);peril
+période    (nm,nf);period
+périr    (v);to perish
+permanence    (nf);permanence, duty, service
+permanent    (adj);permanent
+permettre    (v);to allow
+permis    (nm(pl));license, permit, permitted
+permission    (nf);permission, leave
+perpétuel    (adj);perpetual, everlasting, never-ending
+perpétuer    (v);to perpetuate, carry on
+persister    (v);to persist, keep up, linger
+personnage    (nm);character, individual
+personnalité    (nf);personality
+personne    (nf,pro);person, people, anybody, anyone nobody,
+personnel    (nadj);personnel, personal
+personnellement    (adv);personally
+perspective    (nf);perspective, viewpoint
+persuader    (v);to convince, persuade
+perte    (nf);loss
+pertinent    (adj);pertinent, relevant
+perturbation    (nf);disruption, disturbance
+perturber    (v);to disrupt, disturb
+pervers    (nadj(pl));pervert, perverse, perverted
+peser    (v);to weigh
+pessimiste    (nadj(f));pessimistic, pessimist
+petit    (adv,nadj);small, little
+pétition    (nf);petition
+pétrole    (nm);crude oil, petroleum, petrol
+pétrolier    (nadj);oil, oil tanker
+peu    (adv);little
+peuple    (nm);people
+peupler    (v);to populate, inhabit
+peur    (nf);fear
+peut-être    (adv);perhaps, maybe
+phare    (nm);lighthouse, headlight
+pharmaceutique    (nadj(f));pharmaceutical
+phase    (nf);phase
+phénomène    (nm);phenomenon
+philosophe    (nadj(f));philosopher
+philosophie    (nf);philosophy
+philosophique    (adj(f));philosophical
+photo    (nf);photo
+photographe    (nm,nf);photographer
+photographie    (nf);photography
+photographier    (v);to photograph
+phrase    (nf);sentence, phrase
+physique    (nadj(f));physical, physics
+physiquement    (adv);physically
+piano    (adv,nm);piano
+pièce    (nf);piece, part, component, room
+pied    (nm);foot
+piège    (nm);trap
+piéger    (v);to trap, booby-trap
+pierre    (nf);stone
+pile    (nf);pile, stack, battery, tails
+pilier    (nm);pillar
+pilote    (nm,nf);pilot, experimental
+piloter    (v);to fly, pilot, drive
+piquer    (v);to sting, bite, prick, be hot, to steal
+pire    (nadj(f));worse, worst
+pis    (adv,nm(pl));worse
+piste    (nf);track, trail
+pitié    (nf);pity, mercy
+place    (nf);room, space, square, place
+placement    (nm);investment, placing
+placer    (v);to place
+plafond    (nm);ceiling, roof, maximum
+plage    (nf);beach
+plaider    (v);to plead
+plaie    (nf);wound
+plaindre    (v);to pity, feel sorry for, complain
+plainte    (nf);moan, groan, complaint
+plaire    (v);to please
+plaisanter    (v);to joke
+plaisir    (nm);pleasure
+plan    (adj,nm);plan
+planche    (nf);plank, board
+plancher    (nm,v);floor
+planer    (v);to glide, soar
+planète    (nf);planet
+planification    (nf);planning
+planifier    (v);to plan
+plante    (nf);plant
+planter    (v);to plant, pitch
+plaque    (nf);plate, tag, plaque
+plastique    (nadj(f));plastic
+plat    (adj,nm);dish, flat
+plate-forme    (nf);platform
+plateau    (nm);plateau, tray, set, stage
+plein    (adv,nadj,prep);full
+pleinement    (adv);fully, thoroughly
+plénier    (adj);plenary, full
+pleurer    (v);to cry
+pleuvoir    (v);to rain
+plier    (v);to fold, fold up, fold back, bend
+plomb    (nm);lead
+plonger    (v);to dive
+pluie    (nf);rain
+plume    (nm,nf);feather
+plupart    (?);most, the majority of, majority
+plus    (adv);more, no
+plusieurs    (det,adj,pro);several
+plutôt    (adv);rather
+pneu    (nm);tire
+poche    (nf);pocket
+poème    (nm);poem
+poésie    (nf);poetry
+poète    (nm);poet
+poétique    (nadj(f));poetic, poetical, poetics
+poids    (nm(pl));weight
+poignée    (nf);handful, fistful, handle
+poil    (nm);hair, bristle
+poing    (nm);fist, punch
+point    (adv,nm);point
+pointe    (nf);point, tip
+pointer    (nm,v);to mark off, clock in, clock out, aim
+poisson    (nm);fish
+poitrine    (nf);chest, breast, breasts, bosom
+pôle    (nm);pole
+polémique    (nadj(f));controversial, controversy
+police    (nf);police
+policier    (nadj);policeman
+politicien    (nadj);politician
+politique    (nadj(f));politics, political
+politiquement    (adv);politically, diplomatically
+pollution    (nf);pollution
+polonais    (nadj(pl));Polish
+pomme    (nf);apple
+pompe    (nf);pump
+pompier    (adj,nm);fireman, firefighter
+ponctuel    (adj);punctual
+pont    (nm);bridge
+populaire    (nadj(f));popular
+population    (nf);population
+porc    (nm);pig, pork
+port    (nm);harbor, port
+portable    (adj(f),nm);portable, wearable, cell phone
+porte    (nf);door
+porte-parole    (nmi);spokesperson, spokesman, spokeswoman
+portée    (nf);range, reach, scope
+portefeuille    (nm);wallet
+porter    (nm,v);to wear, carry
+porteur    (nm);carrier, holder
+portion    (nf);portion, share
+portrait    (nm);portrait, photograph
+portugais    (nadj(pl));Portuguese
+poser    (v);to put, pose, ask
+positif    (nadj);positive
+position    (nf);position
+posséder    (v);to possess, own, have
+possession    (nf);possession, ownership
+possibilité    (nf);possibility
+possible    (adj(f));possible
+postal    (adj);postal, mail
+poste    (nm,nf);post, position, post office
+poster    (nm,v);poster, to post, mail
+pot    (nm);jar, pot
+potentiel    (nadj);potential
+pouce    (nm);thumb, inch
+poudre    (nf);powder
+poule    (nf);hen, chick
+poulet    (nm);chicken
+poumon    (nm);lung
+pour    (prep);for, in order to
+pourcentage    (nm);percentage, commission, cut
+pourparler    (nm);talk, discussion, negotiation
+pourquoi    (adv,conj,nmi);why
+poursuite    (nf);chase, pursuit
+poursuivre    (v);to pursue
+pourtant    (adv);yet, nonetheless, nevertheless
+pourvoir    (v);to provide, equip, supply, furnish
+poussée    (nf);push, rise, upsurge
+pousser    (v);to push
+poussière    (nf);dust
+pouvoir    (nm,v);can, to be able to
+pratique    (nadj(f));practice, practical
+pratiquement    (adv);practically
+pratiquer    (v);to practice
+préalable    (nadj(f));prior, previous, preliminary, prerequisite
+précaire    (adj(f));precarious, makeshift
+précaution    (nf);precaution
+précédemment    (adv);previously
+précédent    (nadj);precedent, previous
+précéder    (v);to precede
+précieux    (nadj(pl));precious
+précipitation    (nf);haste, precipitation
+précipiter    (v);to quicken, hasten, precipitate
+précis    (nadj(pl));precise
+précisément    (adv);precisely
+préciser    (v);to state, specify, clarify
+précision    (nf);precision
+précoce    (adj(f));early, precocious
+préconiser    (v);to recommend, advocate
+prédécesseur    (nm);predecessor
+prédire    (v);to predict
+préférable    (adj(f));preferable
+préférence    (nf);preference, preferably
+préférer    (v);to prefer
+préfet    (nm);prefect
+préjudice    (nm);loss, harm, damage
+préjugé    (nm);prejudice, bias
+prélèvement    (nm);imposition, levying, withdrawal, removal, deduction
+prélever    (v);to impose, levy, withdraw, remove
+préliminaire    (nadj(f));preliminary, introductory
+prématuré    (nadj);premature
+premier    (det,nadj);first
+premièrement    (adv);first
+prendre    (v);to take
+prénom    (nm);first name
+préoccupation    (nf);worry, concern
+préoccuper    (v);to worry, preoccupy
+préparation    (nf);preparation
+préparer    (v);to prepare
+près    (adv,prep);near, nearby, close by
+prescrire    (v);to order, command, prescribe, stipulate
+présence    (nf);presence
+présent    (nadj);present
+présentation    (nf);presentation
+présentement    (adv);at present, presently
+présenter    (v);to present
+préserver    (v);to preserve
+présidence    (nf);presidency
+président    (nm);president
+présidentiel    (adj);presidential
+présider    (v);to preside
+presque    (adv);almost
+presse    (nf);press
+presser    (v);to squeeze, press
+pression    (nf);pressure
+prestation    (nf);benefit
+prestigieux    (adj(pl));prestigious
+présumer    (v);to presume, assume
+prêt    (adj,nm);ready
+prétendre    (v);to pretend
+prétendu    (nadj);so-called, alleged
+prétention    (nf);claim, pretension
+prêter    (v);to lend
+prétexte    (nadj(f),nm);pretext
+prêtre    (nm);priest
+preuve    (nf);proof
+prévaloir    (v);to prevail
+prévenir    (v);to prevent, warn, to notify
+préventif    (adj);preventive
+prévention    (nf);prevention, custody
+prévisible    (adj(f));predictable, forseeable
+prévision    (nf);forecast, prediction, expectation
+prévoir    (v);to foresee, anticipate
+prévu    (nadj);planned
+prier    (v);to pray
+prière    (nf);prayer
+primaire    (nadj(f));primary
+prime    (nadj(f),nf);free gift, premium, bonus
+primitif    (nadj);primitive
+primordial    (adj);primordial, basic, vital, primary
+prince    (nm);prince
+princesse    (nf);princess
+principal    (nadj);principal
+principalement    (adv);principally, mainly, primarily
+principe    (nm);principle
+printemps    (nm(pl));spring
+prioritaire    (nadj(f));priority, having priority, having right of way
+priorité    (nf);priority
+prise    (nf);grip, hold, seizure, catch
+prison    (nf);prison
+prisonnier    (nadj);prisoner, captive
+privatisation    (nf);privatization, privatisation
+privé    (nadj);private
+priver    (v);to deprive
+privilège    (nm);privilege
+privilégié    (nadj);privileged
+privilégier    (v);to favor, favour
+prix    (nm(pl));price, prize
+probabilité    (nf);probability, likelihood
+probable    (adj(f));probable, likely
+probablement    (adv);probably
+problématique    (nadj(f));problematic, problem
+problème    (nm);problem
+procédé    (nm);processus, process
+procéder    (v);to proceed
+procédure    (nf);procedure
+procès    (nm(pl));trial, proceedings, process
+procès-verbal    (nm);minutes, statement
+processus    (nm(pl));process
+prochain    (nadj);next
+prochainement    (adv);shortly, soon
+proche    (adv,nadj(f),prep);nearby, close
+proclamer    (v);to proclaim, declare
+procurer    (v);to get, bring, procure
+procureur    (nm);prosecutor
+producteur    (nadj);producer
+productif    (adj);productive
+production    (nf);production
+productivité    (nf);productivity
+produire    (v);to product
+produit    (nm);product
+professeur    (nm,nf);professor, teacher
+profession    (nf);profession
+professionnel    (nadj);professional
+profil    (nm);profile, outline, contour
+profit    (nm);profit, benefit
+profiter    (v);to take advantage, profit
+profond    (adv,nadj);deep
+profondément    (adv);profoundly, deeply
+profondeur    (nf);depth
+programmation    (nf);programming
+programme    (nm);program
+programmer    (v);to program, schedule
+progrès    (nm(pl));progress
+progresser    (v);to progress
+progressif    (adj);progressive
+progression    (nf);progression
+progressiste    (nm,nf);progressive
+progressivement    (adv);progressively
+proie    (nf);prey
+projection    (nf);projection, ejection, discharge
+projet    (nm);project
+projeter    (v);to plan, project, throw out
+prolonger    (v);to prolong, extend
+promener    (v);to take for a walk, go for a walk
+promesse    (nf);promise
+prometteur    (nadj);promising
+promettre    (v);to promise
+promoteur    (nm);promoter, instigator, developer
+promotion    (nf);promotion, advertising
+promouvoir    (v);to promote
+prôner    (v);to laud, extol, advocate, commend
+prononcer    (v);to pronounce
+propagande    (nf);propaganda
+propagation    (nf);propagation, spreading
+propager    (v);to propagate, spread
+prophète    (nm);prophet
+propice    (adj(f));favorable, auspicious, propitious
+proportion    (nf);proportion
+proportionnel    (adj);proportional
+propos    (nm(pl));remark
+proposer    (v);to propose
+proposition    (nf);proposition, proposal
+propre    (nadj(f));clean, proper
+proprement    (adv);cleanly, neatly, properly
+propriétaire    (nm,nf);owner
+propriété    (nf);property
+prospérité    (nf);prosperity
+prostitué    (nadj);prostitute
+prostitution    (nf);prostitution
+protecteur    (nadj);protective, protector, guardian
+protection    (nf);protection
+protégé    (nadj);protected, protégé
+protéger    (v);to protect
+protestant    (nadj);Protestant
+protestation    (nf);protest, protestation
+protester    (v);to protest
+protocole    (nm);etiquette, protocol
+prouver    (v);to prove
+provenance    (nf);origin
+provenir    (v);to be from, come from
+province    (nf);province
+provincial    (nadj);provincial
+provision    (nf);stock, supply
+provisoire    (adj(f));temporary, provisional
+provisoirement    (adv);temporarily, provisionally
+provocation    (nf);provocation
+provoquer    (v);to provoke
+proximité    (nf);proximity, nearness, closeness
+prudence    (nf);prudence, care, caution
+prudent    (adj);prudent, careful, cautious
+psychologie    (nf);psychology
+psychologique    (adj(f));psychological
+public    (nadj);public, audience
+publication    (nf);publication
+publicitaire    (nadj(f));advertising, promotional
+publicité    (nf);advertising, advertisement, publicity
+publier    (v);to publish
+publique    (adj,nf);public
+publiquement    (adv);publicly
+puis    (adv);then, so
+puiser    (v);to draw, take
+puisque    (conj);since
+puissance    (nf);power
+puissant    (nadj);powerful
+puits    (nm(pl));well, shaft, pit
+punir    (v);to punish
+punition    (nf);punishment
+pur    (nadj);pure
+purement    (adv);purely
+purger    (v);to purge, bleed, drain
+putain    (nf);whore, bitch, stupid
+quai    (nm);platform, quay, embankment
+qualification    (nf);qualification
+qualifier    (v);to qualify
+qualité    (nf);quality
+quand    (adv,conj);when
+quant    (adv);as for
+quantité    (nf);quantity
+quarantaine    (nf);about forty
+quarante    (det,nmi);forty
+quart    (nadj);quarter
+quartier    (nm);district, quarter
+quasi    (adv,nm);almost, nearly
+quasiment    (adv);almost, early
+quatorze    (det,nmi);fourteen
+quatre    (det,nmi);four
+quatrième    (det,nm,nf);fourth
+que    (adv,conj,pro);that, which, who, whom
+québécois    (nadj(pl));Quebecker, Quebecer, Québécois
+quel    (det,adj,pro);which, what
+quelconque    (adj(f));any, some
+quelqu'un    (pro);somebody, someone
+quelque    (adv,adj,det);some
+quelquefois    (adv);sometimes
+quelques-uns    (pro);some, a few
+querelle    (nf);quarrel
+question    (nf);question
+questionner    (v);to question
+quête    (nf);quest, pursuit, collection
+queue    (nf);tail, handle, stalk, stem, rear
+qui    (pro);who, whom
+quiconque    (pro);whoever, anyone who
+quinzaine    (nf);about fifteen, two weeks
+quinze    (det,nmi);fifteen
+quitter    (v);to leave
+quoi    (pro);what
+quoique    (conj);although, though
+quota    (nm);quota
+quotidien    (nadj);daily
+quotidiennement    (adv);daily, every day
+raccrocher    (v);to hang up
+race    (nf);breed, race
+racheter    (v);to repurchase, buy back, redeem
+racial    (adj);racial
+racine    (nf);root
+racisme    (nm);racism
+raciste    (nadj(f));racist
+raconter    (v);to tell
+radical    (nadj);radical
+radicalement    (adv);radically
+radio    (adji,nm,nf);radio
+radioactif    (adj);radioactive
+rage    (nf);rage, fury, rabies
+raide    (adj(f));stiff, straight
+rail    (nm);rail, track
+raison    (nf);reason
+raisonnable    (adj(f));reasonable, fair
+raisonnement    (nm);reasoning
+ralentir    (v);to slow down
+ralentissement    (nm);slowing down
+rallier    (v);to rally, win over, join
+ramasser    (v);to pick up, collect, gather
+ramener    (v);to bring back, return, take back
+rang    (nm);rank, row
+ranger    (nm,v);to tidy up, put away
+rapide    (nadj(f),nm);fast, quick
+rapidement    (adv);quickly, rapidly
+rapidité    (nf);speed, quickness
+rappel    (nm);reminder, summary, recall, return, remember
+rappeler    (v);to recall, call back
+rapport    (nm);relationship, report
+rapporter    (v);to bring back, report
+rapporteur    (nadj);telltale, rapporteur
+rapprochement    (nm);bringing together, coming closer, parallel
+rapprocher    (v);to bring closer, get closer
+rare    (adj(f));rare
+rarement    (adv);rarely, seldom
+raser    (v);to shave, raze
+rassemblement    (nm);gathering, collecting, assembling
+rassembler    (v);to gather together
+rassurant    (adj);reassuring, comforting
+rassurer    (v);to reassure, calm down
+rat    (adj(f),nm);rat
+rater    (v);to miss, misfire
+ratification    (nf);ratification
+ratifier    (v);to ratify
+rationnel    (nadj);rational
+rattacher    (v);to attach, join, tie
+rattraper    (v);to recapture, recover, catch up, make up for
+ravager    (v);to ravage, devastate
+ravir    (v);to delight, rob
+rayer    (v);to scratch, streak, stripe, to erase, strike out
+rayon    (nm);ray, beam, radius, department, section, shelf
+rayonnement    (nm);radiance
+réacteur    (nm);reactor, jet engine
+réaction    (nf);reaction
+réaffirmer    (v);to reaffirm, reassert
+réagir    (v);to react
+réalisateur    (nadj);director
+réalisation    (nf);realization, achievement, realisation
+réaliser    (v);to realize, achieve, realise
+réaliste    (nadj(f));realist, realistic
+réalité    (nf);reality
+rebelle    (nadj(f));rebel, rebellious
+rébellion    (nf);rebellion
+récemment    (adv);recently
+récent    (adj);recent
+récepteur    (nm);receiver, receiving
+réception    (nf);reception
+récession    (nf);recession
+recette    (nf);recipe
+recevoir    (v);to receive
+recherche    (nf);research, search
+rechercher    (v);to search for
+réciproque    (nadj(f));mutual, reciprocal, the opposite
+récit    (nm);account, narrative
+réclamer    (v);to ask for, call for, to claim
+récolte    (nf);harvest, crop
+récolter    (v);to harvest, gather
+recommandation    (nf);recommendation
+recommander    (v);to recommend
+recommencer    (v);to resume, start again
+récompense    (nf);reward, award
+récompenser    (v);to reward, recompense
+réconciliation    (nf);reconciliation
+réconcilier    (v);to reconcile
+reconduire    (v);to renew, drive back
+reconnaissance    (nf);recognition, gratitude
+reconnaissant    (adj);grateful
+reconnaître    (v);to recognize, recognise
+reconstituer    (v);to reconstitute, restore, reconstruct
+reconstruction    (nf);reconstruction
+reconstruire    (v);to rebuild, reconstruct
+record    (nm);record
+recourir    (v);to turn to, run again
+recours    (nm(pl));resort, recourse
+recouvrir    (v);to cover, hide, conceal
+recrutement    (nm);recruiting, recruitment
+recruter    (v);to recruit
+rectifier    (v);to rectify, correct
+reçu    (nm);receipt, accepted
+recueillir    (v);to collect, gather
+recul    (nm);backward movement, setback, slip
+reculer    (v);to move back, back up
+récupération    (nf);recovery, retrieval, salvage
+récupérer    (v);to get back, recover, recuperate
+rédacteur    (nm);editor, writer, drafter, compiler
+rédaction    (nf);writing, composition
+redevenir    (v);to become again
+rédiger    (v);to write, draw up
+redire    (v);to say again, repeat
+redonner    (v);to give back, return, give more
+redoutable    (adj(f));fearsome, formidable
+redouter    (v);to dread, fear
+redressement    (nm);straightening up, upturn, righting
+redresser    (v);to straighten, set right, redress, turn around
+réduction    (nf);reduction
+réduire    (v);to reduce
+réduit    (nm);reduced, scaled-down, cut-down, tiny room, hideout
+réel    (nadj);real
+réellement    (adv);really
+refaire    (v);to redo, make again
+référence    (nf);reference
+référendum    (nm);referendum
+référer    (v);to refer, consult, refer to
+refermer    (v);to close again, shut again, close up
+réfléchi    (adj);thoughtful, well thought-out
+réfléchir    (v);to reflect
+reflet    (nm);reflection, glint, highlight
+refléter    (v);to reflect
+réflexe    (nadj(f));reflex
+réflexion    (nf);reflection
+réforme    (nf);reform
+réformer    (v);to re-form, reform, discharge
+réformiste    (nadj(f));reformist
+refuge    (nm);refuge
+réfugier    (v);to take refuge, refuge
+refus    (nm(pl));refusal
+refuser    (v);to refuse
+regagner    (v);to win again, regain, get back, make up
+regard    (nm);look, glance
+regarder    (v);to look, watch
+régime    (nm);regime
+régiment    (nm);regiment
+région    (nf);region
+régional    (nadj);regional
+régir    (v);to govern
+registre    (nm);log, register, registry
+réglé    (adj);regular, steady, well-ordered, ruled
+règle    (nf);rule
+règlement    (nm);rule, regulation
+réglementaire    (adj(f));regulation, control, statutory
+réglementation    (nf);regulation
+réglementer    (v);to regulate, control
+régler    (v);to pay, adjust, settle
+règne    (nm);reign
+régner    (v);to reign
+regret    (nm);regret, regretfully
+regrettable    (adj(f));unfortunate, regrettable
+regretter    (v);to regret
+regroupement    (nm);regrouping, reassembly
+regrouper    (v);to group together, regroup
+régulier    (adj);regular
+régulièrement    (adv);regularly
+reine    (nf);queen
+réitérer    (v);to reiterate, repeat
+rejet    (nm);rejection, reject
+rejeter    (v);to reject
+rejoindre    (v);to rejoin, reunite
+réjouir    (v);to delight, rejoice
+relâcher    (v);to loosen, release, let go
+relais    (nm(pl));shift, relay
+relance    (nf);boost, reminder, recovery
+relancer    (v);to throw back, restart, relaunch
+relater    (v);to relate, recount
+relatif    (nadj);relative
+relation    (nf);relationship
+relativement    (adv);relatively
+reléguer    (v);to relegate
+relevé    (nadj);statement, list, relieved, put in relief, rolled up
+relever    (v);to raise
+relier    (v);to connect
+religieux    (nadj(pl));religious
+religion    (nf);religion
+relire    (v);to reread, proofread
+remarquable    (adj(f));remarkable, outstanding
+remarque    (nf);remark
+remarquer    (v);to remark, to notice, point out
+remboursement    (nm);reimbursement
+rembourser    (v);to reimburse, pay back, pay off, repay
+remède    (nm);cure, remedy
+remédier    (v);to cure, remedy, put right
+remercier    (v);to thank
+remettre    (v);to deliver, replace, set, put
+remise    (nf);presentation, delivery
+remonter    (v);to go back up
+remplacement    (nm);replacement, standing in
+remplacer    (v);to replace
+remplir    (v);to fill, fulfill
+remporter    (v);to take away, win
+rémunération    (nf);remuneration, payment, pay
+rémunérer    (v);to remunerate, pay
+rencontre    (nm);meeting
+rencontrer    (v);to meet
+rendement    (nm);yield, output
+rendez-vous    (nm(pl));appointment
+rendre    (v);to render, return, yield, give up
+renfermer    (v);to contain, shut, lock, enclose
+renforcement    (nm);reinforcement, strengthening
+renforcer    (v);to reinforce, strengthen
+renfort    (nm);help, back-up, support
+renier    (v);to disown, repudiate, go back on
+renoncer    (v);to give up, renounce
+renouveau    (nm);renewal
+renouveler    (v);to renew
+renouvellement    (nm);replacement, recurrence, repetition
+rénovation    (nf);renovation, restoration
+renseignement    (nm);information
+renseigner    (v);to give information, get information
+rentabilité    (nf);profitability
+rentable    (adj(f));profitable
+rente    (nf);annuity, pension
+rentrée    (nf);reopening, return, start
+rentrer    (v);to go in, come in, come back, return
+renverser    (v);to knock down, turn over, overturn
+renvoi    (nm);dismissal, expulsion, suspension, crossreference
+renvoyer    (v);to send back, dismiss
+répandre    (v);to spread, spill
+réparation    (nf);repair, repairing, correction, compensation
+réparer    (v);to repair, fix, correct, make up
+répartir    (v);to distribute, spread out, share out, divide up
+repartir    (v);to set off again, start up again
+répartition    (nf);distribution, spreading
+repas    (nm(pl));meal
+repasser    (v);to cross again, retake, show again, iron
+repenser    (v);to rethink
+répercussion    (nf);repercussion
+repère    (nm);reference, benchmark, landmark
+repérer    (v);to spot, pick out, locate, find
+répéter    (v);to repeat
+répétition    (nf);repetition, rehearsal
+replacer    (v);to replace, put back
+repli    (nm);bend, twist, wrinkle, fold, fallback
+replier    (v);to fold, roll up, fold up, withdraw
+réplique    (nf);reply, retort, replica
+répliquer    (v);to reply
+répondre    (v);to answer
+réponse    (nf);answer, response
+report    (nm);postponement, deferment
+reportage    (nm);report, reporting
+reporter    (nm,nf,v);to report, to postpone
+repos    (nm(pl));rest
+reposer    (v);to rest
+repousser    (v);to push away, postpone
+reprendre    (v);to resume, recover, start again, take back
+représentant    (nm);representative
+représentatif    (adj);representative
+représentation    (nf);representation
+représenter    (v);to represent
+répression    (nf);repression, suppression, crack-down
+réprimer    (v);to suppress, repress
+reprise    (nf);resumption, renewal, time
+reproche    (nm);reproach
+reprocher    (v);to blame, reproach
+reproduction    (nf);reproduction
+reproduire    (v);to reproduce, repeat
+républicain    (nadj);republican
+république    (nf);republic
+réputation    (nf);reputation
+réputé    (adj);famous, renowned, reputed
+requérir    (v);to require
+requête    (nf);request, petition
+réseau    (nm);network
+réserve    (nf);reserve
+réserver    (v);to reserve, keep
+réservoir    (nm);tank, reservoir
+résidence    (nf);residence, block of flats
+résident    (nm);foreign national, foreign resident
+résider    (v);to reside
+résistance    (nf);resistance
+résistant    (nadj);robust, sturdy, resistance fighter
+résister    (v);to resist
+résolument    (adv);resolutely
+résolution    (nf);resolution
+résoudre    (v);to solve, resolve
+respect    (nm);respect
+respecter    (v);to respect
+respectif    (adj);respective
+respectivement    (adv);respectively
+respectueux    (adj(pl));respectful
+respirer    (v);to breath
+responsabilité    (nf);responsibility
+responsable    (nadj(f));responsible
+ressembler    (v);to look like, resemble
+ressentir    (v);to feel
+resserrer    (v);to tighten up, strengthen
+ressort    (nm);spring, resort, spirit
+ressortir    (v);to go out again, come out again, take out again
+ressource    (nf);resource
+restant    (adj,nm);remaining, the rest, the remainder
+restaurant    (nm);restaurant
+restauration    (nf);restoration, catering
+restaurer    (v);to restore, feed
+reste    (nm);rest, stay
+rester    (v);to stay
+restituer    (v);to return, restore, refund
+restreindre    (v);to restrict, cut down, decrease
+restriction    (nf);restriction
+restructuration    (nf);restructure, restructuring
+résultat    (nm);result, follow-up
+résulter    (v);to result
+résumer    (v);to summarize, sum up, summarise
+rétablir    (v);to restore, re-establish
+rétablissement    (nm);restoring, re-establishment, recovery
+retard    (nm);delay
+retarder    (v);to delay, hold up
+retenir    (v);to retain, hold back, remember
+retenue    (nf);deduction, restraint, self-control
+réticence    (nf);reluctance, hesitation
+retirer    (v);to remove, withdraw
+retombée    (nf);fallout, consequences, effects
+retomber    (v);to fall again, fall down again
+retour    (nm);return
+retourner    (v);to return, go back
+retrait    (nadj);withdrawal
+retraité    (nadj);retired
+retraite    (nf);retirement, pension
+retrancher    (v);to deduct, remove, to entrench
+retrouver    (v);to find, recall
+réunion    (nf);meeting
+réunir    (v);to gather, reunite, raise
+réussi    (adj);successful
+réussir    (v);to succeed
+réussite    (nf);success
+revanche    (nf);revenge, return
+rêve    (nm);dream
+réveil    (nm);waking up, awakening, alarm clock
+réveiller    (v);to wake up
+révélation    (nf);diclosure, revelation
+révéler    (v);to reveal
+revendication    (nf);claim, demand
+revendiquer    (v);to claim
+revenir    (v);to come back
+revenu    (nm);income, revenue
+rêver    (v);to dream
+revers    (nm(pl));back, reverse, setback
+revêtir    (v);to take on, assume
+réviser    (v);to review, revise, overhaul
+révision    (nf);review, revision, overhaul
+revivre    (v);to live again, come back life, revive
+revoir    (v);to see again, revise
+révolte    (nf);revolt
+révolter    (v);to revolt, rebel, outrage
+révolution    (nf);revolution
+révolutionnaire    (nadj(f));revolutionary
+revue    (nf);review, magazine, journal
+rhétorique    (nadj(f));rhetorical, rhetoric
+riche    (nadj(f));rich
+richesse    (nf);wealth, richness
+rideau    (nm);curtain
+ridicule    (nadj(f));ridiculous, silly
+rien    (adv,nm,pro);nothing
+rigide    (adj(f));rigid, stiff
+rigoler    (v);to laugh,
+rigoureux    (adj(pl));rigorous, harsh, strict
+rigueur    (nf);harshness, severity, rigidness, rigor, strictness
+rire    (nm,v);to laugh
+risque    (nm);risk
+risquer    (v);to risk
+rival    (nadj);rival
+rive    (nf);shore, bank
+rivière    (nf);river
+robe    (nf);dress
+rocher    (nm);rock, boulder
+rock    (nm);rock music
+roi    (nm);king
+rôle    (nm);role
+romain    (adj);Roman
+roman    (adj,nm);novel
+romancier    (nm);novelist
+romantique    (nadj(f));romantic
+rompre    (v);to break
+rond    (adv,nadj);round
+rose    (nadj(f),nf);rose, pink
+roue    (nf);wheel
+rouge    (nadj(f));red
+rouler    (v);to roll
+route    (nf);road
+routier    (nadj);road, long-distance lorry or truck driver
+routine    (nf);routine
+rouvrir    (v);to reopen
+royal    (adj);royal
+royaume    (nm);kingdom
+rubrique    (nf);column, heading, rubric
+rude    (nadj(f));rough, harsh, hard, tough, rude
+rue    (nf);street
+ruine    (nf);ruin, ruins
+ruiner    (v);to ruin, bankrupt oneself
+rumeur    (nf);rumor, rumour
+rupture    (nf);break, rupture
+rural    (nadj);rural
+russe    (nadj(f));Russian
+rythme    (nm);rhythm, rate
+sable    (adji,nm);sand
+sac    (nm);bag, sack
+sacré    (nadj);sacred
+sacrifice    (nm);sacrifice
+sacrifier    (v);to sacrifice, give away
+sage    (nadj(f));wise, good, sound, sensible
+sagesse    (nf);wisdom, moderation
+sain    (adj);healthy, sane
+saint    (nadj);saint, holy
+saisir    (v);to take hold of, grab, seize
+saison    (nf);season
+saisonnier    (adj);seasonal
+salaire    (nm);salary, wage
+salarial    (adj);salary
+salarié    (nadj);wage-earning, employee
+salaud    (nadj);bastard
+sale    (nadj(f));dirty
+salle    (nf);room
+salon    (nm);lounge, living room
+saluer    (v);to greet, salute
+salut    (intj,nm);salute, hi, bye
+samedi    (nm);Saturday
+sanction    (nf);sanction
+sanctionner    (v);to sanction, punish, approve
+sang    (nm);blood
+sanglant    (adj);bloody, cruel, covered in blood
+sanitaire    (nadj(f));health, sanitary, medical
+sans    (prep);without
+santé    (nf);health
+satellite    (nm);satellite
+satisfaction    (nf);satisfaction
+satisfaire    (v);to satisfy
+satisfaisant    (adj);satisfactory, satisfying
+sauf    (adj,prep);except
+saut    (nm);jump, leap
+sauter    (v);to jump
+sauvage    (nadj(f));savage, wild
+sauver    (v);to rescue, save
+sauvetage    (nm);rescue, salvaging
+savant    (nadj);scientist, scholar, learned, scholarly clever, skilful,
+savoir    (nm,v);to know
+savoir-faire    (nmi);know-how
+scandale    (nm);scandal, uproar
+scandaleux    (adj(pl));scandalous, outrageous
+scandaliser    (v);to shock, scandalize, scandalise
+scénario    (nm);scenario, script
+scène    (nf);scene
+scepticisme    (nm);scepticism
+sceptique    (nadj(f));sceptical, sceptic
+schéma    (nm);diagram, outline
+science    (nf);science
+scientifique    (nadj(f));scientific
+scolaire    (adj(f));school, educational, academic
+score    (nm);score
+scrutin    (nm);ballot, poll
+se    (pro);oneself, himself, herself, itself, themselves
+séance    (nf);session, meeting
+sec    (adj,adv,nm);dry
+sécheresse    (nf);dryness, drought
+second    (adj,det,nm);second
+secondaire    (nadj(f));secondary
+seconde    (det,nf);second
+secouer    (v);to shake
+secours    (nm(pl));help, aid, assistance
+secret    (nadj);secret
+secrétaire    (nm,nf);secretary
+secrétariat    (nm);secretaryship, secretariat, secretarial offices, secretary's office
+secteur    (nm);sector
+section    (nf);section
+sécuritaire    (adj(f));safe
+sécurité    (nf);security, safety
+séduire    (v);to seduce, charm, captivate, appeal to
+seigneur    (nm);lord
+sein    (nm);breast, bosom
+seize    (det,nmi);sixteen
+séjour    (nm);stay
+sel    (nm);salt
+sélection    (nf);selection
+sélectionner    (v);to select
+selon    (prep);according to
+semaine    (nf);week
+semblable    (nadj(f));similar
+semblant    (nm);semblance, pretence
+sembler    (v);to seem
+semer    (v);to sow, scatter, spread
+semestre    (nm);semester, six-month period
+séminaire    (nm);seminar, seminary
+sénateur    (nm);senator
+sens    (nm(pl));sense, meaning
+sensation    (nf);sensation
+sensibilité    (nf);sensitivity, sensibility
+sensible    (nadj(f));sensitive
+sensiblement    (adv);approximately, more or less, noticeably
+sentiment    (nm);feeling
+sentir    (v);to feel, smell
+séparation    (nf);separation
+séparatiste    (nadj(f));separatist
+séparer    (v);to separate
+sept    (det,nmi);seven
+septembre    (nm);September
+septième    (det,nm,nf);seventh
+séquence    (nf);sequence
+serbe    (adj(f));Serbian
+sérénité    (nf);serenity, peacefulness
+série    (nf);series
+sérieusement    (adv);seriously
+sérieux    (nadj(pl));serious
+serment    (nm);oath, vow
+serré    (adj,adv);tight, packed, crowded
+serre    (nf);greenhouse
+serrer    (v);to tighten, squeeze
+serveur    (nm);waiter, server
+service    (nm);service
+servir    (v);to serve
+session    (nf);session
+seuil    (nm);doorstep, threshold
+seul    (adj);alone, only
+seulement    (adv);only
+sévère    (adj(f));severe
+sévèrement    (adv);severely, harshly
+sévir    (v);to act ruthlessly, be rife
+sexe    (nm);sex
+sexuel    (adj);sexual
+si    (adv,conj,nmi);if, whether
+siècle    (nm);century
+siège    (nm);seat, bench
+siéger    (v);to sit
+sien    (nadj);his, hers
+signal    (nm);signal
+signaler    (v);to indicate, signal
+signataire    (nm,nf);signatory
+signature    (nf);signature
+signe    (nm);sign
+signer    (v);to sign
+significatif    (adj);significative
+signification    (nf);significance
+signifier    (v);to mean
+silence    (nm);silence
+silencieux    (nadj(pl));silent, noiseless, silencer
+sillage    (nm);wake, slipstream
+similaire    (adj(f));similar
+simple    (nadj(f));simple
+simplement    (adv);simply
+simplicité    (nf);simplicity, straightforwardness
+simplifier    (v);to simplify
+simultanément    (adv);simultaneously
+sincère    (adj(f));sincere
+sincèrement    (adv);sincerely
+sincérité    (nf);sincerity
+singe    (nm);monkey
+singulier    (nadj);unique, singular
+sinistre    (nadj(f));disaster, sinister
+sinon    (conj);otherwise, or else
+site    (nm);site
+situation    (nf);situation
+situer    (v);to situate, locate
+six    (det,nmi);six
+sixième    (det,nm,nf);sixth
+ski    (nm);ski, skiing
+slogan    (nm);slogan
+social    (nadj);social
+socialisme    (nm);socialism
+socialiste    (nadj(f));socialist
+société    (nf);society
+sœur    (nf);sister
+soi    (nmi,pro);one, oneself, self
+soi-disant    (adji);so-called, supposedly
+soif    (nf);thirst
+soigner    (v);to treat, look after, take care over
+soigneusement    (adv);tidily, neatly, carefully
+soin    (nm);care
+soir    (nm);evening
+soirée    (nf);evening
+soit    (adv,conj);either...or
+soixante    (det,nmi);sixty
+soixante-dix    (det,nmi);seventy
+sol    (nm);floor, ground, soil
+solaire    (adj(f));solar
+soldat    (nm);soldier
+solde    (nm,nf);balance, pay, sale
+soleil    (nm);sun
+solidaire    (adj(f));interdependent, jointly dependent
+solidarité    (nf);solidarity
+solide    (nadj(f));solid
+solitaire    (nadj(f));solitary, lone, lonely
+solitude    (nf);solitude, loneliness
+solliciter    (v);to request, solicit, appeal
+solution    (nf);solution
+sombre    (adj(f));dark
+sombrer    (v);to darken, to sink, lapse
+sommaire    (nadj(f));summary, brief, cursory
+somme    (nm,nf);amount, sum, nap
+sommeil    (nm);sleep, sleepiness
+sommet    (nm);summit
+son    (det,nm);his, her, its, sound, bran
+sondage    (nm);poll
+sonder    (v);to probe, poll, sound out
+songer    (v);to dream
+sonner    (v);to ring
+sonore    (nadj(f));sound, resonant, sonorous, voiced
+sorcier    (nm);sorcerer, witch
+sort    (nm);fate, curse
+sortant    (nadj);outgoing
+sorte    (nf);sort, kind
+sortie    (nf);exit
+sortir    (v);to go out, leave
+sou    (nm);penny
+souci    (nm);worry, concern
+soucier    (v);to care about, show concern for
+soucieux    (adj(pl));concerned, worried
+soudain    (adj,adv);sudden, suddenly
+souffle    (nm);breath, puff
+souffler    (v);to blow, puff
+souffrance    (nf);suffering
+souffrir    (v);to suffer
+souhait    (nm);wish
+souhaitable    (adj(f));desirable
+souhaiter    (v);to wish
+soulagement    (nm);relief
+soulager    (v);to relieve, soothe, ease
+soulever    (v);to lift up
+souligner    (v);to underline, stress
+soumettre    (v);to submit
+soumission    (nf);submission
+soupçon    (nm);suspicion
+soupçonner    (v);to suspect
+soupe    (nf);soup
+souple    (adj(f));supple, agile, soft, floppy, flexible
+souplesse    (nf);suppleness, flexibility
+source    (nf);source, spring
+sourd    (nadj);deaf
+sourire    (nm,v);smile, to smile
+souris    (nf(pl));mouse
+sous    (prep);under
+sous-estimer    (v);to underestimate
+sous-marin    (nadj);submarine, underwater
+sous-sol    (nm);basement, lower ground floor, subsoil, underground
+souscrire    (v);to subscribe
+soustraire    (v);to substract, remove, shield, escape from
+soutenir    (v);to sustain, support
+souterrain    (nadj);underground, underground passage
+soutien    (nm);support
+souvenir    (nm,v);memory, to remember
+souvent    (adv);often
+souverain    (nadj);sovereign, supreme ruler, monarch
+souveraineté    (nf);sovereignty
+soviétique    (nadj(f));Soviet
+spatial    (adj);spatial, space
+spécial    (adj);special
+spécialement    (adv);especially, particularly
+spécialiser    (v);to specialize, specialise
+spécialiste    (nadj(f));specialist
+spécialité    (nf);specialty
+spécification    (nf);specification
+spécifier    (v);to specify
+spécifique    (adj(f));specific
+spectacle    (nm);sight, show
+spectaculaire    (adj(f));spectacular
+spectateur    (nm);member of the audience, spectator, onlooker
+spectre    (nm);spectrum, ghost
+spéculation    (nf);speculation
+sphère    (nf);sphere
+spirituel    (nadj);witty, spiritual, sacred
+spontané    (adj);spontaneous
+sport    (adji,nm);sport
+sportif    (nadj);sports, athletic, competitive
+stabilisation    (nf);stabilization, stabilisation
+stabiliser    (v);to stabilize, stabilise
+stabilité    (nf);stability
+stable    (adj(f));stable
+stade    (nm);stadium, stage
+stage    (nm);internship, training course
+standard    (adji,nm);standard, switchboard
+star    (nf);star
+station    (nf);station
+statistique    (nf);statistics, statistical
+statue    (nf);statue
+statut    (nm);status
+stimuler    (v);to stimulate
+stipuler    (v);to state, stipulate, specify
+stock    (nm);stock, to supply
+stopper    (v);to stop, halt
+stratégie    (nf);strategy
+stratégique    (adj(f));strategic
+stress    (nm(pl));stress
+strict    (adj);strict, absolute
+strictement    (adv);strictly
+structure    (nf);structure
+structurel    (adj);structural
+studio    (nm);studio, studio apartment
+stupéfiant    (nadj);drug, narcotic, stunning, astounding
+stupide    (adj(f));stupid, silly, bemused
+style    (nm);style
+subir    (v);to undergo, be subjected to, suffer
+subit    (adj);sudden
+subsister    (v);to subsist, remain
+substance    (nf);substance
+substantiel    (adj);substantial
+substituer    (v);to substitute
+substitution    (nf);substitution, mix-up
+subtil    (adj);subtle, nice
+subvention    (nf);subsidy
+succéder    (v);to succeed, take over
+succès    (nm(pl));success
+successeur    (nm);successor
+successif    (adj);successive
+succession    (nf);succession
+successivement    (adv);successively
+sucre    (nm);sugar
+sud    (adji,nm);south
+sud-est    (nmi);south-east
+sud-ouest    (nmi);south-west
+suédois    (nadj(pl));Swedish, Swede
+suffire    (v);to be sufficient, suffice
+suffisamment    (adv);sufficiently
+suffisant    (adj);sufficient
+suffrage    (nm);vote
+suggérer    (v);to suggest
+suggestion    (nf);suggestion
+suicide    (nm);suicide
+suicider    (v);to commit suicide
+suisse    (adj(f));Swiss
+suite    (nf);result, follow-up, rest
+suivant    (nadj,prep);following
+suivi    (nadj);follow-up, consistent, continuous
+suivre    (v);to follow
+sujet    (nm);subject, topic
+super    (adji,nm);great
+superbe    (nadj(f));superb, magnificent, handsome, gorgeous
+superficiel    (adj);superficial, shallow
+supérieur    (nadj);superior
+supplément    (nm);supplement, extra
+supplémentaire    (adj(f));additional
+supplier    (v);to beg, implore
+support    (nm);support, stand
+supporter    (nm,v);to support, endure
+supposer    (v);to suppose, assume
+suppression    (nf);deletion, suppression
+supprimer    (v);to remove, withdraw
+suprême    (nadj(f));supreme
+sûr    (adj);sure
+sur    (adj,prep);on, upon
+surcroît    (nm);extra, additional
+sûrement    (adv);surely
+sûreté    (nf);safety, reliability
+surface    (nf);surface
+surgir    (v);to spring up
+surmonter    (v);to overcome, top, surmount
+surplus    (nm(pl));surplus
+surprenant    (adj);surprising
+surprendre    (v);to surprise
+surpris    (adj(pl));surprised, amazed
+surprise    (nf);surprise
+sursis    (nm(pl));reprieve, deferment
+surtout    (adv,nm);especially, above all
+surveillance    (nf);surveillance, monitoring
+surveiller    (v);to watch
+survenir    (v);to occur, take place, appear
+survie    (nf);survival
+survivant    (nadj);survivor, surviving
+survivre    (v);to survive
+susceptible    (adj(f));sensitive, touchy
+susciter    (v);to arouse, provoke
+suspect    (nadj);suspicious, suspect
+suspendre    (v);to suspend, postpone
+suspens    (nm(pl));suspension, abeyance
+suspension    (nf);hanging, suspending, breaking off, postponement, suspension
+symbole    (nm);symbol
+symbolique    (nadj(f));symbolic
+symboliser    (v);to symbolize, symbolise
+sympathie    (nf);liking, warmth, friendship, sympathie
+sympathique    (nadj(f));likeable, nice, pleasant
+symptôme    (nm);symptom
+syndical    (adj);(trade-) union
+syndicat    (nm);union
+syndrome    (nm);syndrome
+synonyme    (nadj(f));synonymous, synonym
+synthèse    (nf);summary, synthesis
+syrien    (nadj);Syrian
+systématique    (nadj(f));systematic
+systématiquement    (adv);systematically
+système    (nm);system
+tabac    (nm);tobacco
+table    (nf);table
+tableau    (nm);frame, picture, painting, panel
+tache    (nf);stain, spot, mark
+tâche    (nf);task
+tâcher    (v);to endeavor
+tactique    (nadj(f));tactics, tactical
+taille    (nf);size, height
+tailler    (v);to cut, carve, engrave, sharpen, trim
+taire    (v);to keep quiet
+talent    (nm);talent
+tandis    (x);while
+tant    (adv);so much, so many
+tante    (nf);aunt
+tantôt    (adv);this afternoon, sometimes
+taper    (v);to beat, slam, bang, type
+tapis    (nm(pl));carpet, mat, covering
+tard    (adv);late
+tarder    (v);to delay
+tardif    (adj);late
+tarif    (nm);price, rate, fare, tariff
+tas    (nm(pl));pile, lots of
+taux    (nm(pl));rate
+taxe    (nf);tax
+taxer    (v);to tax
+taxi    (nm);taxi
+tchèque    (nadj(f));Czech
+te    (pro);you, to you, from you
+technicien    (nm);technician
+technique    (nadj(f));technique, technics, technical
+techniquement    (adv);technically
+technologie    (nf);technology
+technologique    (adj(f));technological
+tel    (adj,det,pro);such
+télé    (nf);TV
+télécommunication    (nf);telecommunication
+téléphone    (nm);telephone
+téléphoner    (v);to telephone, phone, call
+téléphonique    (adj(f));telephone
+téléspectateur    (nm);TV viewer
+téléviser    (v);to televise
+télévision    (nf);television
+tellement    (adv);so much
+témoignage    (nm);testimony
+témoigner    (v);to testify
+témoin    (nm);witness
+température    (nf);temperature
+tempête    (nf);storm, gale, turmoil
+temple    (nm);temple
+temporaire    (adj(f));temporary
+temps    (nm(pl));time
+tenant    (nadj);tenant, incumbent, holder
+tendance    (nf);tendency, trend
+tendre    (nadj(f),v);to tighten, to extend, stretch, tender
+tendresse    (nf);tenderness, fondness
+teneur    (nf);content
+tenir    (v);to hold
+tennis    (nmi);tennis
+tension    (nf);tension
+tentation    (nf);temptation
+tentative    (nf);attempt
+tente    (nf);tent
+tenter    (v);to tempt, try
+tenue    (nf);dress, outfit
+terme    (nm);term, deadline
+terminal    (nadj);terminal
+terminer    (v);to finish, end,
+terrain    (nm);ground, terrain
+terre    (nf);earth, world, soil, land
+terrestre    (adj(f));land, earth, terrestrial, earthly, worldly
+terreur    (nf);terror, dread
+terrible    (adj(f));terrible, dreadful
+terriblement    (adv);terribly, awfully
+terrien    (nadj);earthling, landowner, countryman
+territoire    (nm);territory
+territorial    (adj);territorial, land
+terrorisme    (nm);terrorism
+terroriste    (nm,nf);terrorist
+test    (nm);test
+tester    (v);to test
+tête    (nf);head
+texte    (nm);text
+textile    (nadj(f));textile
+thé    (nm);tea
+théâtre    (nm);theater, theatre
+thème    (nm);theme, topic
+théologie    (nf);theology
+théorie    (nf);theory
+théorique    (adj(f));theoretical
+théoriquement    (adv);theoretically
+thérapie    (nf);therapy
+thèse    (nf);thesis, argument
+tiens    (nadjpl,intj);ah, well
+tiers    (nadj(pl));third
+timbre    (nm);to stamp
+timide    (nadj(f));timid, shy, bashful
+tir    (nm);fire, shot, launch
+tirage    (nm);drawing, circulation, run
+tirer    (v);to pull, fire
+tisser    (v);to weave
+tissu    (nadj);fabric, material, cloth, tissue, woven
+titre    (nm);title
+titulaire    (nadj(f));holder, with tenure, occupant
+toi    (nm,pro);you, yourself
+toile    (nf);cloth, canvas, web
+toilette    (nf);washing, toilet, lavatory, bathroom, restroom
+toit    (nm);roof
+tolérance    (nf);tolerance
+tolérer    (v);to tolerate, access, put up, bear, endure
+tombe    (nf);grave, tomb
+tomber    (v);to fall
+ton    (det,nm);your, tone
+tonne    (nf);ton
+tort    (nm);wrong
+torture    (nf);torture
+torturer    (v);to torture
+tôt    (adji,adv);early
+total    (nadj);total
+totalement    (adv);totally
+totalité    (nf);totality, entirety
+touchant    (adj,prep);with regard to, concerning, touching, moving
+touche    (nf);button, key, touch, touchline
+toucher    (nm,v);to touch
+toujours    (adv);always
+tour    (nm,nf);tower, turn, tour
+tourisme    (nm);tourism, sightseeing
+touriste    (nm,nf);tourist
+touristique    (adj(f));holiday, tourist
+tournant    (adj,nm);revolving, swivel, encircling, bend turning point,
+tournée    (nf);tour, round
+tourner    (v);to turn
+tournoi    (nm);tournament
+tout    (adv,det,nadj,pro);all, very
+toutefois    (adv,conj);however
+toxique    (nadj(f));toxic, toxin
+trace    (nf);trace, mark, track
+tracer    (v);to draw, write, mark out
+tradition    (nf);tradition
+traditionnel    (adj);traditional
+traditionnellement    (adv);traditionally
+traduction    (nf);translation
+traduire    (v);to translate
+trafic    (nm);traffic, circulation
+tragédie    (nf);tragedy
+tragique    (nadj(f));tragic
+trahir    (v);to betray, give away
+trahison    (nf);betrayal, treachery, treason
+train    (nm);train
+traîner    (v);to drag, pull
+trait    (nm);line, feature
+traite    (nf);trade, draft, stretch, milking
+traité    (nm);treaty
+traitement    (nm);treatment, salary, wage
+traiter    (v);to treat, handle, deal with
+trajet    (nm);journey, route
+trame    (nf);weft, framework, tram
+tranche    (nf);slice, edge, section, bracket, slot
+trancher    (v);to cut, sever, settle, decide
+tranquille    (adj(f));quiet
+transaction    (nf);transaction
+transférer    (v);to transfer
+transfert    (nm);transfer
+transformation    (nf);transformation, change
+transformer    (v);to transform
+transit    (nm);transit
+transition    (nf);transition
+transitoire    (adj(f));transient, interim, provisional
+transmettre    (v);to forward, transmit
+transmission    (nf);transmission
+transparence    (nf);transparency
+transparent    (nadj);transparent, see-through, evident
+transport    (nm);transportation
+transporter    (v);to transport, carry
+travail    (nm);work
+travailler    (v);to work
+travailleur    (nadj);worker
+travers    (nm(pl));breadth, across, fault, amiss
+traversée    (nf);crossing
+traverser    (v);to cross, traverse
+treize    (det,nmi);thirteen
+tremblement    (nm);shiver, trembling, shaking
+trembler    (v);to shiver, tremble, shake, flicker
+trentaine    (nf);about thirty
+trente    (det,nmi);thirty
+très    (adv);very
+trésor    (nm);treasure, treasury
+trêve    (nf);truce
+tribu    (nf);tribe
+tribunal    (nm);court
+tribune    (nf);platform, forum, gallery
+trimestre    (nm);quarter, three months
+triomphe    (nm);triumph
+triompher    (v);to triumph, beat
+triple    (nadj(f));triple
+triste    (adj(f));sad
+tristesse    (nf);sadness, gloominess, dreariness
+trois    (det,nmi);three
+troisième    (det,nm,nf);third
+tromper    (v);to deceive
+trône    (nm);throne
+trop    (adv);too much, too many
+trottoir    (nm);pavement
+trou    (nm);hole
+troublant    (adj);disturbing
+trouble    (adj(f),nm);turmoil, agitation, blurred, cloudy, trouble
+troubler    (v);to disturb, disrupt, cloud
+troupe    (nf);troup
+troupeau    (nm);herd, flock
+trouver    (v);to find
+truc    (nm);trick, thingamajig
+tu    (pro);you
+tube    (nm);tube
+tuer    (v);to kill
+tueur    (nm);killer, hit man
+tunnel    (nm);tunnel
+turc    (adj,nm);Turk, Turkish
+type    (nm);type, guy
+typique    (nadj(f),nf);typical
+ultérieur    (adj);later, subsequent
+ultime    (adj(f));ultimate
+un    (adj,det,nm,pro);a, an, one
+unanime    (adj(f));unanimous
+unanimité    (nf);unanimity
+uni    (nadj);united
+uniforme    (adj(f),nm);uniform, steady, regular
+unilatéral    (adj);unilateral
+union    (nf);union
+unique    (adj(f));unique
+uniquement    (adv);only, uniquely
+unir    (v);to unite
+unité    (nf);unity, unit
+univers    (nm(pl));universe
+universel    (nadj);universal
+universitaire    (nadj(f));university, academic
+université    (nf);university
+uranium    (nm);uranium
+urbain    (adj);urban
+urgence    (nf);emergency
+urgent    (adj);urgent
+usage    (nm);use, usage
+usager    (nm);user
+user    (v);to wear out, wear away, use up
+usine    (nf);factory
+utile    (adj(f));useful
+utilisateur    (nadj);user
+utilisation    (nf);use
+utiliser    (v);to use
+utilité    (nf);use, usefulness
+vacance    (nf);vacancy, vacation
+vache    (adj(f),nf);cow
+vague    (nadj(f),nf);vague, wave
+vain    (adj);vain
+vaincre    (v);to beat, defeat, overcome, conquer
+vainqueur    (nm,nf);winner
+vaisseau    (nm);ship, vessel
+valable    (adj(f));valid
+valeur    (nf);value, worth
+valise    (nf);suitcase
+vallée    (nf);valley
+valoir    (v);to be worth
+vanter    (v);to vaunt, boast, brag
+vapeur    (nm,nf);vapor, steam, steamer, steamship, vapour
+variable    (nadj(f));variable
+variation    (nf);variation, change
+varier    (v);to vary, change
+variété    (nf);variety
+vaste    (adj(f));vast, immense
+vedette    (nf);star, patrol boat
+véhicule    (nm);vehicle
+véhiculer    (v);to transport, convey
+veille    (nf);the day before, the eve of, night watch
+veiller    (v);to look after, stay up
+vélo    (nm);bike, bicycle
+vendeur    (nm);salesman, seller
+vendre    (v);to sell
+vendredi    (nm);Friday
+vendu    (nadj);sold, bribed
+vengeance    (nf);revenge
+venger    (v);to avenge, take revenge
+venir    (v);to come
+vent    (nm);wind
+vente    (nf);sale
+ventre    (nm);belly, stomach
+venu    (nadj);come
+venue    (nf);coming
+verbal    (adj);verbal
+verdict    (nm);verdict
+vérificateur    (nadj);checker, inspector, auditor
+vérification    (nf);check, verification
+vérifier    (v);to check, verify
+véritable    (adj(f));real, true
+véritablement    (adv);truly, really
+vérité    (nf);truth
+verre    (nm);glass
+vers    (nm(pl),prep);toward, verse
+versant    (nm);hillside, mountainside
+versement    (nm);payment
+verser    (v);to pour, deposit, shed
+version    (nf);version
+vert    (nadj);green
+vertu    (nf);virtue
+vêtement    (nm);garment, item or article of clothing
+vêtir    (v);to clothe, dress, put on
+veuf    (nadj);surviving spouse
+via    (prep);via
+viable    (adj(f));viable, workable
+viande    (nf);meat
+vice    (nm);fault, defect, vice
+vice-président    (nm);vice-president
+victime    (nf);victim
+victoire    (nf);victory
+vide    (nadj(f));empty
+vidéo    (adji,nf);video
+vider    (v);to empty, vacate
+vie    (nf);life
+vieillard    (nm);old man
+vieillesse    (nf);old age
+vieillir    (v);to grow old, to age
+vierge    (nadj(f));virgin
+vieux    (adj(pl),nm(pl));old
+vif    (nadj);lively
+vigilance    (nf);vigilance, watchfulness
+vigilant    (adj);vigilant, watchful
+vigoureux    (adj(pl));vigorous
+vigueur    (nf);vigor, vigour
+village    (nm);village
+ville    (nf);city
+vin    (nm);wine
+vingt    (det,nmi);twenty
+vingt-cinq    (det,nmi);twenty five
+vingt-quatre    (det,nmi);twenty four
+vingtaine    (nf);about twenty
+vingtième    (det,nm,nf);twentieth
+viol    (nm);rape
+violation    (nf);violation, transgession
+violence    (nf);violence
+violent    (nadj);violent
+violer    (v);to rape, infringe, violate
+virer    (v);to turn, change, transfer, kick out
+virtuel    (adj);virtual, potential
+virus    (nm(pl));virus
+vis-à-vis    (nmpl,prep);face to face, regarding
+visa    (nm);visa, stamp
+visage    (nm);face
+visée    (nf);aim, design, sighting
+viser    (v);to aim
+visible    (adj(f));visible, obvious
+visiblement    (adv);obviously, clearly, visibly
+vision    (nf);vision, view
+visite    (nf);visit
+visiter    (v);to visit
+visiteur    (nm);visitor
+visuel    (adj);visual
+vital    (adj);vital
+vite    (adv);fast, quickly
+vitesse    (nf);speed
+vitre    (nf);pane, window
+vitrine    (nf);window, display cabinet
+vivant    (nadj);alive, living
+vivement    (adv);sharply, brusquely, lively
+vivre    (nm,v);to live
+vocabulaire    (nm);vocabulary
+vocal    (adj);vocal
+vocation    (nf);vocation, calling
+vœu    (nm);vow, wish, will
+voici    (prep);here is, here are, this is, these are
+voie    (nf);road, lane, route, track, way
+voilà    (prep);right, there, here
+voile    (nm,nf);veil, sail
+voiler    (v);to veil
+voir    (v);to see
+voire    (adv);even, indeed
+voisin    (nadj);neighbor
+voisinage    (nm);neighborhood, neighbourhood
+voiture    (nf);car
+voix    (nf(pl));voice
+vol    (nm);flight, theft
+volant    (adj,nm);steering wheel
+voler    (v);to steal, rob
+volet    (nm);shutter
+voleur    (nadj);thief, light-fingered
+volontaire    (nadj(f));volunteer, voluntary
+volontairement    (adv);voluntarily, willingly
+volonté    (nf);will
+volontiers    (adv);with pleasure, willingly, gladly
+volume    (nm);volume
+vote    (nm);vote
+voter    (v);to vote
+votre    (det);your
+vôtre    (nadj(f));yours
+vouer    (v);to devote, dedicate to, vow to
+vouloir    (nm,v);to want
+vous    (pro);you
+voyage    (nm);trip, journey, travel
+voyager    (v);to travel
+voyageur    (nadj);traveler
+vrai    (adv,nadj);true
+vraiment    (adv);truly, really, very
+vraisemblablement    (adv);most probably
+vue    (nf);view
+vulgaire    (nadj(f));vulgar, common, popular
+vulnérable    (adj(f));vulnerable
+week-end    (nm);weekend
+y    (adv,nmi,pro);there
+yen    (nm);yen
+yougoslave    (nadj(f));Yugoslav, Yugoslavian
+zéro    (nm);zero
+zone    (nf);zone, area

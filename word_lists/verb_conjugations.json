@@ -1,0 +1,634 @@
+{
+    ".er": {
+        "present": {
+            "stem": ".",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "e",
+            "tu": "es",
+            "il/elle/on": "e",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ent"
+        },
+        "future": {
+            "stem": ".er",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ont"
+        },
+        "imperfect": {
+            "stem": ".",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "subjunctive": {
+            "stem": ".",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "e",
+            "tu": "es",
+            "il/elle/on": "e",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "ent"
+        },
+        "conditional": {
+            "stem": ".er",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "passé simple": {
+            "stem": ".",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "âmes",
+            "vous": "âtes",
+            "ils/elles": "èrent"
+        },
+        "imperative": {
+            "stem": ".",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "tu": "e",
+            "nous": "ons",
+            "vous": "ez"
+        },
+        "present partciple": ".ant",
+        "past participle": ".é",
+        "auxillary verb": "avoir"
+    },
+    ".ir": {
+        "present": {
+            "stem": ".i",
+            "non_nv_stem": "",
+            "nv_stem": "ss",
+            "je": "s",
+            "tu": "s",
+            "il/elle/on": "t",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ssent"
+        },
+        "future": {
+            "stem": ".ir",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ont"
+        },
+        "imperfect": {
+            "stem": ".iss",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "subjunctive": {
+            "stem": ".iss",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "e",
+            "tu": "es",
+            "il/elle/on": "e",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "ent"
+        },
+        "conditional": {
+            "stem": ".ir",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "passé simple": {
+            "stem": ".",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "is",
+            "tu": "is",
+            "il/elle/on": "it",
+            "nous": "îmes",
+            "vous": "îtes",
+            "ils/elles": "irent"
+        },
+        "imperative": {
+            "stem": ".i",
+            "non_nv_stem": "",
+            "nv_stem": "ss",
+            "tu": "s",
+            "nous": "ons",
+            "vous": "ez"
+        },
+        "present partciple": ".issant",
+        "past participle": ".i",
+        "auxillary verb": "avoir"
+    },
+    "acheter": {
+        "present": {
+            "stem": "",
+            "non_nv_stem": "achèt",
+            "nv_stem": "achet",
+            "je": "e",
+            "tu": "es",
+            "il/elle/on": "e",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ent"
+        },
+        "future": {
+            "stem": "achèter",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ont"
+        },
+        "imperfect": {
+            "stem": "achet",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "subjunctive": {
+            "stem": "",
+            "non_nv_stem": "achèt",
+            "nv_stem": "achet",
+            "je": "e",
+            "tu": "es",
+            "il/elle/on": "e",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "ent"
+        },
+        "conditional": {
+            "stem": "achèter",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "passé simple": {
+            "stem": "",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "achetai",
+            "tu": "achetas",
+            "il/elle/on": "acheta",
+            "nous": "achetâmes",
+            "vous": "achetâtes",
+            "ils/elles": "achèterent"
+        },
+        "imperative": {
+            "stem": "",
+            "non_nv_stem": "achèt",
+            "nv_stem": "achet",
+            "tu": "es",
+            "nous": "ons",
+            "vous": "ez"
+        },
+        "present partciple": "achetant",
+        "past participle": "acheté",
+        "auxillary verb": "avoir"
+    },
+    "aller": {
+        "present": {
+            "stem": "",
+            "non_nv_stem": "",
+            "nv_stem": "all",
+            "je": "vais",
+            "tu": "vas",
+            "il/elle/on": "va",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "vont"
+        },
+        "future": {
+            "stem": "ir",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ont"
+        },
+        "imperfect": {
+            "stem": "all",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "subjunctive": {
+            "stem": "aill",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "e",
+            "tu": "es",
+            "il/elle/on": "e",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "ent"
+        },
+        "conditional": {
+            "stem": "ir",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "passé simple": {
+            "stem": "all",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "âmes",
+            "vous": "âtes",
+            "ils/elles": "èrent"
+        },
+        "imperative": {
+            "stem": "",
+            "non_nv_stem": "",
+            "nv_stem": "all",
+            "tu": "va",
+            "nous": "ons",
+            "vous": "ez"
+        },
+        "present partciple": "allant",
+        "past participle": "allé",
+        "auxillary verb": "être"
+    },
+    "apprendre": {
+        "present": {
+            "stem": "appren",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ds",
+            "tu": "ds",
+            "il/elle/on": "d",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "nent"
+        },
+        "future": {
+            "stem": "apprendr",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ont"
+        },
+        "imperfect": {
+            "stem": "appren",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "subjunctive": {
+            "stem": "apprenn",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "e",
+            "tu": "es",
+            "il/elle/on": "e",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "ent"
+        },
+        "conditional": {
+            "stem": "apprendr",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "passé simple": {
+            "stem": "appr",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "is",
+            "tu": "is",
+            "il/elle/on": "it",
+            "nous": "îmes",
+            "vous": "îtes",
+            "ils/elles": "irent"
+        },
+        "imperative": {
+            "stem": "appren",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "tu": "ds",
+            "nous": "ons",
+            "vous": "ez"
+        },
+        "present partciple": "apprenant",
+        "past participle": "appris",
+        "auxillary verb": "avoir"
+    },
+    "avoir": {
+        "present": {
+            "stem": "",
+            "non_nv_stem": "",
+            "nv_stem": "av",
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ont"
+        },
+        "future": {
+            "stem": "aur",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ont"
+        },
+        "imperfect": {
+            "stem": "av",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "subjunctive": {
+            "stem": "",
+            "non_nv_stem": "ai",
+            "nv_stem": "ay",
+            "je": "e",
+            "tu": "es",
+            "il/elle/on": "t",
+            "nous": "yons",
+            "vous": "yez",
+            "ils/elles": "ent"
+        },
+        "conditional": {
+            "stem": "aur",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "passé simple": {
+            "stem": "",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "eus",
+            "tu": "eus",
+            "il/elle/on": "eut",
+            "nous": "eûmes",
+            "vous": "eûtes",
+            "ils/elles": "eurent"
+        },
+        "imperative": {
+            "stem": "",
+            "non_nv_stem": "ai",
+            "nv_stem": "ay",
+            "tu": "e",
+            "nous": "ons",
+            "vous": "ez"
+        },
+        "present partciple": "ayant",
+        "past participle": "eu",
+        "auxillary verb": "avoir"
+    },
+    "boire": {
+        "present": {
+            "stem": "",
+            "non_nv_stem": "boi",
+            "nv_stem": "buv",
+            "je": "s",
+            "tu": "s",
+            "il/elle/on": "t",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "vent"
+        },
+        "future": {
+            "stem": "boir",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ont"
+        },
+        "imperfect": {
+            "stem": "buv",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "subjunctive": {
+            "stem": "",
+            "non_nv_stem": "boiv",
+            "nv_stem": "buv",
+            "je": "e",
+            "tu": "es",
+            "il/elle/on": "e",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "ent"
+        },
+        "conditional": {
+            "stem": "boir",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "passé simple": {
+            "stem": "",
+            "non_nv_stem": "bu",
+            "nv_stem": "b",
+            "je": "s",
+            "tu": "s",
+            "il/elle/on": "t",
+            "nous": "ûmes",
+            "vous": "ûtes",
+            "ils/elles": "irent"
+        },
+        "imperative": {
+            "stem": "",
+            "non_nv_stem": "boi",
+            "nv_stem": "buv",
+            "tu": "s",
+            "nous": "ons",
+            "vous": "ez"
+        },
+        "present partciple": "buvant",
+        "past participle": "bu",
+        "auxillary verb": "avoir"
+    },
+    "être": {
+        "present": {
+            "stem": "",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "suis",
+            "tu": "es",
+            "il/elle/on": "est",
+            "nous": "sommes",
+            "vous": "êtes",
+            "ils/elles": "sont"
+        },
+        "future": {
+            "stem": "ser",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "ons",
+            "vous": "ez",
+            "ils/elles": "ont"
+        },
+        "imperfect": {
+            "stem": "ét",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "subjunctive": {
+            "stem": "",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "sois",
+            "tu": "sois",
+            "il/elle/on": "soit",
+            "nous": "soyons",
+            "vous": "soyez",
+            "ils/elles": "soient"
+        },
+        "conditional": {
+            "stem": "ser",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "ais",
+            "tu": "ais",
+            "il/elle/on": "ait",
+            "nous": "ions",
+            "vous": "iez",
+            "ils/elles": "aient"
+        },
+        "passé simple": {
+            "stem": "",
+            "non_nv_stem": "",
+            "nv_stem": "",
+            "je": "fus",
+            "tu": "fus",
+            "il/elle/on": "fut",
+            "nous": "fûmes",
+            "vous": "fûtes",
+            "ils/elles": "furent"
+        },
+        "imperative": {
+            "stem": ".",
+            "non_nv_stem": "",
+            "nv_stem": "soy",
+            "tu": "sois",
+            "nous": "ons",
+            "vous": "ez"
+        },
+        "present partciple": "étant",
+        "past participle": "été",
+        "auxillary verb": "avoir"
+    }
+}

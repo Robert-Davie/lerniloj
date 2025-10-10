@@ -1,0 +1,19 @@
+{
+    "about": {
+        "language": "esperanto",
+        "description": "set of around 1700 common terms in esperanto",
+        "difficulty": "a1/a2"
+    },
+    "content": [
+        {
+            "term": "abundo",
+            "translations": [
+                "plenty",
+                "abundance"
+            ],
+            "hints": [
+                "abundance"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+# number of iterations
+iterations = 3
+
+# the file containing the words you would like to learn - must be located in word_lists directory
+# the file must specify the foreign language on the first line
+reference_file = "esperanto2000.txt"
+
+# whether mistakes should be recorded
+record_mistakes = true
+
+# whether audio mode should be available - only macOS with French supported at moment
+audio_mode = false
+
+# save the results to your results file
+save_results = true
+
+# give question in english, rather than the foreign language
+give_question_in_english = false

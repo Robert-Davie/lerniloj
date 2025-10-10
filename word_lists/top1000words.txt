@@ -1,0 +1,886 @@
+LANGUAGE=FRENCH
+je;I
+a augmenté;grew, has increased, increased
+a commencé;began
+à partir de;from
+a pris;took
+à;at, to
+a;has
+accord;deal
+acheté;bought
+acheter;buy
+acier;steel
+acte;act
+âge;age
+aider;help
+aile;wing
+aimant;magnet
+ainsi;thus
+air;air
+ajouter;add
+alimentation;feed, food, supply
+aller;go
+ami;friend
+amour;love
+amusement;fun, amusement
+animal;animal
+anneau;ring
+année;year
+apparaître;appear
+appel;call
+apporté;brought
+apporter;bring
+apprendre;learn
+après;after
+arbre;tree
+argent;money, silver
+Arrêtez;stop
+arrière;back
+arriver;arrive, happen
+art;art
+ascenseur;lift, elevator
+assez;enough, pretty
+assimiler;equate
+atome;atom
+atteindre;reach
+attendre;expect, wait, wait for, wait on
+au-dessus;above
+aucun;no, none
+augmenter;raise, rise, increase
+aussi;also, so, as
+autre;else, other, another
+avant;before, forward, front
+avec;with
+avis;notice, opinion
+avoir;have
+baignade;swim, bathing
+balle;ball
+bande;band
+banque;bank
+bar;bar
+bas;bottom, down, low
+base;base
+bateau;boat
+bâton;stick, baton
+battre;beat
+beaucoup;many, much
+beauté;beauty
+bébé;baby
+besoin;need
+bien que;though
+bien;well
+bientôt;soon
+blanc;white
+blé;corn
+bleu;blue
+bloc;block
+bois;wood
+boisson;drink
+boîte;box, can
+bon;good
+bord;edge, border
+bouche;mouth
+boutique;shop
+branche;branch
+bras;arm
+bruit;noise, sound, rumour
+brûler;burn
+brun;brown
+bureau;office
+calme;quiet, calm
+camion;truck
+camp;camp
+canard;duck
+capable;able, capable
+capitaine;captain
+capital;capital
+capture;catch, capture
+caractère;character
+carré;square
+carte;card, map
+cas;case
+cassé;broke
+ce;this
+célèbre;famous, celebrated
+cellule;cell
+cent;cent, hundred
+centre;center, centre
+cercle;circle
+certain;certain
+certains;some, certain
+ces;these
+ceux;those
+chaîne;string, chain
+chaise;chair
+chaleur;heat
+chambre;room, bedroom, chamber
+chance;chance
+changement;change
+chanson;song
+chanter;sing
+chapeau;hat
+chaque;each, every
+charger;charge
+chasse;hunt, chase
+chat;cat
+chaud;hot, warm
+chaussure;shoe
+chauve-souris;bat
+chef;chief
+chemin;path, way, road
+cher;dear
+cheval;horse
+cheveux;hair
+chien;dog
+chiffre;numeral, figure, number, digit
+choisir;choose, pick, select, elect
+chose;thing
+ciel;sky
+cinq;five
+clair;bright, clear
+classe;class
+clé;key
+cloche;bell
+cœur;heart
+coffre-fort;safe
+coin;corner
+colère;anger
+colline;hill
+colonie;colony
+colonne;column
+comme;like, as
+commencer;begin, start, commence
+comment;how
+commerce;trade, commerce
+commun;common, communal, joint, shared
+comparer;compare
+compétence;skill, competence
+complète;complete
+compter;count
+conception;design, conception
+condition;condition
+conduire;lead, drive
+conseil;board, advice
+conservé;kept, conserved
+consonne;consonant
+construire;build, construct
+contenir;contain
+continent;continent
+continuer;continue
+contre;against
+contrôle;control
+copie;copy
+coquille;shell
+corde;rope, cord
+corps;body
+costume;suit, costume
+côte;coast
+côté;side
+coton;cotton
+cou;neck
+couleur;color, colour
+coup;blow
+coupe;cut
+cour;yard, court
+courant;current, stream
+courir;run
+cours;course, lesson, class
+course;race, course
+court;short
+coût;cost
+couvercle;cover
+créer;create
+cri;cry, shout
+croire;believe
+croître;grow, swell
+cuisinier;cook
+dame;lady, dame, queen
+danger;danger
+dans;in
+danse;dance
+de base;basic
+de;of, off
+débit;flow
+début;start, debut
+décès;death, decease
+décider;decide
+décimal;decimal
+décrire;describe
+degré;degree
+dehors;out, outside, outdoors
+déménagement;move
+dents;teeth
+dépendre;depend
+depuis;since
+dernier;last
+derrière;behind
+désert;desert
+déterminer;determine
+deux;two
+deuxième;second
+développer;develop
+deviner;guess
+devrait;should
+dictionnaire;dictionary
+différer;differ
+difficile;difficult
+difficulté;trouble, difficulty, problem, hardship
+dire;say, tell
+direct;direct
+discours;speech, discourse
+discuter;discuss
+disparu;gone, disappeared
+dit;said, told
+division;division
+dix;ten
+doigt;finger
+doit;shall, must
+dollar;dollar
+domaine;field, domain
+donné;gave
+donner;give
+dont;whose
+double;double
+doux;gentle, soft
+droit;law, right, straight, entitlement
+dur;hard
+eau;water
+échelle;scale
+éclat;shine, glow, brightness, brilliance
+école;school
+écouter;listen
+écrire;write
+écrit;written, wrote
+effet;effect
+égal;equal
+électrique;electric
+élément;element
+elle;she
+emploi;job, employment
+en attente;held
+encore;again, still, yet
+énergie;energy
+enfant;child, infant
+enfants;children, infants
+ennemi;enemy
+énorme;huge, enormous
+enregistrer;log, save, register, record
+enseigner;teach
+ensemble;together, whole, set
+entendre;hear
+entendu;heard
+entraînement;drive
+entre;among, between
+entreprise;company
+entrer;enter
+envisager;consider, envisage
+envoyer;send
+épais;thick
+épaule;shoulder
+épeler;spell
+équipe;team, crew, staff
+esclave;slave
+espace;space
+espoir;hope
+esprit;mind, spirit
+essayer;try
+est allé;went
+est tombé;fell
+est venu;came
+est;east, is
+et;and
+étage;floor
+étaient;were
+était;was
+étape;step
+état;state
+été;been, summer
+étoile;star
+étrange;strange
+être;be
+étude;study
+étudiant;student
+eu;got, had
+événement;event
+exact;exact
+exciter;excite
+exemple;example
+exercice;exercise
+exiger;require, demand
+expédié;sent
+expérience;experience, experiment
+fabriqué;made, fabricated
+face;face
+facilité;ease, facility
+faible;low, small, weak
+faire;do, make
+fait;did, fact
+famille;family
+favoriser;favor, favour
+femme;wife, woman
+femmes;women
+fenêtre;window
+fer;iron
+ferme;farm
+feu;fire
+feuille;sheet
+feutre;felt
+figue;fig
+figure;figure
+fil;wire, thread, yarn
+fille;girl, daughter
+fils;son
+fin;end
+finale;final
+finition;finish
+fleur;flower
+fonctionner;operate, function
+force;force
+forêt;forest
+forme;form, shape
+fort;loud, strong
+foule;crowd, mob
+fournir;provide
+fraction;fraction
+fracture;divide, fracture
+frais;cool, fresh
+frapper;hit, strike, knock
+frère;brother
+froid;cold
+fruit;fruit
+gagner;win
+gamme;range, spectrum, scale
+garçon;boy
+garder;keep
+gauche;left
+gaz;gas
+général;general
+genre;kind, genre, gender, type
+glace;ice
+glissement;slip, slide
+gouverner;govern
+graisse;fat
+grand;big, great, large
+grandiose;grand, grandiose
+graphique;chart, graphic
+gratuit;free
+gris;gray, grey
+groupe;group
+guerre;war
+guider;guide
+habituel;usual, habitual, regular
+haut;tall, top, high
+herbe;grass, herb
+heure;hour
+heureux;glad, happy
+histoire;history, story
+hiver;winter
+homme;man
+hommes;men
+horloge;clock
+huile;oil
+huit;eight
+humain;human
+ici;here
+idée;idea
+il faut;must, one must
+il y a;ago, there
+il;he, it
+île;island
+ils;they
+image;picture, image
+imaginer;imagine
+impression;print, impression
+inclure;include
+indiquer;indicate
+industrie;industry
+insecte;insect
+instant;instant
+instrument;instrument
+intérêt;interest
+interroger;ask, interrogate, examine
+inventer;invent
+jamais;ever, never
+jambe;leg
+jardin;garden
+jaune;yellow
+jeter;throw
+jeu;game
+jeune;young
+joie;joy
+joindre;join
+jouer;play
+jour;day
+jusqu’à;up, until, up to
+juste;fair, just
+la cause;cause
+la;the
+là;there
+lac;lake
+laisser;leave, let
+lait;milk
+langue;language
+large;broad, wide, large
+lavage;wash, washing, scrubbing
+lent;slow
+les;them, the
+lettre;letter
+leur;their
+lien;tie, bond, link
+lieu;place
+ligne;line
+liquide;liquid
+lire;read
+liste;list
+lit;bed
+litre;quart, litre, liter
+livre;book, paper, pound
+localiser;locate, localise, localize
+loin;far
+lointain;distant, far
+long;long
+longueur;length
+lot;lot
+lourd;heavy
+lui;him
+lumière;light
+lune;moon
+lutte;fight
+ma;my
+machine;machine
+magasin;store, shop
+main;hand
+maintenant;now
+mais;but
+maison;home, house
+maître;master
+majeur;major
+mal;wrong
+manger;eat
+manière;way, manner
+manquer;miss, lack, be missing
+manteau;coat
+marché;market, walked
+marcher;walk
+marque;mark
+masse;mass
+matériel;material
+matin;morning
+mauvais;bad
+médecin;doctor
+meilleur;best
+mélanger;mix
+mélodie;melody
+même;even, same
+mensonge;lie
+mer;sea
+merci;thank
+mère;mother, parent
+mesurer;measure
+métal;metal
+méthode;method
+mettre;put
+midi;noon
+mieux;better
+mile;mile
+milieu;middle
+mille;thousand
+million;million
+mince;thin
+mine;mine
+minuscule;tiny, minuscule, lowercase
+minute;minute
+modèle;pattern, model
+moderne;modern
+moi;me
+moins;least, less
+mois;month
+moitié;half
+molécule;molecule
+moment;moment
+monde;world
+montagne;mountain
+montée;climb
+montrer;show
+monture;mount
+mort;dead
+mot;word
+moteur;engine, motor
+mourir;die
+mouvement;motion, movement
+multiplier;multiply
+mur;wall
+musique;music
+nation;nation
+nature;nature
+naturel;natural
+navire;ship, vessel, boat
+né;born
+ne;does, not
+nécessaire;necessary
+neige;snow
+net;sharp, net
+neuf;nine
+nez;nose
+ni;nor
+niveau;level
+noir;black
+nom;name, noun
+nombre;number
+nord;north
+Note;note
+notre;our
+nourriture;food, nourishment, nourrishment
+nous;us, we
+nouveau;new
+nuage;cloud
+nuit;night
+objet;object
+observer;observe
+obtenir;get, obtain
+occupé;busy, occupied
+océan;ocean
+odeur;smell
+œil;eye
+œuf;egg
+oiseau;bird
+opposé;opposite
+or;gold
+ordre;order
+oreille;ear
+organe;organ
+organiser;arrange, organise, organize
+original;original
+os;bone
+ou;or
+où;where
+ouest;west
+oui;yes
+outil;tool
+ouvert;open
+oxygène;oxygen
+page;page
+pain;bread
+paire;pair
+papa;dad, papa
+papier;paper
+par;by, through
+paragraphe;paragraph
+paraître;seem
+parler;speak, talk
+part;share, leaves, part
+particulier;particular
+particulièrement;especially
+partie;part, party
+pas;pitch, not
+passé;past
+passer;pass, spend
+patienter;wait
+pause;break, pause
+pauvres;poor
+payer;pay
+pays;country, land, nation
+peau;skin
+peindre;paint
+pendant;during
+pensée;thought
+penser;think
+perdu;lost
+père;father
+période;period
+permettre;allow
+personne;person
+personnes;people
+petit;small
+peu;bit, few, little
+peupler;populate, people
+peur;afraid, fear
+peut-être;perhaps
+peut;may, can
+phrase;phrase, sentence
+pièce;piece, room,
+pied;foot
+pieds;feet
+pierre;stone, rock
+piste;track, runway
+pistolet;gun, pistol
+place;spot, stead, square, place
+plaine;plain
+plan;plan, plane
+planète;planet
+plat;flat
+plein;full
+pli;crease, fold, bend, ply
+pluie;rain
+pluriel;plural
+plus;more, most
+plusieurs;several
+plutôt;rather, instead, quite
+pneu;tire, tyre
+poème;poem
+poids;weight
+point;point
+poisson;fish
+pomme;apple
+port;port
+porte;door
+porter;carry, wear, bear
+pose;pose
+poser;lay, set down, pose
+position;position
+possible;possible
+poste;post
+pouce;inch, thumb
+pour;for
+pourquoi;why
+pourrait;could
+pousser;push
+poussin;chick
+pratique;practice, practical
+première;first
+prendre;take
+préparer;prepare
+près de;near
+présent;present
+presse;press
+prêt;ready
+principal;main, principal
+printemps;spring
+probable;probable
+problème;problem
+processus;process
+proche;close, near
+produire;produce
+produit;product
+profond;deep, profound
+propagation;spread, propagation
+proposition;offer, proposal, proposition
+propre;own, proper, clean
+propriété;property
+protéger;protect
+prouver;prove
+puis;then
+puissance;might, power
+quand;when
+quatre;four
+que;than, that, what
+question;matter, question
+queue;tail
+qui;which, who
+quotient;quotient
+racine;root
+radio;radio
+rail;rail
+raison;reason
+rangée;row
+rapide;fast, quick, rapid
+rappeler;remember
+rayon;spoke, radius, ray, beam
+recevoir;receive
+recherche;search, research
+récolte;crop
+record;record
+recueillir;collect, gather
+réel;real
+regarder;look, watch
+région;region
+règle;rule, ruler
+régler;settle, adjust, solve
+relier;connect, relate
+remplir;fill
+rencontre;match, meeting, meet
+répétition;repeat, repetition
+répondre;reply, answer, respond
+réponse;answer, response
+représenter;represent
+résisté;stood, resisted
+résoudre;solve, resolve
+reste;rest
+rester;stay
+résultat;result
+revendication;claim
+rêver;dream
+riche;rich
+rien;nothing
+rire;laugh
+rivage;shore
+rivière;river
+robe;dress
+rock;rock
+roi;king
+rose;rose, pink
+roue;wheel
+rouge;red
+rouleau;roll
+route;road, route
+rub;rub
+rue;street
+s’adapter;fit, adapt
+s’asseoir;sit, sit down
+s’il vous plaît;please
+sable;sand
+saison;season
+sang;blood
+sat;sat
+sauf;except
+sauter;jump
+sauvage;wild, savage
+sauver;save
+savait;knew
+savoir;know
+scie;saw
+science;science
+score;score
+se demander;wonder
+se dépêcher;hurry
+se mettre d’accord;agree
+se produire;occur
+se rencontrent;meet
+sec;dry
+section;section
+segment;segment
+sel;salt
+sélectionner;select
+semaine;week
+semence;seed
+sens;sense
+sentir;feel, smell, sense, sniff
+séparé;separate, separated
+sept;seven
+servir;serve
+seul;lone, only, sole
+seulement;only
+si;if, so, whether, yes
+siècle;century
+siège;seat
+signe;sign
+signifier;mean, signify
+silencieux;silent
+similaire;similar
+simple;simple
+six;six
+sœur;sister
+soi;self
+soins;care
+soirée;evening
+sol;ground, soil
+soldat;soldier
+soleil;sun
+solution;solution
+sombre;dark, somber, gloomy
+sommeil;sleep
+son;her, his, sound
+sont;are
+soudain;sudden
+souhaiter;wish
+sourire;smile
+sous;under
+soustraire;subtract
+souvent;often
+spécial;special
+station;station
+substance;substance
+succès;success
+sucre;sugar
+sud;south
+suffixe;suffix
+suggérer;suggest
+suivant;next
+suivre;follow
+sujet;subject
+support;support
+supporter;stand, support
+sur;on, over, about
+sûr;sure
+surface;surface
+surprise;surprise
+syllabe;syllable
+symbole;symbol
+système;system
+table;table
+taille;size
+tandis que;while
+tard;late
+tel;such
+température;temperature
+temps;time, weather
+tenir;hold
+terme;term
+Terminé;done, finished, completed
+terre;earth, land
+test;test
+tête;head
+tirer;draw, pull, shoot
+tomber;drop, fall
+ton;tone, your
+tôt;early
+total;total
+toucher;touch
+toujours;always
+tour;round, turn, ride, tour
+tous les deux;both
+tous;all, every
+tout à fait;quite
+tout;any, all, every
+train;train
+travail;work
+traverser;cross, traverse
+très;very
+triangle;triangle
+trois;three
+troisième;third
+tronçon;stretch
+trop;too
+trou;hole
+trouvé;found
+trouver;find
+tube;tube
+tuer;kill
+type;type
+un;a, an, one
+une fois;once
+unique;single, unique
+unité;unit, unity
+usine;plant
+utiliser;use
+vache;cow
+vague;wave
+valeur;value
+vallée;valley
+vapeur;steam, vapour
+varier;vary
+vendre;sell
+venir;come
+vent;wind
+verbe;verb
+vérifier;check, verify
+verre;glass
+vers le bas;down, around
+vers;toward, towards
+vert;green
+vêtir;clothe
+viande;meat
+vie;life
+vieux;old
+village;village
+ville;city, town
+vingt;twenty
+visite;visit
+vitesse;speed
+vivre;live
+voile;sail
+voir;see
+voisin;neighbor, neighbour
+voiture;car
+voix;voice
+voler;fly
+volonté;will
+votre;your
+voudrais;would like
+vouloir;want
+vous;you
+voyage;trip, travel
+voyelle;vowel
+vrai;true
+vue;sight, view
+zone;area, zone

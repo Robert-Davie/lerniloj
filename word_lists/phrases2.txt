@@ -1,0 +1,2148 @@
+LANGUAGE=FRENCH
+rouge;red
+vert;green
+bleu;blue
+noir;black
+blanc;white
+jaune;yellow
+Non.;No.
+Je ne sais pas.;I don't know.
+s'il vous plaît;please
+Merci.;Thank you.
+Excusez-moi.;Excuse me.
+Je suis désolé.;I'm sorry., I am sorry
+D'accord !;OK!, ok
+De rien.;You're welcome.
+Je ne comprends pas.;I don't understand.
+Bonjour.;Hello, good morning, good afternoon
+Salut !;Hi, bye
+Rebonjour !;Hello again!
+Bonsoir.;Good evening.
+Bonne nuit.;Good night.
+Au revoir.;Goodbye.
+À bientôt.;See you soon.
+À demain.;See you tomorrow.
+À samedi.;See you on Saturday., see you saturday
+Bonne journée !;Have a good day!, good day
+Bonne soirée !;Have a good evening!, good evening
+Quel âge avez-vous ?;How old are you?, What age are you?
+Quelle est votre date d'anniversaire ?;When is your birthday?
+J'ai … ans.;I'm … years old.
+D'où venez-vous ?;Where are you from?
+Où habitez-vous ?;Where do you live?
+Je viens…;I'm from...
+Royaume-Uni;UK, United Kingdom, United-Kingdom
+J'habite à…;I live in...
+écossais;Scottish
+anglais;English
+irlandais;Irish
+gallois;Welsh
+britannique;British
+Êtes-vous marié ?;Are you married?
+Êtes-vous mariée ?;Are you married?
+Êtes-vous célibataire ?;Are you single?
+Je suis célibataire.;I'm single., i am single.
+le veuf;widower
+la veuve;widow, guillotine
+Avez-vous des enfants ?;Do you have any children?
+J'ai ... enfants.;I have ... children.
+Je n'ai pas d'enfants.;I don't have any children., I don't have children.
+Voici mes…;These are my...
+le mari;husband
+l'épouse f;wife
+le fils;son
+la fille;daughter
+les parents mpl;parents
+le copain;boyfriend
+la copine;girlfriend
+le père;father
+la mère;mother
+le frère;brother
+la sœur;sister
+le grand-père;grandfather
+la grand-mère;grandmother
+le petit-fils;grandson
+la petite-fille;granddaughter
+le beau-père;stepfather
+la belle-mère;stepmother
+la belle-fille;stepdaughter
+le beau-frère;stepbrother
+la belle-sœur;stepsister
+l'oncle m;uncle
+la tante;aunt
+le neveu;nephew
+la nièce;niece
+le bébé;baby
+l'enfant m;child
+Comment allez-vous;How are you?
+Comment ça va ?;How's it going?
+Super bien !;Great!
+Comme ci comme ça.;So-so., so-so
+On fait aller.;Could be worse.
+Pas terrible.;Not great.
+Je suis fatigué.;I'm tired., I am tired.
+Je n'ai plus faim.;I'm full., I'm not hungry anymore.
+J'ai froid.;I'm cold.
+J'ai chaud.;I'm warm.
+heureux;happy
+excité;excited
+calme;calm
+surpris;surprised
+mécontent;annoyed, unhappy
+en colère;angry
+triste;sad
+inquiet;worried
+effrayé;afraid
+détendu;relaxed
+Je m'ennuie.;I'm bored.
+Je me sens…;I feel...
+bien;well
+indisposé;unwell
+mieux;better
+pire;worse
+Où travaillez-vous ?;Where do you work?
+Que faites-vous dans la vie ?;What do you do?
+Quel est votre métier?;What's your occupation?, what is your job, what's your job
+Je travaille à mon compte;I'm self-employed.
+Je suis au chômage.;I'm unemployed.
+Je suis encore à l'école;I'm still at school.
+Je suis à l'université.;I'm at university., I am at university.
+la retraite;retirement
+Je voyage.;I'm travelling., I travel.
+Je travaille de chez moi;I work from home.
+l'employé de bureau;office worker
+le serveur;waiter
+la serveuse;waitress
+la compagnie;company, airline
+le chantier;construction site
+l'usine f;factory
+le gouvernement;government
+l'hôpital m;hospital
+l'hôtel m;hotel
+le bureau;office, desk
+l'école f;school
+le matin;morning
+l'après-midi m;afternoon
+le soir;evening
+la nuit;night
+le midi;midday
+minuit m;midnight
+aujourd'hui;today
+ce soir;tonight
+demain;tomorrow
+hier;yesterday
+du matin;a.m., in the morning
+Quelle heure est-il ?;What time is it?
+Il est neuf heures dix.;It's ten past nine.
+Quand...?;When...?
+tôt;early
+en retard;late
+bientôt;soon
+plus tard;later
+maintenant;now
+avant;before
+après;after
+lundi;Monday
+mardi;Tuesday
+mercredi;Wednesday
+jeudi;Thursday
+vendredi;Friday
+samedi;Saturday
+dimanche;Sunday
+janvier;January
+février;February
+mars;March
+avril;April
+mai;May
+juin;June
+juillet;July
+août;August
+septembre;September
+octobre;October
+novembre;November
+décembre;December
+le jour;day
+le week-end;weekend
+la semaine;week
+les quinze jours mpl;fortnight
+le mois;month
+l'année f;year
+la décennie;decade
+tous les quinze jours;fortnightly
+mensuel;monthly
+annuel;yearly, annual
+les lundis;on Mondays, Mondays
+tous les dimanches;every Sunday
+jeudi dernier;last Thursday
+vendredi prochain;next Friday
+le printemps;spring
+l'été m;summer
+l'automne m;autumn
+l'hiver m;winter
+en hiver;in winter
+Quel temps fait-il;How's the weather, What's the weather like
+Est-ce qu'il va pleuvoir;Is it going to rain
+Quelle belle journée;What a lovely day
+Il y a du soleil;It's sunny
+Il y a du brouillard;It's foggy
+Il gèle;It's freezing
+Il y a du vent;It's windy
+Il y a de l'orage;It's stormy
+Il fait…;It is...
+beau;nice, beautiful, fine
+mauvais;horrible, wrong, incorrect, bad, poor, nasty, unpleasant, terrible, gloomy
+chaud;hot, warm
+doux;mild
+pluvieux;wet, rainy
+humide;humid
+le soleil;sun
+la pluie;rain
+la neige;snow
+la grêle;hail
+le vent;wind
+le coup de vent;gale, gust of wind
+la brume;mist
+le brouillard;fog
+le tonnerre;thunder
+l'éclair m;lightning
+l'orage m;thunderstorm, storm
+le nuage;cloud
+la température;temperature
+l'hélicoptère m;helicopter
+le rotor;rotor
+la pale;blade
+le nez;nose
+la rue;street
+l'embouteillage m;traffic jam
+l'heure de pointe f;rush hour
+la pointe;point, tip, peak, remark
+le taxi;taxi
+la station de taxis;taxi rank
+les indications fpl;directions
+l'itinéraire m;route, itinerary
+le panneau de signalisation;road sign, traffic sign, sign, highway sign, warning sign
+conduire;to drive
+revenir;to return
+traverser;to cross
+tourner;to turn
+faire la navette;to commute
+le billet;ticket
+l'horaire m;timetable, schedule
+le monospace;people carrier
+le siège du passager;passenger seat
+la place du conducteur;driver's seat
+le siège arrière;back seat
+la batterie;battery
+l'accélérateur m;accelerator
+le pot d'échappement;exhaust (pipe)
+automatique;automatic
+électrique;electric
+hybride;hybrid
+démarrer;to start the engine, to start, to start up, to begin, to get going, to start off, to make a start
+freiner;to brake
+dépasser;to overtake
+garer;to park
+faire marche arrière;to reverse
+ralentir;to slow down
+être en excès de vitesse;to speed
+s'arrêter;to stop
+le coffre;boot, chest, safe, trunk
+la vitre;window
+la roue;wheel
+la portière;door
+le pneu;tyre
+le pare-brise;windscreen
+l'essuie-glace m;windscreen wiper
+le phare;headlight
+le pare-chocs;bumper
+le clignotant;indicator
+le tableau de bord;dashboard
+la jauge d'essence;fuel gauge
+le levier de vitesse;gearstick
+la boîte à gants;glove compartment
+le frein à main;handbrake
+l'appuie-tête m;headrest
+l'allumage m;ignition
+la ceinture de sécurité;seatbelt
+le macadam;tarmac
+le coin;corner
+la sortie;exit
+la bretelle;slip road
+l'aire de service f;services
+la limitation de vitesse;speed limit
+la déviation;diversion
+le permis de conduire;driving licence
+l'assurance automobile;car insurance
+le diesel;diesel
+la place de parking;space, parking space
+la pompe à essence;fuel pump
+le carrefour;junction, crossroads
+le bord du trottoir;kerb
+la voie;lane, track
+le passage à niveau;level crossing
+l'autoroute f;motorway
+le parcmètre;parking meter
+le trottoir;pavement
+la station-service;petrol station
+le nid-de-poule;pothole
+le nid;nest
+la route;road
+le radar;speed camera, radar
+le cône de signalisation;traffic cone
+les feux mpl;traffic lights, lights
+l'agent de la;traffic warden
+le tunnel;tunnel
+le passage piéton;zebra crossing, pedestrian crossing, crossing
+la panne;breakdown, failure
+la collision;collision
+le pneu à plat;flat tyre
+tomber en panne;to break down
+avoir un accident;to have an accident
+avoir un pneu à plat;to have a flat tyre
+changer le pneu;to change a tyre
+remorquer;to tow
+l'airbag m;airbag
+l'antigel m;antifreeze
+la borne d'urgence;emergency phone
+le cric;jack
+la roue de secours;spare wheel
+secourir;save, help, rescue, give first aid to, give first aid
+la dépanneuse;tow truck
+la ligne de bus;bus route
+la voie réservée aux bus;bus lane
+la gare routière;bus station
+la carte de bus;bus pass
+le plein tarif;full fare
+le demi-tarif;half fare
+la réduction;concession, reduction
+le bus de nuit;night bus
+l'autocar touristique;tour bus
+prendre le bus;to catch the bus
+le bus;bus
+l'Abribus m;bus shelter
+l'arrêt de bus m;bus stop
+le car;coach
+faire du vélo;to cycle
+faire une crevaison;to get a puncture
+la sonnette;bell, doorbell
+la pompe à vélo;pump, bicycle pump
+le réflecteur;reflector
+le frein;brake
+la barre transversale;crossbar
+la mobylette;moped
+les bottes fpl;boots
+les gants en cuir mpl;leather gloves
+la moto;motorbike
+le réseau ferroviaire;rail network
+le train à grande;high-speed train
+le train de passagers;passenger train
+le wagon;coach, carriage
+la station de métro;metro station
+la carte de réduction;railcard, discount card
+l'aller simple m;single ticket
+l'aller-retour m;return ticket
+le billet électronique;e-ticket, electronic ticket
+la première classe;first-class, 
+la réservation;seat reservation
+changer de train;to change trains
+composter un billet;to validate a ticket
+le tableau des départs;departure board
+la locomotive;locomotive
+le porte-bagages;luggage rack
+le métro;metro
+le portillon;ticket barrier, barrier, gate, door
+le guichet;ticket machine, ticket office
+le train;train
+le tramway;tram
+la gare;train station, station
+le terminal;terminal
+le contrôle des passeports;passport control
+la douane;customs
+la porte;gate, door
+le personnel navigant;cabin crew
+le compartiment à bagages;overhead locker
+la soute;hold
+le moteur;engine, motor
+les bagages;hold luggage, luggage, baggage
+les bagages en cabine;cabin baggage
+l'excédent de bagages;excess baggage
+le bagage à main;hand luggage
+le décalage horaire;jetlag
+le décalage; difference, gap, interval, shift, movement, discrepancy
+l'avion m;aeroplane, plane, airplane
+l'aéroport m;airport
+la carte;boarding card, menu, map, card
+la cabine;cabin
+la boutique hors taxes;duty-free shop
+le chariot à bagages;luggage trolley
+le passeport;passport
+la piste;runway, piste, running track
+la valise;suitcase
+la traversée en ferry;ferry crossing
+la cheminée;funnel, chimney, fireplace
+le port;port, harbour
+le canal;canal
+le canot de sauvetage;lifeboat
+l'équipage m;crew
+naviguer;to sail, to navigate
+mettre à quai;to dock
+l'ancre f;anchor
+le ferry;ferry
+le voilier;sailing boat
+le yacht;yacht
+l'immeuble m;block of flats, apartment block, building
+le toit;roof
+la maison mitoyenne;terraced house
+la maison de ville;townhouse
+la villa;villa
+le bâtiment;building
+la banlieue;suburb
+le quartier;district, neighbourhood, quarter, segment
+le loyer;rent
+le contrat de location;rental agreement
+louer;to rent
+posséder;to own, to possess
+déménager;to move house, to move
+la maison individuelle;detached house
+la maison jumelée;semi-detached house
+jumeler;to twin
+le studio;studio flat, studio
+la cave;cellar
+le grenier;attic
+le plafond;ceiling
+le mur;wall
+le sol;floor
+le balcon;balcony
+l'adaptateur m;adaptor
+la climatisation;air conditioning
+le chauffage central;central heating
+l'antenne parabolique;satellite dish
+la porte de derrière;back door
+réparer;to fix, to repair
+décorer;to decorate
+rénover;to renovate
+la chaudière;boiler
+le ventilateur de plafond;ceiling fan
+la multiprise;extension cable
+la boîte à fusibles;fusebox
+le radiateur;heater, radiator
+l'ampoule f;light bulb, blister
+le détecteur de fumée;smoke alarm, smoke detector
+le thermostat;thermostat
+l'antenne;aerial, antenna
+la gouttière;gutter
+la fenêtre;window
+la porte d'entrée;front door
+le garage;garage
+le judas;peephole
+le paillasson;doormat
+la boîte aux lettres;letterbox
+le couloir;corridor, aisle, lane
+l'escalier m;staircase, stairs
+le palier;landing
+s'essuyer les pieds;to wipe one's feet
+le parquet;floorboards, parquet
+le canapé-lit;sofa bed
+la lampe de table;table lamp
+s'asseoir;to sit down
+regarder la télé;to watch TV
+écouter de la musique;to listen to music
+la bibliothèque;bookcase, library
+la radio;radio, x-ray, xray
+la télécommande;remote control
+le buffet;sideboard, buffet
+la télé;TV
+le canapé;sofa, couch
+l'image f;picture, image, painting, photo, drawing
+l'ornement m;ornament
+l'étagère f;shelves
+le coussin;cushion
+la cuisinière;(electric) cooker, chef
+la gazinière;gas cooker
+la bouilloire;kettle
+le grille-pain;toaster
+cuisiner;to cook
+frire;to fry
+faire sauter;to stir-fry
+bouillir;to boil
+rôtir;to roast
+cuire (au four);to bake
+faire la vaisselle;to wash up, to do the dishes
+ranger les courses;to put away the groceries
+la plaque à pâtisserie;baking tray
+la plaque; plate
+la planche à découper;chopping board
+la passoire;colander, strainer
+le tire-bouchon;corkscrew
+le robot de cuisine;food processor
+la poêle;frying pan
+la râpe;grater
+le verre mesureur;measuring jug, measuring cup
+le rouleau à pâtisserie;rolling pin
+la casserole;saucepan
+le tamis;sieve
+la spatule;spatula
+l'ouvre-boîtes m;tin opener
+le fouet;whisk, whip
+le wok;wok
+la cuillère en bois;wooden spoon
+le sac poubelle;bin bag
+le film alimentaire;clingfilm
+l'essuie-tout m;kitchen roll
+le four;oven
+la plaque chauffante;hob
+chauffante;heating
+le four à micro-ondes;microwave
+le spot;spotlight
+le réfrigérateur-congélateur;fridge-freezer
+le placard;cupboard
+l'égouttoir m;draining board
+le tiroir;drawer
+les carreaux mpl;tiles
+la table à manger;dining table, dinner table
+le dessous de verre;coaster
+la vaiselle;crockery
+les couverts mpl;cutlery
+la verrerie;glassware
+mettre la table;to set the table
+débarrasser la table;to clear the table
+le moulin à poivre;pepper mill
+le bol;bowl
+la tasse;cup
+la soucoupe;saucer
+le couteau;knife
+la fourchette;fork
+l'assiette f;plate
+la cuillère;spoon
+la cuillère à café;teaspoon, small amount of something
+le verre;tumbler, glass
+le lit d'une personne;single bed
+le lit deux personnes;double bed
+la chambre; bedroom
+la chambre d'ami;spare room, guest room
+la salle de bain;en-suite bathroom, bathroom
+la chambre d'enfant;nursery
+la literie;bedding
+dormir;to sleep
+faire le lit;to make the bed
+changer les draps;to change the sheets
+la couverture;blanket, cover
+les lits superposés;bunk beds
+le radio-réveil;clock radio
+le portemanteau;coat hanger
+la coiffeuse;dressing table
+le sèche-cheveux;hairdryer
+le panier à linge;laundry basket
+l'édredon m;quilt
+les draps mpl;sheets
+la commode;chest of drawers
+le lit;bed
+l'armoire f;wardrobe
+la couette;duvet
+les rideaux mpl;curtains
+le fauteuil;armchair
+la lampe de chevet;bedside lamp
+le tapis;rug, carpet, mat
+l'oreiller m;pillow
+le matelas;mattress
+la table de chevet;bedside table
+le rideau de douche;shower curtain
+la chasse d'eau;flush
+l'égout m;drain
+se doucher;to shower
+prendre un bain;to have a bath
+se laver les mains;to wash one's hands
+se brosser les dents;to brush one's teeth
+aller aux toilettes;to go to the toilet
+le tapis de bain;bath mat
+la serviette de bain;bath towel
+le gant de toilette;face cloth
+l'essuie-mains m;hand towel
+l'éponge f;sponge
+la brosse à toilettes;toilet brush
+le papier toilette;toilet roll, toilet paper
+le miroir;mirror
+l'évier m;sink
+la douche;shower
+les toilettes fpl;toilet, toilets, bathroom
+le porte-serviettes;towel rail
+le robinet;tap
+le cabinet;cabinet
+le bidet;bidet
+la baignoire;bath
+l'arbre m;tree
+la terre;soil, earth, land, ground
+l'herbe f;grass, weed
+la plante;plant
+la mauvaise herbe;weed
+la plate-bande;flowerbed
+le compost;compost
+désherber;to weed
+arroser;to water
+planter;to plant
+la terrasse en bois;decking
+la fourche;garden fork, fork
+le tuyau;garden hose, exhaust pipe, pipe
+les gants de jardinage;gardening gloves
+la cabane;garden shed, shed
+la serre;greenhouse
+la binette;hoe
+la tondeuse;lawnmower
+la pelle;spade, dustpan, shovel, spatula
+l'arrosoir m;watering can
+le désherbant;weedkiller
+la brouette;wheelbarrow
+la pelouse;lawn
+l'arbuste m;shrub
+la palissade;fence
+le chemin;path
+les fleurs fpl;flowers
+le patio;patio
+le pot de fleur;flowerpot
+la buanderie;utility room
+les tâches;chores
+la bassine;basin
+l'eau de javel f;bleach
+le désinfectant;disinfectant
+la pastille;dishwasher tablet, lozenge
+la lessive;laundry detergent
+la poubelle de recyclage;recycling bin
+le liquide;washing-up liquid, cash, liquid
+balayer le sol;to sweep the floor
+faire la lessive;to do the laundry
+passer l'aspirateur;to hoover
+ranger;to tidy up, to put away
+nettoyer;to clean
+sortir les poubelles;to take out the bin
+la brosse;brush
+le seau;bucket
+l'étendoir m;clothes horse, drying rack, airer
+les pinces à linge fpl;clothes pegs
+le lave-vaisselle;dishwasher
+la poubelle;dustbin
+le fer à repasser;iron
+la planche à repasser;ironing board
+la serpillière;mop
+les gants en caoutchouc;rubber gloves
+le torchon;tea towel, cloth
+le sèche-linge;tumble drier
+l'aspirateur m;vacuum cleaner
+la corde à linge;washing line
+la machine à laver;washing machine
+le pain;bread, loaf
+l'huile végétale;vegetable oil
+le magasin;shop
+le supermarché;supermarket
+le centre commercial;shopping centre
+le commerce;convenience store, business
+la grande enseigne;high-street shop
+le marché;market
+la monnaie;change
+sans contact;contactless
+le code personnel;PIN
+le remboursement;refund
+le coupon;voucher, coupon
+les provisions;groceries
+acheter;to buy
+payer;to pay
+faire du shopping;to shop (online), to shop
+faire des courses;go shopping
+le lecteur de cartes;card reader
+le sac en plastique;plastic bag
+le reçu;receipt
+le sac réutilisable;reusable shopping bag, reusable bag
+l'allée f;aisle
+le plat cuisiné;ready meal
+la bouteille;bottle
+la boîte;box
+la briq de lait;carton of milk
+le bocal;jar
+le paquet;packet
+la conserve;tin
+en boîte;tinned, canned
+surgelé;frozen
+maigre;low-fat
+basses calories;low-calorie
+la balance;scales, balance
+le chariot;trolley, cart
+les biscuits mpl;biscuits
+les fines herbes fpl;herbs
+le miel;honey
+le sucre glace;icing sugar
+le café instantané;instant coffee
+le ketchup;ketchup
+la marmelade;marmalade
+la mayonnaise;mayonnaise
+l'huile d'olive f;olive oil
+le poivre;pepper
+le sel;salt
+les épices fpl;spices
+le sucre;sugar
+les sachets de thé;teabags
+l'huile végétale f;vegetable oil
+le vinaigre;vinegar
+le chocolat;chocolate
+les chips fpl;crisps
+les noix;nuts
+le popcorn;popcorn
+les bonbons mpl;sweets
+la bière;beer
+la boisson gazeuse;fizzy drink
+le jus de fruit;fruit juice
+l'eau minérale f;mineral water
+les spiritueux mpl;spirits
+le vin;wine
+la place du marché;marketplace
+le marché aux puces;flea market
+le marché couvert;indoor market
+le marché fermier;farmer's market
+l'étal m;stall
+les produits mpl;produce
+local;local
+bio;organic
+saisonnier;seasonal
+fait maison;home-made
+l'épicerie f;grocer's
+le jus;juice
+la feuille;leaf
+la pelure;peel
+le zeste;rind, zest
+la graine;seed
+la peau;skin
+le noyau;stone
+frais;fresh, cool
+pourri;rotten
+mûr;ripe
+pas mûr;unripe
+sans pépins;seedless
+couper;to chop, to cut
+couper en dés;to dice
+râper;to grate
+faire du jus de;to juice
+peler;to peel
+la pomme;apple
+l'abricot m;apricot
+la banane;banana
+la mûre;blackberry
+le cassis;blackcurrant
+la myrtille;blueberry
+la cerise;cherry
+la groseille;gooseberry, redcurrant
+le raisin;grape, raisin
+le pamplemousse;grapefruit
+le kiwi;kiwi fruit, kiwi
+le citron;lemon
+la mangue;mango
+le melon;melon
+l'orange f;orange
+le fruit de la passion;passion fruit
+la pêche;peach, fishing
+la poire;pear
+l'ananas m;pineapple
+la prune;plum
+la framboise;raspberry
+la fraise;strawberry
+la pastèque;watermelon
+l'artichaut m;artichoke
+l'asperge f;asparagus
+l'aubergine f;aubergine
+la betterave;beetroot
+les brocolis mpl;broccoli, broc
+le chou de Bruxelles;Brussels sprout
+le chou;cabbage
+la carotte;carrot
+le chou-fleur;cauliflower
+le céleri;celery
+le piment;chilli
+la courgette;courgette
+le concombre;cucumber
+l'ail m;garlic
+les haricots verts mpl;green beans
+le poireau;leek
+la laitue;lettuce
+l'oignon m;onion
+les petits pois mpl;peas
+la pomme de terre;potato
+le poivron rouge;red pepper
+les épinards mpl;spinach
+la tomate;tomato
+l'arête f;fishbone, edge, bone
+le filet;fillet, net
+les écailles fpl;scales
+les crustacés mpl;shellfish, crustaceans
+la coquille;shell, scallop
+d'eau douce;freshwater
+de mer;saltwater
+d'élevage;farmed
+sauvage;wild, untamed, savage
+salé;salted
+fumé;smoked
+découpé en filets;filleted
+le cabillaud;cod
+l'aiglefin m;haddock
+le hareng;herring
+le maquereau;mackerel
+le saumon;salmon
+la sardine;sardine
+le bar;sea bass, bar
+la raie;skate
+la truite;trout
+le thon;tuna
+la palourde;clam
+l'écrevisse f;crayfish
+le homard;lobster
+la moule;mussel
+la pieuvre;octopus
+l'huître f;oyster
+la crevette;prawn, shrimp
+l'oursin m;sea urchin
+le calamar;squid
+la viande;meat
+la viande rouge;red meat
+la viande blanche;white meat
+le bœuf;beef
+le porc;pork
+le gibier;game, prey
+la venaison;venison
+la volaille;poultry
+la dinde;turkey
+cuit;cooked
+cru;raw
+élevé en plein air;free-range
+le bacon;bacon
+le steak haché;burger
+le blanc de poulet;chicken breast
+la côtelette;chop
+le jambon;ham
+le rôti;joint
+la viande hachée;mince
+les saucisses fpl;sausages
+le steak;steak
+une tranche;slice
+la croûte;crust
+la pâte;dough, paste
+la farine;flour
+faire cuire au four;to bake
+le croissant aux amandes;almond croissant
+la brioche;brioche
+le croissant;croissant
+le feuilleté;Danish pastry
+le beignet;doughnut
+le macaron;macaroon
+le pain au chocolat;pain au chocolat, pac
+les crêpes mpl;pancakes
+la gaufre;waffle
+le pain complet;wholemeal bread
+le fromage;cheese
+le bleu;blue cheese, blue, bruise
+le fromage à tartiner;cream cheese
+le brie;brie
+le cheddar;cheddar
+le fromage blanc;cottage cheese, white cheese
+le fromage de chèvre;goat's cheese
+la mozzarella;mozzarella
+le parmesan;parmesan
+le stilton;Stilton
+le blanc d'œuf;egg white
+le jaune d'œuf;egg yolk, yolk
+le lait entier;whole milk
+le lait de soja;soymilk, soya milk
+la crème aigre;sour cream
+de poules élevées en;free-range
+pasteurisé;pasteurized, pasteurised
+non pasteurisé;unpasteurized, unpasteurised
+le beurre;butter
+l'œuf m;egg
+la margarine;margarine
+le lait;milk
+le yaourt;yoghurt
+l'antihistaminique m;antihistamine
+le décongestif;decongestant, decongestive
+l'analgésique m;painkiller
+le savon liquide;handwash
+le parfum;fragrance, perfume
+le rhume;cold
+le rhume des foins;hay fever
+le mal de gorge;sore throat
+la crème;antiseptic cream, cream
+la capsule;capsule
+le préservatif;condom
+le sirop pour la toux;cough mixture, cough syrup
+les gouttes fpl;drops
+goutter;to drip
+le répulsif à insectes;insect repellent
+l'antitranspirant m;antiperspirant
+l'après-shampooing;conditioner
+le rasoir;razor
+la serviette;sanitary towel, napkin, serviette
+le shampooing;shampoo
+les coliques fpl;colic
+le sac hygiénique;nappy sack, sanitary bag
+l'érythème fessier m;nappy rash
+allaiter;to breast-feed
+le bavoir;bib
+les moufles fpl;mittens
+le body;vest
+la mousse à raser;shaving foam
+le gel douche;shower gel
+le savon;soap
+le tampon;tampon
+la brosse à dents;toothbrush
+le dentifrice;toothpaste
+le fard à joues;blusher
+le peigne;comb
+l'eye-liner m;eyeliner
+le fard à paupières;eyeshadow
+la brosse à cheveux;hairbrush
+la laque;hairspray, lake
+le baume à lèvres;lip balm
+le rouge à lèvres;lipstick
+le mascara;mascara
+le vernis à ongles;nail varnish
+la poudre;powder
+les aliments pour bébés;baby food
+le biberon;baby's bottle
+le sac à langer;changing bag
+langer;change
+le coton-tige;cotton bud
+le coton hydrophile;cotton wool
+le lait maternisé;formula milk
+la couche;nappy
+la biscotte;rusk
+le talc;talcum powder, talc
+les lingettes;wet wipes
+le siège bébé;baby seat
+la tétine;dummy
+la chaise haute;highchair, high chair
+le mobile;mobile
+le couffin;Moses basket
+le landau;pram
+la poussette;pushchair
+le journal grand;broadsheet
+le tabloïd;tabloid
+quotidien;daily
+hebdomadaire;weekly
+le livre;book
+le cigare;cigar
+la cigarette;cigarette
+la bande dessinée;comic book, comic
+la confiserie;confectionery
+la carte de vœux;greetings card
+le magazine;magazine
+le journal;newspaper
+le carnet;notebook, book of tickets
+le livre de casse-tête;puzzle book
+la carte à gratter;scratch card, scratchcard
+la marque;brand
+le comptoir;counter
+le rayon;department, ray, radius
+l'étage m;floor
+l'escalator m;escalator
+l'ascenseur m;lift
+les soldes fpl;sale
+les vêtements pour femmes;womenswear
+les vêtements pour hommes;menswear
+les vêtements de sport;sportswear
+les maillots de bain;swimwear
+les accessoires;accessories
+les produits de beauté;cosmetics, beauty products
+la mode;fashion
+les chaussures fpl;footwear, shoes
+les meubles mpl;furniture
+les ustensiles de cuisine;kitchenware, kitchen utensils
+la maroquinerie;leather goods
+l'éclairage m;lighting, flash
+la lingerie;lingerie
+les jouets mpl;toys
+les sous-vêtements;underwear
+la cabine d'essayage;fitting room
+le portefeuille;wallet
+le porte-monnaie;purse, wallet
+les bijoux mpl;jewellery
+le parapluie;umbrella
+la taille;size, height
+la pointure;size (shoe), size
+décontracté;casual, relaxed
+élégant;smart, elegant
+le coton;cotton
+le cuir;leather
+la soie;silk
+grande taille;plus-size
+essayer;to try on, to try
+être à la bonne taille;to fit
+le chemisier;blouse
+le caleçon;boxer shorts
+le soutien-gorge;bra
+le gilet;cardigan, gilet
+le manteau;coat
+la robe;dress
+le jean;jeans, denim
+le pantalon de jogging;jogging bottoms
+le pull;jumper
+les leggings mpl;leggings
+le slip;pants, underpants
+le pyjama;pyjamas
+la chemise;shirt, folder
+le short;shorts
+la jupe;skirt
+les chaussettes fpl;socks
+le sweat;sweatshirt
+le costume;suit
+la cravate;tie
+les collants mpl;tights
+le pantalon;trousers
+le t-shirt;T-shirt
+l'imperméable m;waterproof jacket
+la ceinture;belt
+le bracelet;bracelet
+les boucles d'oreille;earrings
+les gants mpl;gloves
+le sac à main;handbag
+le collier;necklace, collar
+le foulard;scarf
+les talons hauts mpl;high heels
+les sandales fpl;sandals
+les pantoufles fpl;slippers
+les baskets fpl;trainers
+le bricolage;home improvements, DIY
+l'outil m;tool
+l'électricité f;electricity
+la peinture;painting, paint
+la plomberie;plumbing
+le marteau;hammer
+les clous mpl;nails
+le pinceau;paintbrush
+la scie;saw
+le tournevis;screwdriver
+les vis fpl;screws
+la clé;spanner, key
+le niveau à bulle;spirit level
+l'escabeau m;stepladder
+le papier peint;wallpaper
+la clé à molette;wrench, spanner
+le magasin caritatif;charity shop
+l'agence immobilière;estate agency
+l'opticien m;optician's, optician
+la tasse;cup
+tartiner;to spread
+prendre le petit déjeuner;to have breakfast
+sauter le petit déjeuner;to skip breakfast
+le café;coffee
+le café au lait;coffee with milk, milky coffee
+le chocolat chaud;hot chocolate
+le jus d'orange;orange juice
+le thé;tea
+la baguette;baguette
+les petits pains mpl;bread rolls, rolls
+les céréales fpl;cereal
+la pâte à tartiner;chocolate spread, spread
+la confiture;jam
+se réveiller;to wake up
+s'habiller;to get dressed
+arriver;to arrive
+partir;to leave
+travailler;to work
+retrouver des amis;to meet friends
+rentrer à la maison;to go home
+aller se coucher;to go to bed
+la nourriture;food
+la boisson;drink
+le déjeuner;lunch
+le dîner;dinner
+les plats mpl;courses, dishes
+la recette;recipe
+déjeuner;to have lunch, to lunch
+dîner;to have dinner, to dine
+aller au restaurant;to eat out, go to a restaurant
+la soupe;soup
+les légumes cuits;cooked vegetables
+le couscous;couscous
+la salade verte;green salad
+la salade composée;mixed salad
+le muesli;muesli
+les nouilles fpl;noodles
+les olives mpl;olives
+les pâtes fpl;pasta
+les pommes de terre;potatoes
+les crudités fpl;raw vegetables
+le riz;rice
+les moules;mussels
+la ratatouille;ratatouille
+la tarte aux pommes;apple tart
+le gâteau au chocolat;chocolate cake
+la glace;ice cream, ice
+la tarte au citron;lemon tart
+la meringue;meringue
+les profiteroles fpl;profiteroles
+le sorbet;sorbet
+le menu;set menu, menu
+le pourboire;tip
+végétarien;vegetarian
+végétalien;vegan
+sans gluten;gluten-free
+sans produits laitiers;dairy-free
+commander;to order, to command
+demander l'addition;to ask for the bill
+l'addition f;bill, accumulation, addition, sum
+être servi;to be served
+la note;bill
+la chaise;chair
+le couteau à fromage;cheese knife
+la carafe d'eau;jug of water
+du sel et du poivre;salt and pepper
+le couteau à viande;steak knife, meat knife
+la table;table
+la nappe;tablecloth
+les cure-dents mpl;toothpicks
+le verre à vin;wine glass
+le stand de nourriture;food stall
+la cuisine de rue;street food
+un plat à emporter;a takeaway, takeaway
+les frais de livraison;delivery charge
+passer commande par téléphone;to phone in an order
+passer commande;to place an order
+récupérer des plats;to collect an order
+le hamburger;burger
+les frites fpl;fries, chips
+le hot dog;hot dog
+la brochette;kebab, skewer
+l'omelette f;omelette
+la pizza;pizza
+le sandwich;sandwich, filled baguette
+le sushi;sushi
+le wrap;wrap
+les réseaux sociaux;social media
+l'e-mail m;email
+l'adresse électronique;email address, email
+l'internet m;internet
+le wifi;WiFi
+le site web;website
+le lien;link
+l'icône f;icon
+le tapis de souris;mouse mat
+le clavier;keyboard
+l'appli f;app
+les données mobiles;data
+la ligne fixe;landline
+le message vocal;voice mail
+l'écran tactile m;touchscreen
+l'écran m;screen, monitor, block, guard, shield
+le bouton;button
+le câble;cable
+passer un appel;to make a phone call, to make a call
+poster (en ligne);to post (online)
+charger son portable;to charge your phone
+cliquer sur;to click on
+le chargeur;charger
+l'ordinateur m;computer
+la carte SIM;SIM card
+le smartphone;smartphone
+le routeur sans fil;wireless router
+l'école maternelle f;nursery school, nursery
+l'école primaire f;primary school
+le collège;middle school
+le lycée;high school
+l'enseignement supérieur;higher education
+l'université f;university
+la salle de classe;classroom
+l'emploi du temps m;timetable
+la leçon;lesson
+le cours;lecture
+le didacticiel;tutorial
+les devoirs mpl;homework
+l'examen m;exam
+le diplôme;degree, certificate, diploma
+la cantine;canteen
+la carte d'étudiant;student card
+apprendre;to learn
+enseigner;to teach
+réviser;to revise
+passer un examen;to sit an exam
+obtenir son diplôme;to graduate, obtain a diploma
+étudier;to study
+le personnel;staff, personnel
+la comptabilité;accounts
+les chiffres mpl;figures, statistics
+la feuille de calcul;spreadsheet
+la présentation;presentation
+la gomme;eraser
+le papier;paper
+le stylo;pen
+la trousse;pencil case
+la règle;ruler
+le cartable;schoolbag
+le taille-crayon;sharpener
+le manuel;textbook, manual
+le tableau blanc;whiteboard
+la cafétéria;cafeteria
+le campus;campus
+l'amphithéâtre m;lecture hall, amphitheatre
+le rapport;report
+la réunion;meeting
+la conférence téléphonique;conference call
+la visioconférence;video conference
+la cartouche d'encre;ink cartridge
+la boîte de réception;inbox
+le fichier;file
+la pièce jointe;attachment
+le nom d'utilisateur;username
+le mot de passe;password
+taper;to type
+faire une présentation;to give a presentation
+tenir une réunion;to hold a meeting
+la calculatrice;calculator
+la lampe de bureau;desk lamp
+le classeur;filing cabinet, ring binder
+la perforatrice;hole punch
+l'ordinateur portable;laptop
+le bloc-notes;notepad
+la photocopieuse;photocopier
+l'imprimante f;printer
+le scanner;scanner, scan
+les ciseaux mpl;scissors
+l'agrafeuse f;stapler
+le scotch;sticky tape, scotch, scotch tape, tape
+le téléphone;telephone
+la clé USB;USB stick
+l'adresse f;address
+la lettre prioritaire;first-class
+la lettre écopli;second-class
+les services bancaires;online banking
+le compte en banque;bank account
+le compte courant;current account
+le compte d'épargne;savings account
+épargner;to save, to save up
+le numéro de compte;account number
+le relevé de compte;bank statement
+le solde;bank balance, balance
+le découvert;overdraft
+le virement bancaire;bank transfer
+le carnet de chèques;chequebook
+la devise;currency
+le prêt;loan
+le prêt immobilier;mortgage
+les intérêts mpl;interests
+emprunter;to borrow
+rembourser;to repay, to reimburse
+retirer;to withdraw
+verser de l'argent;to make a deposit
+verser; pour, shed, deposit, pay in, put, transfer, assign, fall into
+changer de l'argent;to change money
+le distributeur de billets;ATM, ticket machine
+les billets de banque;banknotes
+le taux de change;exchange rate
+le coffre-fort;safety deposit box, safe
+l'église f;church
+le palais des congrès;conference centre
+le palais;palace, palate
+le congrès;congress, convention, conference
+le tribunal;courthouse
+la caserne de pompiers;fire station
+la fontaine;fountain
+la laverie;laundrette
+la mosquée;mosque
+l'immeuble de bureaux;office block
+le parc;park
+l'aire de jeux f;playground
+l'aire f;area, zone, park, estate
+le commissariat;police station
+la synagogue;synagogue
+la mairie;town hall
+le coursier;courier
+le courrier;mail
+poster;to post
+envoyer;to send
+l'enveloppe f;envelope
+la lettre;letter
+le colis;package
+la carte postale;postcard
+le timbre;stamp
+les vacances fpl;holiday, vacation
+le temps libre;spare time, free time
+l'activité f;activity
+amusant;fun, amusing
+ennuyeux;boring
+s'intéresser à;to be interested in
+être passionné par;to be keen on, to be passionate about
+passer le temps;to pass the time
+se détendre;to relax
+apprécier;to enjoy, to appreciate
+s'ennuyer;to be bored
+la cuisine;cooking
+les jeux vidéo mpl;gaming, video games
+le jardinage;gardening
+le jogging;jogging
+la lecture;reading
+le shopping;shopping
+le sport;sports, sport
+le voyage;travelling
+la marche;walking, walk
+la visite guidée;guided tour
+visiter;to visit
+voir;to see
+la galerie d'art;art gallery
+le château;castle
+la cathédrale;cathedral
+le plan du centre-ville;city map
+le jardin public;gardens
+le guide;guidebook, guide
+le monument;monument
+le musée;museum
+l'office de tourisme m;tourist office
+un verre;a drink, a glass, drink, glass
+la vie nocturne;nightlife
+la fête;party
+la pièce;play, room
+le film;film
+le festival;festival
+la billetterie;box office
+rencontrer des gens;to socialize, to meet people
+s'amuser;to enjoy oneself
+voir un spectacle;to see a show
+regarder un film;to watch a film
+aller danser;to go dancing
+le ballet;ballet
+le carnaval;carnival
+le casino;casino
+le cinéma;cinema
+le spectacle;comedy show, show, spectacle
+le concert;concert
+la fête foraine;funfair
+la comédie musicale;musical
+la boîte de nuit;nightclub
+l'opéra m;opera
+le restaurant;restaurant
+le théâtre;theatre
+la chambre d'hôte;bed and breakfast
+la pension complète;full board
+la demi-pension;half board
+le room service;room service
+le numéro de chambre;room number
+par personne et par nuit;per person per night, pppn
+régler sa note;to check out
+commander quelque chose au room;to order room service
+le panneau;sign
+la chambre pour deux personnes;double room
+la carte magnétique;key card, magnetic card
+le minibar;minibar
+la réception;reception
+la chambre pour une;single room
+la chambre à deux;twin room
+le camping;campsite
+la colonie de vacances;summer camp
+l'emplacement m;pitch
+camper;to camp
+partir en caravane;to go caravanning
+la caravane;caravan
+les allumettes fpl;matches
+le sac de couchage;sleeping bag
+la tente;tent
+Baignade interdite;No swimming
+la zone de baignade;bathing zone
+le bronzage;suntan
+nager;to swim
+le sable;sand
+la mer;sea
+les vagues;waves
+le parasol;parasol
+la serviette de plage;beach towel
+le ballon de plage;beach ball
+le bikini;bikini
+le seau;bucket, pail
+le transat;deckchair
+les tongs fpl;flip-flops
+la promenade;promenade, walk
+le château de sable;sandcastle
+les coquillages mpl;seashells, shells
+l'algue f;seaweed
+le tuba;snorkel, tuba
+les lunettes de soleil;sunglasses
+le chapeau de soleil;sunhat
+la crème solaire;suntan lotion
+le short de bain;swimming trunks
+la chanson;song
+l'album m;album
+le chanteur auteur;singer-songwriter
+le CD;CD
+le microphone;microphone
+la pop;pop
+le rock;rock
+le hip hop;hip-hop
+le rap;rap
+classique;classical, classic
+folk;folk
+électronique;electronic
+jouer d'un instrument;to play an instrument
+chanter;to sing
+aller à des concerts;to go to gigs, to go to concerts
+les écouteurs mpl;earphones, listeners
+le casque;headphones, headguard, helmet
+la barre de son;soundbar
+les haut-parleurs;speakers, loudspeakers
+la platine;turntable
+l'accordéon m;accordion
+la guitare acoustique;acoustic guitar
+la grosse caisse;bass drum
+la guitare basse;bass guitar
+le violoncelle;cello
+la clarinette;clarinet
+les cymbales fpl;cymbals
+la contrebasse;double bass
+la guitare électrique;electric guitar
+la flûte;flute
+la harpe;harp
+le clavier;keyboard
+l'harmonica m;mouth organ, harmonica
+le piano;piano
+le saxophone;saxophone
+la caisse claire;snare drum
+le trombone;trombone, paper clip
+la trompette;trumpet
+le violon;violin
+le xylophone;xylophone
+la chorale;choir
+l'orchestre m;orchestra
+la partition;sheet music, partition
+la photo;photo
+zoomer;to zoom in
+la carte SD;SD card
+les charades fpl;charades
+le cache-cache;hide and seek
+le jeu vidéo;video game
+la console de jeux;games console
+la manette de jeu;game controller
+les mots croisés mpl;crossword
+le sudoku;sudoku
+jouer;to play
+jeter les dés;to roll the dice, to throw the dice
+le backgammon;backgammon
+le jeu de société;board game
+le bowling;bowling
+les échecs mpl;chess
+les pions mpl;counters
+les fléchettes fpl;darts
+le dé;dice
+les dominos mpl;dominoes
+les dames fpl;draughts
+le puzzle;jigsaw puzzle, puzzle
+peindre;to paint
+esquisser;to sketch
+coudre;to sew
+tricoter;to knit
+la broderie;embroidery
+la poterie;pottery
+l'encre f;ink
+le carnet de croquis;sketchpad
+les couleurs pour aquarelle;watercolours
+la pelote de laine;ball of wool
+les boutons mpl;buttons
+les aiguilles à tricoter;knitting needles
+du fil et une aiguille;needle and thread
+les épingles fpl;pins
+l'épingle à nourrice f;safety pin
+la nourrice;nanny, childminder
+la machine à coudre;sewing machine
+le tournoi;tournament
+la compétition;competition
+la ligue;league
+le match;match
+les points mpl;points
+entraîner;to coach, to train
+participer;to compete, to participate
+marquer;to score, to mark
+gagner;to win
+perdre;to lose
+faire match nul;to draw
+le centre sportif;leisure centre
+la médaille;medal
+le podium;podium
+les spectateurs mpl;spectators
+le stade;stadium
+la tribune;stands
+l'équipe f;team
+le trophée;trophy
+la salle de sport;gym
+la course;running, race
+se maintenir en forme;to keep fit
+aller courir;to go for a run, go running
+aller à la salle de sport;to go to the gym
+le vestiaire;changing room
+le casier;locker
+le rameur;rowing machine, rower
+le tapis roulant;treadmill
+jouer au football;to play football
+donner un coup de pied;to kick
+marquer un but;to score a goal
+le ballon de foot;football
+le but;goal
+les gants de gardien;goalkeeper's gloves
+les protège-tibias mpl;shin pads, shinpads
+le sifflet;whistle
+l'ace m;ace
+jouer au tennis;to play tennis
+frapper;to hit, to strike
+servir;to serve
+le badminton;badminton
+shuttlecock;badminton
+le volant;shuttlecock, steering wheel
+le squash;squash
+le tennis;tennis
+la chaise de l'arbitre;umpire's chair
+la natation;swimming
+la brasse;breaststroke
+le dos crawlé;backstroke, backcrawl
+le crawl;front crawl
+la longueur;length
+la leçon de natation;swimming lesson
+la plongée;diving
+plonger;to dive
+surfer;to surf
+pagayer;to paddle
+ramer;to row
+pêcher;to fish
+les brassards mpl;armbands
+le plongeoir;diving board
+les palmes fpl;flippers
+les lunettes de natation;goggles, swimming goggles
+le bonnet de bain;swimming cap
+la piscine;swimming pool
+le maillot de bain;swimsuit
+la station de sports;ski resort
+le remonte-pente;ski lift
+la poudreuse;powder
+l'avalanche f;avalanche
+le bodyboard;bodyboarding
+le canoë;canoeing, canoe
+le kayak;kayaking, kayak
+le gilet de sauvetage;lifejacket
+les avirons mpl;oars
+la pagaie;paddle
+le paddle;paddleboarding
+la plongée sous-marine;scuba diving
+la planche de surf;surfboard, surfing board
+le surf;surfing
+la planche à voile;windsurfing
+skier;to ski
+faire du snowboard;to snowboard, to go snowboarding
+faire de la luge;to go sledging
+faire du patin à glace;to go ice skating
+la luge;sledge
+le casque de ski;ski helmet
+le combat;fight
+le coup de poing;punch
+boxer;to box
+faire de la lutte;to wrestle
+s'entraîner;to spar, to train
+assommer;to knock out
+le protège-dents;mouthguard
+l'escrime m;fencing
+escrimer;to fence
+le taekwondo;taekwondo
+la lutte;wrestling
+le faux départ;false start
+la ligne d'arrivée;finish line
+l'éliminatoire f;heat, elimination
+la finale;final
+le sprint;sprint
+courir;to run
+sauter;to jump
+lancer;to throw
+la haie;hurdles, hedge
+le chronomètre;stopwatch
+le trou;hole
+le trou en un;hole-in-one
+jouer au golf;to play golf
+le club de golf;golf club
+le tir à l'arc;archery
+le baseball;baseball
+les boules fpl;bowls
+l'escalade f;climbing
+le cricket;cricket
+la gymnastique;gymnastics
+le hockey;hockey
+le hockey sur glace;ice hockey
+le skate;skateboarding
+le snooker;snooker
+le tennis de table;table tennis
+le pansement;plaster
+la trousse de secours;first-aid kit
+la douleur;pain
+la maladie;illness
+le symptôme;symptom
+la santé mentale;mental health
+le traitement;treatment
+l'assurance maladie f;health insurance
+sain;healthy
+se remettre;to recover
+s'occuper de;to look after, to see to, to take care of, to deal with
+traiter;to treat
+la pharmacie;pharmacy
+la gorge;throat
+l'aisselle f;armpit
+les organes génitaux;genitals
+le sein;breast
+le cil;eyelash
+le sourcil;eyebrow
+la paupière;eyelid
+le lobe de l'oreille;earlobe
+les narines fpl;nostrils
+les lèvres fpl;lips, labia
+la langue;tongue
+les poils mpl;(body) hair, hair
+le poids;weight
+l'IMC m;BMI
+l'ouïe f;sense of hearing
+la vue;sense of sight, view
+l'odorat m;sense of smell
+le goût;sense of taste, taste
+le toucher;sense of touch
+l'équilibre m;balance, equilibrium
+voir;to see
+sentir;to smell
+entendre;to hear
+toucher;to touch
+goûter;to taste
+être debout;to stand
+marcher;to walk
+perdre l'équilibre;to lose one's balance
+les cheveux mpl;hair
+le front;forehead
+l'œil m;eye
+l'oreille f;ear
+la joue;cheek
+la bouche;mouth
+la mâchoire;jaw
+le menton;chin
+le poignet;wrist
+l'articulation du doigt;knuckle, finger-joint
+l'ongle;fingernail
+le doigt;finger
+le pouce;thumb
+la paume;palm
+le gros orteil;big toe
+l'ongle du pied m;toenail
+le doigt de pied;toe
+la plante du pied;sole
+le talon;heel
+la cheville;ankle
+la tête;head
+le visage;face
+le cou;neck
+le bras;arm
+la poitrine;chest
+l'abdomen m;abdomen
+la main;hand
+la cuisse;thigh
+la jambe;leg
+le genou;knee
+le tibia;shin, tibia
+le pied;foot
+l'épaule f;shoulder
+la coude;elbow
+le dos;back
+la hanche;hip
+les fesses fpl;buttocks
+le mollet;calf
+l'organe m;organ
+le cerveau;brain
+le cœur;heart
+le poumon;lung
+le foie;liver
+l'estomac m;stomach
+le rein;kidney
+les intestins mpl;intestines
+la vessie;bladder
+le système digestif;digestive system
+le système respiratoire;respiratory system
+le sang;blood
+l'articulation f;joint
+l'os m;bone
+le muscle;muscle
+le nerf;nerve
+le tendon;tendon
+le tissu;tissue, fabric
+le ligament;ligament
+la cellule;cell
+l'artère f;artery
+la veine;vein
+l'oxygène m;oxygen
+le crâne;skull
+la clavicule;collarbone, clavicle
+les vertèbres fpl;vertebrae
+l'humérus m;humerus
+le sternum;breastbone, sternum
+la colonne vertébrale;spine
+le cubitus;ulna
+le radius;radius
+le bassin;pelvis
+le fémur;femur
+la rotule;kneecap
+le péroné;fibula
+le rendez-vous;appointment
+l'examen médical m;examination, medical exam, medical examination
+le test;test
+les antibiotiques mpl;antibiotics
+la pilule;the pill
+le somnifère;sleeping pill
+l'ordonnance f;prescription
+la visite à domicile;home visit
+le vaccin;vaccination, vaccine, antidote
+le médicament;medication, medicine
+prendre rendez-vous;to make an appointment
+examiner;to examine
+être sous médication;to be on medication
+le tensiomètre;blood pressure monitor
+la salle d'examen;examination room
+la table d'examen;examination table
+le médecin;GP, doctor, physician
+le stéthoscope;stethoscope
+la seringue;syringe
+le thermomètre;thermometer
+la salle d'attente;waiting room
+l'examen dentaire m;check-up
+la molaire;molar
+l'incisive f;incisor
+la canine;canine
+les dents de sagesse fpl;wisdom teeth
+la plombage;filling
+l'extraction f;extraction
+la douleur dentaire;toothache
+l'abcès m;abscess
+se passer du fil;to floss
+l'appareil (dentaire);braces
+le fil dentaire;dental floss
+l'assistant dentaire;dental nurse, dental assistant
+la fraise dentaire;dentist's drill
+le dentier;dentures
+les gencives fpl;gums
+le bain de bouche;mouthwash
+les dents fpl;teeth
+la dent;tooth
+les lunettes de lecture;reading glasses
+les lunettes à double foyer;bifocals, bifocal glasses
+la conjonctivite;conjunctivitis
+l'orgelet m;stye
+la vision brouillée;blurred vision
+les cataractes fpl;cataracts
+myope;short-sighted, myopic
+hypermétrope;long-sighted, far-sighted
+malvoyant;visually impaired
+aveugle;blind
+daltonien;colour-blind
+porter des lunettes;to wear glasses
+le tableau d'acuité visuelle;eye chart
+le collyre;eye drops
+l'examen de la vue m;eye test, eye exam
+la monture;frames, mount, frame, setting
+les lunettes fpl;glasses
+l'étui à lunettes m;glasses case
+l'étui;case
+la clinique;private hospital, clinic
+l'opération f;operation
+le défibrillateur;defibrillator
+les soins intensifs mpl;intensive care
+le diagnostic;diagnosis
+l'ambulance f;ambulance
+les béquilles fpl;crutches
+la perfusion;drip, infusion
+le lit d'hôpital;hospital bed
+le chariot roulant;hospital trolley
+la salle d'opération;operating theatre
+le masque à oxygène;oxygen mask
+le plâtre;plaster cast, cast, plaster
+les points de suture;stitches
+la salle d'hôpital;ward
+le fauteuil roulant;wheelchair
+le fauteuil;armchair
+le déambulateur;Zimmer frame, walking frame
+l'accident m;accident
+le pouls;pulse
+la commotion;concussion
+la chute;fall
+le déboîtement;dislocation
+la foulure;sprain
+la cicatrice;scar
+le coup du lapin;whiplash
+l'enflure f;swelling
+les premiers secours;first aid
+la position latérale de sécurité;recovery position
+la RCP;CPR
+être inconscient;to be unconscious
+se blesser;to injure oneself
+tomber;to fall
+se casser le bras;to break one's arm
+se tordre la cheville;to twist one's ankle
+la brûlure;burn
+la coupure;cut
+la fracture;fracture
+l'éraflure f;graze
+l'écharde f;splinter
+la piqûre;sting
+le coup de soleil;sunburn
+l'antiseptique m;antiseptic
+le bandage;bandage
+la poche de glace;ice pack
+la minerve;neck brace
+la pommade;ointment
+l'écharpe f;sling, scarf, sash
+la pince à épiler;tweezers
+la crise cardiaque;heart attack
+l'attaque f;stroke, attack
+l'infection f;infection
+l'otite f;ear infection
+la fièvre;fever
+le virus;virus
+la varicelle;chicken pox
+l'éruption cutanée f;rash
+la gastroentérite;stomach bug, gastroenteritis
+l'intoxication alimentaire;food poisoning
+les vomissements mpl;vomiting
+la nausée;nausea
+la diarrhée;diarrhoea
+la constipation;constipation
+le diabète;diabetes
+l'épilepsie f;epilepsy
+l'asthme m;asthma
+le vertige;dizziness, vertigo
+l'inhalateur m;inhaler
+l'insuline f;insulin
+les douleurs de règles;period pain
+tousser;to cough
+éternuer;to sneeze
+vomir;to vomit
+s'évanouir;to faint
+la femme enceinte;pregnant woman
+le fœtus;foetus
+l'utérus m;uterus
+le col de l'utérus;cervix
+le travail;labour, work
+la péridurale;epidural
+le projet de naissance;birth plan
+l'accouchement m;delivery
+la césarienne;Caesarean section, Caesarean
+la fausse couche;miscarriage
+la nausée matinale;morning sickness
+mort-né;stillborn
+tomber enceinte;to fall pregnant
+être en travail;to be in labour
+accoucher;to give birth
+faire une fausse;to miscarry
+la couveuse;incubator
+la sage-femme;midwife
+le test de grossesse;pregnancy test
+la grossesse;pregnancy
+l'échographie f;ultrasound
+le masseur;masseur
+la masseuse;masseuse
+le remède;remedy
+la pleine conscience;mindfulness
+plein;full, full of, solid, filled
+masser;to massage
+méditer;to meditate
+le massage;massage
+la méditation;meditation
+la médecine;medicine
+l'animal de compagnie;pet
+la puce;flea, microchip
+la tique;tick
+la quarantaine;quarantine
+vacciner;to vaccinate
+traiter contre les vers;to worm, treat for worms
+pucer;to microchip
+l'animal m;animal
+l'oiseau m;bird
+le poisson;fish
+l'espèce f;species
+le zoo;zoo
+la réserve naturelle;nature reserve
+le paysage;scenery, landscape
+la fourrure;fur
+la laine;wool
+la patte;paw
+le sabot;hoof
+le museau;snout
+la crinière;mane
+la queue;tail, queue
+la griffe;claw
+la corne;horn
+le bec;beak
+à sang froid;cold-blooded
+à sang chaud;warm-blooded
+aboyer;to bark
+ronronner;to purr
+grogner;to growl
+pépier;to chirp
+rugir;to roar
+la ferme;farm
+la litière (pour chat);cat litter, litter
+la grange;barn
+le foin;hay
+la paille;straw
+la prairie;meadow, grassland, prairie
+le chien d'aveugle;guide dog
+le veau;calf, veal
+l'agneau m;lamb
+le poulain;foal
+le chiot;puppy
+le chaton;kitten
+promener le chien;to walk the dog
+aller chez le vétérinaire;to go to the vet
+cultiver;to farm (crops), to grow, to cultivate
+élever;to farm (animals), elevate, raise
+la perruche;budgerigar, parakeet
+le canari;canary
+le chat;cat
+le chien;dog
+le furet;ferret
+le poisson rouge;goldfish
+le cochon d'Inde;guinea pig
+le hamster;hamster
+le perroquet;parrot
+le poney;pony
+le lapin;rabbit
+le rat;rat
+le taureau;bull
+le poulet;chicken
+la vache;cow
+l'âne m;donkey
+le canard;duck
+la chèvre;goat
+l'oie f;goose
+le cheval;horse
+le cochon;pig
+le mouton;sheep
+le chien de berger;sheepdog
+le dindon;turkey
+l'aquarium m;aquarium
+la muselière;muzzle
+l'écurie f;stable
+l'alligator m;alligator
+le crocodile;crocodile
+la grenouille;frog
+le gecko;gecko
+l'iguane m;iguana
+le lézard;lizard
+le triton;newt
+la salamandre;salamander
+le serpent;snake
+le crapaud;toad
+la tortue;tortoise
+la tortue marine;turtle
+le blaireau;badger
+la chauve-souris;bat
+le sanglier;boar
+le cerf;deer
+le renard;fox
+le lièvre;hare
+le hérisson;hedgehog
+la taupe;mole
+la souris;mouse
+la loutre;otter
+l'écureuil m;squirrel
+le loup;wolf
+l'ours m;bear
+le chameau;camel
+le chimpanzé;chimpanzee
+l'éléphant m;elephant
+la girafe;giraffe
+le gorille;gorilla
+l'hippopotame m;hippopotamus
+le kangourou;kangaroo
+le lion;lion
+le singe;monkey
+le rhinocéros;rhinoceros
+le tigre;tiger
+le merle;blackbird
+la grue;crane
+le corbeau;crow
+la colombe;dove
+l'aigle m;eagle
+le pinson;finch
+le flamant rose;flamingo
+la mouette;gull
+le faucon;hawk, falcon
+le héron;heron
+le martin-pêcheur;kingfisher
+l'alouette f;lark
+l'autruche f;ostrich
+la chouette;owl
+le paon;peacock
+le pélican;pelican
+le manchot;penguin
+le pigeon;pigeon
+le macareux;puffin
+le rouge-gorge;robin
+le moineau;sparrow
+la cigogne;stork
+le cygne;swan
+la grive;thrush
+l'essaim m;swarm
+la colonie;colony
+la toile d'araignée;cobweb, spider web
+la piqûre d'insecte;insect bite
+bourdonner;to buzz
+piquer;to sting
+la fourmi;ant
+l'abeille f;bee
+le scarabée;beetle
+le papillon;butterfly
+la chenille;caterpillar
+le mille-pattes;centipede
+le cafard;cockroach
+le grillon;cricket
+la libellule;dragonfly
+le ver de terre;earthworm, worm
+la mouche;fly
+la sauterelle;grasshopper
+la coccinelle;ladybird
+l'éphémère f;mayfly, ephemeral
+le moustique;mosquito
+le papillon de nuit;moth
+la limace;slug
+l'escargot m;snail
+l'araignée f;spider
+la guêpe;wasp
+le cloporte;woodlouse
+le corail;coral
+le crabe;crab
+le dauphin;dolphin
+l'anguille f;eel
+la méduse;jellyfish
+l'orque f;killer whale, orca
+le phoque;seal
+le requin;shark
+l'étoile de mer f;starfish
+la baleine;whale
+la tige;stalk
+le pétale;petal
+le pollen;pollen
+le bourgeon;bud
+le bois;wood
+la branche;branch
+le tronc;trunk
+l'écorce f;bark
+la racine;root
+le bulbe;bulb
+le bouton-d'or;buttercup
+l'œillet m;carnation
+le chrysanthème;chrysanthemum
+la jonquille;daffodil
+la pâquerette;daisy
+la jacinthe;hyacinth
+l'iris m;iris
+le lys;lily
+le muguet;lily-of-the-valley
+l'orchidée f;orchid
+la pensée;pansy
+le coquelicot;poppy
+la rose;rose
+le tournesol;sunflower
+la tulipe;tulip
+le marronnier;chestnut
+le cyprès;cypress
+le sapin;fir
+le champignon;fungus, mushroom
+la vigne;grapevine, vine
+le lierre;ivy
+la lavande;lavender
+le lilas;lilac
+la mousse;moss
+le chêne;oak
+l'olivier m;olive
+le pin;pine
+le peuplier;poplar
+le saule;willow
+le paysage;landscape
+la boue;mud
+l'eau f;water
+l'estuaire m;estuary
+l'air m;air
+l'atmosphère f;atmosphere
+la comète;comet
+le lever du soleil;sunrise
+le coucher de soleil;sunset
+rural;rural
+urbain;urban
+polaire;polar
+alpin;alpine
+la grotte;cave
+le désert;desert
+les terres cultivées fpl;farmland
+la forêt;forest
+le glacier;glacier
+la colline;hill
+le lac;lake
+le marais;marsh
+la montagne;mountain
+la mare;pond, pool
+le fleuve;river
+les rochers mpl;rocks
+la rivière;stream, river
+la vallée;valley
+le volcan;volcano
+la cascade;waterfall, cascade
+la falaise;cliff
+la côte;coast, rib, shore
+le récif coralien;coral reef
+l'île f;island
+la péninsule;peninsula
+la flaque d'eau salée;rockpool
+la flaque;puddle
+les nuages mpl;clouds
+la lune;moon
+l'arc-en-ciel m;rainbow
+les étoiles fpl;stars
+la plume;feather
+l'occasion f;occasion
+l'anniversaire m;birthday
+le mariage;wedding, marriage
+l'anniversaire de mariage;wedding anniversary
+le jour férié;public holiday
+la fête religieuse;religious holiday, religious festival
+la célébration;celebration
+la fête surprise;surprise party
+célébrer;to celebrate
+faire une fête;to throw a party, to have a party
+porter un toast à;to toast
+le bouquet;bouquet
+la boîte de chocolats;box of chocolates
+les banderoles fpl;bunting
+le gâteau;cake
+le champagne;champagne
+le cadeau;gift
+la fête des Mères;Mother's Day
+la fête des Pères;Father's Day
+la Saint Valentin;Valentine's Day
+la naissance;birth
+le premier jour;first day of school
+trouver un boulot;finding a job
+les fiançailles fpl;engagement
+avoir un bébé;having a child, having a baby, have a baby
+le déménagement;relocation
+la retraite;retirement
+l'enterrement m;funeral
+les feux d'artifice mpl;fireworks
+la Toussaint;All Saints' Day
+poisson d'avril;April Fool's Day, April Fool's
+le nouvel an chinois;Chinese New Year
+Dipavali f;Diwali
+Pâques fpl;Easter
+l'Aïd-el-Fitr m;Eid-al-Fitr, Eid
+Halloween f;Halloween
+Hanoukka f;Hanukkah
+Pâque juive f;Passover
+le ramadan;Ramadan
+la veille de Noël;Christmas Eve
+le jour de Noël;Christmas Day
+la Saint-Sylvestre;New Year's Eve
+le jour de l'an;New Year's Day
+les étrennes fpl;New Year gift
+le père Noël;Santa Claus, Father Christmas
+le marché de Noël;Christmas market
+le gui;mistletoe
+la crèche de Noël;Nativity scene, nativity
+la couronne;wreath, crown
+la bûche de Noël;Yule log
+le char de carnaval;carnival float
+le masque;mask
+la parade;parade

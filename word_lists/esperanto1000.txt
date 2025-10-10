@@ -1,0 +1,904 @@
+LANGUAGE=ESPERANTO
+¡oh;oh
+aĉeti;buy *acheter (fr)
+aĉetinta;bought *acheter (fr)
+aero;air
+afabla;gentle, kind *affable
+afero;matter, thing
+aĝo;age
+ajna;any
+akiri;get, acquire *AQIRI
+akiris;got, acquired *akiri (get) + is
+akra;sharp *acrid
+akto;act
+aktuala;current
+akvo;water *aqua
+aldoni;add *al (to) + doni (give)
+alia;else, another
+aliaj;other
+aliĝi;join *al (to) + iĝi (change of state)
+almenaŭ;least *remember almenaŭ = least, plej = most
+alporti;bring *apporter (fr)
+alportis;brought
+alta;high *altitude
+altkreska;tall *alt (high) + kreski (to grow) 
+alveni;arrive, reach *al (to) + veni (to come)
+alvoko;call *invoke
+amaso;crowd, mass, heap *mass
+ambaŭ;both *ambidextrous
+amiko;friend *ami
+amuza;fun *amusing
+anaso;duck
+angulo;corner, angle
+ankaŭ;also *anche (it)
+ankoraŭ;still, yet
+anonco;notice, announcement
+anstataŭ;rather, stead
+antaŭ;before *anterior
+antaŭa;front *antaŭ (before) + a
+antaŭen;forward *antaŭ = before
+aparta;separate
+aperi;appear
+aranĝi;arrange
+arbaro;forest *arbre (fr)
+arbo;tree *arbre (fr)
+arĝento;silver *argent
+aro;set, whole
+arto;art
+atendi;expect, hope, wait *attendre (fr)
+atomo;atom
+aŭ;or
+aŭdi;hear *audio
+aŭdis;heard *aŭdi + is
+aŭskulti;listen *auscultate
+aŭto;car, self *automobile
+aŭtoveturejo;track
+baldaŭ;soon *bald (de)
+bando;band
+bastono;stick
+baton;blow
+baza;basic *remember a = adjective
+bazo;base *remember o = noun
+bebo;baby
+bela;fair, pretty
+beleco;beauty
+besto;animal
+bezonas;need *besoin (fr)
+birdo;bird
+blanka;white *blanc (fr)
+bloko;block
+blua;blue
+bona;best, good
+bonaj;good
+bone;well *bon + e (adverb)
+bonodoro;smell *bon-odoro = good odour
+bonvolu;please
+bordo;bank, shore
+bovino;cow *bovine
+brako;arm *bras (fr)
+branĉo;branch *BRANCHO
+brila;bright
+briligi;shine
+bruligi;burn *brûler (fr)
+bruna;brown
+bruo;noise *bruit (fr)
+buŝo;mouth *bouche (fr)
+butiko;shop
+ĉambro;room *chamber
+ĉapelo;hat *chapeau (fr)
+ĉasi;hunt, chase *remember ĉasi = chase, ĉesi = cease
+ĉe;at
+ĉeestanta;present
+ĉefa;main
+ĉefe;especially, mainly
+ĉefurbo;capital *ĉef (chief) + urbo (city/town)
+ĉelo;cell
+cendo;cent
+cent;hundred
+centro;center, centre
+certaj;certain
+certas;sure
+ĉesi;stop, cease *remember ĉasi = chase, ĉesi = cease
+ĉevalo;horse *cheval (fr)
+ĉiam;always *ĉi (all/every prefix) + am (time suffix)
+ĉielo;sky *ciel (fr)
+cifero;figure
+ĉik;chick
+ĉiu;each, every
+ĉiuj;all, everyone, everybody *ciu = each, every
+colo;inch *remember colo (TSOLO) = inch, kolo = neck 
+ĉu;either, whether *sounds like you have to CHOOse
+danco;dance
+danĝero;danger
+dankon;thank *danke (de)
+daŭrigi;continue
+de;of *de (fr)
+decidi;decide
+dek;ten *deca
+dekstra;right *dexterity
+dekuma;decimal
+demandas;wonder, ask *demander (fr)
+demando;question *demander (fr)
+demandu;ask *demander (fr)
+denove;again
+dentoj;teeth *dental
+dependi;depend
+desegni;draw *dessiner (fr)
+determini;determine
+devas;must
+devus;should
+dezajno;design
+dezerto;desert
+deziri;wish, desire
+dikaj;thick
+diras;say *dire (fr)
+diris;said
+diru;tell
+disko;drive, disk
+diskuti;discuss
+diskuto;talk, discussion
+disvastiĝo;spread *dis (separation) + vasta (vast) + iĝi (state of being) + o
+divenu;guess *deviner (fr)
+dividi;divide *remember i means verb
+divido;division
+dolaro;dollar
+domo;house *domo = house, hejmo = home
+doni;give *donner (fr)
+donis;gave *donner (fr)
+dormo;sleep *dormir (fr)
+drato;wire *thread
+du;two
+dua;second *du = two
+dudek;twenty
+dum;during, while
+duobla;double *du = two
+duono;half *du = two
+ebenaĵo;plain
+ebeno;plane
+ebla;possible
+eble;perhaps, possibly *ebla (possible) + e
+eĉ;even
+edzino;wife *edzo = husband
+efekto;effect *EFFECTO
+egalaj;equal
+egaleco;tie, equality
+egaligas;equate
+eĝo;edge
+ekde;since *ek (beginning) + de (from)
+eksciti;excite *EXCITI
+eksperimento;experiment
+ekstere;off *extinguish
+ekzemplo;example *EXEMPLO
+ekzerco;exercise
+el;from, out
+elekti;choose, select, elect
+elektra;electric
+elemento;element
+elpensi;invent *el (out) + pensi (think)
+elporti;bear
+elprovi;prove
+elspezi;spend *remember elspezi = spend (outgoing), enspezi = earn (incoming)
+en;in
+energion;energy
+enhavi;contain *en (in) + havi (to have)
+eniri;enter
+eniris;went, entered
+ensaluti;log in *en (in) + saluti (greet / log in)
+enspezi;raise, earn
+entute;total
+estas;am, are, is
+esti;be *être (fr)
+estintaj;been
+estinteco;past *estina + eco (quality of)
+estis;was, were
+estro;chief, leader, head, boss
+eta;tiny
+evidenta;clear
+evoluigi;develop *evolution
+faciligi;ease *facile (fr)
+fajna;fine
+fajro;fire
+fakto;fact
+fali;fall
+faligi;drop *fali = fall
+falis;fell *fali = fall
+famaj;famous
+familio;family
+faras;does, do
+fari;do, make *faire (fr)
+faris;did, made *fari (do/make) + is (past tense)
+farita;done *fari = do/make
+farus;would *fari = do/make
+favorus;favor, favour
+feliĉa;happy
+fenestro;window *fenêtre (fr)
+fermi;close *fermer (fr)
+fero;iron
+fervoja;rail, railway *lit. iron way
+festo;party *festival
+figo;fig
+filo;son *fils (fr)
+fingro;finger
+fini;finish
+fino;end *fin (fr)
+fiŝo;fish
+flanko;side *flank
+flava;yellow
+floro;flower
+fluas;flow
+flugilo;wing *flugi (fly) ilo (tool)
+fluo;stream
+forlasi;leave
+formo;form, shape
+forta;strong *fort (fr)
+forto;force, strength *fort (fr)
+foton;picture, photo
+frakcio;fraction
+fratino;sister *frère (fr) in = female
+frato;brother *frère (fr)
+frazo;phrase *PHRAZO
+freŝa;fresh
+frua;early *früh (de)
+fruktoj;fruit
+funkcii;operate *function
+funto;pound *pfund (de)
+ĝardeno;garden *jardin (fr)
+gaso;gas
+gazetaro;press *gazette
+ĝenerale;general
+gepatro;parent *ge (both sexes) + patro (father)
+ĝi;it
+ĝis;until *jusque (fr)
+glacio;ice *glacier
+ĝojas;glad
+ĝojo;joy *JOYo
+grado;degree, grade *grade
+grafikaĵo;chart, graph
+grajnoj;corn *grain
+granda;big, great, large, major
+grandeco;size
+grandega;huge
+grandioza;grand
+graso;fat *gras (fr)
+gravulo;character
+grimpo;climb
+grizaj;gray, grey *gris (fr)
+grupo;group *GROUPO
+ĝusta;correct, exact
+gvidi;guide
+haroj;hair
+haŭto;skin *hide
+havas;has, have *havi + as
+havis;had *havi + is
+havos;have
+hejmo;home *domo = house, hejmo = home
+helpi;help
+herbo;grass *herb
+historio;history
+homa;human *hominid
+homoj;people
+horloĝo;clock *horloge (fr)
+horo;hour
+hundo;dog *hound
+iam;ever *remember iam = ever, iom = bit/little
+ideon;idea
+ili;they
+iliaj;their *ili = they
+ilin;them *ili (they) + n (accusative)
+ilo;tool *used as a suffix too
+imagu;imagine
+indiki;indicate
+industrio;industry
+infano;child *infant
+infanoj;children *infants
+inkluzivi;include
+insekto;insect
+instrumento;instrument
+instruos;teach *instruct
+insulo;island
+inter;among, between
+intereso;interest
+interkonsenti;agree
+interkonsento;deal, agreement
+interpunkcio;score
+iom;bit, little *remember iam = ever, iom = bit/little
+iri;go
+iritaj;gone *iri = go
+iuj;some
+jarcento;century *year 100
+jardo;yard
+jaro;year
+jes;yes
+ĵeti;throw *jeter (fr)
+junulo;young
+kaj;and
+kalkuli;count *calculate
+kamiono;truck
+kampo;field *champ (fr)
+kanti;sing *canton
+kanto;song *canton
+kapitano;captain *CAPITANO
+kapo;head
+kaptita;caught
+kara;dear
+karto;card
+kato;cat
+kaŭzo;cause *CAUSO
+ke;that
+kial;why
+kialo;reason *kial = why
+kiam;when *A.M. is a time
+kie;where *wherE ends in an E
+kiel;an, as, like *remember kial = why, kiel = an/as/like
+kies;whose
+kio;what, which *o = noun
+kiom;how *om = quantity
+kiu;who *u = individuals
+klaso;class
+knabino;girl
+knabo;boy
+kolekti;collect, gather
+kolero;anger *colère (fr)
+kolo;neck *collar
+kolonio;colony
+kolono;column
+koloro;color, colour *kolero = anger, koloro = colour
+komenci;begin, start *commence
+komencis;began, started *commence
+komenco;start *commence
+komerco;trade *commerce
+kompanio;company
+kompari;compare
+kompleta;complete
+kompreneble;course, understandably
+komunaj;common
+kondamno;sentence *condemn
+kondiĉo;condition
+konduki;lead *conductor
+kondukis;led *conductor
+konekti;connect
+konko;shell *conch
+konservi;keep, conserve
+konservis;kept, conserved
+konsideri;consider
+konsonanto;consonant
+konstrui;build, construct
+kontinento;continent
+kontraŭ;against
+kontraŭa;opposite *kontraŭ = against
+kontroli;check
+kontrolo;control
+kopio;copy
+kordo;string *cord
+koro;heart *cœur (fr)
+korpo;body *corps (fr)
+kosto;cost
+kostumo;suit, costume
+kotono;cotton
+kovrilo;cover *ilo = tool
+kredas;believe *croire (fr)
+krei;create
+kreski;grow
+kreskis;grew
+krio;cry, shout *CRYO
+krom;except
+kropo;crop *CROPO
+kruĉo;jug, pot *remember kruro = leg
+kruro;leg
+kuiristino;cook
+kun;with
+kune;together *kun = with
+kunvenas;meet
+kuracisto;doctor *lit. cure professional
+kuris;ran *courir (fr)
+kuŝis;lay
+kutima;usual *custom
+kvadrata;square *quadrilateral
+kvankam;though
+kvar;four *kvar = 4 kvin = 5
+kvarto;quart *kvar = 4
+kvin;five *kvar = 4 kvin = 5
+kvociento;quotient
+la;the
+laboro;job, work
+lago;lake
+lakto;milk *lactose
+lando;country, land *land
+larĝa;broad, wide *large
+lasta;final, last *last
+lasu;let
+laŭta;loud
+lavita;wash *lavatory
+legi;read
+leĝo;law *legislation
+lernantino;student *learner female
+lernejo;school *learning place
+lerni;learn
+lerto;skill
+letero;letter
+leviĝis;rose *levitate
+li;he, him
+libro;book *library
+ligno;wood *remember line = linio
+likva;liquid
+lingvo;language
+linio;line
+literumi;spell
+lito;bed *lit (fr)
+lokalizi;locate, localise
+loko;place, location
+longa;long
+longo;length *long noun
+ludo;game
+ludos;play *ludi = to play
+lukto;fight
+luno;moon *lune (fr)
+magneto;magnet
+majstro;master *maestro
+malalta;low *alta = high
+malamiko;enemy *amiko = friend
+malantaŭ;behind *antaŭ = before
+malbona;bad *bona = good
+malbrua;silent *opposite of noise
+maldekstra;left *opposite of right
+maldika;thin *opposite of thick
+malfacila;difficult, hard *opposite of easy
+malfelicxo;trouble
+malfermita;open *opposite of closed
+malfrue;late
+malgranda;small
+malĝusta;wrong
+mallonga;short
+mallumo;dark
+malmultaj;few
+malnova;old *nova = new
+malpeza;light *peza = heavy
+malpli;less *pli = more
+malproksima;distant
+malproksime;far
+malrapida;slow *opposite of fast
+malriĉa;poor
+malsupren;down *supren = up
+malsupro;bottom
+malvarma;cold
+malvarmeta;cool
+manĝi;eat *manger (fr)
+manoj;hands *mains (fr)
+mapo;map
+marbordo;coast *lit. sea border
+marko;mark
+maro;sea *mer (fr)
+marŝi;walk *march
+maŝino;machine
+maso;mass
+mateno;morning
+materialo;material
+mejlo;mile
+melodio;melody
+memori;remember
+menso;mind *MENSA organisation
+mensogo;lie *mensonge (fr)
+merkato;market
+metalo;metal
+metita;put *mettre (fr)
+metodo;method
+mezo;middle *meso
+mezuri;measure
+mi;i
+miaj;mine, my
+mian;my
+miksi;mix
+miliono;million
+milito;war *militi (wage war) + o, remember militistaro = military
+milo;thousand
+min;me
+minuto;minute
+modernaj;modern
+mola;soft *malleable
+molekulo;molecule
+momento;moment
+monato;ago, month
+mondo;world *monde (fr)
+monon;money
+monto;hill, mount, mountain
+morti;die
+mortigi;kill
+mortinto;dead
+morto;death
+motoro;engine, motor
+movado;motion, move
+multa;lot, much *multi
+multaj;many *multi
+multipliki;multiply
+muro;wall *mural
+muŝo;fly *mouche (fr)
+muziko;music
+nacio;nation
+naĝi;swim *nager (fr)
+natura;natural
+naturo;nature
+naŭ;nine
+nazo;nose
+ne faros;won’t
+necesajn;necessary
+neĝo;snow *neige (fr)
+nek;nor *remember nek = nor, kolo = neck
+neniam;never *neni = negation prefix, am = time suffix
+nenio;nothing *neni = negation prefix + o
+neniu;no
+ni;we *nous (fr)
+nian;our *ni + a + n
+nigra;black
+nin;us *ni + n
+nivelo;level *niveau (fr)
+nokto;night *nocturnal
+nombro;number
+nomo;name *nom (fr)
+norde;north *nord (fr)
+noto;note
+nova;new
+nubo;cloud *nue (fr) = archaic term for cloud
+numeralo;numeral
+nun;now *same as german NUN
+nur;only *same as german NUR
+nutraĵo;food *nutrition
+objekto;object *OBJECTO
+observi;observe
+oceano;ocean
+oferto;offer
+oficejo;office *lit. office place
+ofte;often
+ok;eight *oct
+okazaĵo;event, occasion *okazo (event) + aĵo (manifestation)
+okazi;happen, occur *occasion
+okazo;case
+okcidenta;west
+oksigeno;oxygen
+okulo;eye *ocular
+okupata;busy *occupied
+ol;than
+ondo;wave *onde (fr)
+ordon;order
+orelo;ear *oreille (fr)
+organo;organ
+oriente;east *oriental
+originala;original
+oro;gold *or (fr)
+osto;bone
+ovo;egg
+pafilo;gun *pafi + ilo (tool)
+pagi;pay
+paĝo;page
+pano;bread *pain (fr)
+papero;paper
+paragrafo;paragraph *PARAGRAPHO
+paro;pair
+parolado;speech *paroli = speak
+paroli;speak, talk *parler (fr)
+parolis;spoke *paroli + is
+parto;part
+pasi;pass
+paŝo;step *remember pasio = passion
+patrino;mother *patro (father) + ino
+patro;father
+paŭzo;break, pause
+peco;piece
+pensas;think *penser (fr)
+pensis;thought *penser (fr)
+pentri;paint *peindre (fr)
+per;by, through
+perdita;lost *perdi = to lose
+periodo;period
+permesi;allow, permit
+persono;person
+persvadis;fit
+petrolo;oil *petrol
+peza;heavy
+pezo;weight
+piedo;foot *pied (fr)
+piedojn;feet *pied (fr)
+pilko;ball
+planedo;planet
+planko;floor, soil *plank
+plano;plan
+planto;plant
+plata;flat *a plate is flat
+plej;most *remember pli = more, plej = most
+plena;full
+plenigi;fill
+pli;better, more
+pluraj;several *plural
+pluralo;plural
+pluvo;rain *pleuvoir (fr)
+pneŭo;tire, tyre
+poemo;poem
+pomon;apple *pomme (fr)
+popoli;populate
+por;for, to *pour (fr)
+pordo;door *portal
+porti;carry
+post;after
+posteno;post
+postuli;require, claim, demand
+potenco;might, power *potency
+povas;can *povi = to be able to, pouvoir (fr)
+povis;able, could *povi = to be able to, pouvoir (fr)
+pozicion;position
+praktiko;practice
+preni;take
+prenis;took *preni + is
+preta;ready *prêt (fr), 'prêt à manger' means ready to eat
+pretendo;claim
+pretigi;prepare
+printempo;spring *printemps (fr)
+priskribi;describe *pri (about) + skribi (write), remember preskribi = prescribe
+prizorgi;care *pri (about) + zorgi (worry)
+probabla;probable
+problemo;problem
+procezo;process
+produkti;produce
+produkto;product
+profunda;deep *profound
+proksime;near
+proksimulo;neighbor, neighbour *proksima (close) + ulo (person)
+proksimume;about *proximity
+propra;own *property
+propraĵo;property
+protekti;protect
+provizado;supply *provision
+provizi;provide
+provu;try
+punkto;point, spot *punkt (de)
+purigi;clean *purify
+puŝo;push *pusho
+radiko;root *radical
+radio;radio
+rado;wheel
+rakontis;told *recount
+rakonto;story, tale *recount
+rapida;fast, quick *rapid
+rapidi;hurry *rapida = fast
+rapido;speed *rapida = fast
+raso;race *remember razilo = razor
+reala;real
+reen;back
+regi;govern, rule
+regiono;region
+reĝo;king
+regulo;rule
+rekordo;record
+rekta;direct, straight *rectus
+reprezentas;represent
+respondi;reply, answer, respond
+respondo;answer, response
+resti;stay *rester (fr)
+resto;rest
+rezulto;result
+riĉa;rich *RICHA
+ricevos;receive
+rideto;smile *rido (laugh) + eto (diminished)
+rido;laugh
+rigardi;look *regarder (fr)
+rilate;toward
+ringon;ring
+ripeto;repeat
+rivero;river
+robo;dress *robe
+roko;rock
+rompis;broke *romper (fr)
+ronda;round
+rondo;circle
+ruĝa;red
+rulo;roll
+sablo;sand
+ŝablono;pattern *NOT sablo = sand
+ŝajnas;seem
+sala;salty *sal + a
+salti;jump *saltation
+sama;same
+ŝanco;chance
+sango;blood *sang (fr)
+ŝanĝo;change
+ŝarĝi;charge
+scias;know
+scienco;science
+sciis;knew
+se;if *si (fr)
+sed;but
+segilo;saw
+segmento;segment
+seĝo;chair, seat
+seka;dry *remember sep = seven, seka = dry, sekva = next, sekvi = follow
+sekcio;section, stretch *SECTSIO
+sekura;safe *secure
+sekva;next *remember sep = seven, seka = dry, sekva = next, sekvi = follow
+sekvi;follow *remember sep = seven, seka = dry, sekva = next, sekvi = follow
+semajno;week *semaine (fr)
+semoj;seeds
+sendis;sent *sendi + is
+sendu;send *sendi + u
+senpaga;free *sen (without) + paga (payment)
+sentas;feel *senti + as
+sentis;felt *sentir (fr)
+sento;sense *senti + o
+sep;seven *sept (fr)
+serĉo;search
+servas;serve
+ses;six
+sezono;season
+ŝi;she
+ŝia;her
+siavice;turn
+sidiĝi;sit down *sidi (sit) + iĝi (change of state)
+signifis;meant
+signifus;mean
+signo;sign
+silabo;syllable
+ŝildo;coat *shield
+simbolo;symbol
+simila;similar
+simpla;simple
+simple;just
+ŝipo;ship
+sistemo;system
+skalo;scale
+skatolo;box
+sklavo;slave
+skribi;write *scribe
+skribis;wrote *scribe
+skribita;written *scribe
+ŝlosilo;key *ŝlosi (to lock) + ilo
+ŝnuro;rope
+sola;single *solitary
+soldato;soldier
+solvi;solve
+solvo;solution
+someron;summer
+sonĝi;dream *songe (fr) literary term for dream
+soni;sound *sonner (fr)
+sonorilo;bell *soni = sound
+sovaĝa;wild, savage
+spaco;area, space
+ŝpari;save, spare
+speciala;special
+spektaklo;show *spectate
+spekti;watch *spectate
+sperto;experience *remember sporto = sport, sperto = experience
+stacidomo;station *staci (station) + domo (house)
+ŝtalo;steel
+stari;stand
+staris;stood
+ŝtata;state
+stelo;star *remember ŝtalo = steel
+ŝtono;stone
+stranga;strange
+strato;street *remember rekta = straight, strato = street
+studo;study
+sub;under
+subita;sudden
+subjekto;subject
+substanco;substance
+substantivo;noun *substance
+subteno;support *sub (under) + teni (hold) + o
+subtrahi;subtract *SUBTRAKHI
+sude;south
+sufiĉa;enough, sufficient
+sufikso;suffix
+sugesti;suggest
+sukceso;success
+sukero;sugar *(supposedly) suko (juice) + ero (particle of)
+ŝultro;shoulder
+suno;sun
+ŝuo;shoe
+super;over *remember super = over, supre = above, supro = top
+supozi;pose, assume
+supre;above *remember super = over, supre = above, supro = top
+supren;up *supre = above
+supreniri;rise *supre (above) + n + iri (to go)
+supro;top *remember super = over, supre = above, supro = top
+sur;on
+surfaco;surface
+surhavi;wear *sur (on) + havi (to have)
+surprizo;surprise
+surŝipe;on board, board *sur + ŝipo (ship) + e
+tablo;table
+tagmezo;noon *tag (day) + mezo (middle)
+tagon;day *tag (de)
+taŭga;proper *taŭgi = to be fit, 'wear your toga the proper way'
+teamo;team
+telfero;lift, elevator
+temperaturo;temperature
+tempo;time
+tendaro;camp *tendo (tent) + aro (collective)
+teni;hold
+tenis;held *teni (hold) + is
+termino;term *remember fino = end
+tero;earth, ground *terre (fr)
+testo;test
+tiaj;such
+tiam;then *ti + am (time suffix)
+tie;there *remember tie = there, tiel = so, tiele = thus, tien = here
+tiel;so *remember tie = there, tiel = so, tiele = thus, tien = here
+tiele;thus *remember tie = there, tiel = so, tiele = thus, tien = here
+tien;here *remember tie = there, tiel = so, tiele = thus, tien = here
+timis;afraid *timid
+timo;fear *timid
+tipo;type
+tiri;pull *tirer (fr)
+tiu;this
+tiuj;these, those *tiu (this) + j
+tonalto;pitch *tone
+tono;tone
+trajno;train
+tranĉo;cut *trench
+trankvila;quiet *tranquil
+transiri;cross *transit
+tre;very *tres (fr)
+tri;three
+triangulo;triangle
+trinkaĵon;drink
+trinkejo;bar *trink + ejo
+triono;third *tri + ono
+tro;too *trop (fr)
+trovi;find *trouver (fr)
+trovita;found
+truo;hole *trou (fr)
+tubo;tube *remember kuvo = tub
+tuŝi;touch
+tute;quite
+unu;one
+unua;first *unu (one) + a
+unufoje;once *unu (one) + foje
+unuo;unit *unu (one) + o
+urbo;city, town
+uzo;use
+valo;valley *valo = valley, valoro = value
+valoro;value *valo = valley, valoro = value
+vaporo;steam *vapour
+varios;vary
+varma;warm
+varmega;hot *varm (warm) + eg (augmented) + a
+varmo;heat, warmth
+velo;sail
+vendejo;store
+vendi;sell *vendre (fr), vendor
+venis;came
+venki;beat, win
+venko;win *venki = to beat
+vento;wind *vent (fr)
+ventumilo;fan *ventumi (fan, vento = wind) + ilo (tool)
+venu;come *venir (fr) + u (conditional/imperative)
+vera;true
+verbo;verb
+verda;green
+vespero;evening *vesperto = bat
+vesperto;bat *vespero = evening
+vestu;clothe
+vetero;weather
+vi;you *vous (fr)
+via;your
+viando;meat *viande (fr)
+vico;row, queue, line, file, rank, position, turn *'Very Inclined Column Orientation'
+vidi;see
+vido;sight, view *vidi = see
+vilaĝo;village
+vintro;winter
+virino;woman *viro (man) + ino
+virinoj;women *viro (man) + ino + j
+viro;man
+viroj;men *viro (man) + j
+vitro;glass *in vitro
+vivi;live *i is verb
+vivo;life *o is noun
+vizaĝo;face *visage (fr)
+vizito;visit
+voĉo;voice
+vojaĝado;travel
+vojaĝo;trip, voyage
+vojo;path, road, way
+vokalo;vowel
+volas;want
+volo;will *valo = valley, volo = will
+vortaro;dictionary *lit. word collection
+vorto;word
+vosto;tail

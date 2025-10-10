@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+/ignorable
+knowledge_report.txt
+mistake_report.csv
+results.txt
+
+
+flashcards.py
+mistakes*

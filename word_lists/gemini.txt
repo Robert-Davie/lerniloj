@@ -1,0 +1,57 @@
+LANGUAGE=FRENCH
+le cartable;school bag, satchel, book bag
+le champ;field, domain
+le crépuscule;dusk, twilight
+le embrun;ocean spray, sea spray, spray
+l'écureuil m;squirrel
+le faucon;hawk, falcon
+le gardien;watchman, caretaker, keeper, guardian
+le grondement;growl, rumble, roar
+le guet;watch, lookout
+le lierre;ivy
+le lièvre;hare
+le phare;lighthouse, beacon, light, headlight
+le pin;pine, pine tree
+le point de repère;point of reference, landmark
+le réseau;network, web
+le témoignage;testimony
+le texte;text, passage
+le vacarme;racket, din, noise
+la balançoire;swing
+la bouffée;puff
+la colline;hill
+la falaise;cliff
+la luciole;firefly
+la part;portion, piece, share
+la pâte;pastry, dough, pasta
+la reconnaissance;recognition
+la rosée; dew
+la tache;stain, mark, spot, blemish, shadow
+
+doré;golden
+doux-amer;bittersweet
+épais;thick
+insouciant;carefree
+insoupçonné;unexpected
+irréel;unreal, hypothetical
+léger;light, slight
+nacré;pearly
+verdoyant;green, verdant
+d'autrefois;of times gone by, of olden times, of old
+au fond de;at the bottom of, deep in, deep within, at the end of, at the back of
+tandis que;while
+tant de;so much, so many
+
+bercer;to rock, cradle, lull, soothe, beguile, raise
+couler;to run, flow
+emmitoufler;to swaddle
+entremêler;to mix, to mix up
+frissonner;to shiver, shudder
+jalonner;to punctuate, intersperse
+lâcher prise;to give up
+mêler;to mix, blend, combine, involve, confuse
+raccourcir;to shorten
+rompre;to terminate, destroy, break
+se dresser;to stand, tower, rise, rise up against, arise, be trained
+s'envoler;to fly away
+se voiler la face;to bury one's head in the sand

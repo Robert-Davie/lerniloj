@@ -1,0 +1,501 @@
+LANGUAGE=FRENCH
+abaisser;to lower, to depress, to diminish
+abattre;to knock down, to slaughter
+(s')abstenir; to abstain
+accepter;to accept
+accompagner;to accompany
+accorder;to admit, to grant, to agree
+accrocher;to hang, to hook
+accueillir;to welcome
+accuser;to accuse
+acheter;to buy
+achever;to complete, to finish
+acquérir;to acquire
+admettre;to admit
+admirer;to admire
+adorer;to adore, to love, to worship
+adresser;to address
+affaiblir;to weaken
+agacer;to annoy
+agir;to act
+aider;to help
+aimer;to like, to love
+ajouter;to add
+aller;to go
+aménager;to furnish
+amener;to bring
+amuser;to amuse, to entertain
+annoncer;to announce
+apercevoir;to see, to perceive, to glimpse
+apparaître;to appear
+appartenir;to belong
+appeler;to call
+apporter;to bring
+apprendre;to learn
+approcher;to approach
+approuver;to approve
+armer;to arm
+arracher;to pull up, out
+arranger;to arrange
+arrêter;to stop
+arriver;to arrive
+(s')asseoir;to sit down
+assister;to attend, to assist
+assurer;to assure
+attaquer;to attack
+atteindre;to reach
+attendre;to wait
+attirer;to attract
+attraper;to catch, to seize
+augmenter;to increase
+avancer;to advance
+aventurer;to venture
+avoir;to have
+baisser;to lower
+balancer;to sway, to swing
+balayer;to sweep
+bâtir;to build
+battre;to beat
+bavarder;to chat
+blaguer;to joke, to joke (informal)
+blâmer;to blame
+blanchir;to whiten
+blesser;to hurt, to offend, to injure, to wound
+boire;to drink
+bouger;to move, to budge
+bouillir;to boil
+briser;to break
+brosser;to brush
+brûler;to burn
+cacher;to hide, to conceal
+casser;to break
+causer;to cause
+céder;to give, to cede
+célébrer;to celebrate
+cesser;to cease
+changer;to change
+chanter;to sing
+charger;to charge, to load
+chasser;to hunt, to chase
+chercher;to look for, to search
+choisir;to choose
+chuchoter;to whisper
+coller;to stick, to paste, to glue
+combattre;to combat
+commander;to order, to command
+commencer;to begin, to start, to commence
+comparaître;to appear
+comparer;to compare
+compléter;to complete
+comprendre;to understand
+compter;to count, to intend
+concerner;to concern
+concevoir;to conceive
+conclure;to conclude
+conduire;to drive
+confondre;to confuse, to confound
+connaître;to know
+conquérir;to conquer
+conseiller;to recommend, to advise
+consentir;to consent
+considérer;to consider
+consommer;to consume
+construire;to build, to construct
+contenir;to contain, to fit
+continuer;to continue
+contraindre;to compel
+contredire;to contradict
+contrevenir;to contravene
+contrôler;to control
+convaincre;to convince
+convenir;to suit, to agree, to accept
+correspondre;to correspond
+corriger;to correct
+coucher;to put to bed
+coudre;to sew
+couper;to cut
+courir;to run
+coûter;to cost
+couvrir;to cover
+craindre;to fear
+créer;to create
+crier;to shout
+croire;to believe
+cueillir;to pick
+cuire;to cook
+culpabiliser;to make one feel guilty
+danser;to dance
+décevoir;to disappoint
+déchirer;to rip
+décider;to decide
+décourager;to discourage
+découvrir;to discover
+décrire;to describe
+défaire;to undo
+défendre;to defend
+dégager;to free
+déjeuner;to have lunch, to lunch
+demander;to ask
+déménager;to move, to relocate
+demeurer;to live, to stay
+démolir;to demolish
+dénoncer;to denounce
+dépasser;to exceed
+dépêcher;to hurry
+dépendre;to depend
+dépenser;to spend
+déplaire;to displease
+déranger;to disturb
+descendre;to go down, to descend
+désirer;to desire, to wish
+désobéir;to disobey
+dessiner;to draw
+détenir;to hold, to detain
+détester;to hate
+détourner;to divert
+développer;to develop
+devenir;to become
+dévêtir;to undress
+deviner;to guess
+devoir;to have to
+diminuer;to diminish
+dîner;to have dinner, to dine
+dire;to say, to tell
+diriger;to direct
+discuter;to discuss
+disparaître;to disappear
+dissoudre;to dissolve
+divorcer;to divorce
+donner;to give
+dormir;to sleep
+doubler;to double
+douter;to doubt
+échapper;to escape
+échouer;to fail
+écouter;to listen, to listen (active)
+écraser;to crush
+écrire;to write
+effacer;to erase, to delete
+effrayer;to frighten
+égayer;to entertain
+élever;to raise
+élire;to elect
+éloigner;to move away
+embrasser;to kiss, to embrace
+emmener;to take
+empêcher;to prevent
+employer;to employ, to use, to use (formal)
+emprunter;to borrow
+encourager;to encourage
+endormir;to fall asleep
+enduire;to coat
+(s') enfuir;to run away
+engager;to engage
+enlever;to remove
+ennuyer;to bore, to annoy
+enregistrer;to record, to save, to register
+enseigner;to teach
+entendre;to hear, to hear (passive)
+enterrer;to bury
+entraîner;to train, to cause
+entreprendre;to undertake
+entrer;to enter
+entretenir;to look after, to maintain, to keep
+envoyer;to send
+épeler;to spell
+épouser;to marry, to wed
+espérer;to hope
+essayer;to try
+essuyer;to wipe
+éteindre;to turn off, to extinguish
+étendre;to stretch
+étonner;to astonish
+être;to be
+étudier;to study
+éviter;to avoid, to evade
+exagérer;to exaggerate
+excuser;to excuse
+exiger;to demand
+exister;to exist
+expliquer;to explain
+explorer;to explore
+exprimer;to express
+faire;to do, to make
+falloir;to be necessary
+féliciter;to congratulate
+fermer;to close
+se fier;to rely on
+finir;to finish
+fixer;to fix
+fonder;to found
+fondre;to melt
+forcer;to force
+fouiller;to search, to rummage
+fournir;to provide, to supply, to furnish
+frapper;to knock, to hit
+fuir;to flee, to run away
+fumer;to smoke
+gagner;to win, to earn, to gain
+garder;to keep
+gaspiller;to waste
+geler;to freeze
+gérer;to manage
+goûter;to taste
+grandir;to grow up
+gratter;to scratch
+grimper;to climb
+guérir;to heal
+habiller;to dress
+habiter;to live
+haïr;to hate
+hésiter;to hesitate
+ignorer;to ignore
+importer;to import
+indiquer;to indicate
+informer;to inform
+inquiéter;to worry
+inscrire;to write down
+insister;to insist
+interdire;to forbid
+intéresser;to interest
+interroger;to interrogate, to question
+intervenir;to intervene
+introduire;to introduce
+inventer;to invent
+inviter;to invite
+jaunir;to turn yellow, to yellow
+jeter;to throw
+jouer;to play
+jouir;to enjoy
+juger;to judge
+jurer;to swear, to vow
+klaxonner;to honk
+laisser;to leave
+lancer;to throw, to launch
+laver;to wash
+lever;to lift, to stand, to raise
+lire;to read
+loger;to lodge
+louer;to rent
+maigrir;to lose weight
+manger;to eat
+manquer;to miss
+marcher;to walk
+mélanger;to mix
+menacer;to threaten
+mener;to lead
+mentir;to lie
+mériter;to merit
+mesurer;to measure
+mettre;to put
+monter;to climb, to go up
+montrer;to show
+moquer;to mock
+mourir;to die
+nager;to swim
+naître;to be born
+négocier;to negociate, to negotiate
+neiger;to snow
+nettoyer;to clean
+nier;to deny
+nommer;to name, to appoint
+noter;to write down, to note
+nourrir;to feed, to nourish
+obéir;to obey
+obliger;to force, to oblige, to obligate
+obtenir;to obtain, to get
+occuper;to occupy
+offrir;to offer
+oublier;to forget
+ouvrir;to open
+parcourir;to cover, to travel
+pardonner;to forgive, to pardon
+parler;to speak, to talk, to tell, to say
+partager;to share
+participer;to participate
+partir;to leave
+parvenir;to reach
+passer;to pass
+payer;to pay
+pêcher;to fish
+peigner;to comb
+peindre;to paint
+pendre;to hang, to execute by hanging
+pénétrer;to penetrate
+penser;to think
+perdre;to lose
+permettre;to allow, to permit
+persuader;to persuade
+peser;to weigh
+placer;to put, to place
+plaindre;to pity, to complain
+plaisanter;to joke, to joke (formal)
+planter;to plant
+pleurer;to cry
+pleuvoir;to rain
+plier;to fold
+plonger;to dive
+porter;to carry, to wear
+poser;to put down, to put, to place
+posséder;to possess
+poursuivre;to pursue
+pousser;to push
+pouvoir;to be able to, can
+préférer;to prefer
+prendre;to take
+préparer;to prepare
+présenter;to present, to introduce
+prêter;to lend
+prévenir;to prevent
+prier;to pray
+produire;to produce
+promener;to walk, to take for a walk
+promettre;to promise
+prononcer;to pronounce
+proposer;to suggest, to propose
+protéger;to protect
+prouver;to prove
+puer;to stink
+quitter;to leave, to quit
+raconter;to tell, to recount
+ralentir;to slow down
+ranger;to tidy
+rappeler;to call back, to recall
+rassurer;to reassure
+recevoir;to receive
+reconduire;to renew
+reconnaître;to recognize, to recognise
+reconstruire;to rebuild, to reconstruct
+recourir;to resort
+recouvrir;to cover, to cover again, to cover completely
+recueillir;to collect, to gather
+rédiger;to write, to rewrite
+redire;to repeat
+réduire;to reduce
+refaire;to redo
+réfléchir;to think, to reflect, to reflect on
+refuser;to refuse
+regarder;to look at, to look, to watch
+regretter;to regret
+rejeter;to reject
+rejoindre;to join, to rejoin, to go back and meet
+relever;to raise
+relire;to read over, to reread, to re-read
+remarquer;to notice, to remark
+remercier;to thank
+remettre;to put back
+remplacer;to replace
+remplir;to fill up
+rencontrer;to meet
+rendre;to give back, to render, to return
+renoncer;to renounce
+renouveler;to renew
+rentrer;to return, to return home
+renvoyer;to dismiss, to return, to send back, to send
+réparer;to repair
+repasser;to iron
+répéter;to repeat
+répondre;to answer, to respond
+(se)reposer;to rest
+reprendre;to take back, to resume, to retake
+représenter;to represent
+reproduire;to reproduce
+résoudre;to resolve
+ressembler;to look like, to resemble
+ressentir;to feel, to feel (emotionally)
+rester;to stay
+retenir;to retain
+retourner;to return, to return back, to go back
+retrouver;to find, to recover, to retrieve
+réussir;to succeed
+réveiller;to wake up, to wake
+revenir;to come back, to return, to come back here
+rêver;to dream
+revêtir;to dress up, to don
+revoir;to see again
+rire;to laugh
+risquer;to risk
+rougir;to blush, to redden
+rouler;to roll, to drive
+saisir;to seize
+salir;to soil, to dirty, to tarnish
+satisfaire;to satisfy
+sauter;to jump
+sauver;to save
+savoir;to know
+secouer;to shake
+secourir;to rescue
+séduire;to seduce
+séjourner;to stay, to sejourn
+sembler;to seem
+sentir;to feel, to smell, to feel (physically)
+séparer;to separate
+servir;to serve
+siffler;to whistle
+signaler;to signal
+signer;to sign
+signifier;to mean, to signify
+skier;to ski
+songer;to think, to dream, to daydream, to think (literary)
+sonner;to ring
+sortir;to go out, to exit
+souffler;to blow
+souffrir;to suffer
+souhaiter;to wish
+sourire;to smile
+souscrire;to subscribe
+soutenir;to support, to uphold, to sustain
+(se) souvenir; to remember
+subir;to undergo
+subvenir;to support, to provide for
+sucer;to suck
+suggérer;to suggest
+suivre;to follow
+supporter;to support
+supposer;to suppose
+surprendre;to surprise
+survenir;to occur
+survivre;to survive
+téléphoner;to call, to phone, to telephone
+tendre;to tend
+tenir;to hold
+tenter;to try, to attempt
+terminer;to end, to finish, to terminate
+tirer;to pull
+tomber;to fall
+tondre;to mow
+tordre;to twist
+toucher;to touch, to affect
+tourner;to turn
+tousser;to cough
+tracer;to draw, to trace
+traduire;to translate
+trahir;to betray
+traiter;to treat
+transmettre;to transmit
+travailler;to work
+traverser;to cross
+tromper;to mislead, to deceive
+trouver;to find
+tuer;to kill
+tutoyer;to use "tu", to use you
+unir;to join, to unite
+user;to wear out, to use
+utiliser;to use, to utilise
+vaincre;to defeat
+varier;to vary
+vendre;to sell
+venger;to avenge
+venir;to come
+vérifier;to verify
+verser;to pour
+vieillir;to age
+viser;to aim
+visiter;to visit
+vivre;to live
+voir;to see
+voler;to steal, to fly
+voter;to vote
+vouloir;to want
+vouvoyer;to use "vous", to use you
+voyager;to travel
