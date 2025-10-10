@@ -13,13 +13,14 @@ def number_of_similarities(l1, l2):
     return res
 
 
-
-with open("the_little_prince.txt","r") as f:
+with open("the_little_prince.txt", "r") as f:
     lines = [line.strip() for line in f.readlines()]
     text = " ".join(lines).replace("’", "'")
 
 sentences = [sentence.lower() for sentence in text.split(". ") if sentence != ""]
-sentences = [s for s in sentences if " l'" in s or " le " in s or " la " in s or " les " in s]
+sentences = [
+    s for s in sentences if " l'" in s or " le " in s or " la " in s or " les " in s
+]
 sentences = list(set(sentences))
 
 correct = 0
@@ -34,7 +35,17 @@ for iteration in range(ITERATIONS):
         words = sentence.split()
         for position, word in enumerate(words):
             if word in ["le", "la", "les"]:
-                if position >= 1 and words[position - 1] not in ["je", "tu", "il", "elle", "on", "nous", "vous", "ils", "elles"]:
+                if position >= 1 and words[position - 1] not in [
+                    "je",
+                    "tu",
+                    "il",
+                    "elle",
+                    "on",
+                    "nous",
+                    "vous",
+                    "ils",
+                    "elles",
+                ]:
                     answers.append(word)
                     question_sentence.append("___")
             elif len(word) > 2 and word[:2] == "l'":
@@ -44,7 +55,10 @@ for iteration in range(ITERATIONS):
             else:
                 question_sentence.append(word)
         answer_count = len(answers)
-    final_question = " ".join(question_sentence) + f"\nplease give {answer_count} answer{'s' if answer_count > 1 else ''}\n"
+    final_question = (
+        " ".join(question_sentence)
+        + f"\nplease give {answer_count} answer{'s' if answer_count > 1 else ''}\n"
+    )
     user_answer = ""
     while user_answer == "":
         user_answer = input(final_question)
