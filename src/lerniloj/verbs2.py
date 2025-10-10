@@ -10,8 +10,8 @@ with open("salome.txt", "r") as f:
 
 words = []
 for line in lines:
-    words.extend(line.replace("-"," ").replace("’"," ").split())
-words = [re.sub("\W","",word) for word in words]
+    words.extend(line.replace("-", " ").replace("’", " ").split())
+words = [re.sub("\W", "", word) for word in words]
 words = sorted(list(set(words)))
 
 
@@ -31,13 +31,13 @@ words = [word for word in words if word.lower() == word]
 temp = []
 for word in words:
     if word[-1] == "s":
-        if word[:-1]  in phrase_text or word[:-1] in words:
+        if word[:-1] in phrase_text or word[:-1] in words:
             continue
     if word[-1] == "é":
         continue
     if word[-2:] in ["ée", "ai", "ez", "as", "ra"]:
         continue
-    if word [-3:] in ["ent", "ons", "ont", "ais", "ait", "ées", "ant", "ira", "era"]:
+    if word[-3:] in ["ent", "ons", "ont", "ais", "ait", "ées", "ant", "ira", "era"]:
         continue
     if word[-4:] in ["iant", "ions"]:
         continue
@@ -46,7 +46,7 @@ for word in words:
 words = temp
 for word in words:
     print(word)
-with open("salome4.txt","w") as f:
+with open("salome4.txt", "w") as f:
     f.writelines([word + "\n" for word in words])
 
 print(len(words))
@@ -70,9 +70,9 @@ print(len(words))
 #     ]):
 #         continue
 #     print(f"{line};{previous_line}")
-    # line = re.sub("\d", "", line)
-    # words = line.split()
-    # print(f"{words[0]}    ({words[1]});{" ".join(words[2:])}")
-    # match = re.search("\d+\\.\s(\D+)to\s(\D+)", line.lower())
-    # simplified = match.group(0).split(".")[1].strip()
-    # print(f"{simplified.split()[0]};{" ".join([i.strip() for i in simplified.split()[1:]])}".replace(" - ",", "))
+# line = re.sub("\d", "", line)
+# words = line.split()
+# print(f"{words[0]}    ({words[1]});{" ".join(words[2:])}")
+# match = re.search("\d+\\.\s(\D+)to\s(\D+)", line.lower())
+# simplified = match.group(0).split(".")[1].strip()
+# print(f"{simplified.split()[0]};{" ".join([i.strip() for i in simplified.split()[1:]])}".replace(" - ",", "))

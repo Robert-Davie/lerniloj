@@ -23,7 +23,6 @@ for lookup in lookups:
             if data[lookup][term][-1]["correct"]:
                 correct_count += 1
             else:
-                
                 incorrect_count += 1
         else:
             if lookup == "from_esperanto_written":
@@ -31,20 +30,20 @@ for lookup in lookups:
             untaken_count += 1
     total = correct_count + incorrect_count + untaken_count
     subtotal = correct_count + incorrect_count
-    result_string =  (f"""
+    result_string = f"""
 date:          {datetime.datetime.now()}
 lookup:        {lookup}
 target_file:   {TARGET_FILE}
     
 correct:       {correct_count}    
-               {round(correct_count*100/total,1)}% 
-    relative   {round((correct_count*100/(subtotal if subtotal != 0 else 1)),1)}%
+               {round(correct_count * 100 / total, 1)}% 
+    relative   {round((correct_count * 100 / (subtotal if subtotal != 0 else 1)), 1)}%
 incorrect:     {incorrect_count}    
-               {round(incorrect_count*100/total,1)}%
+               {round(incorrect_count * 100 / total, 1)}%
 untaken_count: {untaken_count}    
-               {round(untaken_count*100/total,1)}%
+               {round(untaken_count * 100 / total, 1)}%
 total: {total} {len(terms)}
-    """)
+    """
     results.append(result_string)
 
 print("\n".join(results))
@@ -52,5 +51,3 @@ print("\n".join(results))
 
 with open("knowledge_report.txt", "w") as f:
     f.writelines(results)
-
-

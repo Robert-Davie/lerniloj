@@ -1,6 +1,6 @@
 import json
 import random
-from src.flashcards import substitute_accents
+from ignorable.flashcards_original import substitute_accents
 
 
 ITERATIONS = 10
@@ -26,11 +26,23 @@ for iteration in range(ITERATIONS):
     else:
         word_json = data[word]
     stem = word[:-2]
-    tense = random.choice(["present", "future", "imperfect", "subjunctive", "conditional", "passé simple", "imperative"])
+    tense = random.choice(
+        [
+            "present",
+            "future",
+            "imperfect",
+            "subjunctive",
+            "conditional",
+            "passé simple",
+            "imperative",
+        ]
+    )
     if tense == "imperative":
         pronoun = random.choice(["tu", "nous", "vous"])
     else:
-        pronoun = random.choice(["je", "tu", "il", "elle", "on", "nous", "vous", "ils", "elles"])
+        pronoun = random.choice(
+            ["je", "tu", "il", "elle", "on", "nous", "vous", "ils", "elles"]
+        )
 
     extension = "non_nv_stem"
 
@@ -50,7 +62,11 @@ for iteration in range(ITERATIONS):
         lookup_pronoun = "ils/elles"
     else:
         print("could not find lookup pronoun")
-    answer = word_json[tense]["stem"] + word_json[tense][extension] + word_json[tense][lookup_pronoun]
+    answer = (
+        word_json[tense]["stem"]
+        + word_json[tense][extension]
+        + word_json[tense][lookup_pronoun]
+    )
     answer = answer.replace(".", stem)
     print(f"{user_answer} == {answer}")
     if user_answer == answer:
@@ -58,4 +74,4 @@ for iteration in range(ITERATIONS):
         correct += 1
     else:
         print(f"incorrect answer = {answer}\n")
-print(f"you got {correct} out of {ITERATIONS}, {round(correct*100/ITERATIONS, 2)}%")
+print(f"you got {correct} out of {ITERATIONS}, {round(correct * 100 / ITERATIONS, 2)}%")

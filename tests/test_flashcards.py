@@ -1,4 +1,4 @@
-from src.flashcards_v2 import get_question, parse_line, get_number_of_correct_responses
+from lerniloj.flashcards import get_question, parse_line, get_number_of_correct_responses
 
 
 def test_get_question_in_english():
@@ -13,12 +13,12 @@ def test_get_question_in_english_multiple_options():
 
 def test_get_question_in_french():
     question = get_question("argent;silver", question_in_english=False)
-    assert question == "argent" 
+    assert question == "argent"
 
 
 def test_get_question_in_french_with_hint():
     question = get_question("argent;silver*argentina", question_in_english=False)
-    assert question == "argent" 
+    assert question == "argent"
 
 
 def test_parse_line():
@@ -27,7 +27,6 @@ def test_parse_line():
 
 
 def test_get_number_of_correct_responses():
-    input_in = [{"correct": True}, {"correct": False}, {"correct": True}]
+    input_in = [{"is_correct": True}, {"is_correct": False}, {"is_correct": True}]
     result = get_number_of_correct_responses(input_in)
     assert result == 2
-

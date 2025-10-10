@@ -15,7 +15,7 @@ for key in data.keys():
             correct += 1
     results.append((key, correct, len(records)))
     print(f"{key},{correct},{len(records)}")
-    
+
 
 with open("mistake_report.csv", "w") as f:
     w = csv.writer(f)

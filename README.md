@@ -13,7 +13,7 @@ A set of language learning applications, designed to make it easy to learn new l
 ## Flashcard Application
 to use the flashcard application please run
 ```
-uv run src/flashcards_v2.py
+uv run src/flashcards.py
 ```
 the flashcard scenarios (e.g. french, written, 100 terms) etc are controlled through the ```flashcard_settings.toml``` file present in the root directory.
 

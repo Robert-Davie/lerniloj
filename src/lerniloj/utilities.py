@@ -30,12 +30,7 @@ esperanto_accent_shortcuts = (
 )
 
 
-german_accent_shortcuts = (
-    ("ä", "a:"),
-    ("ö", "o:"), 
-    ("ü", "u:"), 
-    ("ß", "ss!")
-)
+german_accent_shortcuts = (("ä", "a:"), ("ö", "o:"), ("ü", "u:"), ("ß", "ss!"))
 
 
 accents = {
@@ -63,7 +58,7 @@ def get_accent_shortcuts_one_line(foreign_language_in: str) -> str:
 
     Args:
         foreign_language_in (str): foreign_language the shortcuts should be from
-    
+
     Returns:
         str: the one line string of all shortcuts in given language
     """
@@ -82,7 +77,9 @@ def remove_gender_abbreviations(str_in: str) -> str:
     return re.sub(r"\sf$|\sm$|\sfpl$|\smpl$", "", str_in)
 
 
-def toggle_accents(str_in: str, foreign_language_in: str, is_adding_accents: bool) -> str:
+def toggle_accents(
+    str_in: str, foreign_language_in: str, is_adding_accents: bool
+) -> str:
     """convert to or from accent form, based on accent shortcuts
 
     Args:
@@ -98,5 +95,7 @@ def toggle_accents(str_in: str, foreign_language_in: str, is_adding_accents: boo
             str_in = str_in.replace(accent_definition[1], accent_definition[0])
         else:
             # removing accents
-            str_in = str_in.replace(accent_definition[0], accent_definition[1]).replace("!", "")
+            str_in = str_in.replace(accent_definition[0], accent_definition[1]).replace(
+                "!", ""
+            )
     return str_in
