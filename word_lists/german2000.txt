@@ -2,15 +2,15 @@ LANGUAGE=GERMAN
 ab;from
 ab und zu;now and again
 Abend;evening
-Abendessen;dinner, evening meal
+Abendessen;dinner, evening meal *Abend (evening) + essen (meal)
 Abenteuer;adventure
 aber;but, however
 abfahren;to depart
-Abfahrt, Abflug;departure
+Abfahrt, Abflug;departure *abfahren = to depart
 Abfall;rubbish
-Abfalleimer;bin, dustbin
+Abfalleimer;bin, dustbin *abfall (rubbish) + eimer (bucket)
 abholen;to meet, to pick up, to fetch
-abnehmen;to lose weight, slim
+abnehmen;to lose weight, to slim
 Abschleppwagen;breakdown lorry
 abschliessen;to lock up
 Absicht;intention
@@ -18,7 +18,7 @@ Abteil;compartment
 abtrocknen;to dry up
 abwaschen;to wash up
 Achtung;attention
-Acker;field, arable field
+Acker;field, arable field *acre
 Adresse;address
 Affe;monkey
 ahnen;to suspect
@@ -33,13 +33,12 @@ allein;alone
 Alptraum;nightmare
 also, so;therefore, so
 alt;old
-altmodisch;old fashioned
 Alter;age
 altmodisch;old fashioned
 Altpapier;recycled paper
 Ampel;traffic lights
 amüsieren;to enjoy oneself
-Ananas;pineapple
+Ananas;pineapple *ananas (fr)
 anbauen;to grow, to grow crops
 andere;other
 ändern;to change
@@ -51,7 +50,7 @@ Anfänger;beginner
 angeln;to fish
 Angelrute;fishing rod
 angenehm;pleasant, enjoyable
-Angst;haben to be frightened
+Angst haben;to be frightened, to be afraid of, to be anxious, to be worried
 ängstlich;anxious
 anhalten;to stop, to stop a vehicle
 ankommen;to arrive
@@ -71,21 +70,20 @@ anstrengend;tiring
 Antwort;answer
 antworten;to answer
 Anzeige;advertisement
-anziehen;to put on
+anziehen;to put on, to attract
 anziehen sich;to get dressed
-anziehen;to attract
 Anzug;suit, men's suit, mens suit
 anzünden;to light
 Apfel;apple
-Apfelsine;orange
-Apotheker;chemist
+Apfelsine, Orange;orange
+Apotheker;chemist, pharmacist, apothecary
 Appetit;appetite
 Aprikose;apricot
 Arbeit;work
 arbeiten;to work
 Arbeiter;worker, male worker
 Arbeiterin;worker, female worker
-Arbeitgeber;employer
+Arbeitgeber;employer *lit. work giver
 Arbeitnehmer;employee
 Arbeitsamt;job centre
 arbeitslos;unemployed
@@ -95,7 +93,7 @@ Arbeitszimmer;study
 ärgern;to annoy
 arm;poor
 Armband;bracelet
-Armbanduhr;wristwatch, wrist watch
+Armbanduhr;wristwatch, wrist watch *Armband (bracelet) + Uhr (hour)
 Armee;army
 Art;sort, kind
 artig;well behaved
@@ -104,9 +102,9 @@ Arzt;doctor, male doctor
 auch;also
 Auf Wiedersehen;goodbye
 Aufenthalt;stay
-Aufenthaltsdauer;length, length of stay
+Aufenthaltsdauer;length, length of stay *Aufenthalt (stay) + s + Dauer (duration)
 aufführen;to perform
-Aufführung;performance
+Aufführung;performance *aufführen = to perform
 Aufgabe;exercise, task
 aufgeben;to stop, to give up
 aufgeregt;excited
@@ -120,10 +118,9 @@ aufschließen;to unlock
 Aufschnitt;sliced meats
 aufstehen;to get up, stand up
 aufwachen;to wake up
-Aufzug;lift
+Aufzug;lift, elevator
 Auge;eye
 Augenblick;moment
-Aula;school hall
 ausbilden;to train
 Ausbildung;training
 Ausflug;excursion, trip
@@ -132,7 +129,7 @@ Ausgang, Ausfahrt;exit, building exit, motorway exit
 ausgeben;to spend, to spend money
 ausgehen;to go out
 ausgezeichnet;excellent
-auskommen;mit to get on with
+auskommen mit; to get on with
 Auskunft;information
 Ausland;abroad
 Ausländer;foreigner, male foreigner
@@ -143,7 +140,6 @@ ausschalten;to switch off
 ausschlafen;to have a lie in
 aussehen;to look, to appear
 Aussicht;view
-außer;Betrieb out of order, not working, except for, except
 äußerst;extremely
 aussteigen;to get off
 Ausstellung;exhibition
@@ -153,17 +149,15 @@ Ausweis;identity card, I.D, ID
 ausziehen; to get undressed
 Auto;car
 Autobahn;motorway
-Autobahnkreuz;motorway junction
-Automat;machine
+Automat;machine *automatic
 Babysitten;babysitting
 babysitten;to baby sit
 Bach;stream
 backen;to bake
-Backofen;oven
-Backstein;brick
+Backstein;brick *lit. bake stone
 Bad;bath
 baden;to bathe
-Badeort;seaside resort
+Badeort;seaside resort, resort
 Badewanne;bath, bathtub, tub
 Badezimmer;bathroom
 Bahn;railway
@@ -185,7 +179,7 @@ Beamte, Beamtin; civil servant, official
 bedecken;to cover
 bedeckt;overcast
 bedeuten;to mean
-bedienen;to serve
+bedienen;to serve, to operate
 Bedienung;service, restaurant service
 befinden;to be situated
 befriedigend;satisfactory
@@ -196,19 +190,17 @@ begleiten;to accompany
 begrüßen;to greet
 behalten;to keep
 behandeln;to treat
-behandeln;to treat
-Behandlung;treatment
-Behandlung;treatment
-behindert;disabled
+Behandlung;treatment *behandeln = to treat
+behindert;disabled *hinder
 beide;both
 beilegen;to enclose
 Bein;leg
 Beispiel;example
-beißen;to bite
+beißen;to bite *Biss = bite
 Biss;bite
 bekannt;well known, well-known
-Bekannter;acquaintance
-beklagen; to complain
+Bekannter;acquaintance *bekannt = well known
+beklagen;to complain
 bekommen;to receive
 beleuchten;to light up
 beliebt;popular
@@ -217,14 +209,14 @@ bemerken;to notice
 Bemerken;to notice
 benehmen;to behave
 benutzen;to use
-Benzin;petrol
+Benzin;petrol *?benzene
 beobachten;to watch, observe
 bequem;comfortable
-Berg;mountain
+Berg;mountain *iceBERG
 Bericht;report
 Beruf;profession
 Berufsberatung;careers advice
-Berufsschule;technical college
+Berufsschule;technical college *Beruf = profession
 berühmt;famous
 beschädigen;to damage
 beschäftigt;busy
@@ -236,8 +228,8 @@ besitzen;to own
 besonders;particular, particularly
 besprechen;to discuss
 besser;better
-bessern;to improve
-Besserung;improvement, getting better
+bessern;to improve, to better
+Besserung;improvement, getting better *besser = better
 bestätigen;to confirm
 Besteck;cutlery
 bestehen auf;to insist on
@@ -252,112 +244,109 @@ Betriebswirtschaft;business studies
 betrügen;to deceive
 betrunken;drunk
 Bett;bed
-Bettwäsche;bedlinen
+Bettwäsche;bedlinen, bed linen
 bevor;before
 bewegen;to move
 beweisen;to prove
 bewerben;to apply for a job
 Bewerbungsgespräch;job interview
-bewölkt;overcast
+bewölkt;overcast *Wolken = clouds
 bewundern;to admire
-bezahlen;to pay, to pay far
-Beziehung;relationship
-Büstenhalter;bra
-Bibliothek;library
-Biene;bee
+bezahlen;to pay, to pay for *be (change of state) + zahlen (to pay)
+Beziehung;relationship *beziehen = to relate
+Büstenhalter;bra *Büsten (bust) + halter (holder)
+Bibliothek;library *biblioteque (fr)
 Biene;bee
 Bier;beer
-bieten, anbieten;to offer
+bieten;to offer, to bid, to provide, to feature, to grant
+anbieten;to offer, to make a personal offer, to propose
 Bild;picture
-Bildschirm;screen
 Bildung;education
 billig;cheap
 Birne;pear, light bulb
-bitte;please
+bitte;please *people are bitter if you don't say please
 blasen;to blow
-Blaskapelle;brass band
+Blaskapelle;brass band *blasen (to blow) + kapelle (band)
 Blatt;leaf, piece of paper
 blau;blue
 Blei;lead
 bleiben;to stay, remain
-Bleistift;pencil
+Bleistift;pencil *Blei (lead) + Stift (pen)
 Blick;look, glance
 Blockflöte;recorder
 blöd, dumm;stupid
-Blume;flower
-Blumenhändler;florist
+Blume;flower *bloom
+Blumenhändler;florist *Blumen (flower) + händler (dealer)
 Blumenkohl;cauliflower
 Bluse;blouse
 bluten;to bleed
-Blutprobe;blood test
+Blutprobe;blood test, blood sample *Blut (blood) + probe (sample)
 Bockwurst;boiled sausage
-Boden;ground
+Boden;ground *?abode
 Bohnen;beans
 Bonbons;sweets
-Boot;boat
+Boot;boat *Boot = boat, Stiefel = boot
 böse;angry
-Brand;fire
+Brand;fire, destructive fire *branded
 Braten;joint, roast meat
 braten;to roast
 Bratkartoffeln;fried potatoes
-Bratpfanne;frying pan
+Bratpfanne;frying pan *Brat (fry) + pfanne (pan)
 Bratwurst;sausage, fried sausage
 brauchen;to need
 Braut;bride
-Bräutigam;bridegroom
-brav;well behaved
+Bräutigam;bridegroom, groom *Braut = bride
 brechen;to break
-breit;wide
+breit;wide *breadth
 Bremsen;brakes
 bremsen;to brake
 brennen;to burn
-Brett;notice board
+Brett;notice board, board, plank, shelf
 Brief;letter
-Brieffreund;pen friend, male pen friend
-Brieffreundin;pen friend, female pen friend
-Briefkasten;letter box
+Brieffreund;pen friend, male pen friend *Brief (letter) + freud (friend)
+Brieffreundin;pen friend, female pen friend *Brief (letter) + freud (friend) + in
+Briefkasten;letter box, mailbox
 Briefmarke;postage stamp
 Brieftasche;wallet
 Briefträger;postman
 Briefträgerin;postwoman
-Brille;glasses
+Brille;glasses *your glasses are brilliant
 bringen;to bring
 Broschüre;brochure
 Brot;bread, loaf
 Brötchen;bread roll
-Brücke;bridge
+Brücke;bridge *brook
 Bruder;brother
-Brust;chest
+Brust;chest *breast
 Buch;book
-Bücherregal;book case
+Bücherregal;book case *Bücher (books) + regal (shelf)
 Büchse;can
 Buchstabe;letter, letter of alphabet
-buchstabieren;to spell
-Bude;stall, stand, room
+buchstabieren;to spell *Buchstabe (letter) + ieren (-ise)
+Bude;stall, stand, room, digs
 bügeln;to iron
-Bügeleisen;iron
+Bügeleisen;iron *bügeln = to iron
 Bühne;stage
 bunt;bright
 Burg;castle
 Bürgersteig;pavement
-Büro;office
+Büro;office *bureau
 bürsten;to brush, to brush hair
 Bushaltestelle;bus stop
 Butterbrot;sandwich
 Campingplatz;camping, camp site, campsite
 Chef;boss, male boss
 Chefin;boss, female boss
-Chemie;chemistry
+Chemie;chemistry, chemicals
 Chips, Kartoffelschips;crisps
 Chirurg;surgeon, male surgeon
 Chirurgin;surgeon, female surgeon
 Chor;choir
-Cola;coke
+Cola;coke, cola
 Computerspiel;computer game
 Cousin, Vetter, Kusine;cousin
-D-Zug;express train
 Dach;roof
-Dachboden;attic, loft
+Dachboden;attic, loft *Dach (roof) + boden (ground)
 damals;then, at that time
 Dame;lady
 damit;so that
@@ -366,7 +355,7 @@ danken;to thank
 dann;then, at that time
 dass;that
 Datum;date
-dauern;to last
+dauern;to last *duration
 Decke;blanket, ceiling
 decken;to lay, to lay a table
 Delikatessengeschäft;delicatessen
@@ -376,7 +365,7 @@ eine Diät halten;to be on a diet
 dick;fat, thick
 die Sehenswürdigkeiten besichtigen; to go sight-seeing
 Dieb;thief
-Diebstahl;theft
+Diebstahl;theft *Dieb (thief) + stehlen (to steal)
 dienen;to serve
 dies;this
 Ding;thing
@@ -386,59 +375,57 @@ Dom, Kathedrale;cathedral
 donnern;to thunder
 doof;stupid
 Doppelhaus;semi-detached house
-Doppelstunde;double period
 Dorf;village
-dort;drüben over there
 dort;there
 Dose;can, tin
 Dosenöffner;can opener, tin opener
 draußen;outside
 dringend;urgent
 drinnen;inside
-drogensüchtig;drug dependent
-Drogerie;chemists
+drogensüchtig;drug dependent *drogen (drugs) + süchtig (addicted)
+Drogerie;chemist's, drugstore
 drohen;to threaten
 drücken;to press, push
 drucken;to print
-Drucker;printer
+Drucker;printer *drucken = to print
 dunkel;dark
 Durchfall;diarrhoea
 durchfallen;to fail, to fail an exam
 dürfen;to be allowed to, to may
 Durst;thirst
-durstig;thirsty
-Dusche;shower
-duschen;to have a shower
+durstig;thirsty *Durst (thirst) + ig
+Dusche;shower *douche (fr)
+duschen;to have a shower *douche (fr)
 Dutzend;a dozen
 duzen;to call du
 eben;just
-ebenso;just as
+ebenso;just as *eben = just
 echt;genuine
 Ecke;corner
 das ist mir egal;I don't care
 Ehe;marriage
-Ehefrau;wife
-Ehemann;husband
-Ehepaar;married couple
+Ehefrau;wife *Ehe (marriage) + Frau (woman)
+Ehemann;husband *Ehe (marriage) + Mann (man)
+Ehepaar;married couple *Ehe (marriage) + Paar (pair)
 ehemalig;former, previous
 ehrlich;honest
 Ei;egg
 eigen;own
 Eigenschaft;quality, characteristic
-eilen;to hurry
+eilen;to hurry *come on Eileen, hurry up
 Eimer;bucket
 einander;one another, each other
 Einbahnstraße;one way street
 Einbrecher;burglar
-Eindruck;impression
+Eindruck;impression *Druck = print / pressure
 einfach;easy
 Einfamilienhaus;detached house
 Eingang, Einfahrt;entrance
-einige;some, a few
+einige;some, a few, several
 einkaufen;to shop, to go shopping
 Einkaufszentrum;shopping centre
 Einladung;invitation
-einladen;to invite
+einladen;to invite, to treat
 einmal;once
 einreichen;to hand in
 einschlafen;to go to sleep
@@ -452,13 +439,13 @@ Einwohnerin;inhabitant, female inhabitant
 Einzelkind;only child
 Eis;ice, ice cream
 Eisbahn;ice rink
-Eis laufen;to ice skate
+Eis laufen;to ice skate *lit. ice run
 Eisen;iron
-Eisenbahnlinie;railway line
+Eisenbahnlinie;railway line *Eisen (iron) + Bahn (track) + Linie (line)
 Elektriker;electrician
-Elektroherd;electric cooker
+Elektroherd;electric cooker *Herd = stove
 Ellbogen;elbow
-Eltern;parents
+Eltern;parents *elders
 Empfang;reception
 Empfangsdame;receptionist
 empfehlen;to recommend
@@ -480,13 +467,13 @@ Entschuldigung;sorry
 entspannen;to relax
 enttäuschen;to disappoint
 enttäuscht;disappointed
-entwerten;to cancel, stamp a ticket
+entwerten;to cancel, to stamp a ticket, to validate, to punch
 erbrechen;to be sick
 Erbsen;peas
-Erdbeere;strawberry
+Erdbeere;strawberry *literally earth berry
 Erde;earth
 Erdgeschoss;ground floor
-Erdkunde;geography
+Erdkunde;geography *Erde (earth) + kunde (study of)
 Ereignis;event
 Erfolg;success
 Erfrischungen;refreshments
@@ -497,13 +484,13 @@ erinnern;to remind, to remember
 Erkältung;a cold, cold
 erkennen;to recognise
 erklären;to explain
-erlauben;to allow, permit
+erlauben;to allow, permit *sounds like allow
 Erleichterung;relief
 Ermässigung;discount
 ernst;serious
-erreichen;to reach, catch
+erreichen;to reach, to catch, to achieve, to get hold of
 erscheinen;to appear
-erste;Hilfe first aid
+erste Hilfe;first aid
 ertrinken;to drown
 Erwachsene;adult
 erzählen;to tell, to recount
@@ -513,9 +500,9 @@ es macht nichts; it doesn't matter
 Essen;meal, food
 essen;to eat
 Essig;vinegar
-Esszimmer;dining room
+Esszimmer;dining room *Essen (meal) + Zimmer (room)
 Etagenbett;bunk bed
-Etui;pencil case
+Etui;pencil case, case
 etwas;something
 Fabrik;factory
 Fach;subject
@@ -529,7 +516,7 @@ Fahrgeld;fare
 Fahrkarte;ticket
 Fahrkartenschalter;ticket office
 Fahrplan;timetable, train timetable, bus timetable
-Rad bicycle
+Fahrrad;bicycle
 Fahrt;journey, short journey
 Fahrzeug;vehicle
 fallen;to fall
@@ -537,70 +524,68 @@ falsch;wrong
 falten;to fold
 Familie;family
 Familienname;surname
-fangen;to catch
+fangen;to catch *catch something with your fangs
 Farbe;colour, paint
 Faschingsdienstag;Shrove Tuesday
 fast;almost
 faulenzen;to laze about
 fehlen;to be missing
-Fehler;mistake
+Fehler;mistake *fehlen = to be missing
 Feierabend;end of work day
 feiern;to celebrate
 Feiertag;public holiday
 Feld;field
-Fenster;window
+Fenster;window *fenêtre (fr)
 Fensterladen;shutter
-Ferien;holiday
-Fernbedienung;remote control
-Fernbedienung;remote control
-fernsehen;to watch TV
-Fernseher;TV set
+Ferien, Urlaub;holiday
+Fernbedienung;remote control, remote
+fernsehen;to watch TV *Fernseher = TV
+Fernseher;TV set, TV
 fertig;ready, finished
 Fest;festival, party
-Festtag;public holiday
+Festtag;public holiday *festival day
 Fett;fat, grease
-feucht;humid
-Feuer;fire
+feucht;humid, wet, moist, soggy
+Feuer;fire, general fire
 Feuerwerk;fireworks
 Feuerwehr;fire brigade
-Feuerwehrmann;fireman
-Feuerwehrfrau;firewoman
-Fieber;fever, a temperature
+Feuerwehrmann;fireman *Feuerwehr = fire brigade
+Feuerwehrfrau;firewoman *Feuerwehr = fire brigade
+Fieber;fever, a temperature *fever
 Filzstift;felt tip pen
 finden;to find
-Firma, Betrieb; firm, company
 flach;flat
 Flamme;flame
-Flasche;bottle
-Flaschencontainer;bottle bank
-Fleck;stain, spot
+Flasche;bottle, flask
+Flaschencontainer;bottle bank *Flasche = bottle
+Fleck;stain, spot, fleck
 Fleisch;meat
-fleißig;hard working
+fleißig;hard working, diligent, industrious
 Fliege;fly
-fliegen;to fly
-fließen;to flow
-fließend;fluently
-Flöte, Querflöte;flute
+fliegen;to fly *fliegen = to fly, fließen = to flow
+fließen;to flow *fliegen = to fly, fließen = to flow
+fließend;fluently, flowing *fließen = to flow
+Flöte;flute
 Flug;flight
-Flughafen;airport
+Flughafen;airport *Flug (flight) + hafen (harbour)
 Flugzeug;plane
-Flur;hall
+Flur;hall, hallway, corridor *floor
 Fluss;river
-Folge;consequence
+Folge;consequence *folgen = to follow
 folgen;to follow
 Forelle;trout
 Formular;form
 Fortschritt;progress
-Fotoapparat;camera
+Fotoapparat;camera *photo apparatus
 Frage;question
 eine Frage stellen;to ask a question
-fragen;to ask
+fragen;to ask, to ask for, to ask after, to wonder
 Frau;Mrs, woman
 frech;cheeky
 frei;free
 Freibad;swimming pool, open air swimming pool
 Freizeit;free time,leisure
-Freizeitbeschäftigung;activity
+Freizeitbeschäftigung;activity *Freizeit (free time) + beschäftigung (occupation)
 Fremdenführer;tour guide
 Fremdsprache;language, foreign language
 fressen;to eat, to eat animals
@@ -613,8 +598,8 @@ frieren;to freeze
 Frikadelle;meatball
 frisch;fresh
 Frisör, Friseuse; hairdresser
-fröhliche;Weihnachten Happy Christmas
-Fruchtsaft;fruit juice
+fröhliche Weihnachten; Happy Christmas
+Fruchtsaft;fruit juice *Frucht (fruit) + Saft (juice)
 früh;early
 früher;previously
 Frühstück;breakfast
@@ -626,38 +611,38 @@ füllen;to fill
 Füller;fountain pen
 Fundbüro;lost property office
 funktionieren;to work, to function
-furchtbar;awful
+furchtbar;awful *Furcht = fear
 Fuß;foot
 zu Fuß gehen;go on foot
 Fußball;football
-Fußboden;floor
+Fußboden;floor *Fuß (foot) + boden (ground)
 Fußgänger;pedestrian
-Fußgängerzone;pedestrian area
-Fußgelenk;ankle
+Fußgängerzone;pedestrian area *Fußgänger = pedestrian
+Fußgelenk;ankle *Fuß (foot) + gelenk (joint)
 füttern;to feed, to feed pets
 Gabel;fork
-Gang;corridor, gear
-Gans;goose
+Gang;corridor, gear *gangway
+Gans;goose *goosey gander
 Ganztagsstelle;full time job
 gar nicht;not at all
 Garderobe;cloakroom, theatre cloakroom
-Gardine;curtain
-Garten;garden
-Gasherd;gas cooker
+Gardine;curtain *Gardine = curtain, Garten = garden
+Garten;garden *Gardine = curtain, Garten = garden
+Gasherd;gas cooker *Herd = stove
 Gast;guest
-Gastgeber;host
-Gasthaus, Gasthof; pub
+Gastgeber;host *Gast (guest) + Geber (giver)
+Gasthaus, Gasthof; pub *Gast (guest) + Hause (house)
 Gaststätte;restaurant, pub
 Gebäude;building
 geben;to give
-es gibt;there is
 Gebiet;region, area
 Gebirge;mountain range
 geboren;born
 gebrauchen;to use
-Gebrauchsanweisung;instructions for use
+Gebrauchsanweisung;instructions for use, instructions
 Gebühr;fee
-gebührenfrei, gratis; free
+gebührenfrei;free, free of charge
+gratis;free, gifted
 Geburts;birth
 Geburtstag;birthday
 Geburtsort;birthplace
@@ -667,7 +652,7 @@ Gefahr;danger
 gefährlich;dangerous
 gefallen;to like
 Gefängnis;prison
-Geflügel;poultry
+Geflügel;poultry *Flügel = wing
 Gefühl;feeling
 Gegend;district
 Gegenteil;opposite
@@ -676,8 +661,8 @@ gehen;to go, walk
 Gehirn;brain
 gehören;to belong to
 Geige;violin
-gelb;yellow
-Geld;money
+gelb;yellow *similar to gold
+Geld;money *gold
 Geldtasche;purse
 Geldstrafe;fine, financial penalty
 Gelegenheit;opportunity, chance
@@ -690,7 +675,7 @@ gemütlich;cosy, cheery
 genau;exactly
 genießen;to enjoy
 genug;enough
-genügen;to suffice
+genügen;to suffice *genug = enough
 Gepäck;luggage
 geradeaus;straight ahead
 Gerät;implement, equipment
@@ -712,15 +697,15 @@ Geschlecht;sex, gender
 geschlossen;closed
 Geschmack;taste
 Geschwindigkeits;speed
-Geschwister;brothers and sisters
+Geschwister;brothers and sisters, siblings
 geschwollen;swollen
 Gesetz;law
 Gesicht;face
 Gespräch;conversation
 gestattet;permitted
-gestern;yesterday
+gestern;yesterday *yester
 gesund;healthy
-Gesundheit;health
+Gesundheit;health *gesund = healthy
 Getränk;drink
 getrennt;separated, separate, separately
 Gewicht;weight
@@ -730,78 +715,74 @@ Gewohnheit;custom, habit
 gewöhnlich;usually
 Gewürz;spice
 gießen;to pour
-Gipfel;summit
-Gips;plaster
+Gipfel;summit, peak, top
+Gips;plaster, cast
 Gitarre;guitar
-Glas;jar, pot
 glatt;smooth, straight
-Glatteis;black ice
+Glatteis;black ice *Glatt (smooth) + eis (ice)
 Glatze;bald patch
 glauben;to think, believe
 gleich;immediately
 Gleis;platform, line
-globale;Erwärmung global warming
+globale Erwärmung; global warming
 glücklich;happy
-Glück;good luck
+Glück;good luck, happiness *g'luck
 Gott;God
-Grad;degree
+Grad;degree, grade
 gratulieren;to congratulate
 grau;grey
 Grenze;border
 Griff;handle
 grillen;to grill, barbecue
-Grippe;flu
-Größe;size, height
+Grippe;flu *you grip your throat when you have flu
+Größe;size, height *groß = tall
 groß;tall
-Großstadt;city
+Großstadt;city, large city
 Großvater;grandfather
 Großeltern;grandparents
 Großmutter;grandmother
 grün;green
 Grund;ground, reason
-Grundschule;primary school
+Grundschule;primary school *Grund (ground) + schule (school)
 Gruppe;group
 Gruss;greeting
 gültig;valid
 Gummi;rubber
 günstig;favourable
-Gurke;cucumber
+Gurke;cucumber, gherkin
 Gürtel;belt
 gut;good
-guten;Tag hello
 gütig;kind
 Gymnasium;grammar school
 Haarbürste;hairbrush
-Haare;hair
+Haare;hair *Haare = hair, Hase = hare
 haben;to have
 Hafen;harbour
 Hagel;hail
-hageln;to hail
+hageln;to hail *Hagel = hail
 halb;half
 Hälfte;a half
 Hallenbad;indoor swimming pool
 Hals;neck, throat
-Halskette;necklace
-Halsschmerzen;sore throat
+Halskette;necklace *Hald (neck/throat) + Kette (chain)
+Halsschmerzen;sore throat *Hals (neck/throat) + schmerzen (pains)
 halten;to hold, to stop, to stop moving
-Handgelenk;wrist
-Händler;shopkeeper, male shopkeeper
-Händlerin;shopkeeper, female shopkeeper
-Handschuh;glove
+Handgelenk;wrist *Hand (hand) + gelenk (joint)
+Händler;shopkeeper, male shopkeeper, dealer
+Händlerin;shopkeeper, female shopkeeper, dealer
+Handschuh;glove *Hand (hand) + schuh (shoe)
 Handtasche;handbag
-Handy;mobile phone
+Handy;mobile phone *it's handy to have a mobile phone
 Hansaplast;sticking plaster
-Hase;hare
+Hase;hare *Haare = hair, Hase = hare
 hassen;to hate
-hässlich;ugly
+hässlich;ugly, hideous
 häufig;frequently
-Hauptbahnhof;main station 
-Hauptstraße;main road
-Hauptschule;secondary modern school
-Hauptstadt;capital
+Hauptbahnhof;main station *Haupt (main) + Bahnhof (station)
+Hauptstraße;main road, main street *Haupt (main) + straße (street/road)
+Hauptstadt;capital *Haupt (main) + Stadt (city)
 Hauptverkehrszeit;rush hour
-Haus;home
-Hause;home
+Haus, Hause;home
 zu Hause;at home
 nach Hause;going home
 Hausmeister;caretaker, male caretaker
@@ -812,7 +793,7 @@ Haut;skin
 heben;to lift, raise
 Hecke;hedge
 Heft;exercise book
-Heftpflaster;sticking plaster
+Heftpflaster;sticking plaster, plaster, band aid
 Heiligabend;Christmas Eve
 Heimat;home
 Heimweh;homesickness
@@ -820,8 +801,8 @@ heiraten;to marry
 heiß;hot
 heißen;to be called
 heiter;bright, bright weather
-heizen;to heat
-Heizkörper;radiator
+heizen;to heat *heiß = hot
+Heizkörper;radiator *Heiz (heating) + körper (body)
 Heizung;heating
 helfen;to help
 hell;pale
@@ -830,15 +811,13 @@ Hemd;shirt
 herausfinden;to find out, learn
 Herbergseltern;wardens, youth hostel wardens
 Herr;mr, gentleman
-Herr Ober! waiter!
 herrlich;splendid, wonderful
-herunterladen;to download
+herunterladen;to download *herunter (down) + laden (to load)
 Herz;heart
 Heuschnupfen;hay fever
 heute;today
 heutzutage;nowadays
 hier;here
-Higher;
 hilfsbereit, hilfreich; helpful
 Himbeere;raspberry
 Himmel;sky
@@ -855,21 +834,20 @@ Hochzeit;wedding
 hoffen;to hope
 höflich;polite
 Höhe;height
-Höhle;cave
+Höhle;cave *hole
 holen;to fetch
 Holz;wood
 Honig;honey
-hören;to hear
-Hörer;receiver, telephone receiver
+hören;to hear, to hear passively
 Hose;trousers
 hübsch;pretty
 Hubschrauber;helicopter
 Hügel;hill
-Hund;dog
-hupen;to hoot
+Hund;dog *hound
+hupen;to hoot *whoop
 Husten;cough
 husten;to cough
-Hustensaft;cough mixture
+Hustensaft;cough mixture *Husten (cough) + Saft (juice)
 Hut;hat
 Hütte;shed, hut
 Idee;idea
@@ -888,9 +866,9 @@ irgendwo;somewhere, somwhere or other
 irren;to be wrong
 ja;yes
 Jacke;jacket
-jagen;to hunt
+jagen;to hunt *a jaguar hunts its prey
 Jahr;year
-Jahreszeit;season
+Jahreszeit;season *Jahr (year) + es + Zeit (time / period)
 Jahrhundert;century
 jährlich;annually
 jeder;each, every, everybody
@@ -901,16 +879,16 @@ joggen;to jog
 Jugendherberge;youth hostel
 Jugendklub;youth club
 jung;young
-Junge;boy
-Jura;law
+Junge;boy *jung = young
+Jura;law. *jury
 Juwelier;jeweller
-Kabel;cable, wiring
+Kabel;cable, wiring *cable
 Kaffee;coffee
 Käfig;cage
-Kalbfleisch;veal
+Kalbfleisch;veal *Kalb (calf) + fleisch (flesh)
 kalt;cold
 Kamin;fireplace, hearth
-Kamm;comb
+Kamm;comb *kämmen = to comb
 kämmen;to comb, to comb hair
 Kanal;canal, channel
 Kaninchen;rabbit
@@ -923,41 +901,40 @@ Karneval;carnival
 Karotte;carrot
 Karte;card, playing card, greetings card
 Kartoffel;potato
-Kartoffelsalat;potato salad
-Karton;cardboard box
+Kartoffelsalat;potato salad *Kartoffel = potato
+Karton;cardboard box *carton
 Käse;cheese
 Kasse;till, cash desk
 Kassierer;cashier, male cashier
 Kassiererin;cashier, female cashier
 Katze;cat
 kaufen;to buy
-Kaufhaus;department store
-Kaugummi;chewing gum
+Kaufhaus;department store *kaufen (to buy) + Haus (house)
+Kaugummi;chewing gum *kauen (to chew) + Gummi (gum / rubber)
 kaum;hardly, scarcely
-kegeln;to play skittles
 kehren;to sweep
 kein;no, not any
-Kekse;biscuits
-Keller;cellar
-Kellner;waiter
+Kekse;biscuits *cakes
+Keller;cellar *Keller = celler, Kellner = waiter
+Kellner;waiter *Keller = celler, Kellner = waiter
 Kellnerin;waitress
 Kennzeichen;registration number
 Kerze;candle
 Kind;child
-Kindheit;childhood
+Kindheit;childhood *Kind (child) + heit (quality of)
 Kindergarten;nursery school
 Kinn;chin
 Kino;cinema
-Kirche;church
-Kirsche;cherry
-Kissen;cushion
+Kirche;church *Kirche = church, Kirsche = cherry
+Kirsche;cherry *Kirche = church, Kirsche = cherry
+Kissen;cushion, pillow
 klagen;to complain
 Klappstuhl;folding chair
 Klapptisch;folding table
 klar;clear
 Klarinette;clarinet
 Klasse;class
-Klassenarbeit;test, assessment
+Klassenarbeit;test, assessment *not classwork
 Klassenkamarad;classmate, male classmate
 Klassenkamaradin;classmate, female classmate
 Klassenzimmer;classroom
@@ -972,10 +949,10 @@ Klempner;plumber, male plumber
 Klempnerin;plumber, female plumber
 klettern;to climb
 Klima;climate
-Klimaanlage;air conditioning
-Klingel;bell, doorbell
+Klimaanlage;air conditioning *Klima (climate) + Anlage (device)
+Klingel;bell, doorbell *the Klingel has a jingle
 Klippe;cliff
-Klo;loo
+Klo;loo, toilet
 klopfen;to knock
 klug;clever
 Kneipe;pub
@@ -984,44 +961,44 @@ Knochen;bone
 Knopf;button
 kochen;to cook
 Koffer;suitcase
-Kofferraum;boot, car boot
-Kohl;cabbage
-Kohle;coal
-komisch;funny
+Kofferraum;boot, car boot *Koffer (suitcase) + raum (room)
+Kohl;cabbage *Kohl = cabbage, Kohle = coal
+Kohle;coal *Kohl = cabbage, Kohle = coal
+komisch;funny, comic, comical
 kommen;to come
-Kommode;chest of drawers
+Kommode;chest of drawers *commode
 Komödie;comedy
 kompliziert;complicated
-Konditorei;cake, sweet shop
+Konditorei;cake shop, sweet shop, confectionary
 König;king
-Königin;queen
+Königin;queen *König = king
 können;to be able to, can
 Kontaktlinsen;contact lenses
 Konto;account, bank account
 Konzert;concert
 Kopf;head
-Kopfhörer;headphones
+Kopfhörer;headphones *Kopf (head) + Hörer (receiver)
 Kopfsalat;lettuce
 Kopfschmerzen;headache
 Korb;basket
-Körper;body
+Körper;body *corps (fr)
 korrigieren;to correct, mark
 kosten;to cost
 kostenlos;free, without cost
 Kostüm;suit, womens suit, women's suit
-Kotelett;chop, cutlet
-Kraftwerk;power station
+Kotelett;chop, cutlet *cutlet
+Kraftwerk;power station, power plant *Kraft (power) + Werk (factory)
 krank;ill
-Krankheit;illness
-Krankenhaus;hospital
+Krankheit;illness *krank = ill
+Krankenhaus;hospital *krank (ill) + en + Haus (house)
 Krankenpfleger;nurse, male nurse
 Krankenschwester;nurse, female nurse
 Krankenwagen;ambulance
-Krawatte, Schlips; tie
+Krawatte, Schlips; tie *cravatte
 Kreditkarte;credit card
 Kreis;circle
-Kreisverkehr;roundabout
-Kreuzung;crossroads
+Kreisverkehr;roundabout *Kreis (circle) + verkehr (traffic)
+Kreuzung;crossroads *Kreuz = cross
 kriegen;to get
 Krimi;crime story, crime thriller
 Krug;jug
@@ -1030,21 +1007,21 @@ Kuchen;cake
 Kugelschreiber, Kuli; biro, ball point pen
 Kuh;cow
 kühl;cool
-Kühlschrank;fridge
+Kühlschrank;fridge *kühl (cool) + Schrank (cabinet)
 Kunst;art
-Kunstgalerie;art gallery
+Kunstgalerie;art gallery *Kunst = art
 Künstler;artist, male artist
 Künstlerin;artist, female artist
-Kunststoff;plastic
+Kunststoff;plastic *Kunst (art) + stoff (material)
 Kurs;exchange rate
-Kurve;bend
-kurz;short
+Kurve;curve, bend
+kurz;short *curt
 Kuss;kiss
 Küste;coast
 Labor;laboratory
 lächeln;to smile
 lachen;to laugh
-lächerlich;ridiculous
+lächerlich;ridiculous *lachen = to laugh
 Lachs;salmon
 Laden;shop
 Lage;situation
@@ -1057,14 +1034,14 @@ Landschaft;countryside, scenery
 langsam;slow
 langweilig;boring
 Lärm;noise, loud noise
-lassen;to let, to leave, to leave something
+lassen;to let, to leave, to leave something, to have something done
 Lastwagen;lorry
 laufen;to run
 laut;noisy, loud
 lauwarm;lukewarm
 Leben;life
 leben;to live
-Lebenslauf;CV
+Lebenslauf;CV, resumé
 Lebensmittel;food, groceries
 Leber;liver
 lebhaft;lively
@@ -1072,39 +1049,39 @@ lecker;delicious
 Leder;leather
 ledig;single, unmarried
 leer;empty
-leeren;to empty
+leeren;to empty *leer = empty
 legen;to put, to lay
-lehren;to teach
-Lehrer;teacher, male teacher
-Lehrerin;teacher, female teacher
+lehren;to teach *lecture
+Lehrer;teacher, male teacher *lecturer
+Lehrerin;teacher, female teacher *lecturer
 Lehrling;apprentice
 leicht;light, lightweight, easy
 Leichtathletik;athletics
 leiden;to suffer
-leider;unfortunately
+leider;unfortunately *leiden = to suffer
 leihen;to lend
 leisten;to achieve
 Leistung;achievement
-Leiter;ladder
-Leiter;manager, leader
-Leitung;cable, wiring, pipes
+Leiter;manager, leader, ladder
+Leitung;cable, wiring, pipes, management, leadership
 Lenkrad;steering wheel
 lernen;to learn
 Lesen;reading
 lesen;to read
 letzt;last, final
-Leute, Menschen;people
+Leute;people, informal term for people
+Menschen;people, formal term for people
 Licht;light
 Liebe;love
 lieben;to love
 Lied;song
 liefern;to deliver
-Lieferwagen;van, delivery van
+Lieferwagen;van, delivery van *liefern (to deliver) + Wagen (car/cart)
 liegen;to lie, to be lying down
 Liga;league
-lila;purple
+lila;purple *lilac
 Limonade;lemonade
-Lineal;ruler
+Lineal;ruler *linear
 Linie;line, bus route
 links;left, on the left side
 Lippe;lip
@@ -1116,42 +1093,41 @@ Löffel;spoon
 Lohn;wages
 lohnen;to be worthwhile
 löschen;to extinguish, put out
-lösen;to solve
+lösen;to solve *?analyse
 Löwe;lion
-Luft;air
+Luft;air *aloft
 Luftdruck;tyre pressure
 lügen;to lie
-Lust;haben to feel like, to feel like doing something
 lustig;funny
 Luxus;luxury
 machen;to do, make
 Mädchen;girl
 Magen;stomach
-Magenschmerzen;stomach ache
+Magenschmerzen;stomach ache *Magen (stomach) + schmerzen (pains)
 Magenverstimmung;stomach upset
 mähen;to mow
-Mahlzeit;enjoy your meal
+Mahlzeit;enjoy your meal, mealtime
 malen;to paint
 manchmal;sometime, sometimes
 mangelhaft;poor
 männlich;male
 Mannschaft;team
-Mantel;coat
+Mantel;coat *manteau (fr)
 Marke;make, make of car
 Markt;market
 Marktplatz;marketplace, market place
 Marmelade;jam
 mäßig;moderate
-Mathe;maths
+Mathe;maths, math
 Matrose, Seemann; sailor
 Mauer;wall, exterior wall
-Maurer;builder
+Maurer;builder *Mauer = wall
 Mechaniker;mechanic, male mechanic
 Mechanikerin;mechanic, female mechanic
-Medien, Massenmedien; media
+Medien;media
 Medikament;medicine
-Meer;sea
-Meerschweinchen;guinea pig
+Meer;sea *mer (fr)
+Meerschweinchen;guinea pig *Meer (sea) + schweinchen (piggy)
 mehr;more
 mehrere;several
 meinen;to mean, think
@@ -1165,13 +1141,13 @@ Messe;mass, church mass
 messen;to measure
 Messer;knife
 Metall;metal
-Metzger;butcher
+Metzger;butcher *Metz sounds like meats
 Miete;rent
-mieten;to rent, hire
-Mikrowellenherd;microwave
+mieten;to rent, hire *Miete = rent
+Mikrowellenherd;microwave *Herd = stove
 Milch;milk
 Missverständnis;misunderstanding
-mit;freundlichen Grüßen yours sincerely
+mit freundlichen Grüßen; yours sincerely
 Mitglied;member
 mitnehmen;to take, to take with you
 Mittag;midday
@@ -1183,8 +1159,8 @@ Möbel;furniture
 möbliert;furnished
 Mode;fashion
 modisch;fashionable
-Modegeschäft;clothes shop
-Moderator;TV presenter
+Modegeschäft;clothes shop *Mode (fashion) + Geschäft (business)
+Moderator;TV presenter, moderator
 Mofa;moped
 mögen;to like, to like to
 möglich;possible
@@ -1195,12 +1171,12 @@ Mord;murder
 Morgen;morning
 morgen;tomorrow
 Motorrad;motorbike
-müde; tired
-ermüdend;tiring
+müde; tired *being tired makes you moody
+ermüdend;tiring *müde = tired
 Müll;rubbish, waste
 Mülltonne;dustbin
 Mund;mouth
-mündlich;oral
+mündlich;oral *Mund = mouth
 Münze;coin
 Musik;music
 Musiker;musician, male musician
@@ -1216,10 +1192,9 @@ nachdenken;to think over, reflect
 nachher;afterwards
 Nachmittag;afternoon
 Nachrichten;news
-nachsitzen;müssen to be kept in
-nächst;following, next
+nächst;following, next *next
 Nacht;night
-Nachthemd;nightdress
+Nachthemd;nightdress, nightie *Nacht (night) + Hemd (shirt)
 Nachteil;disadvantage
 Nachtisch;dessert
 nackt;naked
@@ -1238,16 +1213,16 @@ nett;nice
 Netz;net
 neu;new
 neugierig;curious, inquisitive
-neulich;recently
-nicht;mehr no longer
-nicht;not
+neulich;recently *neu = new
+nicht mehr;no longer
+nicht;not *nicht = not, nichts = nothing
 Nichte;niece
-nichts;nothing
+nichts;nothing *nicht = not, nichts = nothing
 nie;never
 Niederschlag;precipitation
 niedrig, tief;low
 niemand;no one, nobody
-noch;nicht not yet
+noch nicht;not yet
 noch;still, even now
 Norden;north
 Not;emergency
@@ -1259,12 +1234,11 @@ Nudeln;pasta, noodles
 Nummer;number
 nur;only
 Nuss;nut
-Erdnuss;peanut
+Erdnuss;peanut *Erd (earth) + Nuss (nut)
 nützlich;useful
 nutzlos;useless
 ob;whether
 oben;at the top, upstairs
-Oberstufe;sixth form
 obgleich, obwohl; although
 Obst;fruit
 oder;or
@@ -1277,29 +1251,28 @@ Ohr;ear
 Ohrringe;earrings
 Öl;oil
 Onkel;uncle
-Opa, Oma;grandad, granny
 Oper;opera
 Operation;operation, medical operation
 Orangenmarmelade;marmelade
-ordentlich;tidy
+ordentlich;tidy, orderly
 organisieren;to organise
 Ort;place
-Osten;east
-Ostern;Easter
+Osten;east *Osten = east, Ostern = Easter
+Ostern;Easter *Osten = east, Ostern = Easter
 Pampelmuse;grapefruit
 Panne;breakdown
 Parfüm;perfume
 Parkett;stalls, theatre stalls
-Parkhaus;multi-storey car park
+Parkhaus;multi-storey car park, parking garage
 Parkplatz;car park, parking space
 Partei;party, political party
 Pass, Reisepass;passport
 passieren;to happen
 Patient;patient, male patient
 Patientin;patient, female patient
-Pause;break
+Pause;break, pause
 Mittagspause;lunch
-Pech;luck, bad luck
+Pech;luck, bad luck, pitch, tar
 in Pension gehen;to retire
 Pension;boarding house
 Vollpension;full board
@@ -1316,7 +1289,7 @@ pflegen;to look after, to look after a patient
 Pflichtfach;compulsory subject
 Pfund;pound, pound sterling, pound weight
 Physik;physics
-pikant;spicy
+pikant;spicy *piquant (fr)
 Pilz;mushroom
 Platz;seat, room, square, court, pitch
 plaudern;to chat
@@ -1328,7 +1301,7 @@ Polizist;policeman
 Polizistin;policewoman
 Portemonnaie;purse
 Portion;helping, portion
-Postleitzahl;post code
+Postleitzahl;post code *Post (post) + leiten (to direct) + Zahl (number)
 Pralinen;chocolates
 Preis;price, prize
 preiswert;cheap, value for money
@@ -1336,8 +1309,8 @@ prima;great, cool
 Privatschule;private school
 pro;per
 probieren;to try
-Programmierer;computer programmer, male computer programmer
-Programmiererin;computer programmer, female computer programmer
+Programmierer;computer programmer, male computer programmer, programmer
+Programmiererin;computer programmer, female computer programmer, programmer
 Prospekt;leaflet
 Prost;Cheers
 Prozent;per cent, percent
@@ -1354,12 +1327,12 @@ Qualität;quality
 Quatsch;nonsense
 Quittung;receipt
 Quizsendung;quiz show
-Rad;wheel
+Rad;wheel *radius
 Radfahren;cycling
 radfahren;to cycle
 Radfahrer;cyclist, male cyclist
 Radfahrerin;cyclist, female cyclist
-Radiergummi;rubber, eraser
+Radiergummi;rubber, eraser *radieren (to erase) + Gummi (gum)
 Rand;edge
 Rang;circle, theatre circle
 Rasen;lawn
@@ -1367,10 +1340,9 @@ Rasierapparat;shaver
 Raststätte;motorway services
 Rat;advice, council
 raten;to advise, guess
-Rathaus;town hall
-Rauch;smoke
-rauchen;to smoke
-Realschule;secondary technical school
+Rathaus;town hall *Rat (council) + haus (house)
+Rauch;smoke *rauchen = to smoke
+rauchen;to smoke *Rauch = smoke
 rechnen;to calculate
 Rechnung;bill, restaurant bill
 Recht;haben to be right
@@ -1378,21 +1350,21 @@ rechts;right, on the right
 Rechtsanwalt;lawyer, male lawyer
 Rechtsanwältin;lawyer, female lawyer
 recyceln;to recycle
-Rede;speech
+Rede;speech *reden = to talk
 reden;to talk
 reduzieren;to reduce
-Regal;shelf
-Regel;rule
+Regal;shelf *Regal = shelf, Regel = rule
+Regel;rule *Regal = shelf, Regel = rule
 Regen;rain
-Regenmantel;raincoat
-Regenschirm;umbrella
+Regenmantel;raincoat *Regen (rain) + Mantel (coat)
+Regenschirm;umbrella *Regen (rain) + Schirm (screen / shield)
 Regierung;government
 regnen;to rain
 regnerisch;rainy
 reich;rich
 reichen;to pass
-Reifen;tyre
-Reifenpanne;puncture
+Reifen;tyre, tire
+Reifenpanne;puncture *Reifen (tyre) + Panne (breakdown)
 Reihe;row, row of seats
 Reihenhaus;terraced house
 Reinigung;dry cleaning
@@ -1422,13 +1394,13 @@ Riegel;bar, chocolate bar
 Rindfleisch;beef
 Risiko;risk
 Rock;skirt
-Rollbrett;skateboard
+Rollbrett;skateboard *lit. roll board
 Roller;scooter
-Rollschuh;laufen to roller skate
+Rollschuh laufen;to roller skate
 Rollstuhl;wheelchair
-Rolltreppe;escalator
+Rolltreppe;escalator *rollen (to roll) + Treppe (staircase)
 Roman;novel
-Röntgenbild;xray, x ray
+Röntgenbild;xray, x ray, xray image, x ray image *Röntgen (x ray) + Bild (image)
 rosa;pink
 Rosenkohl;brussel sprouts
 rot;red
@@ -1440,10 +1412,10 @@ Rückspiegel;rear-view mirror, rearview mirror
 Ruderboot;rowing boat
 rudern;to row
 rufen;to call, shout
-ruhig;quiet
+ruhig;quiet *Ruhe = rest
 Ruhe;rest, quiet
 rund;round, round shaped
-Rundfunk;radio
+Rundfunk;radio, radio broadcasting
 Rundgang, Rundfahrt; guided tour
 S-Bahn;suburban railway
 Saal, Halle; hall, concert hall
@@ -1452,17 +1424,14 @@ Saft;juice
 sagen;to say, tell
 Salbe;cream, ointment
 Salz;salt
-Salzkartoffeln;boiled potatoes
 sammeln;to collect
 Sand;sand
-Sandburg;sandcastle
-sanft;gentle
+Sandburg;sandcastle *Sand (sand) + Burg (castle)
 sanft;soft, gentle
 Sänger;singer, male singer
 Sängerin;singer, female singer
 satt;full up, fed up
 sauber;clean
-Sauerkraut;pickled cabbage
 Schach;chess
 Schachtel;box
 Schaden;damage
@@ -1471,31 +1440,31 @@ Schaf;sheep
 schaffen;to suceed, achieve
 Schal;scarf
 schälen;to peel
-schämen;to be ashamed
+schämen;to be ashamed *shame
 scharf;sharp
 Schaschlick;kebab
 Schatten;shade
 Schauer;shower, shower weather
 Schaufensterbummel;window shopping
-Schauspieler;actor
-Schauspielerin;actor, actress
+Schauspieler;actor *Schau (show) + spieler (player)
+Schauspielerin;actor, actress *Schau (show) + spieler (player) + in
 Scheckheft;cheque book
 Scheibe;slice
 Schein;note, banknote
 scheinen;to shine
-Scheinwerfer;headlight
+Scheinwerfer;headlight, spotlight *schein (shine) + werfer (thrower)
 schenken;to give, to give a present
 Schere;scissors
-schick;smart
+schick;smart, chic
 schicken;to send
 schieben;to push
-Schiedsrichter;referee
+Schiedsrichter;referee *Richter = judge
 schießen;to shoot
 Schiff;ship
-Schild;sign
+Schild;sign, shield, plate
 Straßenschild;road sign, street sign
-Schildkröte;tortoise
-Schinken;ham
+Schildkröte;tortoise *Schild (shield) + Kröte (toad)
+Schinken;ham *shank
 Schlafanzug;pyjamas
 schlafen;to sleep
 Schlafsack;sleeping bag
@@ -1509,15 +1478,13 @@ Schlangestehen;to queue
 schlank;slim
 schlecht;bad
 schließen;to close
-abschließen;to lock
 Schließfach;locker
 schließlich;finally
 schlimm;bad
 Schlittschuhlaufen;to ice skate
-Schloss;castle
-Schloss;lock, door lock
+Schloss;lock, door lock, castle
 schlucken;to swallow
-Schlüssel;key
+Schlüssel;key *Schloss = lock
 Schlüsselbund;key ring
 Schlussverkauf;sale
 schmecken;to taste
@@ -1525,15 +1492,13 @@ Schmerzen;pain
 schmerzhaft;painful
 schminken;to put on make-up, to put on makeup
 Schmuck;jewellery
-schmücken;to decorate
+schmücken;to decorate, to adorn
 schmutzig;dirty
-Schnaps;schnaps, spirits
 Schnee;snow
 schneiden;to cut
 schneien;to snow
 schnell;quick
 Schnellimbiss;fast food restaurant
-Schnitzel;escalope, schnitzel
 Schnupfen;cold
 Schokolade;chocolate, chocolate drink
 schon;already
@@ -1553,8 +1518,7 @@ schuldig;guilty, owing
 Schuldirektor;head teacher, male head teacher
 Schuldirektorin;head teacher, female head teacher
 Schule;school
-Schüleraustausch;school exchange
-Schulhof;school playground
+Schulhof;school playground, playground
 Schulstunde;lesson
 Schulter;shoulder
 Schulzeugnis;school report
@@ -1563,10 +1527,9 @@ Schüssel;bowl
 schützen;to protect
 schwach;weak, poor
 Schwager;brother-in-law
-Schwägerin;sister-in-law
+Schwägerin;sister-in-law *Schwager = brother-in-law
 schwanger;pregnant
 schwarz;black
-schwarze;Johannisbeere blackcurrant
 schweigen;to be silent, to say nothing
 Schweinefleisch;pork
 schwer;hard, difficult
@@ -1583,7 +1546,7 @@ sehen;to see
 sehr;very
 Seide;silk
 Seife;soap
-Seifenoper;soap opera
+Seifenoper;soap opera *Seife = soap
 sein;to be
 seitdem;since
 Seite;page, side
@@ -1599,20 +1562,20 @@ Senf;mustard
 Senioren;senior citizens
 Serie;series, TV series
 Sessel;armchair
-sich langweilen; to be bored
-sich rasieren; to shave
+sich langweilen; to be bored *langweilig = boring
+sich rasieren; to shave *razor
 sich sonnen; to sunbathe
 sicher;certain, sure, certainly, surely
-Sicherheit;safety
-Sicherheitsgurt;seatbelt
-Sieg;win, victory
+Sicherheit;safety *sicher = sure
+Sicherheitsgurt;seatbelt *Sicherheit (safety) + s + gurt (belt)
+Sieg;win, victory *?siege
 silber;silver
 Silvester;New Year's Eve
 singen;to sing
 Sitten;customs, traditions
 sitzen;to sit
 sich setzen;to sit down
-Ski;fahren to ski
+Ski fahren; to ski
 Skilehrer;ski instructor, male ski instructor
 Skilehrerin;ski instructor, female ski instructor
 Slip;panties
@@ -1622,30 +1585,30 @@ Sofa;sofa, settee
 sofort;immediately
 sogar;even
 Sohn;son
-Soldat;soldier
+Soldat;soldier *soldat (fr)
 Sonderangebot;special offer
 Sonne;sun
-Sonnenbrand;sunburn
+Sonnenbrand;sunburn *Sonne (sun) + n + Brand (fire)
 Sonnencreme;sun cream, sun lotion
-Sonnenstich;sun stroke
+Sonnenstich;sun stroke *Sonne (sun) + n + Stich (sting)
 sonnig;sunny
 sonst;otherwise
 Sorge;worry
 sich Sorgen machen;to worry
-sorgen;für to look after
-Soße;gravy, sauce
+sorgen für;to look after
+Soße;gravy, sauce *SOHSSE
 Sozialkunde;social science
 Sozialwohnung;council house
 spannend;exciting
-sparen;to save
-Spargel;asparagus
+sparen;to save *spare
+Spargel;asparagus *'sparagus
 Sparkasse;savings bank
 Spaß;fun
 spät;late
 spazierengehen;to go for a walk
 Spaziergang;walk
 Speck;bacon
-Speisekarte;menu
+Speisekarte;menu *Speise (meal / food) + Karte (card)
 Speisewagen;dining car
 Spiegelei;fried egg
 Spiel;game, match
@@ -1654,24 +1617,23 @@ spielen;to play, to play music, to play sport, to play sports, to play cards
 Spieler;player
 Spielzeug;toy, toys
 Spinat;spinach
-Sport;treiben to do sport
-Sportplatz;sports ground, school field
+Sport treiben; to do sport
+Sportplatz;sports ground, field, school field
 sprechen;to speak
-Sprechstunde;surgery hours
-springen;to jump
+springen;to jump, to spring
 Spritze;injection
 Sprudel;pop, fizzy drink
-Spülbecken;sink
+Spülbecken;sink *spülen (to wash up) + Becken (basin)
 spülen;to wash up
-Spülküche;utility room
-Spülmaschine;dishwasher
+Spülküche;utility room *spülen (to wash up) + Küche (kitchen)
+Spülmaschine;dishwasher *spülen = to wash up
 Stadion;stadium
 Stadt;town
-Partnerstadt;twin town
-Stadtrundfahrt;town tour
+Partnerstadt;twin town *literally partner town
+Stadtrundfahrt;town tour, city tour
 Stahl;steel
 stark;strong
-starten;to take off, for a plane to take off
+starten;to take off, for a plane to take off, to start
 statt;instead of
 Stau;hold up, traffic jam, holdup
 stechen;to sting
@@ -1680,7 +1642,7 @@ stehen;to stand
 stehlen;to steal
 steigen;to climb
 Stein;stone
-Stelle;place, job
+Stelle;place, job *stellen = to place
 stellen;to put, to place
 Steppdecke;duvet
 sterben;to die
@@ -1688,21 +1650,21 @@ Stereoanlage;stereo system
 Steuerrad;steering wheel
 Stich;sting
 Stiefel;boot
-Stiefmutter;stepmother
-Stiefvater;stepfather
+Stiefmutter;stepmother *stief- = step-
+Stiefvater;stepfather *stief- = step-
 Stift;something to write with
 Stimme;voice
 Stimmung;atmosphere
-Stoff;material
-stören;to disturb, interrupt
-Strand;beach
+Stoff;material *stuff
+stören;to disturb, interrupt *?to stir
+Strand;beach *STRANDed on a beach on a desert island
 Straße;street, road
-Straßenbahn;tram
-Streichhölzer;matches
-Streit;argument, quarrel
-streng;strict
+Straßenbahn;tram *Straße (street) + bahn (rail transport)
+Streichhölzer;matches *streichen (stroke) + Holz (wood) + plural
+Streit;argument, strife, quarrel *strife
+streng;strict, stringent
 Strom;electricity
-Strumpfhose;tights
+Strumpfhose;tights *Strumpf (stocking) + Hose (trousers)
 Stück;piece, piece of paper, piece of cake
 Student;student, male student
 Studentin;student, female student
@@ -1711,47 +1673,44 @@ Stufe;step, stair
 Stuhl;chair
 stumm;silent, mute
 Stunde;hour
-Stundenplan;timetable, school timetable
 Sturm;storm
 stürmisch;stormy
 suchen;to look for
 Süden;south
 Supermarkt;supermarket
 Suppe;soup
-Surfbrett;surfboard
+Surfbrett;surfboard *lit. surf board
 süß;sweet
-Süßigkeiten;sweets
-sympathisch;nice
-Tablett;tray
-Tablette;tablet, pill
+sympathisch;nice *sympa (fr)
+Tablett;tray *Tablett = tray, Tablette = tablet
+Tablette;tablet, pill *Tablett = tray, Tablette = tablet
 Tafel;board, blackboard, whiteboard
 Tag;day
-Tagebuch;diary
-Tageskarte;menu, dish, dish of the day
-Tagesschau;TV evening news
-täglich;daily
+Tagebuch;diary *lit. day book
+Tageskarte;menu, dish, dish of the day *lit. day's card
+Tagesschau;TV evening news *lit. day's show
+täglich;daily *Tag = day
 Tal;valley
 tanken;to fill up with petrol
 Tankstelle;petrol station
 Tante;aunt
 Tanz;dance
 tanzen;to dance
-Tapete;wallpaper
-Tasche;pocket, bagage
+Tapete;wallpaper *tapestry
+Tasche;pocket, bagage, baggage
 Einkaufstasche;shopping bag
-Taschenbuch;paperback
+Taschenbuch;paperback *lit. pocket book
 Taschengeld;pocket money
 Taschenlampe;torch
-Taschenmesser;pocket knife, pen knife
+Taschenmesser;pocket knife, pen knife *lit. pocket knife
 Taschenrechner;calculator
 Taschentuch;handkerchief
 Tasse;cup
 Tastatur;keyboard, computer keyboard
 taub;deaf
 tauchen;to dive
-Technologie;CDT
 Tee;tea
-Teekanne;teapot, tea pot
+Teekanne;teapot, tea pot *literally tea can
 Teil;part
 teilen;to share
 teilnehmen;to take part
@@ -1774,10 +1733,9 @@ Haustier;pet
 Tierarzt;vet, male vet
 Tierärztin;vet, female vet
 tippen;to type
-tippen;to type
 Tisch;table
-Tischtuch;tablecloth
-Toastbrot;toast
+Tischtuch;tablecloth *Tisch (table) + tuch (cloth)
+Toastbrot;toast *Brot = bread
 Tochter;daughter
 Tod;death
 Toilettenpapier;toilet paper
@@ -1789,28 +1747,28 @@ tot;dead
 töten;to kill
 tragen;to carry, wear
 Tragödie;tragedy
-Trainingsanzug;tracksuit
+Trainingsanzug;tracksuit *lit. trainings suit
 Traube;grape
 Traum;dream
-träumen;to dream
+träumen;to dream *Traum = dream
 traurig;sad
 treffen;to meet, to intentionally meet
-Treffpunkt;meeting place
+Treffpunkt;meeting place *lit. meet place
 Treibhauseffekt;greenhouse effect
-Treppe;stairs
+Treppe;stairs *don't trip when going down the stairs
 trinken;to drink
 Trinkgeld;tip, restaurant tip
-trocken;dry
-trocknen;to dry
+trocken;dry *trocken = dry, trocknen = to dry
+trocknen;to dry *trocken = dry, trocknen = to dry
 Trompete;trumpet
 Tropfen;drop, drop of water
 Truthahn;turkey
-Tuch;cloth
+Tuch;cloth, towel
 tun;to do
 Tür;door
 Turnhalle;gymnasium
 Turnier;tournament
-Turnschuhe;trainers
+Turnschuhe;trainers, sneakers
 Tüte;bag
 üben;to practise
 überall;everywhere
@@ -1822,38 +1780,38 @@ Tüte;bag
 überqueren;to cross, to cross a road, to cross the road
 überraschen;to surprise
 überschwemmen;to flood
-übersetzen;to translate
-Übersetzung;translation
+übersetzen;to translate *setzen = to set
+Übersetzung;translation *übersetzen = to translate
 Flussufer;river bank
 Uhr;clock, watch, o'clock
-Umfrage;survey
+Umfrage;survey, poll *Frage = question
 umgeben;von surrounded by
 Umkleideraum;changing room
 Umleitung;diversion
 Umschlag;envelope
 umsonst;in vain, free
 umsteigen;to change, to change trains
-umtauschen;to exchange
-Umwelt;environment
+umtauschen;to exchange *tauschen = to trade
+Umwelt;environment *Welt = world
 und;and
 unentschieden;undecided, drawn
 Unfall;accident
 Universität;university, uni, college
-unmöglich;impossible
+unmöglich;impossible *möglich = possible
 unordentlich;untidy
 Unrecht;haben to be wrong
 unten;at the bottom, downstairs
 Unterhaltung;entertainment
-Unterhose;underpants
+Unterhose;underpants *Hose = trousers
 Unterkunft;accommodation
 Unterricht;lessons
 unterrichten;to teach
 Unterschied;difference
 unterschreiben;to sign
-Unterschrift;signature
+Unterschrift;signature *lit. under writing
 untersuchen;to examine, to examine a patient
 Untertasse;saucer
-Untertitel;subtitle
+Untertitel;subtitle *literally under title
 Unterwäsche;underwear
 unterwegs;on the way
 Urlaub;holiday
@@ -1865,7 +1823,7 @@ veränderlich;changeable
 verändern;to change
 Veranstaltung;event
 Verantwortung;responsibility
-Verband;bandage
+Verband;bandage, assocation, union
 verbessern;to correct, improve
 verbieten;to forbid
 verboten;forbidden
@@ -1884,7 +1842,7 @@ Vergnügen;pleasure
 vergrößern;to enlarge
 verhaften;to arrest
 verheiratet;married
-verkaufen;to sell
+verkaufen;to sell *kaufen = to buy
 Verkäufer;sales assistant, male sales assistant
 Verkäuferin;sales assistant, female sales assistant
 Verkehr;traffic
@@ -1917,17 +1875,16 @@ Versuch;experiment, attempt
 versuchen;to try, to try to do something
 Vertrauen;trust
 Verwandte;relative, relation
-Verzeihung;Sorry
+Verzeihung;sorry
 viel;a lot, much, many
 vielleicht;perhaps
 Viertel;a quarter
-Vogel;bird
+Vogel;bird *Flügel = wing
 Vokabeln;vocabulary
 voll;full
 völlig;completely, fully
-vor;allem above all
+vor allem; above all
 vor;in front of, outside, before
-vor;kurzem recently, a short time ago
 vorbereiten;to prepare
 Vorfahrt;priority, right of way
 vorgestern;day before yesterday
@@ -1940,45 +1897,46 @@ Vorort;suburb
 Vorschlag;suggestion
 Vorspeise;starter, first course
 vorstellen;to introduce oneself
-Vorstellung;performance, introduction
-Vorstellungsgespräch;job interview
+Vorstellung;performance, introduction *vorstellen = to introduce oneself
+Vorstellungsgespräch;job interview *Vorstellung (introduction) + s + Gespräch (conversation)
 Vorteil;advantage
-Vorwahl;dialling code
+Vorwahl;dialling code, area code
 vorziehen;to prefer
 wachsen;to grow
-Wagen;car
+Wagen;car, wagon, cart
 wagen;to dare
 Wahl;choice
 wählen;to choose
-wahr;true
+wahr;true *verity
 während;while
 Wald;wood, forest
 Wand;wall, interior wall
-wandern;to hike
-Wanderung;hike
+wandern;to hike *wander
+Wanderung;hike *wandern = to hike
 Wange;cheek
-warten;auf to wait for
-Waschbecken;washbasin
+warten auf; to wait for
+Waschbecken;washbasin *Becken = basin
 Wäsche;washing
 waschen;to wash
-Waschküche;utility room, laundry room
+Waschküche;utility room, laundry room *waschen (to wash) + Küche (kitchen)
 Waschlappen;flannel
 Waschmaschine;washing machine
-Waschpulver;wash powder
+Waschpulver;wash powder *Wasch (wash) + Pulver (powder)
 Wasser;water
-Wasserhahn;tap
-wechselhaft;changeable
+Wasserhahn;tap, water tap
+wechselhaft;changeable *wechseln = to change
 wechseln;to change
-Wecker;alarm clock
-Weg, Fußweg;way, path
+Wecker;alarm clock *waker
+Weg;way, path
+Fußweg;footpath, path
 weggehen;to go away
 wegwerfen;to throw away
 weiblich;female
 Weihnachten;Christmas
-weil;because
+weil;because *?while
 Wein;wine
-Weinberg;vineyard
-weinen;to cry, to cry tears
+Weinberg;vineyard *Wein (wine) + Berg (mountain/hill)
+weinen;to cry, to cry tears *whine
 Weinprobe;wine tasting
 Weise;way
 auf diese Weise;in this way
@@ -1988,16 +1946,16 @@ weiter;machen to continue, to carry on doing something, to carry on
 Wellensittich;budgerigar
 Welt;world
 wenig;little
-weniger;less
-wenigstens;at least
+weniger;less *wenig = little
+wenigstens;at least *wenig = little
 wenn;when, if
 Werbung;advertising
 werden;to become, get
 werfen;to throw
 Werkstatt;repair workshop, garage
-Werkzeug;implement
-Werkzeug;tools
-wertvoll, wertlos;valuable, worthless
+Werkzeug;tools, implement, implements, tool
+wertvoll;valuable
+wertlos; worthless
 Wespe;wasp
 Westen;west
 Wettbewerb;competition
@@ -2008,45 +1966,45 @@ wie;as, like
 Wie bitte?;pardon?
 Wie geht's? how are you?
 wieder;again
-wieder;verwerten to recycle
-wiederholen;to repeat
+wieder verwerten;to recycle
+wiederholen;to repeat *wieder (again) + holen (to get)
 wiegen;to weigh
 Wiese;field, meadow
 willkommen;welcome
 windig;windy
 Windschutzscheibe;windscreen
 windsurfen;to windsurf
-Wintergarten;conservatory
+Wintergarten;conservatory *Garten = garden
 winzig;tiny
 wirklich;really
 wissen;to know, to know facts
-Witwe;widow
-Witwer;widower
+Witwe;widow *Witwe = widow, Witwer = widower
+Witwer;widower *Witwe = widow, Witwer = widower
 Woche;week
 Wochenende;weekend
-Wohnblock;block of flats
+Wohnblock;block of flats, apartment building
 wohnen;to live
 Wohnung;flat
-Wohnwagen;caravan
-Wohnzimmer;living room
+Wohnwagen;caravan, rv, trailer *wohnen (to live) + Wagen (cart/car)
+Wohnzimmer;living room *wohnen = to live
 Wolke;cloud
-wolkig;cloudy
+wolkig;cloudy *Wolke = cloud
 Wolle;wool
 wollen;to want to
 Wort;word
-Wörterbuch;dictionary
+Wörterbuch;dictionary *Wörter (words) + buch (book)
 Wunde;wound
 wunderbar;wonderful
 Wunsch;wish
 wünschen;to wish
 Wurst;sausage
-Zahl;figure, number
-zählen;to count
-zahlen;to pay, to pay the bill
+Zahl;number, numeral, figure, tails
+zählen;to count *zählen = to count, zahlen = to pay
+zahlen;to pay, to pay the bill *zählen = to count, zahlen = to pay
 Zahn;tooth
-Zahnschmerzen;toothache, tooth ache
+Zahnschmerzen;toothache, tooth ache *Zahn (tooth) + schmerzen (pains)
 Zahnarzt, Zahnärztin;dentist
-Zahnbürste;toothbrush
+Zahnbürste;toothbrush *Zahn (tooth) + bürste (brush)
 Zahnpasta;toothpaste
 Zebrastreifen;zebra crossing
 Zeh;toe
@@ -2057,7 +2015,7 @@ Zeit;time
 Zeitschrift;magazine
 Zeitung;newspaper
 Zelt;tent
-zelten;to camp
+zelten;to camp *Zelt = tent
 Zentrum;centre
 zerstören;to destroy
 Zettel;note, piece of paper
@@ -2068,28 +2026,26 @@ ziemlich;quite, fairly
 Zigarette;cigarette
 Zimmer;room
 Zimmermädchen;maid
-Zitrone;lemon
-Zoll;customs
-zornig;angry
+Zitrone;lemon *citrus
+Zoll;customs *?toll
+zornig;angry, furious
 Zucker;sugar
 zuerst;at first
 Zufall;chance
 zufrieden;contented
 Zug;train
-Zugführer;train driver
-zuhören;to listen to
+Zugführer;train driver *Zug (train) + führer (driver)
+zuhören;to listen to, to listen to carefully
 Zukunft;future
-zum Mitnehmen;take away meals
-zumachen;to close
-zunehmen;to grow, get bigger, increase
-zunehmen;to put on weight, increase
+zumachen;to close *machen = to make
+zunehmen;to grow, to get bigger, to increase, to put on weight
 Zunge;tongue
-zurück;back
-zurückkommen;to return, to come, to go back
+zurück;back *?rucksack
+zurückkommen;to return, to come, to go back, to come back *zurück (back) + kommen (to come)
 zusammen;together
-zusammenstoßen;mit to collide with
+zusammenstoßen mit;to collide with
 zusätzlich;additional
 Zuschauer;audience, viewers
 zwar;indeed
 Zwiebel;onion
-Zwillinge;twins
+Zwillinge;twins, gemini

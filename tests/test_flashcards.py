@@ -1,4 +1,4 @@
-from lerniloj.flashcards import get_question, parse_line, get_number_of_correct_responses
+from lerniloj.flashcards import get_question, parse_line, get_number_of_correct_responses, is_user_response_correct
 
 
 def test_get_question_in_english():
@@ -30,3 +30,10 @@ def test_get_number_of_correct_responses():
     input_in = [{"is_correct": True}, {"is_correct": False}, {"is_correct": True}]
     result = get_number_of_correct_responses(input_in)
     assert result == 2
+
+
+def test_is_user_response_correct_multiple_foreign_terms():
+    line = "a, b;c, d *efgh ijk lm"
+    assert is_user_response_correct(line, "a", True, "german") == True
+    assert is_user_response_correct(line, "b", True, "german") == True
+    assert is_user_response_correct(line, "c", True, "german") == False

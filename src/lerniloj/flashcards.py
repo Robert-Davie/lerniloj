@@ -42,10 +42,12 @@ def is_user_response_correct(
     if hint:
         print(f"hint: hint")
     if is_question_in_english_in:
+        foreign_terms = [i.strip() for i in foreign_term.split(",")]
         foreign_term = utilities.remove_punctuation(foreign_term)
         user_response_in = utilities.toggle_accents(user_response_in, foreign_language_in, True)
         print(f"formatted: {user_response_in}")
-        return user_response_in == foreign_term
+
+        return user_response_in == foreign_term or user_response_in in foreign_terms
     else:
         user_response_in = utilities.toggle_accents(user_response_in, foreign_language_in, False)
         return user_response_in in english_terms or f"to {user_response_in}" in english_terms
@@ -141,8 +143,23 @@ def save_to_answer_history(
 
 def flashcard():
     # load settings
-    with open("flashcard_settings.toml", "rb") as f:
-        settings = tomllib.load(f)
+    if not Path("flashcard_settings.json").exists():
+        with open("flashcard_settings.json", "w") as f:
+            settings = {
+                "iterations": 100,
+                "reference_file": "german2000.txt",
+                "record_mistakes": True,
+                "audio_mode": False,
+                "save_results": True,
+                "give_question_in_english": False,
+                "save_results_file": "reports/results2.csv",
+                "answer_history_file": "history/mistakes2.json"
+            }
+            json.dump(settings, f, indent=4)
+    else:
+        with open("flashcard_settings.json", "r") as f:
+            settings = json.load(f)
+    
     for attribute, value in settings.items():
         print(attribute, value)
 
@@ -217,7 +234,7 @@ def flashcard():
             print("correct\n")
         if not is_correct:
             correct_answer = get_correct_answer(line, is_question_in_english)
-            print(f"incorrect - answer is {correct_answer}\n")
+            print(f"incorrect - answer is '{correct_answer}'\n")
             previous_mistakes.insert(0, previous_mistake)
         
     
