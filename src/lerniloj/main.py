@@ -1,4 +1,5 @@
 from flashcards import flashcard
 
 
-flashcard()
+if __name__ == "__main__":
+    flashcard()

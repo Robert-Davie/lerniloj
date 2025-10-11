@@ -7,14 +7,15 @@ wheels/
 *.egg-info
 .pytest_cache
 .ruff_cache
+.vscode
 
 # Virtual environments
 .venv
 /ignorable
+
+
 knowledge_report.txt
 mistake_report.csv
 results.txt
-
-
-flashcards.py
+results2.csv
 mistakes*

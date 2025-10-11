@@ -1,0 +1,2095 @@
+LANGUAGE=GERMAN
+ab;from
+ab und zu;now and again
+Abend;evening
+Abendessen;dinner, evening meal
+Abenteuer;adventure
+aber;but, however
+abfahren;to depart
+Abfahrt, Abflug;departure
+Abfall;rubbish
+Abfalleimer;bin, dustbin
+abholen;to meet, to pick up, to fetch
+abnehmen;to lose weight, slim
+Abschleppwagen;breakdown lorry
+abschliessen;to lock up
+Absicht;intention
+Abteil;compartment
+abtrocknen;to dry up
+abwaschen;to wash up
+Achtung;attention
+Acker;field, arable field
+Adresse;address
+Affe;monkey
+ahnen;to suspect
+ähnlich;similar
+Ahnung;idea
+Aktentasche;briefcase
+alkohol;alcohol
+alkoholfrei;non alcoholic
+alle;all, everyone
+Allee;avenue
+allein;alone
+Alptraum;nightmare
+also, so;therefore, so
+alt;old
+altmodisch;old fashioned
+Alter;age
+altmodisch;old fashioned
+Altpapier;recycled paper
+Ampel;traffic lights
+amüsieren;to enjoy oneself
+Ananas;pineapple
+anbauen;to grow, to grow crops
+andere;other
+ändern;to change
+anders;different
+anderswo;somewhere else
+anderthalb;one and a half
+anfangen;to begin, to start
+Anfänger;beginner
+angeln;to fish
+Angelrute;fishing rod
+angenehm;pleasant, enjoyable
+Angst;haben to be frightened
+ängstlich;anxious
+anhalten;to stop, to stop a vehicle
+ankommen;to arrive
+Ankunft;arrival
+anmachen;to put on, turn on
+Anmeldung;reception
+annehmen;to accept
+anprobieren;to try on
+Anrichte;sideboard
+anrufen;to phone
+anschalten;to switch on
+anschauen, ansehen;to look at
+anschnallen;to fasten seat belt
+Ansichtskarte;postcard
+anspringen;to start, to start a car
+anstrengend;tiring
+Antwort;answer
+antworten;to answer
+Anzeige;advertisement
+anziehen;to put on
+anziehen sich;to get dressed
+anziehen;to attract
+Anzug;suit, men's suit, mens suit
+anzünden;to light
+Apfel;apple
+Apfelsine;orange
+Apotheker;chemist
+Appetit;appetite
+Aprikose;apricot
+Arbeit;work
+arbeiten;to work
+Arbeiter;worker, male worker
+Arbeiterin;worker, female worker
+Arbeitgeber;employer
+Arbeitnehmer;employee
+Arbeitsamt;job centre
+arbeitslos;unemployed
+Arbeitslosigkeit;unemployment
+Arbeitszimmer;study
+ärgerlich;annoying
+ärgern;to annoy
+arm;poor
+Armband;bracelet
+Armbanduhr;wristwatch, wrist watch
+Armee;army
+Art;sort, kind
+artig;well behaved
+Arzt;doctor, male doctor
+Ärztin;doctor, female doctor
+auch;also
+Auf Wiedersehen;goodbye
+Aufenthalt;stay
+Aufenthaltsdauer;length, length of stay
+aufführen;to perform
+Aufführung;performance
+Aufgabe;exercise, task
+aufgeben;to stop, to give up
+aufgeregt;excited
+Aufheiterungen;bright periods
+aufhören;to stop, to stop doing something
+aufmachen;to open
+aufpassen;to pay attention
+aufräumen;to tidy, to clear up, to clear away
+Aufsatz;essay
+aufschließen;to unlock
+Aufschnitt;sliced meats
+aufstehen;to get up, stand up
+aufwachen;to wake up
+Aufzug;lift
+Auge;eye
+Augenblick;moment
+Aula;school hall
+ausbilden;to train
+Ausbildung;training
+Ausflug;excursion, trip
+ausfüllen;to fill in, to fill in a form
+Ausgang, Ausfahrt;exit, building exit, motorway exit
+ausgeben;to spend, to spend money
+ausgehen;to go out
+ausgezeichnet;excellent
+auskommen;mit to get on with
+Auskunft;information
+Ausland;abroad
+Ausländer;foreigner, male foreigner
+Ausländerin;foreigner, female foreigner
+ausmachen;to turn off
+ausruhen;to have a rest
+ausschalten;to switch off
+ausschlafen;to have a lie in
+aussehen;to look, to appear
+Aussicht;view
+außer;Betrieb out of order, not working, except for, except
+äußerst;extremely
+aussteigen;to get off
+Ausstellung;exhibition
+austauschen;to exchange
+Auswahl;choice, selection
+Ausweis;identity card, I.D, ID
+ausziehen; to get undressed
+Auto;car
+Autobahn;motorway
+Autobahnkreuz;motorway junction
+Automat;machine
+Babysitten;babysitting
+babysitten;to baby sit
+Bach;stream
+backen;to bake
+Backofen;oven
+Backstein;brick
+Bad;bath
+baden;to bathe
+Badeort;seaside resort
+Badewanne;bath, bathtub, tub
+Badezimmer;bathroom
+Bahn;railway
+Bahnsteig;platform
+Bahnhof;station
+Bahnübergang;level crossing
+bald;soon
+Ball;ball, sports ball
+Bär;bear
+Bart;beard
+basteln;to make things, do DIY
+Bauch;tummy
+bauen;to build
+Bauernhof;farm
+Baum;tree
+Baumwolle;cotton
+Baustelle;building site, roadworks
+Beamte, Beamtin; civil servant, official
+bedecken;to cover
+bedeckt;overcast
+bedeuten;to mean
+bedienen;to serve
+Bedienung;service, restaurant service
+befinden;to be situated
+befriedigend;satisfactory
+begegnen;to meet
+begießen;to water, to water plants
+beginnen;to begin, to start
+begleiten;to accompany
+begrüßen;to greet
+behalten;to keep
+behandeln;to treat
+behandeln;to treat
+Behandlung;treatment
+Behandlung;treatment
+behindert;disabled
+beide;both
+beilegen;to enclose
+Bein;leg
+Beispiel;example
+beißen;to bite
+Biss;bite
+bekannt;well known, well-known
+Bekannter;acquaintance
+beklagen; to complain
+bekommen;to receive
+beleuchten;to light up
+beliebt;popular
+Belohnung;reward
+bemerken;to notice
+Bemerken;to notice
+benehmen;to behave
+benutzen;to use
+Benzin;petrol
+beobachten;to watch, observe
+bequem;comfortable
+Berg;mountain
+Bericht;report
+Beruf;profession
+Berufsberatung;careers advice
+Berufsschule;technical college
+berühmt;famous
+beschädigen;to damage
+beschäftigt;busy
+beschließen;to decide
+beschreiben;to describe
+beschweren;to complain
+besetzt;occupied, occupied seat
+besitzen;to own
+besonders;particular, particularly
+besprechen;to discuss
+besser;better
+bessern;to improve
+Besserung;improvement, getting better
+bestätigen;to confirm
+Besteck;cutlery
+bestehen auf;to insist on
+bestehen aus;to consist of
+bestellen;to order
+abbestellen;to cancel
+bestimmt;definitely
+bestrafen;to punish
+besuchen;to visit
+Betriebspraktikum;work experience
+Betriebswirtschaft;business studies
+betrügen;to deceive
+betrunken;drunk
+Bett;bed
+Bettwäsche;bedlinen
+bevor;before
+bewegen;to move
+beweisen;to prove
+bewerben;to apply for a job
+Bewerbungsgespräch;job interview
+bewölkt;overcast
+bewundern;to admire
+bezahlen;to pay, to pay far
+Beziehung;relationship
+Büstenhalter;bra
+Bibliothek;library
+Biene;bee
+Biene;bee
+Bier;beer
+bieten, anbieten;to offer
+Bild;picture
+Bildschirm;screen
+Bildung;education
+billig;cheap
+Birne;pear, light bulb
+bitte;please
+blasen;to blow
+Blaskapelle;brass band
+Blatt;leaf, piece of paper
+blau;blue
+Blei;lead
+bleiben;to stay, remain
+Bleistift;pencil
+Blick;look, glance
+Blockflöte;recorder
+blöd, dumm;stupid
+Blume;flower
+Blumenhändler;florist
+Blumenkohl;cauliflower
+Bluse;blouse
+bluten;to bleed
+Blutprobe;blood test
+Bockwurst;boiled sausage
+Boden;ground
+Bohnen;beans
+Bonbons;sweets
+Boot;boat
+böse;angry
+Brand;fire
+Braten;joint, roast meat
+braten;to roast
+Bratkartoffeln;fried potatoes
+Bratpfanne;frying pan
+Bratwurst;sausage, fried sausage
+brauchen;to need
+Braut;bride
+Bräutigam;bridegroom
+brav;well behaved
+brechen;to break
+breit;wide
+Bremsen;brakes
+bremsen;to brake
+brennen;to burn
+Brett;notice board
+Brief;letter
+Brieffreund;pen friend, male pen friend
+Brieffreundin;pen friend, female pen friend
+Briefkasten;letter box
+Briefmarke;postage stamp
+Brieftasche;wallet
+Briefträger;postman
+Briefträgerin;postwoman
+Brille;glasses
+bringen;to bring
+Broschüre;brochure
+Brot;bread, loaf
+Brötchen;bread roll
+Brücke;bridge
+Bruder;brother
+Brust;chest
+Buch;book
+Bücherregal;book case
+Büchse;can
+Buchstabe;letter, letter of alphabet
+buchstabieren;to spell
+Bude;stall, stand, room
+bügeln;to iron
+Bügeleisen;iron
+Bühne;stage
+bunt;bright
+Burg;castle
+Bürgersteig;pavement
+Büro;office
+bürsten;to brush, to brush hair
+Bushaltestelle;bus stop
+Butterbrot;sandwich
+Campingplatz;camping, camp site, campsite
+Chef;boss, male boss
+Chefin;boss, female boss
+Chemie;chemistry
+Chips, Kartoffelschips;crisps
+Chirurg;surgeon, male surgeon
+Chirurgin;surgeon, female surgeon
+Chor;choir
+Cola;coke
+Computerspiel;computer game
+Cousin, Vetter, Kusine;cousin
+D-Zug;express train
+Dach;roof
+Dachboden;attic, loft
+damals;then, at that time
+Dame;lady
+damit;so that
+danke;thank you
+danken;to thank
+dann;then, at that time
+dass;that
+Datum;date
+dauern;to last
+Decke;blanket, ceiling
+decken;to lay, to lay a table
+Delikatessengeschäft;delicatessen
+denken;to think
+Diät;diet
+eine Diät halten;to be on a diet
+dick;fat, thick
+die Sehenswürdigkeiten besichtigen; to go sight-seeing
+Dieb;thief
+Diebstahl;theft
+dienen;to serve
+dies;this
+Ding;thing
+doch;yes, contradicting yes
+Dokumentarfilm;documentary
+Dom, Kathedrale;cathedral
+donnern;to thunder
+doof;stupid
+Doppelhaus;semi-detached house
+Doppelstunde;double period
+Dorf;village
+dort;drüben over there
+dort;there
+Dose;can, tin
+Dosenöffner;can opener, tin opener
+draußen;outside
+dringend;urgent
+drinnen;inside
+drogensüchtig;drug dependent
+Drogerie;chemists
+drohen;to threaten
+drücken;to press, push
+drucken;to print
+Drucker;printer
+dunkel;dark
+Durchfall;diarrhoea
+durchfallen;to fail, to fail an exam
+dürfen;to be allowed to, to may
+Durst;thirst
+durstig;thirsty
+Dusche;shower
+duschen;to have a shower
+Dutzend;a dozen
+duzen;to call du
+eben;just
+ebenso;just as
+echt;genuine
+Ecke;corner
+das ist mir egal;I don't care
+Ehe;marriage
+Ehefrau;wife
+Ehemann;husband
+Ehepaar;married couple
+ehemalig;former, previous
+ehrlich;honest
+Ei;egg
+eigen;own
+Eigenschaft;quality, characteristic
+eilen;to hurry
+Eimer;bucket
+einander;one another, each other
+Einbahnstraße;one way street
+Einbrecher;burglar
+Eindruck;impression
+einfach;easy
+Einfamilienhaus;detached house
+Eingang, Einfahrt;entrance
+einige;some, a few
+einkaufen;to shop, to go shopping
+Einkaufszentrum;shopping centre
+Einladung;invitation
+einladen;to invite
+einmal;once
+einreichen;to hand in
+einschlafen;to go to sleep
+einsteigen;to get on, to get in
+Eintopf;stew
+Eintritt;admission charge
+einverstanden;agreed
+einwerfen;to post, to post a letter
+Einwohner;inhabitant, male inhabitant
+Einwohnerin;inhabitant, female inhabitant
+Einzelkind;only child
+Eis;ice, ice cream
+Eisbahn;ice rink
+Eis laufen;to ice skate
+Eisen;iron
+Eisenbahnlinie;railway line
+Elektriker;electrician
+Elektroherd;electric cooker
+Ellbogen;elbow
+Eltern;parents
+Empfang;reception
+Empfangsdame;receptionist
+empfehlen;to recommend
+Ende;end, finish
+endlich, zuletzt;finally, at last
+Endspiel;final, sport final
+eng;narrow, tight
+Enkel;grandson
+Enkelin;granddaugter
+Enkelkind;grandchild
+Ente;duck
+entfernt;away, distant
+enthalten;to contain
+entkommen;to escape
+entscheiden;to decide
+entschuldigen Sie;excuse me
+sich entschuldigen;to apologise
+Entschuldigung;sorry
+entspannen;to relax
+enttäuschen;to disappoint
+enttäuscht;disappointed
+entwerten;to cancel, stamp a ticket
+erbrechen;to be sick
+Erbsen;peas
+Erdbeere;strawberry
+Erde;earth
+Erdgeschoss;ground floor
+Erdkunde;geography
+Ereignis;event
+Erfolg;success
+Erfrischungen;refreshments
+Ergebnis;result, score
+erhalten;to receive
+erholen;to recover, get better
+erinnern;to remind, to remember
+Erkältung;a cold, cold
+erkennen;to recognise
+erklären;to explain
+erlauben;to allow, permit
+Erleichterung;relief
+Ermässigung;discount
+ernst;serious
+erreichen;to reach, catch
+erscheinen;to appear
+erste;Hilfe first aid
+ertrinken;to drown
+Erwachsene;adult
+erzählen;to tell, to recount
+Erzählung;story
+es gibt;there is, there are
+es macht nichts; it doesn't matter
+Essen;meal, food
+essen;to eat
+Essig;vinegar
+Esszimmer;dining room
+Etagenbett;bunk bed
+Etui;pencil case
+etwas;something
+Fabrik;factory
+Fach;subject
+Wahlfach;option
+Fähre;ferry
+fahren;to go, drive
+Fahrer;driver, male driver
+Fahrerin;driver, female driver
+Fahrgast, Passagier;passenger
+Fahrgeld;fare
+Fahrkarte;ticket
+Fahrkartenschalter;ticket office
+Fahrplan;timetable, train timetable, bus timetable
+Rad bicycle
+Fahrt;journey, short journey
+Fahrzeug;vehicle
+fallen;to fall
+falsch;wrong
+falten;to fold
+Familie;family
+Familienname;surname
+fangen;to catch
+Farbe;colour, paint
+Faschingsdienstag;Shrove Tuesday
+fast;almost
+faulenzen;to laze about
+fehlen;to be missing
+Fehler;mistake
+Feierabend;end of work day
+feiern;to celebrate
+Feiertag;public holiday
+Feld;field
+Fenster;window
+Fensterladen;shutter
+Ferien;holiday
+Fernbedienung;remote control
+Fernbedienung;remote control
+fernsehen;to watch TV
+Fernseher;TV set
+fertig;ready, finished
+Fest;festival, party
+Festtag;public holiday
+Fett;fat, grease
+feucht;humid
+Feuer;fire
+Feuerwerk;fireworks
+Feuerwehr;fire brigade
+Feuerwehrmann;fireman
+Feuerwehrfrau;firewoman
+Fieber;fever, a temperature
+Filzstift;felt tip pen
+finden;to find
+Firma, Betrieb; firm, company
+flach;flat
+Flamme;flame
+Flasche;bottle
+Flaschencontainer;bottle bank
+Fleck;stain, spot
+Fleisch;meat
+fleißig;hard working
+Fliege;fly
+fliegen;to fly
+fließen;to flow
+fließend;fluently
+Flöte, Querflöte;flute
+Flug;flight
+Flughafen;airport
+Flugzeug;plane
+Flur;hall
+Fluss;river
+Folge;consequence
+folgen;to follow
+Forelle;trout
+Formular;form
+Fortschritt;progress
+Fotoapparat;camera
+Frage;question
+eine Frage stellen;to ask a question
+fragen;to ask
+Frau;Mrs, woman
+frech;cheeky
+frei;free
+Freibad;swimming pool, open air swimming pool
+Freizeit;free time,leisure
+Freizeitbeschäftigung;activity
+Fremdenführer;tour guide
+Fremdsprache;language, foreign language
+fressen;to eat, to eat animals
+Freude;joy
+freuen auf; to look forward to
+freuen über; to be pleased about
+freundlich;friendly
+Freundschaft;friendship
+frieren;to freeze
+Frikadelle;meatball
+frisch;fresh
+Frisör, Friseuse; hairdresser
+fröhliche;Weihnachten Happy Christmas
+Fruchtsaft;fruit juice
+früh;early
+früher;previously
+Frühstück;breakfast
+fühlen;to feel
+führen;to lead
+Führerschein;driving licence
+Führung;guided tour
+füllen;to fill
+Füller;fountain pen
+Fundbüro;lost property office
+funktionieren;to work, to function
+furchtbar;awful
+Fuß;foot
+zu Fuß gehen;go on foot
+Fußball;football
+Fußboden;floor
+Fußgänger;pedestrian
+Fußgängerzone;pedestrian area
+Fußgelenk;ankle
+füttern;to feed, to feed pets
+Gabel;fork
+Gang;corridor, gear
+Gans;goose
+Ganztagsstelle;full time job
+gar nicht;not at all
+Garderobe;cloakroom, theatre cloakroom
+Gardine;curtain
+Garten;garden
+Gasherd;gas cooker
+Gast;guest
+Gastgeber;host
+Gasthaus, Gasthof; pub
+Gaststätte;restaurant, pub
+Gebäude;building
+geben;to give
+es gibt;there is
+Gebiet;region, area
+Gebirge;mountain range
+geboren;born
+gebrauchen;to use
+Gebrauchsanweisung;instructions for use
+Gebühr;fee
+gebührenfrei, gratis; free
+Geburts;birth
+Geburtstag;birthday
+Geburtsort;birthplace
+Gedächtnis;memory
+geduldig;patient
+Gefahr;danger
+gefährlich;dangerous
+gefallen;to like
+Gefängnis;prison
+Geflügel;poultry
+Gefühl;feeling
+Gegend;district
+Gegenteil;opposite
+Gehalt;salary, pay
+gehen;to go, walk
+Gehirn;brain
+gehören;to belong to
+Geige;violin
+gelb;yellow
+Geld;money
+Geldtasche;purse
+Geldstrafe;fine, financial penalty
+Gelegenheit;opportunity, chance
+gelingen;to succeed
+Gemälde;painting
+gemischt;mixed
+Gemüse;vegetables
+Gemüsehändler;greengrocer's, greengrocer, greengrocers
+gemütlich;cosy, cheery
+genau;exactly
+genießen;to enjoy
+genug;enough
+genügen;to suffice
+Gepäck;luggage
+geradeaus;straight ahead
+Gerät;implement, equipment
+Geräusch;sound, quiet noise
+Gericht;dish, course
+gern;glad, gladly
+Geruch;smell
+Gesamtschule;comprehensive school
+Geschäft;shop
+Geschäftsmann;businessman
+Geschäftsfrau;businesswoman
+geschehen;to happen
+Geschenk;present
+Geschichte;history
+geschieden;divorced
+Geschirr;crockery
+Geschirrtuch;tea towel
+Geschlecht;sex, gender
+geschlossen;closed
+Geschmack;taste
+Geschwindigkeits;speed
+Geschwister;brothers and sisters
+geschwollen;swollen
+Gesetz;law
+Gesicht;face
+Gespräch;conversation
+gestattet;permitted
+gestern;yesterday
+gesund;healthy
+Gesundheit;health
+Getränk;drink
+getrennt;separated, separate, separately
+Gewicht;weight
+gewinnen;to win
+Gewitter;thunderstorm
+Gewohnheit;custom, habit
+gewöhnlich;usually
+Gewürz;spice
+gießen;to pour
+Gipfel;summit
+Gips;plaster
+Gitarre;guitar
+Glas;jar, pot
+glatt;smooth, straight
+Glatteis;black ice
+Glatze;bald patch
+glauben;to think, believe
+gleich;immediately
+Gleis;platform, line
+globale;Erwärmung global warming
+glücklich;happy
+Glück;good luck
+Gott;God
+Grad;degree
+gratulieren;to congratulate
+grau;grey
+Grenze;border
+Griff;handle
+grillen;to grill, barbecue
+Grippe;flu
+Größe;size, height
+groß;tall
+Großstadt;city
+Großvater;grandfather
+Großeltern;grandparents
+Großmutter;grandmother
+grün;green
+Grund;ground, reason
+Grundschule;primary school
+Gruppe;group
+Gruss;greeting
+gültig;valid
+Gummi;rubber
+günstig;favourable
+Gurke;cucumber
+Gürtel;belt
+gut;good
+guten;Tag hello
+gütig;kind
+Gymnasium;grammar school
+Haarbürste;hairbrush
+Haare;hair
+haben;to have
+Hafen;harbour
+Hagel;hail
+hageln;to hail
+halb;half
+Hälfte;a half
+Hallenbad;indoor swimming pool
+Hals;neck, throat
+Halskette;necklace
+Halsschmerzen;sore throat
+halten;to hold, to stop, to stop moving
+Handgelenk;wrist
+Händler;shopkeeper, male shopkeeper
+Händlerin;shopkeeper, female shopkeeper
+Handschuh;glove
+Handtasche;handbag
+Handy;mobile phone
+Hansaplast;sticking plaster
+Hase;hare
+hassen;to hate
+hässlich;ugly
+häufig;frequently
+Hauptbahnhof;main station 
+Hauptstraße;main road
+Hauptschule;secondary modern school
+Hauptstadt;capital
+Hauptverkehrszeit;rush hour
+Haus;home
+Hause;home
+zu Hause;at home
+nach Hause;going home
+Hausmeister;caretaker, male caretaker
+Hausmeisterin;caretaker, female caretaker
+Haustür;front door
+Hauswirtschaftslehre;home economics
+Haut;skin
+heben;to lift, raise
+Hecke;hedge
+Heft;exercise book
+Heftpflaster;sticking plaster
+Heiligabend;Christmas Eve
+Heimat;home
+Heimweh;homesickness
+heiraten;to marry
+heiß;hot
+heißen;to be called
+heiter;bright, bright weather
+heizen;to heat
+Heizkörper;radiator
+Heizung;heating
+helfen;to help
+hell;pale
+Helm;helmet
+Hemd;shirt
+herausfinden;to find out, learn
+Herbergseltern;wardens, youth hostel wardens
+Herr;mr, gentleman
+Herr Ober! waiter!
+herrlich;splendid, wonderful
+herunterladen;to download
+Herz;heart
+Heuschnupfen;hay fever
+heute;today
+heutzutage;nowadays
+hier;here
+Higher;
+hilfsbereit, hilfreich; helpful
+Himbeere;raspberry
+Himmel;sky
+hinlegen; to lie down
+hinsetzen; to sit down
+hinten;at the back
+hinter;behind
+Hitze;heat
+hoch;high
+hochachtungsvoll;yours faithfully
+Hochschulabschluß;degree, university degree
+höchstens;at most
+Hochzeit;wedding
+hoffen;to hope
+höflich;polite
+Höhe;height
+Höhle;cave
+holen;to fetch
+Holz;wood
+Honig;honey
+hören;to hear
+Hörer;receiver, telephone receiver
+Hose;trousers
+hübsch;pretty
+Hubschrauber;helicopter
+Hügel;hill
+Hund;dog
+hupen;to hoot
+Husten;cough
+husten;to cough
+Hustensaft;cough mixture
+Hut;hat
+Hütte;shed, hut
+Idee;idea
+Illustrierte;magazine
+im Freien;open air, in the open air
+im voraus;in advance
+Imbiss;snack
+inbegriffen;included
+Ingenieur;engineer, male engineer
+Ingenieurin;engineer, female engineer
+Insel;island
+insgesamt;altogether
+interessant;interesting
+Internat;boarding school
+irgendwo;somewhere, somwhere or other
+irren;to be wrong
+ja;yes
+Jacke;jacket
+jagen;to hunt
+Jahr;year
+Jahreszeit;season
+Jahrhundert;century
+jährlich;annually
+jeder;each, every, everybody
+jemand;someone, somebody
+jener;that
+jetzt;now
+joggen;to jog
+Jugendherberge;youth hostel
+Jugendklub;youth club
+jung;young
+Junge;boy
+Jura;law
+Juwelier;jeweller
+Kabel;cable, wiring
+Kaffee;coffee
+Käfig;cage
+Kalbfleisch;veal
+kalt;cold
+Kamin;fireplace, hearth
+Kamm;comb
+kämmen;to comb, to comb hair
+Kanal;canal, channel
+Kaninchen;rabbit
+Kännchen;small pot
+Kantine;canteen
+Kanufahren;canoeing
+Kapelle;chapel
+kaputt;broken
+Karneval;carnival
+Karotte;carrot
+Karte;card, playing card, greetings card
+Kartoffel;potato
+Kartoffelsalat;potato salad
+Karton;cardboard box
+Käse;cheese
+Kasse;till, cash desk
+Kassierer;cashier, male cashier
+Kassiererin;cashier, female cashier
+Katze;cat
+kaufen;to buy
+Kaufhaus;department store
+Kaugummi;chewing gum
+kaum;hardly, scarcely
+kegeln;to play skittles
+kehren;to sweep
+kein;no, not any
+Kekse;biscuits
+Keller;cellar
+Kellner;waiter
+Kellnerin;waitress
+Kennzeichen;registration number
+Kerze;candle
+Kind;child
+Kindheit;childhood
+Kindergarten;nursery school
+Kinn;chin
+Kino;cinema
+Kirche;church
+Kirsche;cherry
+Kissen;cushion
+klagen;to complain
+Klappstuhl;folding chair
+Klapptisch;folding table
+klar;clear
+Klarinette;clarinet
+Klasse;class
+Klassenarbeit;test, assessment
+Klassenkamarad;classmate, male classmate
+Klassenkamaradin;classmate, female classmate
+Klassenzimmer;classroom
+Klavier;piano
+kleben;to stick
+Kleid;dress
+Kleider, Kleidung;clothes, clothing
+Kleiderschrank;wardrobe
+klein;small, short
+Kleingeld;change, small change
+Klempner;plumber, male plumber
+Klempnerin;plumber, female plumber
+klettern;to climb
+Klima;climate
+Klimaanlage;air conditioning
+Klingel;bell, doorbell
+Klippe;cliff
+Klo;loo
+klopfen;to knock
+klug;clever
+Kneipe;pub
+Knie;knee
+Knochen;bone
+Knopf;button
+kochen;to cook
+Koffer;suitcase
+Kofferraum;boot, car boot
+Kohl;cabbage
+Kohle;coal
+komisch;funny
+kommen;to come
+Kommode;chest of drawers
+Komödie;comedy
+kompliziert;complicated
+Konditorei;cake, sweet shop
+König;king
+Königin;queen
+können;to be able to, can
+Kontaktlinsen;contact lenses
+Konto;account, bank account
+Konzert;concert
+Kopf;head
+Kopfhörer;headphones
+Kopfsalat;lettuce
+Kopfschmerzen;headache
+Korb;basket
+Körper;body
+korrigieren;to correct, mark
+kosten;to cost
+kostenlos;free, without cost
+Kostüm;suit, womens suit, women's suit
+Kotelett;chop, cutlet
+Kraftwerk;power station
+krank;ill
+Krankheit;illness
+Krankenhaus;hospital
+Krankenpfleger;nurse, male nurse
+Krankenschwester;nurse, female nurse
+Krankenwagen;ambulance
+Krawatte, Schlips; tie
+Kreditkarte;credit card
+Kreis;circle
+Kreisverkehr;roundabout
+Kreuzung;crossroads
+kriegen;to get
+Krimi;crime story, crime thriller
+Krug;jug
+Küche;kitchen
+Kuchen;cake
+Kugelschreiber, Kuli; biro, ball point pen
+Kuh;cow
+kühl;cool
+Kühlschrank;fridge
+Kunst;art
+Kunstgalerie;art gallery
+Künstler;artist, male artist
+Künstlerin;artist, female artist
+Kunststoff;plastic
+Kurs;exchange rate
+Kurve;bend
+kurz;short
+Kuss;kiss
+Küste;coast
+Labor;laboratory
+lächeln;to smile
+lachen;to laugh
+lächerlich;ridiculous
+Lachs;salmon
+Laden;shop
+Lage;situation
+Lagerfeuer;camp fire
+Lamm;lamb
+Lampe;lamp
+Land;country
+Landkarte;map
+Landschaft;countryside, scenery
+langsam;slow
+langweilig;boring
+Lärm;noise, loud noise
+lassen;to let, to leave, to leave something
+Lastwagen;lorry
+laufen;to run
+laut;noisy, loud
+lauwarm;lukewarm
+Leben;life
+leben;to live
+Lebenslauf;CV
+Lebensmittel;food, groceries
+Leber;liver
+lebhaft;lively
+lecker;delicious
+Leder;leather
+ledig;single, unmarried
+leer;empty
+leeren;to empty
+legen;to put, to lay
+lehren;to teach
+Lehrer;teacher, male teacher
+Lehrerin;teacher, female teacher
+Lehrling;apprentice
+leicht;light, lightweight, easy
+Leichtathletik;athletics
+leiden;to suffer
+leider;unfortunately
+leihen;to lend
+leisten;to achieve
+Leistung;achievement
+Leiter;ladder
+Leiter;manager, leader
+Leitung;cable, wiring, pipes
+Lenkrad;steering wheel
+lernen;to learn
+Lesen;reading
+lesen;to read
+letzt;last, final
+Leute, Menschen;people
+Licht;light
+Liebe;love
+lieben;to love
+Lied;song
+liefern;to deliver
+Lieferwagen;van, delivery van
+liegen;to lie, to be lying down
+Liga;league
+lila;purple
+Limonade;lemonade
+Lineal;ruler
+Linie;line, bus route
+links;left, on the left side
+Lippe;lip
+Lippenstift;lipstick
+loben;to praise
+Loch;hole
+lockig;curly
+Löffel;spoon
+Lohn;wages
+lohnen;to be worthwhile
+löschen;to extinguish, put out
+lösen;to solve
+Löwe;lion
+Luft;air
+Luftdruck;tyre pressure
+lügen;to lie
+Lust;haben to feel like, to feel like doing something
+lustig;funny
+Luxus;luxury
+machen;to do, make
+Mädchen;girl
+Magen;stomach
+Magenschmerzen;stomach ache
+Magenverstimmung;stomach upset
+mähen;to mow
+Mahlzeit;enjoy your meal
+malen;to paint
+manchmal;sometime, sometimes
+mangelhaft;poor
+männlich;male
+Mannschaft;team
+Mantel;coat
+Marke;make, make of car
+Markt;market
+Marktplatz;marketplace, market place
+Marmelade;jam
+mäßig;moderate
+Mathe;maths
+Matrose, Seemann; sailor
+Mauer;wall, exterior wall
+Maurer;builder
+Mechaniker;mechanic, male mechanic
+Mechanikerin;mechanic, female mechanic
+Medien, Massenmedien; media
+Medikament;medicine
+Meer;sea
+Meerschweinchen;guinea pig
+mehr;more
+mehrere;several
+meinen;to mean, think
+Meinung;opinion
+Meister;champion
+Meisterschaft;championship
+Menge;quantity
+Menschenmenge;crowd
+merkwürdig;funny, strange
+Messe;mass, church mass
+messen;to measure
+Messer;knife
+Metall;metal
+Metzger;butcher
+Miete;rent
+mieten;to rent, hire
+Mikrowellenherd;microwave
+Milch;milk
+Missverständnis;misunderstanding
+mit;freundlichen Grüßen yours sincerely
+Mitglied;member
+mitnehmen;to take, to take with you
+Mittag;midday
+Mittagessen;lunch, midday meal
+Mitte;middle
+mittelgroß, mittellang; medium, average, average height, average length
+Mitternacht;midnight
+Möbel;furniture
+möbliert;furnished
+Mode;fashion
+modisch;fashionable
+Modegeschäft;clothes shop
+Moderator;TV presenter
+Mofa;moped
+mögen;to like, to like to
+möglich;possible
+Monat;month
+monatlich;monthly
+Mond;moon
+Mord;murder
+Morgen;morning
+morgen;tomorrow
+Motorrad;motorbike
+müde; tired
+ermüdend;tiring
+Müll;rubbish, waste
+Mülltonne;dustbin
+Mund;mouth
+mündlich;oral
+Münze;coin
+Musik;music
+Musiker;musician, male musician
+Musikerin;musician, female musician
+musizieren;to play music
+müssen;to have to, to must
+Mutter;mother
+Mütze;cap
+Nachbar;neighbour, male neighbour
+Nachbarin;neighbour, female neighbour
+nachdem;after
+nachdenken;to think over, reflect
+nachher;afterwards
+Nachmittag;afternoon
+Nachrichten;news
+nachsitzen;müssen to be kept in
+nächst;following, next
+Nacht;night
+Nachthemd;nightdress
+Nachteil;disadvantage
+Nachtisch;dessert
+nackt;naked
+Nase;nose
+nass;wet
+natürlich;of course
+Naturwissenschaften;science
+Nebel;fog, mist
+nebelig;foggy, misty
+Neffe;nephew
+nehmen;to take
+nein;no
+nennen;to name
+nervös;nervous
+nett;nice
+Netz;net
+neu;new
+neugierig;curious, inquisitive
+neulich;recently
+nicht;mehr no longer
+nicht;not
+Nichte;niece
+nichts;nothing
+nie;never
+Niederschlag;precipitation
+niedrig, tief;low
+niemand;no one, nobody
+noch;nicht not yet
+noch;still, even now
+Norden;north
+Not;emergency
+Note;mark
+nötig;necessary
+Notizbuch;note book
+notwendig;necessary
+Nudeln;pasta, noodles
+Nummer;number
+nur;only
+Nuss;nut
+Erdnuss;peanut
+nützlich;useful
+nutzlos;useless
+ob;whether
+oben;at the top, upstairs
+Oberstufe;sixth form
+obgleich, obwohl; although
+Obst;fruit
+oder;or
+offen;open
+öffentlich;public
+öffnen;to open
+oft;often
+ohne;without
+Ohr;ear
+Ohrringe;earrings
+Öl;oil
+Onkel;uncle
+Opa, Oma;grandad, granny
+Oper;opera
+Operation;operation, medical operation
+Orangenmarmelade;marmelade
+ordentlich;tidy
+organisieren;to organise
+Ort;place
+Osten;east
+Ostern;Easter
+Pampelmuse;grapefruit
+Panne;breakdown
+Parfüm;perfume
+Parkett;stalls, theatre stalls
+Parkhaus;multi-storey car park
+Parkplatz;car park, parking space
+Partei;party, political party
+Pass, Reisepass;passport
+passieren;to happen
+Patient;patient, male patient
+Patientin;patient, female patient
+Pause;break
+Mittagspause;lunch
+Pech;luck, bad luck
+in Pension gehen;to retire
+Pension;boarding house
+Vollpension;full board
+Personal;staff
+Personalausweis;identity card
+Persönlichkeit;personality
+Pfeffer;pepper
+Pfeil;arrow
+Pferd;horse
+Pfirsich;peach
+Pflanze;plant
+Pflaume;plum
+pflegen;to look after, to look after a patient
+Pflichtfach;compulsory subject
+Pfund;pound, pound sterling, pound weight
+Physik;physics
+pikant;spicy
+Pilz;mushroom
+Platz;seat, room, square, court, pitch
+plaudern;to chat
+plötzlich;suddenly
+Pokal;cup, trophy
+Polizei;police
+Polizeiwache;police station
+Polizist;policeman
+Polizistin;policewoman
+Portemonnaie;purse
+Portion;helping, portion
+Postleitzahl;post code
+Pralinen;chocolates
+Preis;price, prize
+preiswert;cheap, value for money
+prima;great, cool
+Privatschule;private school
+pro;per
+probieren;to try
+Programmierer;computer programmer, male computer programmer
+Programmiererin;computer programmer, female computer programmer
+Prospekt;leaflet
+Prost;Cheers
+Prozent;per cent, percent
+prüfen;to test, to examine, to check
+Prüfung, Examen;examination
+Pulli;pullover
+Punkt;point, place, score, idea, full stop
+pünktlich;punctual, on time
+Puppe;doll
+putzen;to clean
+Quadratmeter;square metre
+qualifiziert;qualified
+Qualität;quality
+Quatsch;nonsense
+Quittung;receipt
+Quizsendung;quiz show
+Rad;wheel
+Radfahren;cycling
+radfahren;to cycle
+Radfahrer;cyclist, male cyclist
+Radfahrerin;cyclist, female cyclist
+Radiergummi;rubber, eraser
+Rand;edge
+Rang;circle, theatre circle
+Rasen;lawn
+Rasierapparat;shaver
+Raststätte;motorway services
+Rat;advice, council
+raten;to advise, guess
+Rathaus;town hall
+Rauch;smoke
+rauchen;to smoke
+Realschule;secondary technical school
+rechnen;to calculate
+Rechnung;bill, restaurant bill
+Recht;haben to be right
+rechts;right, on the right
+Rechtsanwalt;lawyer, male lawyer
+Rechtsanwältin;lawyer, female lawyer
+recyceln;to recycle
+Rede;speech
+reden;to talk
+reduzieren;to reduce
+Regal;shelf
+Regel;rule
+Regen;rain
+Regenmantel;raincoat
+Regenschirm;umbrella
+Regierung;government
+regnen;to rain
+regnerisch;rainy
+reich;rich
+reichen;to pass
+Reifen;tyre
+Reifenpanne;puncture
+Reihe;row, row of seats
+Reihenhaus;terraced house
+Reinigung;dry cleaning
+Reise;journey, longer journey
+Reisebüro;travel agent's
+Reisebus;coach
+Reiseführer;tourist guide
+reisen;to travel
+Reiseziel;destination
+reißen;to tear
+Reißverschluss;zip
+Reiten;horse riding
+Reklame;advert
+Rennen;race
+rennen;to run
+Rente;pension
+Reparatur;repair
+reparieren;to repair
+reservieren;to reserve
+Retten;to save, rescue
+Rettung;rescue
+Rezept;prescription, recipe
+richtig;right, correct
+Richtung;direction
+riechen;to smell, to smell something
+Riegel;bar, chocolate bar
+Rindfleisch;beef
+Risiko;risk
+Rock;skirt
+Rollbrett;skateboard
+Roller;scooter
+Rollschuh;laufen to roller skate
+Rollstuhl;wheelchair
+Rolltreppe;escalator
+Roman;novel
+Röntgenbild;xray, x ray
+rosa;pink
+Rosenkohl;brussel sprouts
+rot;red
+Rowdy;lout, hooligan
+Rücken;back
+Rückfahrt;return journey
+rücksichtslos;careless
+Rückspiegel;rear-view mirror, rearview mirror
+Ruderboot;rowing boat
+rudern;to row
+rufen;to call, shout
+ruhig;quiet
+Ruhe;rest, quiet
+rund;round, round shaped
+Rundfunk;radio
+Rundgang, Rundfahrt; guided tour
+S-Bahn;suburban railway
+Saal, Halle; hall, concert hall
+Sache;thing
+Saft;juice
+sagen;to say, tell
+Salbe;cream, ointment
+Salz;salt
+Salzkartoffeln;boiled potatoes
+sammeln;to collect
+Sand;sand
+Sandburg;sandcastle
+sanft;gentle
+sanft;soft, gentle
+Sänger;singer, male singer
+Sängerin;singer, female singer
+satt;full up, fed up
+sauber;clean
+Sauerkraut;pickled cabbage
+Schach;chess
+Schachtel;box
+Schaden;damage
+schaden;to do harm
+Schaf;sheep
+schaffen;to suceed, achieve
+Schal;scarf
+schälen;to peel
+schämen;to be ashamed
+scharf;sharp
+Schaschlick;kebab
+Schatten;shade
+Schauer;shower, shower weather
+Schaufensterbummel;window shopping
+Schauspieler;actor
+Schauspielerin;actor, actress
+Scheckheft;cheque book
+Scheibe;slice
+Schein;note, banknote
+scheinen;to shine
+Scheinwerfer;headlight
+schenken;to give, to give a present
+Schere;scissors
+schick;smart
+schicken;to send
+schieben;to push
+Schiedsrichter;referee
+schießen;to shoot
+Schiff;ship
+Schild;sign
+Straßenschild;road sign, street sign
+Schildkröte;tortoise
+Schinken;ham
+Schlafanzug;pyjamas
+schlafen;to sleep
+Schlafsack;sleeping bag
+Schlafzimmer;bedroom
+schlagen;to hit
+Schläger;racquet, stick, bat
+Schlagsahne;whipped cream
+Schlagzeug;drums, percussion
+Schlange;snake
+Schlangestehen;to queue
+schlank;slim
+schlecht;bad
+schließen;to close
+abschließen;to lock
+Schließfach;locker
+schließlich;finally
+schlimm;bad
+Schlittschuhlaufen;to ice skate
+Schloss;castle
+Schloss;lock, door lock
+schlucken;to swallow
+Schlüssel;key
+Schlüsselbund;key ring
+Schlussverkauf;sale
+schmecken;to taste
+Schmerzen;pain
+schmerzhaft;painful
+schminken;to put on make-up, to put on makeup
+Schmuck;jewellery
+schmücken;to decorate
+schmutzig;dirty
+Schnaps;schnaps, spirits
+Schnee;snow
+schneiden;to cut
+schneien;to snow
+schnell;quick
+Schnellimbiss;fast food restaurant
+Schnitzel;escalope, schnitzel
+Schnupfen;cold
+Schokolade;chocolate, chocolate drink
+schon;already
+schön;beautiful, fine, fine weather
+Schornstein;chimney
+Schrank;cupboard
+schrecklich;terrible
+schreiben;to write
+Schreibpapier;writing paper
+schreien;to shout, to scream
+schriftlich;in writing
+Schublade;drawer
+schüchtern;shy
+Schuhe;shoes
+schulden;to owe
+schuldig;guilty, owing
+Schuldirektor;head teacher, male head teacher
+Schuldirektorin;head teacher, female head teacher
+Schule;school
+Schüleraustausch;school exchange
+Schulhof;school playground
+Schulstunde;lesson
+Schulter;shoulder
+Schulzeugnis;school report
+Schuppen;shed
+Schüssel;bowl
+schützen;to protect
+schwach;weak, poor
+Schwager;brother-in-law
+Schwägerin;sister-in-law
+schwanger;pregnant
+schwarz;black
+schwarze;Johannisbeere blackcurrant
+schweigen;to be silent, to say nothing
+Schweinefleisch;pork
+schwer;hard, difficult
+Schwester;sister
+Schwiegermutter;mother-in-law
+Schwiegervater;father-in-law
+schwierig;difficult
+Schwimmbad;swimming pool
+schwimmen;to swim
+an der See;at the seaside, at the sea-side
+seekrank;seasick
+segeln;to sail
+sehen;to see
+sehr;very
+Seide;silk
+Seife;soap
+Seifenoper;soap opera
+sein;to be
+seitdem;since
+Seite;page, side
+Sekretär;secretary, male secretary
+Sekretärin;secretary, female secretary
+Sekunde;second
+selbe;same
+selbständig;independently
+Selbstbedienung;self-service, self service
+seltsam;odd, strange
+Sendung;programme, TV programme
+Senf;mustard
+Senioren;senior citizens
+Serie;series, TV series
+Sessel;armchair
+sich langweilen; to be bored
+sich rasieren; to shave
+sich sonnen; to sunbathe
+sicher;certain, sure, certainly, surely
+Sicherheit;safety
+Sicherheitsgurt;seatbelt
+Sieg;win, victory
+silber;silver
+Silvester;New Year's Eve
+singen;to sing
+Sitten;customs, traditions
+sitzen;to sit
+sich setzen;to sit down
+Ski;fahren to ski
+Skilehrer;ski instructor, male ski instructor
+Skilehrerin;ski instructor, female ski instructor
+Slip;panties
+sobald;as soon as
+Socke;sock
+Sofa;sofa, settee
+sofort;immediately
+sogar;even
+Sohn;son
+Soldat;soldier
+Sonderangebot;special offer
+Sonne;sun
+Sonnenbrand;sunburn
+Sonnencreme;sun cream, sun lotion
+Sonnenstich;sun stroke
+sonnig;sunny
+sonst;otherwise
+Sorge;worry
+sich Sorgen machen;to worry
+sorgen;für to look after
+Soße;gravy, sauce
+Sozialkunde;social science
+Sozialwohnung;council house
+spannend;exciting
+sparen;to save
+Spargel;asparagus
+Sparkasse;savings bank
+Spaß;fun
+spät;late
+spazierengehen;to go for a walk
+Spaziergang;walk
+Speck;bacon
+Speisekarte;menu
+Speisewagen;dining car
+Spiegelei;fried egg
+Spiel;game, match
+Spielfilm;feature film
+spielen;to play, to play music, to play sport, to play sports, to play cards
+Spieler;player
+Spielzeug;toy, toys
+Spinat;spinach
+Sport;treiben to do sport
+Sportplatz;sports ground, school field
+sprechen;to speak
+Sprechstunde;surgery hours
+springen;to jump
+Spritze;injection
+Sprudel;pop, fizzy drink
+Spülbecken;sink
+spülen;to wash up
+Spülküche;utility room
+Spülmaschine;dishwasher
+Stadion;stadium
+Stadt;town
+Partnerstadt;twin town
+Stadtrundfahrt;town tour
+Stahl;steel
+stark;strong
+starten;to take off, for a plane to take off
+statt;instead of
+Stau;hold up, traffic jam, holdup
+stechen;to sting
+stecken;to put, to put inside something
+stehen;to stand
+stehlen;to steal
+steigen;to climb
+Stein;stone
+Stelle;place, job
+stellen;to put, to place
+Steppdecke;duvet
+sterben;to die
+Stereoanlage;stereo system
+Steuerrad;steering wheel
+Stich;sting
+Stiefel;boot
+Stiefmutter;stepmother
+Stiefvater;stepfather
+Stift;something to write with
+Stimme;voice
+Stimmung;atmosphere
+Stoff;material
+stören;to disturb, interrupt
+Strand;beach
+Straße;street, road
+Straßenbahn;tram
+Streichhölzer;matches
+Streit;argument, quarrel
+streng;strict
+Strom;electricity
+Strumpfhose;tights
+Stück;piece, piece of paper, piece of cake
+Student;student, male student
+Studentin;student, female student
+studieren;to study
+Stufe;step, stair
+Stuhl;chair
+stumm;silent, mute
+Stunde;hour
+Stundenplan;timetable, school timetable
+Sturm;storm
+stürmisch;stormy
+suchen;to look for
+Süden;south
+Supermarkt;supermarket
+Suppe;soup
+Surfbrett;surfboard
+süß;sweet
+Süßigkeiten;sweets
+sympathisch;nice
+Tablett;tray
+Tablette;tablet, pill
+Tafel;board, blackboard, whiteboard
+Tag;day
+Tagebuch;diary
+Tageskarte;menu, dish, dish of the day
+Tagesschau;TV evening news
+täglich;daily
+Tal;valley
+tanken;to fill up with petrol
+Tankstelle;petrol station
+Tante;aunt
+Tanz;dance
+tanzen;to dance
+Tapete;wallpaper
+Tasche;pocket, bagage
+Einkaufstasche;shopping bag
+Taschenbuch;paperback
+Taschengeld;pocket money
+Taschenlampe;torch
+Taschenmesser;pocket knife, pen knife
+Taschenrechner;calculator
+Taschentuch;handkerchief
+Tasse;cup
+Tastatur;keyboard, computer keyboard
+taub;deaf
+tauchen;to dive
+Technologie;CDT
+Tee;tea
+Teekanne;teapot, tea pot
+Teil;part
+teilen;to share
+teilnehmen;to take part
+Teilzeitarbeit;part time work
+Telefonbuch;telephone directory
+Telefonzelle;telephone box
+Teller;plate
+Teppich;carpet
+Teppichboden;fitted carpet
+Terasse;terrace, patio
+Termin;appointment
+teuer;expensive, dear
+Theater;theatre
+Theaterstück;play, theatre play
+Theke;counter
+tief;deep
+Tiefkühltruhe;freezer
+Tier;animal
+Haustier;pet
+Tierarzt;vet, male vet
+Tierärztin;vet, female vet
+tippen;to type
+tippen;to type
+Tisch;table
+Tischtuch;tablecloth
+Toastbrot;toast
+Tochter;daughter
+Tod;death
+Toilettenpapier;toilet paper
+toll;great, cool
+Topf;saucepan
+Tor;gate, goal
+ein Tor schießen;to score a goal
+tot;dead
+töten;to kill
+tragen;to carry, wear
+Tragödie;tragedy
+Trainingsanzug;tracksuit
+Traube;grape
+Traum;dream
+träumen;to dream
+traurig;sad
+treffen;to meet, to intentionally meet
+Treffpunkt;meeting place
+Treibhauseffekt;greenhouse effect
+Treppe;stairs
+trinken;to drink
+Trinkgeld;tip, restaurant tip
+trocken;dry
+trocknen;to dry
+Trompete;trumpet
+Tropfen;drop, drop of water
+Truthahn;turkey
+Tuch;cloth
+tun;to do
+Tür;door
+Turnhalle;gymnasium
+Turnier;tournament
+Turnschuhe;trainers
+Tüte;bag
+üben;to practise
+überall;everywhere
+überfahren;to run over
+übergeben;to be sick
+überholen;to overtake
+übermorgen;day after tomorrow
+übernachten;to stay the night
+überqueren;to cross, to cross a road, to cross the road
+überraschen;to surprise
+überschwemmen;to flood
+übersetzen;to translate
+Übersetzung;translation
+Flussufer;river bank
+Uhr;clock, watch, o'clock
+Umfrage;survey
+umgeben;von surrounded by
+Umkleideraum;changing room
+Umleitung;diversion
+Umschlag;envelope
+umsonst;in vain, free
+umsteigen;to change, to change trains
+umtauschen;to exchange
+Umwelt;environment
+und;and
+unentschieden;undecided, drawn
+Unfall;accident
+Universität;university, uni, college
+unmöglich;impossible
+unordentlich;untidy
+Unrecht;haben to be wrong
+unten;at the bottom, downstairs
+Unterhaltung;entertainment
+Unterhose;underpants
+Unterkunft;accommodation
+Unterricht;lessons
+unterrichten;to teach
+Unterschied;difference
+unterschreiben;to sign
+Unterschrift;signature
+untersuchen;to examine, to examine a patient
+Untertasse;saucer
+Untertitel;subtitle
+Unterwäsche;underwear
+unterwegs;on the way
+Urlaub;holiday
+Vater;father
+Vegetarier;vegetarian, male vegetarian
+Vegetarierin;vegetarian, female vegetarian
+Verabredung;appointment
+veränderlich;changeable
+verändern;to change
+Veranstaltung;event
+Verantwortung;responsibility
+Verband;bandage
+verbessern;to correct, improve
+verbieten;to forbid
+verboten;forbidden
+Verbindung;connection, train connection
+verbinden;to connect
+verbrauchen;to consume, to use up
+verbringen;to spend, to spend time
+verderben;to spoil, to pollute
+verdienen;to earn
+Verein;club
+vergessen;to forget
+vergiften;to poison
+Vergleich;comparison
+vergleichen;to compare
+Vergnügen;pleasure
+vergrößern;to enlarge
+verhaften;to arrest
+verheiratet;married
+verkaufen;to sell
+Verkäufer;sales assistant, male sales assistant
+Verkäuferin;sales assistant, female sales assistant
+Verkehr;traffic
+Verkehrsamt;tourist office
+verlassen;to leave, to leave a place
+verletzen;to injure
+verlieren;to lose
+verlobt;engaged
+vermeiden;to avoid
+vermieten;to rent, to hire, to hire out
+vernünftig;sensible, reasonable
+Verpackung;packaging
+verpassen;to miss, to miss a bus, to miss a train
+verrückt;mad
+Versammlung;meeting, school assembly
+verschieden;different, various
+verschmutzen;to pollute
+Verschmutzung;pollution
+verschwenden;to waste
+verschwinden;to disappear
+versichern;to insure
+Versicherung;insurance
+Verspätung;delay
+versprechen;to promise
+verstauchen;to sprain
+verstecken;to hide
+verstehen;to understand, to get on with
+verstopft;constipated
+Versuch;experiment, attempt
+versuchen;to try, to try to do something
+Vertrauen;trust
+Verwandte;relative, relation
+Verzeihung;Sorry
+viel;a lot, much, many
+vielleicht;perhaps
+Viertel;a quarter
+Vogel;bird
+Vokabeln;vocabulary
+voll;full
+völlig;completely, fully
+vor;allem above all
+vor;in front of, outside, before
+vor;kurzem recently, a short time ago
+vorbereiten;to prepare
+Vorfahrt;priority, right of way
+vorgestern;day before yesterday
+vorhaben;to intend, to plan to
+Vorhang;curtain
+vorher;beforehand, previously
+Vorname;first name
+vorne;at the front
+Vorort;suburb
+Vorschlag;suggestion
+Vorspeise;starter, first course
+vorstellen;to introduce oneself
+Vorstellung;performance, introduction
+Vorstellungsgespräch;job interview
+Vorteil;advantage
+Vorwahl;dialling code
+vorziehen;to prefer
+wachsen;to grow
+Wagen;car
+wagen;to dare
+Wahl;choice
+wählen;to choose
+wahr;true
+während;while
+Wald;wood, forest
+Wand;wall, interior wall
+wandern;to hike
+Wanderung;hike
+Wange;cheek
+warten;auf to wait for
+Waschbecken;washbasin
+Wäsche;washing
+waschen;to wash
+Waschküche;utility room, laundry room
+Waschlappen;flannel
+Waschmaschine;washing machine
+Waschpulver;wash powder
+Wasser;water
+Wasserhahn;tap
+wechselhaft;changeable
+wechseln;to change
+Wecker;alarm clock
+Weg, Fußweg;way, path
+weggehen;to go away
+wegwerfen;to throw away
+weiblich;female
+Weihnachten;Christmas
+weil;because
+Wein;wine
+Weinberg;vineyard
+weinen;to cry, to cry tears
+Weinprobe;wine tasting
+Weise;way
+auf diese Weise;in this way
+weiß;white
+Weißbrot;white bread
+weiter;machen to continue, to carry on doing something, to carry on
+Wellensittich;budgerigar
+Welt;world
+wenig;little
+weniger;less
+wenigstens;at least
+wenn;when, if
+Werbung;advertising
+werden;to become, get
+werfen;to throw
+Werkstatt;repair workshop, garage
+Werkzeug;implement
+Werkzeug;tools
+wertvoll, wertlos;valuable, worthless
+Wespe;wasp
+Westen;west
+Wettbewerb;competition
+Wetter;weather
+Wettkampf;competition
+wichtig;important
+wie;as, like
+Wie bitte?;pardon?
+Wie geht's? how are you?
+wieder;again
+wieder;verwerten to recycle
+wiederholen;to repeat
+wiegen;to weigh
+Wiese;field, meadow
+willkommen;welcome
+windig;windy
+Windschutzscheibe;windscreen
+windsurfen;to windsurf
+Wintergarten;conservatory
+winzig;tiny
+wirklich;really
+wissen;to know, to know facts
+Witwe;widow
+Witwer;widower
+Woche;week
+Wochenende;weekend
+Wohnblock;block of flats
+wohnen;to live
+Wohnung;flat
+Wohnwagen;caravan
+Wohnzimmer;living room
+Wolke;cloud
+wolkig;cloudy
+Wolle;wool
+wollen;to want to
+Wort;word
+Wörterbuch;dictionary
+Wunde;wound
+wunderbar;wonderful
+Wunsch;wish
+wünschen;to wish
+Wurst;sausage
+Zahl;figure, number
+zählen;to count
+zahlen;to pay, to pay the bill
+Zahn;tooth
+Zahnschmerzen;toothache, tooth ache
+Zahnarzt, Zahnärztin;dentist
+Zahnbürste;toothbrush
+Zahnpasta;toothpaste
+Zebrastreifen;zebra crossing
+Zeh;toe
+Zeichentrickfilm;cartoon
+zeichnen;to draw
+zeigen;to show
+Zeit;time
+Zeitschrift;magazine
+Zeitung;newspaper
+Zelt;tent
+zelten;to camp
+Zentrum;centre
+zerstören;to destroy
+Zettel;note, piece of paper
+Zeuge;witness
+ziehen;to pull
+Ziel;aim
+ziemlich;quite, fairly
+Zigarette;cigarette
+Zimmer;room
+Zimmermädchen;maid
+Zitrone;lemon
+Zoll;customs
+zornig;angry
+Zucker;sugar
+zuerst;at first
+Zufall;chance
+zufrieden;contented
+Zug;train
+Zugführer;train driver
+zuhören;to listen to
+Zukunft;future
+zum Mitnehmen;take away meals
+zumachen;to close
+zunehmen;to grow, get bigger, increase
+zunehmen;to put on weight, increase
+Zunge;tongue
+zurück;back
+zurückkommen;to return, to come, to go back
+zusammen;together
+zusammenstoßen;mit to collide with
+zusätzlich;additional
+Zuschauer;audience, viewers
+zwar;indeed
+Zwiebel;onion
+Zwillinge;twins
