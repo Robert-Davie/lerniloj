@@ -40,7 +40,22 @@ def is_user_response_correct(
     foreign_term = utilities.remove_gender_abbreviations(foreign_term).lower()
     english_terms = [term.lower() for term in english_terms]
     if hint:
-        print(f"hint: hint")
+        print(f"hint: {hint}")
+    elif len(foreign_term.split(",")) == 1:
+        breakdown, meanings = utilities.decompose_esperanto_word(foreign_term.split(",")[0])
+        res = ""
+        if len(meanings) > 1:
+            for division in range(len(breakdown)):
+                part1 = breakdown[division].strip()
+                part2 = meanings[division].strip()
+                if part1 == part2:
+                    part2 = ""
+                if part2:
+                    part2 = f" ({part2})"
+                res += f"+ {part1}{part2} "
+        res = res.strip("+").strip()
+        if res:
+            print(res.strip("+").strip())
     if is_question_in_english_in:
         foreign_terms = [i.strip() for i in foreign_term.split(",")]
         foreign_term = utilities.remove_punctuation(foreign_term)
@@ -117,7 +132,8 @@ def add_value_to_json(
 
 def save_to_answer_history(
     settings_in: dict[str, Any],
-    answers_in: list[dict[str]]
+    answers_in: list[dict[str]],
+    indent: bool = False,
 ):
     answer_history_file = settings_in["answer_history_file"]
     if Path(answer_history_file).exists():
@@ -137,7 +153,10 @@ def save_to_answer_history(
     print("dumping to json")
 
     with open(answer_history_file, "w") as f:
-        json.dump(data, f, indent=4)
+        if indent:
+            json.dump(data, f, indent=4)
+        else:
+            json.dump(data, f)
     print("saved answers")
 
 
@@ -169,7 +188,7 @@ def flashcard():
     reference_file = settings["reference_file"]
     with open(f"word_lists/{reference_file}", "r") as f:
         lines = [line.strip() for line in f.readlines() if line != ""]
-        assert re.fullmatch("^LANGUAGE=[A-Z]*$", lines[0])
+        assert re.fullmatch("^LANGUAGE=[A-Z]*$", lines[0]), f"language=x line at top of file {reference_file} incorrect"
         foreign_language = lines[0].split("=")[1].lower()
         settings["foreign_language"] = foreign_language
         lines = lines[1:]

@@ -2,18 +2,18 @@ LANGUAGE=ESPERANTO
 absolute;absolutely
 abundo;plenty, abundance
 aĉeti;to buy *achèter (fr)
-administri;to manage *administrate
+administri;to manage, to administer
 admiri;to admire
-advokato;lawyer *advocate
+advokato;lawyer, advocate
 aero;air
-afabla;kind *affable
+afabla;kind, affable
 afero;affair, matter, thing
 agento;agent
 agi;to act
-agnoski;to acknowledge, to admit
+agnoski;to acknowledge, to admit, to recognise
 ago;action, act *ago = action, aĝo = age
 aĝo;age *ago = action, aĝo = age
-agrabla;pleasant, agreeable
+agrabla;pleasant, agreeable, enjoyable, lovely, nice
 aĵoj;stuff, things
 akcepti;to accept
 akcidento;accident
@@ -52,7 +52,7 @@ ami;to love *aimer (fr)
 amika;friendly
 amikeco;friendship
 amiko;friend
-amo;affection, love
+amo;affection, love *amour
 amuza;fun, funny
 anĝelo;angel
 angla;english *angleterre (fr)
@@ -125,7 +125,7 @@ banĉambro;bathroom *bani (bathe) + ĉambro (room)
 bando;band *remember bando = band, bendo = tape
 banko;bank
 barilo;fence *barrier
-basketbalo;basket, basketball
+basketbalo;basketball
 batalanto;warrior, fighter *batali (fight) + anto (agent)
 batali;to fight, to stride *batallion
 batalo;battle
@@ -177,7 +177,7 @@ bruli;to burn *brûler (fr)
 bruna;brown
 bruo;noise *bruit
 brusto;breast, chest
-bukliĝi;to curl
+bukliĝi;to curl *bukli (curl) + iĝi (become)
 buŝo;mouth *bouche (fr)
 butiko;shop *boutique
 butono;button
@@ -188,10 +188,10 @@ butono;button
 ĉapo;cap *ĉapo = cap, kapo = head
 ĉar;because *car (fr)
 ĉarmo;charm
-ĉaro;wagon *chariot
+ĉaro;cart, chariot, wagon
 ĉasi;to hunt *chase
 ĉe;at
-ĉeestanta;present
+ĉeestanta;present, present (adj)
 ĉeesti;to attend
 ĉeesto;presence
 ĉefa;main *chief
@@ -333,14 +333,14 @@ ekrano;screen *écran (fr)
 eksciti;to excite
 ekscito;excitement
 ekspliki;to explain
-ekstere;off, outside
+ekstere;off, outside *extinguish
 eksteren;out *external
 eksterlanda;foreign
 ekstra;extra
 ekstreme;extremely
 ekvilibro;balance, equilibrium
 ekzameni;to examine
-ekzemplo;example
+ekzemplo;example *exemple (fr)
 ekzerco;exercise
 ekzisti;to exist
 ekzisto;existence
@@ -390,7 +390,7 @@ eviti;to avoid, to evade
 fabelo;tale *fable
 facila;easy *facile (fr)
 facile;easily *facila (easy) + e
-faciligi;to ease 
+faciligi;to ease *facila (easy) + igi (cause to be), 'facilitate'
 fajfi;to whistle
 fajro;fire
 fako;department, compartment *?faction
@@ -406,7 +406,7 @@ fantazio;fantasy
 fantomo;ghost *phantom
 fari;to commit, to do, to make *faire (fr)
 fariĝi;to become
-favoras;favor, favour
+favori;to favor, to favour
 feliĉa;happy
 feliĉo;happiness
 femuro;thigh *femur
@@ -427,7 +427,6 @@ filmo;film
 filo;son *fils (fr), 'my SON likes FILO pastry'
 fina;final
 fine;finally
-finfine;eventually, ultimate, finally, at last
 fingro;finger
 fini;to finish
 finita;over
@@ -445,10 +444,10 @@ flegistino;nurse
 fleksi;to bend, to flex
 floro;flower *floral
 flosi;to float
-flugi;to fly
+flugi;to fly *flugi = fly, flui = flow
 flugilo;wing *flugi (fly) + ilo (tool)
 flugo;flight
-flui;to flow
+flui;to flow *flugi = fly, flui = flow
 flustri;to whisper
 foje;sometimes
 folio;sheet, leaf
@@ -482,7 +481,7 @@ freneza;crazy, mad *frenzy
 freŝa;fresh
 fronto;front
 frostiĝi;to freeze *frost
-froti;to rub
+froti;to rub, to scrub *frotter (fr)
 frue;early *früh (de)
 frukto;fruit
 frunto;brow, forehead
@@ -495,7 +494,6 @@ furoraĵo;rage *fury
 fusilo;rifle *fusil (fr)
 gajni;to earn, to gain, to win *gagner (fr)
 gambo;leg *jambe (leg)
-gamo;range
 ĝardeno;garden, yard
 gardisto;guard
 gasto;guest
@@ -506,7 +504,7 @@ gejo;gay
 ĝemi;to groan
 generacio;generation
 ĝenerala;general
-ĝeni;to bother, to disturb
+ĝeni;to bother, to disturb, to trouble *gêner (fr)
 genui;to kneel *genuo = knee
 genuo;knee *genou (fr)
 germana;german
@@ -584,7 +582,7 @@ impliki;to involve *implicate
 imposto;rate
 impresi;to impress
 impreso;impression
-indico;evidence
+indico;evidence *indication
 indiki;to indicate
 individuo;individual
 infano;child, kid
@@ -604,7 +602,7 @@ intenci;to intend
 intenco;intention
 inter;among, between
 interesa;interesting
-intereso;interest
+intereso;interest *no 'T' like in french
 interkonsento;deal
 interne;inside, internally
 internulejo;stage
@@ -613,7 +611,7 @@ interŝanĝi;to exchange *inter (between) + ŝanĝi (change)
 intervjuo;interview
 inundo;flood *inondation (fr)
 inviti;to invite
-io;something
+io;something *io is SOMETHING that orbits jupiter
 iom;bit, somewhat
 iomete;slightly *iom = bit + et (diminished) + e (adverb)
 ion ajn;anything
@@ -645,7 +643,7 @@ kaj;and
 kaleŝo;carriage *calèche (fr)
 kalkano;heel *calcaneus
 kalkuli;to count, to calculate
-kamiono;truck
+kamiono;truck, lorry
 kampo;field *champ (fr)
 kandelo;candle
 kanti;to sing *canto
@@ -719,7 +717,7 @@ komunumo;community *komuna (common) + um (non specific) + o
 konata;familiar *contact
 kondiĉo;condition
 konduki;to conduct, to lead
-konektiĝi;to connect
+konekti;to connect
 konekto;connection
 konfesi;to confess
 konfido;confidence
@@ -772,7 +770,7 @@ krom se;unless
 krom;besides, except
 krono;crown
 kubuto;elbow *cubit
-kuglo;bullet
+kuglo;bullet *Kugel (de)
 kuirejo;kitchen *kuiri (cook) + ejo (place)
 kuiri;to cook *cuire (fr)
 kulpa;guilty *culpable
@@ -785,7 +783,7 @@ kunhavigi;to share
 kunsendi;to attach *kun (with) + sendi (send)
 kunsento;sympathy
 kunulo;companion
-kunveno;meeting
+kunveno;meeting *convene
 kupli;to clutch, to couple
 kuraca;medical
 kuraĝa;brave, courageous *kuraĝo (courage) + a
@@ -823,12 +821,12 @@ larĝa;broad, wide *large
 larmo;tear
 lasi;to let
 lasta;last
-lastatempe;recently, lately
+lastatempe;recently, lately *lasta (last) + tempo (time) + e
 laŭdo;praise *laud
 laŭte;loud, loudly
 lavi;to wash *laver (fr). lavi = wash, levi = lift
 leciono;lesson
-ledo;leather
+ledo, leda;leather
 leĝa;legal
 leĝere;lightly
 legi;to read *legi = read, ligi = link
@@ -845,7 +843,7 @@ li;he
 lia;his, sin *li (he) + a
 libera;free *liberty
 libereco;freedom, liberty *libera (free) + eco (quality)
-liberigi;to release
+liberigi;to release *libera (free) + igi (cause to be)
 libro;book
 ligi;to tie *legi = read, ligi = link
 ligilo;link *ligi (tie) + ilo (tool)
@@ -869,7 +867,7 @@ longa;long
 longo;length
 ludi;to play
 ludkartaro;deck
-ludo;game
+ludo;game *LUDO is a GAME
 lukti;to struggle
 lumo;light *luminous
 lunĉo;lunch
@@ -906,15 +904,15 @@ malgranda fingro;pinky
 malgranda;little, small
 malgrava;irrelevant, not serious, unimportant
 malĝusta;wrong
-malhelpi;to prevent
+malhelpi;to hidner, to counteract *mal + helpi (help)
 malkovri;to discover
 mallarĝa;narrow
 mallarĝe;closely
 mallaŭte;softly
-malliberejo;prison
+malliberejo;prison *mal + libera (free) + ejo (place)
 malliberulo;prisoner
 mallonga;short
-malluma;dark
+malluma;dark *mal + luma (light)
 mallumo;darkness
 malmultaj;few
 malnova;old
@@ -926,18 +924,18 @@ malpura;dirty
 malpuraĵo;dirt *mal (opposite) + pura (pure) + aĵo (made from)
 malrapida;slow
 malrapide;slowly
-malriĉa;poor
+malriĉa;poor *mal + riĉa (rich)
 malsama;different
 malsana;ill, sick
 malsata;hungry *mal (opposite) + sata (satiated)
-malŝpari;to waste
+malŝpari;to waste *mal + ŝpari (to save)
 malstreĉiĝi;to relax *mal (opposite) + streĉi (strech) + iĝi (become)
 malsukcesi;to fail
-malsupre;beneath, below
-malsupren;down
+malsupre;beneath, below *mal + supre (above)
+malsupren;down *mal + supren (up)
 malsupreniri;to descend, to lower *malsupren (down) + iri (go)
-maltrankvila;anxious
-maltrankviligi;to concern
+maltrankvila;anxious *mal + trankvila (calm)
+maltrankviligi;to concern *maltrankvila (anxious) + igi (cause to be)
 malvarma;cold
 malvarmeta;cool *malvarm (cold) + et (diminished) + a
 malvirto;vice *mal + vitro (virtue)
@@ -965,12 +963,12 @@ memori;to remember
 memorigi;to remind *memori (remember) + igi (cause to be)
 memoro;memory
 mencii;to mention
-mensa;mental
+mensa;mental *menso = mind
 menso;mind
 mentono;chin *menton (fr)
 merdo;shit *merde (fr)
-meriti;to deserve
-merkato;market
+meriti;to deserve, to merit
+merkato;market *compare the merkat
 mesaĝo;message
 metalo;metal
 meti;to lay, to put
@@ -1009,7 +1007,7 @@ mordi;to bite *mordi = bite, morti = die
 morgaŭ;tomorrow
 morta;dead
 morti;to die *mordi = bite, morti = die
-mortigi;to kill
+mortigi;to kill *morta (dead) + igi (cause to be)
 morto;death
 motoro;engine *motor
 movado;movement *movi (move) + ad (continuous) + o
@@ -1029,7 +1027,7 @@ naĝejo;pool *naĝi (swim) + ejo (place)
 naĝi;to swim
 najbarino;neighbor, neighbour
 najlo;nail
-naskiĝo;birth *naskiĝi = to be born
+naskiĝo;birth *naski (to give birth) + iĝi (to become) + o
 natura;natural
 nature;naturally *natura (natural) + e
 naturo;nature
@@ -1041,7 +1039,7 @@ neebla;impossible *ne (not) + ebla (possible)
 neĝo;snow *neige (fr)
 nei;to deny
 nek;neither, nor
-nekapabla;unable
+nekapabla;unable, incapable
 nekonata;unknown
 nekutima;unusual
 neniam;never
@@ -1135,15 +1133,15 @@ partnero;partner
 parto;part
 pasaĝero;passenger
 pasi;to pass
-pasinta;past
+pasinta;past *the pasta in the packet is PASINTA its used by date
 pasio;passion *pasio = passion paŝo = step
 paŝo;step *pasio = passion paŝo = step
-pastro;priest *pastor
+pastro;priest, pastor
 patrino;mother *patro (father) + in (female) + o
 patro;father, parent
 paŭzi;to pause
 peco;piece, bit, chunk *peco = piece, pezo = weight
-pendi;to hang *pendre (fr) pendi = hang, perdi = lose
+pendi;to hang *pendre (fr) pendi = hang, perdi = lose, 'PENDING'
 peno;effort
 pensi;to think *penser (fr)
 pensis;thought *pensi (think) + is
@@ -1225,13 +1223,13 @@ povus;could
 pozicio;position
 praktiko;practice
 precipe;especially, particularly
-prefere;rather
+prefere;rather, preferably
 preferi;to prefer
 preĝejo;church *preĝi (pray) + ejo (place)
 preĝi;to bid, to pray
 preĝo;prayer
 premi;to press, to squeeze
-premita;tight
+premita;tight, oppressed *premi = to press
 premo;pressure
 preni;to take
 prepari;to prepare
@@ -1266,7 +1264,7 @@ propra;own
 propraĵo;property
 protekti;to protect
 protesti;to protest
-provi;attempt, to try *provi = attempt, pruvi = prove
+provi;attempt, to try *provi = attempt, pruvi = prove, 'provisional'
 provizi;to provide
 provizo;supply, provision
 pruvi;to prove *provi = attempt, pruvi = prove
@@ -1294,7 +1292,7 @@ raporto;report
 reago;reaction
 reala;real
 realaĵo;reality
-realigi;to realize, to realise
+realigi;to realize, to realise *reala (real) + igi (cause to be)
 redoni;to return *re + doni (give)
 reen;back
 reĝino;queen *reĝo (king) + in + o
@@ -1304,9 +1302,9 @@ regula;regular
 regulo;rule
 rekoni;to recognize, to recognise
 rekordo;record
-rekta;straight
+rekta;straight *rectangle
 rekte;directly *rekta (straight) + e
-rekuperi;to recover
+rekuperi;to recover *recuperate
 relativa;relative
 reliefo;relief
 religia;religious
@@ -1333,13 +1331,13 @@ rideti;to grin, to smile
 ridi;to chuckle, to gleam, to laugh *rire (fr)
 rifuzi;to refuse
 rigardi;to glance, to look, to peer, to regard, to stare, to watch
-rigardo;gaze
+rigardo;gaze *regard
 rilati;to relate
 rilato;relation, relationship
-rimarki;to notice
+rimarki;to notice *remark
 ringo;ring
 ripeti;to repeat
-ripozo;rest
+ripozo;rest *repose
 risko;risk
 ritmo;pace *rhythm
 riveli;to reveal
@@ -1352,21 +1350,21 @@ romo;rome
 rompi;to break
 rompita;broken
 ronda;round
-ruĝa;red *rouge (fr)
+ruĝa;red *rouge (fr), j sound not g
 ruinigi;to ruin
 ruliĝi;to roll
 rusa;russian
 sabato;saturday *sabbath
 sablo;sand *sable (fr)
 saĝa;wise *sage
-ŝajne;apparently
+ŝajne;apparently *ŝajni = to seem
 ŝajni;to seem
 ŝajnigi;to pretend
 sako;bag, sack
 salti;to jump, to leap
 saluti;to greet, to salute
 sama;same
-ŝanco;chance, opportunity
+ŝanco;chance, opportunity *remember pronounced SHANTSO
 sanga;bloody
 ŝanĝi;to change, to shift, to switch
 sango;blood
@@ -1392,7 +1390,7 @@ seksa;sexual
 sekso;sex
 sekura;safe, secure
 sekureco;safety, security
-sekvanta;following *sekvi = to follow
+sekvanta;following *sekvi = to follow, sequential
 sekvi;to follow *sequence
 ŝelo;shell
 selo;saddle
@@ -1406,7 +1404,7 @@ sento;feeling, sense
 senvestigi;to strip, to undress *sen (without) + vesti (dress) + igi (cause to be)
 sep;seven
 serĉi;to search, to seek
-ŝerco;joke
+ŝerco;joke, gag *a SHIRT SOmetimes has a joke on it
 serio;series
 serioza;serious
 serioze;seriously
@@ -1430,8 +1428,8 @@ silko;silk
 simila;similar
 simpla;simple
 simple;merely, simply
-sinjorino;lady, mrs
-sinjoro;gentleman, lord, mr, sir
+sinjorino;lady, mrs *sinjoro (mr) + in + o
+sinjoro;gentleman, lord, mr, sir *señor
 sinteno;attitude
 ŝipanaro;crew *ŝipano (crew member) + aro (collection of)
 ŝipo;ship, vessel
@@ -1443,14 +1441,14 @@ sklavo;slave
 skrapi;to scratch, to scrape
 skribi;to write
 skribotablo;desk
-skui;to shake
+skui;to shake *don't SQUEEze someone's hand too hard when you give them a handshake
 ŝlosi;to lock
 ŝlosilo;key *ŝlosi (to lock) + ilo (tool)
 ŝnuro;rope
 socia;social
 socio;society
 sofo;couch, sofa
-ŝoforo;driver
+ŝoforo;driver *chauffeur
 ŝoko;shock
 sola;single
 soldato;soldier *soldat (fr)
@@ -1463,7 +1461,7 @@ sono;sound
 sonorilo;bell
 sopiri;to startle
 sorto;fate *sort (fr) elirejo = exit, speco = type/sort
-sovaĝa;wild *savage
+sovaĝa;wild *sauvage (fr)
 spaco;space
 ŝpari;to save *spare
 speciala;special
@@ -1475,7 +1473,7 @@ spirito;spirit
 spiro;breath
 spuri;trace
 spuro;track, trail
-stabo;staff
+stabo;staff *Stab (de)
 stacio;station
 ŝtalo;steel
 stari;to stand
@@ -1498,7 +1496,7 @@ studento;student
 studi;to study
 stulta;silly, stupid *you look silly in a pair of stilts
 stultulo;fool
-ŝtuparo;stair
+ŝtuparo;stairs, staircase *ŝtupo (step) + aro (collective)
 sub;under
 sube;below
 subita;sudden
@@ -1537,7 +1535,7 @@ talio;waist *taille (fr)
 tamen;however, though *The Alternative Method Expressing Negation
 tasko;task
 taso;cup *tasse (fr)
-teamo;team
+teamo;team *there's no I in team but there is amo
 teksto;text
 telefono;phone, telephone *fono = background, fonto = source, telefono = telephone
 televido;television
@@ -1559,7 +1557,7 @@ tia;such
 tiam;then *A.M. denotes time
 tie;there *E denotes place
 tiel;so, thus
-timegas;dread
+timegi;to terrify, to petrify, to frighten greatly
 timema;afraid
 timigi;to frighten, to scare
 timo;fear
@@ -1571,9 +1569,9 @@ tombo;grave, tomb
 tono;tone
 tordi;to twist *tordre (fr)
 tra;through *tra = through, tre = highly/very
-trabo;beam
+trabo;beam, pole, girder
 tradicio;tradition
-trairejo;passage
+trairejo;passage *trairi (to pass through) + ejo (place)
 trajno;train
 trajto;feature, trait
 trakti;to treat
@@ -1589,7 +1587,7 @@ treni;to drag *traîner (fr)
 tri;three
 tria;third *tri (3) + a
 tridek;thirty *tri (3) + dek (10)
-trinkejo;bar
+trinkejo;bar, pub *trinki (drink) + ejo (place)
 trinki;to drink, to sip
 trovi;to find
 trunko;trunk
@@ -1598,7 +1596,7 @@ tuj;immediately, instantly
 tuja;instant, immediate
 tuko;cloth
 turni;to turn
-turniĝi;to spin
+turniĝi;to spin *turni (turn) + iĝi (become)
 turo;tower
 tuŝi;to affect, to touch
 tuta;entire, total, whole
@@ -1621,7 +1619,7 @@ varmo;heat, warmth
 varo;sort *variation
 vasta;vast
 veka;awake
-vekiĝi;to wake
+vekiĝi;to wake *veka (awake) + iĝi (become)
 veli;to sail
 vendejo;store *vendi (sell) + ejo (place)
 vendi;to sell
@@ -1641,7 +1639,6 @@ vespermanĝo;dinner *vespero (evening) + manĝi (eat) + o
 vespero;evening
 vesti;to dress, to clothe
 vestoj;clothes
-vestokompleto;suit
 vetero;weather
 veti;to bet
 vetkuro;race

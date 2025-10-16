@@ -1,4 +1,5 @@
 import re
+from lerniloj import esperanto_roots
 
 
 french_accent_shortcuts = (
@@ -99,3 +100,66 @@ def toggle_accents(
                 "!", ""
             )
     return str_in
+
+
+with open("word_lists/esperanto_roots.txt", "r") as f:
+    esperanto_root_templates = [i.strip().split(",") for i in f.readlines()]
+
+
+def decompose_esperanto_word(str_in: str) -> tuple[list[str], list[str]]:
+    breakdown = []
+    meanings = []
+
+    final_part_found = False
+    for final_part in esperanto_roots.final_parts:
+        if str_in[-len(final_part[0]):] == final_part[0]:
+            breakdown.append(final_part[0])
+            meanings.append("")
+            final_part_found = True
+            str_in = str_in[:-(len(final_part[0]))]
+            break
+    if not final_part_found:
+        return breakdown, meanings
+    for i in range(2):
+        finished = False
+        while finished == False:
+            suffix_count = 0
+            for suffix in esperanto_root_templates:
+                if str_in[-len(suffix[0]):] == suffix[0]:
+                    breakdown.append(suffix[0])
+                    meanings.append(suffix[1])
+                    str_in = str_in[:-(len(suffix[0]))]
+                    break
+                suffix_count += 1
+            if suffix_count == len(esperanto_root_templates):
+                finished = True
+                break
+
+        finished = False
+        while finished == False:
+            suffix_count = 0
+            for suffix in esperanto_roots.suffixes:
+                if str_in[-len(suffix[0]):] == suffix[0]:
+                    breakdown.append(suffix[0])
+                    meanings.append(suffix[1])
+                    str_in = str_in[:-(len(suffix[0]))]
+                    break
+                suffix_count += 1
+            if suffix_count == len(esperanto_roots.suffixes):
+                finished = True
+                break
+
+    term_prefix = None
+    for prefix in esperanto_roots.prefixes:
+        if str_in[:len(prefix[0])] == prefix[0]:
+            str_in = str_in[(len(prefix[0])):]
+            term_prefix = prefix
+            break
+    if str_in != "":
+        breakdown.append(str_in)
+        meanings.append(str_in)
+    if term_prefix:
+        breakdown.append(term_prefix[0])
+        meanings.append(term_prefix[1])
+    return breakdown[::-1], meanings[::-1]
+        

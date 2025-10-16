@@ -3,14 +3,15 @@ import datetime
 
 
 lookups = ["from_esperanto_written", "to_esperanto_written"]
-TARGET_FILE = "esperanto2000.txt"
+TARGET_FILE = "word_lists/esperanto15000v2.txt"
+HISTORY_FILE = "history/mistakes2.json"
 
 
 with open(TARGET_FILE, "r") as f:
     terms = [line.strip().split(";")[0] for line in f.readlines()]
 
 
-with open("mistakes2.json", "r") as f:
+with open(HISTORY_FILE, "r") as f:
     data = json.load(f)
 
 results = []
@@ -49,5 +50,5 @@ total: {total} {len(terms)}
 print("\n".join(results))
 
 
-with open("knowledge_report.txt", "w") as f:
+with open("reports/knowledge_report.txt", "w") as f:
     f.writelines(results)
