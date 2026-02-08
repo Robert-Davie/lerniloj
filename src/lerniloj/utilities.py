@@ -1,4 +1,5 @@
 import re
+from enum import Enum
 from lerniloj import esperanto_roots
 
 
@@ -39,6 +40,12 @@ accents = {
     "esperanto": esperanto_accent_shortcuts,
     "german": german_accent_shortcuts,
 }
+
+
+def remove_accents(str_in: str, language: str) -> str:
+    for a in accents[language]:
+        str_in = str_in.replace(a[0], a[1][:-1])
+    return str_in
 
 
 def remove_punctuation(str_in: str) -> str:
@@ -106,11 +113,19 @@ with open("word_lists/esperanto_roots.txt", "r") as f:
     esperanto_root_templates = [i.strip().split(",") for i in f.readlines()]
 
 
-def decompose_esperanto_word(str_in: str) -> tuple[list[str], list[str]]:
+def decompose_esperanto_word(str_in: str) -> tuple[list[str], list[str], bool]:
     breakdown = []
     meanings = []
 
     final_part_found = False
+    if str_in[-1] == "n":
+        breakdown.append("n")
+        meanings.append("")
+        str_in = str_in[:-1]
+    if str_in[-1] == "j":
+        breakdown.append("j")
+        meanings.append("")
+        str_in = str_in[:-1]
     for final_part in esperanto_roots.final_parts:
         if str_in[-len(final_part[0]):] == final_part[0]:
             breakdown.append(final_part[0])
@@ -119,8 +134,11 @@ def decompose_esperanto_word(str_in: str) -> tuple[list[str], list[str]]:
             str_in = str_in[:-(len(final_part[0]))]
             break
     if not final_part_found:
-        return breakdown, meanings
-    for i in range(2):
+        return breakdown, meanings, False
+
+    for i in range(3):
+        if len(str_in) == 0:
+            return breakdown[::-1], meanings[::-1], True
         finished = False
         while finished == False:
             suffix_count = 0
@@ -134,6 +152,15 @@ def decompose_esperanto_word(str_in: str) -> tuple[list[str], list[str]]:
             if suffix_count == len(esperanto_root_templates):
                 finished = True
                 break
+        
+        if len(str_in) > 2 and str_in[-1] == "t" and str_in[-2] in ['a', 'i', 'o']:
+            breakdown.append(str_in[-2:])
+            meanings.append("")
+            str_in = str_in[:-2]
+        if len(str_in) > 3 and str_in[-2:] == "nt" and str_in[-3] in ['a', 'i', 'o']:
+            breakdown.append(str_in[-3:])
+            meanings.append("")
+            str_in = str_in[:-3]
 
         finished = False
         while finished == False:
@@ -143,6 +170,7 @@ def decompose_esperanto_word(str_in: str) -> tuple[list[str], list[str]]:
                     breakdown.append(suffix[0])
                     meanings.append(suffix[1])
                     str_in = str_in[:-(len(suffix[0]))]
+                    finished = True
                     break
                 suffix_count += 1
             if suffix_count == len(esperanto_roots.suffixes):
@@ -155,11 +183,12 @@ def decompose_esperanto_word(str_in: str) -> tuple[list[str], list[str]]:
             str_in = str_in[(len(prefix[0])):]
             term_prefix = prefix
             break
+    solved = True
     if str_in != "":
         breakdown.append(str_in)
         meanings.append(str_in)
+        solved = False
     if term_prefix:
         breakdown.append(term_prefix[0])
         meanings.append(term_prefix[1])
-    return breakdown[::-1], meanings[::-1]
-        
+    return breakdown[::-1], meanings[::-1], solved

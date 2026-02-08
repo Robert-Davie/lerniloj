@@ -92,10 +92,8 @@ aĉetanta regiono;market, outlet
 aĉetanto;buyer, client, purchaser
 aĉetebla;for sale
 aĉeti;to buy, purchase
-aĉeti aŭkcie;buy at a public sale
 aĉeto;purchase
 adapti;to accommodate, adapt, adjust, fit
-adapti por orkestro;orchestrate, score
 adaptigo;accommodation
 adaptiĝemo;adaptability
 adaptiĝi;to accomodate oneself, adapt oneself
@@ -107,7 +105,6 @@ adepto;adept, supporter
 adhero;adhesion
 adi;to keep
 adiaŭ;adieu, farewell, bye, goodbye, good-bye
-adiaŭa;goodbye-
 adiaŭi;to say goodbye, say goodbye to, take leave, take leave from
 adiaŭo;farewell, goodbye, good-bye
 adicii;to add, add up
@@ -144,7 +141,6 @@ adoleskeco;puberty
 adoleskulino;adolescent
 adoleskulo;adolescent
 adolto;adult
-adonido;pheasant's eye
 adoptado;adoption
 adoptaj gepatroj;foster-parents
 adopti;to adopt
@@ -222,9 +218,7 @@ afekta;affected, artificial
 afektado;affectation
 afekte milda;bland, sugary
 afektema;affected
-afekti;to attitudinize, pose, put on airs
 afekto;affectation
-afektulo;attitudinizer, poseur
 aferkoncerneco;relevance
 afero;affair, business, business deal, case, matter
 afikso;affix
@@ -248,8 +242,6 @@ agado;action, activity
 agapo;agape
 agaragaro;agar, agar-agar
 agariko;mushroom
-agato;agate
-agavo;agave
 agema;active
 agemo;activity
 agendo;agenda, appointment book
@@ -270,10 +262,9 @@ agito;agitation, commotion, disturbance, excitement, flutter, turmoil
 agla nazo;aquiline nose
 agleca nazo;aquiline nose
 aglibero;elbow-room
-aglido;eaglet
 aglo;eagle
 aglomeraĵo;agglomerate
-agnoski;to acknowledge, recognize
+agnoski;to acknowledge, recognize, recognise
 agnosko;acknowledgement
 ago;act, action
 agonii;to be near death
@@ -284,7 +275,6 @@ agordiĝemo;manageability, tractability
 agordo;agreement
 agrabla;agreeable, enjoyable, lovely, nice, pleasant
 agrableco;pleasantness
-agrafa fermilo;hooks and eyes
 agrafi;to clasp
 agrafo;clasp, hook
 agrara;agricultural, farm
@@ -318,7 +308,7 @@ akademia;academic
 akademiano;academician
 akademio;academy
 akajunukso;cashew-nut
-akapari;corner, monopolize
+akapari;corner, monopolise, hoard *accaparer (fr)
 akaro;mite
 akcelanta;accelerative
 akcelanto;promotor
@@ -342,8 +332,7 @@ akceptinda;acceptable
 akceptindeco;susceptibility
 akceptistino;receptionist
 akcepto;acceptance
-akceptosalono;reception room, reception-room
-akceptsalono;reception room, reception-room
+akceptsalono, akceptosalono;reception room, reception-room
 akcesora;accessory, secondary
 akcesora fako;subsidiary subject
 akcesora tono;overtone
@@ -369,12 +358,11 @@ aklamado;acclamation
 aklame;by acclamation
 aklami;to acclaim, applaud
 aklamo;acclaim, acclamation, approval
-aklimatizi;to acclimatize
+aklimatizi;to acclimatize, acclimatise
 akno;pimple
 akolito;acolyte
 akomodi;to accomodate
-akomodiĝo;accommodation
-akomodo;accommodation
+akomodo, akomodiĝo;accommodation
 akompanado;accompaniment
 akompanantaro;suite, train
 akompanantino;chaperon, duenna
@@ -383,7 +371,6 @@ akompani;to accompany
 akompani varte;chaperon, squire
 akompano;accompaniment, escort
 akonito;aconite, monkshood
-akorda kun;in accordance with
 akordi;to agree
 akordigi;to bring into agreement
 akordiĝema;manageable, tractable
@@ -393,7 +380,6 @@ akordiono;accordion
 akordo;accord, agreement, chord, settlement
 akoro;calamus
 akra;abrasive, lurid, sharp
-akra tono;tartness
 akraflanka;angular, sharp-edged
 akratona;abrasive, sharp-toned, shrill, snappy, tard
 akreco;sharpness
@@ -467,7 +453,7 @@ akvobubalo;water buffalo, water-buffalo
 akvofalo;waterfall
 akvokloŝo;diving-bell
 akvokreso;watercress
-akvolilio;waterlily
+akvolilio;waterlily, water lily
 akvomelono;water-melon
 akvonecesejo;water-closet
 akvoriĉa;abounding in water
@@ -503,13 +489,12 @@ alĉemilo;lady's mantle
 aldehido;aldehyde
 aldo;contralto, contralto voice
 aldone;in addition
-aldoni;to add
+aldoni;to add, to give
 aldoni akvon al;dilute, weaken
 aldonita;accompanying
 aldono;appendix, codicil, rider
 aldulino;alto, contralto
 alegorio;allegory
-aleksandra verso;alexandrine
 aleo;avenue
 alergio;allergy
 alero;penthouse, shed
@@ -551,8 +536,7 @@ aliigi;to alter, change, turn
 aliiĝi;to alter, change
 alilandano;alien, foreigner
 alilande;abroad
-aliloke;elsewhere
-aliloken;elsewhere
+aliloke, aliloken;elsewhere
 alimaniere;differently
 alimento;alimony
 alinei;to indent
@@ -567,12 +551,11 @@ aliteracio;alliteration
 aliulo;another, another man
 aljuĝado;tender
 aljungi;to put
-alkala;alkaline
-alkaleca;alkaline
+alkala, alkaleca;alkaline
 alkalo;alkali
 alkemilo;lady's mantle
-alklimatiĝi;to acclimate, acclimatize
-alklimatiĝo;acclimatization
+alklimatiĝi;to acclimate, acclimatize, acclimatise
+alklimatiĝo;acclimatization, acclimatisation
 alko;elk, moose
 alkohola;alcoholic
 alkoholaĵmaniulo;alcoholic
@@ -609,7 +592,7 @@ almenaŭ;at least
 almeti;to attach, put onto
 almezuri;take one's measure for
 almozmonaĥo;mendicant friar
-almozo;alms
+almozo;alms, charity, relief
 almozordeno;mendicant order
 almozpetado;begging
 almozpetanto;beggar
@@ -635,7 +618,7 @@ alportado;arrival, arrivals, supply
 alporti;to bring, fetch
 alpreĝi;to invoke
 alproksimigi;to bring close together
-alproksimiĝi;to advance, come close, come closer, come on
+alproksimiĝi;to advance, come close, come closer, come on, get closer
 alproksimiĝo;approach
 alproprigi al si;to abstract
 alŝovi;to push on, shove on
@@ -680,8 +663,7 @@ alvoki preĝe;invoke
 amabla;dainty, kind, nice, pretty
 amalgami;to amalgamate
 amando;almond
-amantino;lover
-amanto;lover
+amanto, amantino;lover
 amao;aum
 amara;bitter
 amaranto;amaranthus
@@ -694,12 +676,10 @@ amasigi;to amass, heap, pile up, stack
 amasiĝo;assembly
 amaso;crowd, heap, mass, multitude, pile
 amata;loved, beloved
-amatino;beloved, loved one, lover, sweetheart, well-beloved
-amato;beloved, loved one, lover, sweetheart, well-beloved
+amato, amatino;beloved, loved one, lover, sweetheart, well-beloved
 amatoreca;amateurish, small-time
 amatoro;amateur, fancier
-ambasadejo;embassy
-ambasado;embassy
+ambasado, ambasadejo;embassy
 ambasadorejo;embassy, embassy building
 ambasadoro;ambassador
 ambaŭ;both
@@ -723,8 +703,7 @@ amfiteatro;amphitheatre
 ami;love
 amika;friendly
 amikeco;friendship
-amikino;friend
-amiko;friend
+amiko, amikino;friend
 aminda;lovable
 amindeco;sweetness
 amindo;charm, sweetness
@@ -733,12 +712,11 @@ amnestii;to amnesty, pardon
 amnestio;amnesty
 amo;love
 amoko;amuck
-amoniako;ammonia
-amonio;ammonia
+amonio, amoniako;ammonia
 amorfa;amorphous
 amori;to make love
 amortizebla;redeemable, repayable
-amortizi;to amortize, deaden
+amortizi;to amortize, deaden, amortise
 amortizilo;shock absorber
 amortizo;redemption
 ampermetro;ammeter
@@ -761,18 +739,16 @@ amuziĝi;to enjoy oneself, have a good time
 amuzo;amusement, fun
 anabaptismo;anabaptism
 anagramo;anagram
-anakondo;anaconda
+anakondo;anaconda *
 anakronismo;anachronism
 anala seksumo;anal sex
 analfabeto;illiterate
-analfabetulo;illiterate
 analitika;analytic, analytical
 analizi;to analyse
 analizisto;analyst, analytical chemist
 analizo;analysis
 analoga;analogous
-analogeco;analogy
-analogio;analogy
+analogio, analogeco;analogy
 ananaso;pine-apple, pineapple
 anapesto;anapaest
 anarkio, anarĥio;anarchy
@@ -835,14 +811,11 @@ anoncado;announcement, notification, notice
 anoncanto;advertiser
 anonci;to advertise, announce, give notice
 anonci laŭtvoĉe;call over
-anoncistino;announcer
-anoncisto;announcer
+anoncisto, anoncistino;announcer
 anonco;ad, advertisement
 anonima;anonymous
-anonima kompanio;limited liability company
-anonima societo;limited liability company
+anonima societo, anonima kompanio;limited liability company
 anonimeco;anonymity
-anonimulo;anonymous writer
 ansero;goose
 anservice;single file
 anso;handle
@@ -853,7 +826,7 @@ anstataŭi;take the place of
 anstataŭigi;to replace, substitute
 anstataŭo;replacement, substitution
 antagonisto;adversary, opponent
-antaŭ ...;... ago
+antaŭ;ago
 antaŭ ĉio;above all, especially
 antaŭ nelonge;recently
 antaŭ ol;before, previous to
@@ -863,12 +836,11 @@ antaŭa lampo;headlamp
 antaŭa nomo;first name
 antaŭa piedo;foreleg, front paw
 antaŭaĵo;antecedent
-antaŭbrako;lower-arm
+antaŭbrako;forearm, lower-arm
 antaŭdati;to antedate
 antaŭdiluva;antediluvian, very ancient
 antaŭdiri;forecast, foretell, prophesy
-antaŭdiristino;fortune teller
-antaŭdiristo;fortune teller
+antaŭdiristo, antaŭdiristino;fortune teller
 antaŭe;ahead, formerly, previously
 antaŭen;ahead, foreward, on
 antaŭeniri;go forward
@@ -891,7 +863,7 @@ antaŭo;fore
 antaŭo posten;back to front
 antaŭparolo;foreword
 antaŭplano;foreground
-antaŭsento;presentiment
+antaŭsento;presentiment, premonition
 antaŭsigno;indication, omen, portent, precursor, presage, sign
 antaŭtagmeze;a.m.
 antaŭtegmento;penthouse, shed
@@ -903,7 +875,7 @@ antaŭvidi;foresee
 antaŭzorga;thoughtful
 antaŭzorgo;thoughtfulness
 antecedento;antecedent
-antemo;corn chamomile
+antemo;anthem
 anteno;antenna
 antibiotiko;antibiotic
 anticipi;to anticipate, think ahead
@@ -943,11 +915,8 @@ aparteni;to belong to
 apartigi;to divide, separate
 apartigo;separation, partition
 apatio;apathy
-apelacianto;appellant
 apelacii;to appeal
-apelacii al;appeal to, make an appeal to
-apelacio;appeal
-apelo;appeal
+apelo, apelacio;appeal
 apenaŭ;barely, hardly, only just, scarcely
 apendicito;appendicitis
 apendico;appendix
@@ -956,8 +925,7 @@ aperitivo;dram, nip, peg, snifter, snorter
 apero;appearance
 aperteco;frankness, openness
 aperturo;aperture, opening
-apetita;appetizing
-apetitiga;appetizing
+apetita, apetitiga;appetizing, appetising
 apetito;appetite
 apio;celery
 aplaŭdado;acclamation
@@ -978,24 +946,19 @@ apokalipsa;apocalyptic
 apokrifa;apocryphal
 apologio;apology
 apostata;apostate
-apostatiĝi;to apostatize
+apostatiĝi;to apostatize, apostatise
 apostato;apostate
 apostola;apostolic
 apostola patro;church-father
-apostoleco;apostleship, apostolate
 apostolo;apostle
 apostrofo;apostrophe
 apotekisto;chemist
 apoteko;chemist's shop, drugstore
-apoteozo;apotheosis
 apra;of a wild boar
-apreci;to appreciate
-apreco;appreciation
-apreti;to finish
-apreturi;to finish
+apreci, aprezi;to appreciate
+apreco, aprezo;appreciation
+apreti, apreturi;to finish
 apreturo;starch
-aprezi;to appreciate
-aprezo;appreciation
 aprido;young of a wild boar
 apro;wild boar
 aprobi;to approve
@@ -1031,7 +994,6 @@ arboŝelo;bark
 arbotrunko;stem, trunk, tree-trunk
 arbustaro;shrubbery
 arbusto;bush, shrub
-arbuto;arbutus fruit
 arbutujo;arbutus, strawberry tree
 arda;ablaze, ardent
 ardeo;heron
@@ -1049,7 +1011,6 @@ argila;earthen, clay, stone
 argilaĵo;crockery, earthenware, pottery
 argilo;clay
 argono;argon
-argumentado;argumentation
 argumenti;to maintain
 argumento;argument, plea
 arĝenta;silver
@@ -1059,8 +1020,7 @@ ariergardo;rear, rearguard
 ariĝi;form a group
 ario;air, aria
 aristokrata;aristocratic
-aristokrataro;aristocracy
-aristokratio;aristocracy
+aristokratio, aristokrataro;aristocracy
 aristokrato;aristocrat
 aritmetiko;arithmetic
 arkadaro;portico
@@ -1092,16 +1052,14 @@ armilejo;armoury, arsenal
 armilo;weapon
 arniko;arnica
 aro;bevy, collection, group, heap, herd, set, are, square decametre
-aroga;arrogant
-aroganta;arrogant
+aroganta, malmodesta, pretendema, aroga;arrogant
 aroganteco;arrogance, assumingness, overbearingness, presumption
 aroki;to castle
 aromo;aroma, flavour
 arondismento;district
 aroruto;arrowroot
 arsenalo;armoury, arsenal
-arseniko;arsenic
-arsenoksido;arsenic
+arseniko, arsenoksido;arsenic
 arta;artificial, artistic
 artaĵo;work of art
 artefarita;artificial
@@ -1112,8 +1070,7 @@ arteriosklerozo;arteriosclerosis
 arteza;artesian
 artgalerio;art gallery
 artifiko;subterfuge, trick, trickery
-artiki;to articulate
-artikigi;to articulate
+artiki, artikigi;to articulate
 artiklo;article, commodity
 artiko;joint
 artikolo;article
@@ -1149,8 +1106,7 @@ asisto;help
 asketa;ascetic
 askorbata acido;ascorbic acid, vitamin C
 aso;ace
-asociano;partner
-asociito;partner
+asociano, asociito;partner
 asocio;association
 asparago;asparagus
 aspekti;to appear, look
@@ -1200,8 +1156,7 @@ atendado;expectation
 atendejo;waiting-room, waiting room
 atendi;to abide, expect, wait, await, wait for
 atendo;expectation
-atenta;attentive
-atentema;attentive
+atenta, atentema;attentive
 atenti;to pay attention, watch out for
 atenti pri;to pay attention to
 atentigi;to draw attention
@@ -1215,8 +1170,7 @@ atingi;to accomplish, attain, get, reach
 atingopovo;range, reach
 atlaso, atlazo;atlas
 atleta;athletic
-atletiko;athletics
-atletismo;athletics
+atletiko, atletismo;athletics
 atleto;athlete
 atmosfero;atmosphere
 atolo;atoll
@@ -1225,15 +1179,14 @@ atombombo;atom bomb
 atomcentralo;atomic powerstation
 atomenergio;atomic energy
 atomfendado;fission
-atomfuzio;atomic fusion
+atomfuzio;atomic fusion, fusion
 atomo;atom
 atompezo;atomic weight
 atomteorio;atomic theory
 atonala;atonal
 atributo;attribute
 atriplo;orache
-atrofii;to atrophy
-atrofiiĝi;to atrophy
+atrofii, atrofiiĝi;to atrophy
 atrofio;atrophy
 atuti;trump
 atuto;trump
@@ -1285,8 +1238,6 @@ aŭtokratio;absolute power, absolute rule, autocracy
 aŭtokratismo;autocracy
 aŭtokrato;absolute ruler, autocrat
 aŭtoktono, aŭtoĥtono;native
-aŭtolitotrajno;car sleep train
-aŭtolitvagonaro;car sleep train
 aŭtoluigado;car hire
 aŭtomacio;automation
 aŭtomata;automatic
@@ -1299,18 +1250,14 @@ aŭtomobilismo;motoring
 aŭtomobilisto;motorist
 aŭtomobilo;automobile, car, motor car, motor-car
 aŭtonoma;autonomic, autonomous
-aŭtonomeco;autonomy
-aŭtonomio;autonomy
-aŭtopneŭmatiko;automobile tyre, motor tyre
-aŭtopneŭmo;automobile tyre, motor tyre
+aŭtonomio, aŭtonomeco;autonomy
+aŭtopneŭmo, aŭtopneŭmatiko;automobile tyre, motor tyre
 aŭtopsio;autopsy
 aŭtora rajto;copyright
 aŭtoradio;car radio
 aŭtorino;authoress, writer, woman writer
 aŭtoritata;authorative
-aŭtoritateco;authority
-aŭtoritato;authority
-aŭtoritatulo;authority
+aŭtoritato, aŭtoritateco, aŭtoritatulo;authority
 aŭtoro;author
 aŭtostiranto;motorist
 aŭtostirlernejo;driving-school, school of motoring
@@ -1336,8 +1283,7 @@ avelarbo;hazel, hazel-tree
 avelo;hazelnut
 avelujo;hazel, hazel-tree
 aveno;oats
-aventura;adventurous
-aventurema;adventurous
+aventura, aventurema;adventurous
 aventuristo;adventurer
 aventuro;adventure
 aventurriĉa;adventurous
@@ -1367,7 +1313,6 @@ azaleo;azalea
 azenbleki;to bray
 azenĉevalo;hinny
 azenino;jenny-ass, she-ass
-azenisto;donkey-driver
 azeno;ass, donkey
 azilo;asylum
 azimuto;azimuth
@@ -1450,7 +1395,6 @@ bangalo;bungalow
 banĝo;banjo
 bani;to bathe
 bani sin;bathe, have a bath
-banjano;banyan
 banka bileto;bank-note
 bankajuto;bathing box
 bankalsono;swimming trunks
@@ -1474,13 +1418,12 @@ bankrotulo;bankrupt
 banksaldo;balance, balance with a bank
 banksekreto;banking secret
 bankuracejo;health resort
-bankuvo;bath
-bano;bath
+bano, bankuvo;bath
 banspongo;bathing-sponge
 banŝio;banshee
 banurbo;spa
 baptejo;baptistery
-bapti;to baptize, christen
+bapti;to baptize, christen, baptise
 baptisto;baptist
 bapto;baptism, christening
 baptopatro;godfather *bapto (baptism) + patro (father)
@@ -1497,13 +1440,11 @@ barbaro;barbarian
 barbfiŝo;barbel
 barbhava;bearded
 barbio;barbel
-barbiro;barber
-barbisto;barber
+barbisto, barbiro;barber
 barbiturato;barbiturate
 barbo;beard
 barĉo;borscht, borstch
 bardo;bard
-bareliefo;bas-relief, low relief
 barelo;barrel
 barĝestro;barge-master
 barĝo;barge
@@ -1542,7 +1483,7 @@ basto;bast
 bastonadi;to beat, beat up, flog, thrash, whack
 bastoneto;stick, little stick
 bastono;baton, cane, stick
-basulo;bass
+basulo;bass, bass player
 basviolono;bass-viol, violoncello
 batadi;to clatter
 batalema;truculent
@@ -1570,8 +1511,7 @@ bazopilkludo;baseball
 bazuko;anti-tank gun, bazooka
 bebo;baby
 bebofono;baby intercom, baby phone
-bebovartantino;baby-sitter
-bebovartanto;baby-sitter
+bebovartanto, bebovartantino;baby-sitter
 bedaŭri;to be sorry about, regret
 bedaŭriga;miserable
 bedaŭrinda;regrettable
@@ -1598,12 +1538,10 @@ bemolo;flat
 bendi;tape
 bendo;binding, strip, tape
 benefico;benefit performance
-bengala fajro;bengal-light, bengal-lights
 beni;to bless
 benigna;benign
 benketo;small bench, stool
 benko;bench
-benkseĝaro;lounge suite, three-piece suite
 beno;blessing, boon
 benzeno;benzene
 benzincisterno;fuel tank
@@ -1614,8 +1552,7 @@ benzinnivela indikilo;petrol gauge
 benzino;gasolene, gasoline, petrol
 benzinstacio;filling station
 benzinujo;gas tank, petrol tank
-berilo;beryl
-berilŝtono;beryl
+berilo, berilŝtono;beryl
 bermo;shoulder, verge, verge of a road
 bero;berry
 besta;beastly, bestial
@@ -1652,10 +1589,8 @@ bildero;pixel
 bildkarto;picture postcard
 bildo;image, picture
 bildodetruo;iconoclasm
-bildotubo;cathode tube
-bildsimbolo;icon *bild (image) + simbolo (symbol)
-bildtubo;cathode tube
-bildvalvo;cathode tube
+bildsimbolo;icon
+bildtubo, bildotubo, bildvalvo;cathode tube
 biletgiĉeto;booking-office
 bileto;bill, ticket, note
 binara;binary
@@ -1727,15 +1662,14 @@ boksi;box
 boksisto;boxer
 bokso;boxing
 boleti;to simmer
-boli;boil
-boligi;boil
+boli, boligi;boil
 bolilo;kettle
 bolkruĉo;kettle
 boltingo;nut
 bombardi;bombard
-bombi;bomb
+bombi;to bomb
 bombikso;silkworm
-bombo;bomb
+bombo;bomb, a bomb
 bombono;bonbon, bon-bon
 bona;good, nice, okay
 bonan matenon;good morning
@@ -1798,7 +1732,6 @@ botelo;bottle
 boto;boot
 bova;bovine, cow, cow-
 bovaĵo;beef
-bovejo;byre, cowhouse, cowshed
 bovidaĵo;veal
 bovido;calf
 bovino;cow
@@ -1814,7 +1747,6 @@ brakseĝo;armchair
 brakumi;to embrace
 branĉeto;twig
 branĉo;bough, branch
-branĉotranĉilo;bill, pruning-knife
 branĉvojo;by-way, side-way
 brando;brandy
 brankardo;stretcher
@@ -1893,7 +1825,7 @@ budo;barn, shed, stand
 bufedo;buffet
 bufo;toad
 bufro;buffer, bumper
-bugri;to bugger, sodomize
+bugri;to bugger, sodomize, sodomise
 bugro;anal sex
 buĝeta deficito;budgetary deficit
 buĝeto;budget
@@ -1901,7 +1833,7 @@ bukanisto;buccaneer
 bukedo;bouquet
 buki;to buckle
 bukli;to curl
-buklo;curl
+buklo;curl, lock
 buko;buckle
 bukso;box-tree
 bulbo;bulb
@@ -1952,7 +1884,6 @@ carino;czarina
 caro;czar
 cedemo;accommodation
 cedi;to cede, give in, give up, give way, relinquish, yield
-cedigi;soften up
 cedo;abandonment
 cedro;cedar
 celebrado;celebration
@@ -1996,7 +1927,6 @@ cerva;deer, deer-, of a deer
 cervido;fawn
 cervino;hind
 cervo;deer
-cervoparko;deer-park
 cetera;additional, remaining, rest of
 cetere;besides, for the rest, moreover, what's more
 cetero;remainder
@@ -2017,10 +1947,9 @@ cigareto;cigarillo
 cigaro;cigar
 cigarstumpo;cigar-end, cigar-stub
 cigno;swan
-cikatro;scar
+cikatro;scar *cicatrice (fr)
 ciklono;cyclone
 cikonio;stork
-cikorio;chicory
 cilindro;cylinder, roller
 cimbalisto;cymbalist
 cimbalo;cymbal
@@ -2033,8 +1962,7 @@ cindroblonda;ash-blond, ash-blonde
 cindrogriza;ashen
 cindrujo;ashtray
 cinika;cynical
-cipreso;cypres
-cirklo;circle
+cirklo;circle, geometric circle
 cirko;circus
 cirkonferenco;circumference
 cirkonstanco;circumstance
@@ -2059,10 +1987,8 @@ citrono;lemon
 citronsuko;lemon juice
 citronujo;lemon-tree
 civila;civil, civilian, non-military
-civilizacio;civilization
-civilizado;civilization
-civilizi;to civilize
-civilizo;civilization
+civilizi;to civilize, civilise
+civilizo, civilizado, civilizacio;civilization, civilisation
 civita;civic
 civitano;citizen
 civito;city state
@@ -2100,7 +2026,6 @@ colo;inch
 ĉaskuri;to chase, hunt for
 ĉasta;chaste
 ĉasteco;chastity, purity
-ĉastigi;bowdlerize, chasten, expurgate, purify
 ĉastranĉilego;cutlass
 ĉatrio;chatri
 ĉe;at, beside, with
@@ -2115,19 +2040,17 @@ colo;inch
 ĉefduklando;archduchy
 ĉefduko;archduke
 ĉefe;chiefly
-ĉefepiskoplando;archbishopric
 ĉefepiskopo;archbishop
-ĉefkonsulo;consul general
 ĉefkuiristo;chef
 ĉefministro;premier, prime minister
 ĉefo;chief, boss
 ĉefparte;for the greater part, for the most part
 ĉefurbo;capital, capital city, metropolis
-ĉefvojo;major road
+ĉefvojo;major road, main road
 ĉekaro;cheque-book
 ĉeko;check, cheque
 ĉelo;cell
-ĉemizo;shirt
+ĉemizo;shirt *chemise (fr)
 ĉenero;link
 ĉeno;chain
 ĉerizarbo;cherry-tree
@@ -2171,7 +2094,7 @@ colo;inch
 ĉifono;rag, scrap
 ĉifro;code, secret code
 ĉikanado;hair-splitting
-ĉikani;to carp at, haze, quibble
+ĉikani;to quibble, cavil at, bully, gossip
 ĉikanulo;hair-splitter, niggler, nit-picker
 ĉikune;herewith
 ĉimomente;at this moment
@@ -2215,7 +2138,6 @@ colo;inch
 ĉizi;to carve, chisel
 ĉizilo;chisel
 ĉokoladbriketo;bar of chocolate
-ĉokoladkovrita pufkuko;chocolate éclair
 ĉokolado;chocolate
 ĉu;either, if, is it, whether
 ĉu ne;isn't it, isn't that so, or not
@@ -2338,7 +2260,7 @@ dek-unua;eleventh
 deka;tenth
 dekalkulebla;deductible
 dekalkuli;count down
-dekano;dean
+dekano;dean *
 dekduo;dozen
 deklamanto;reciter
 deklami;to declaim, recite
@@ -2412,7 +2334,7 @@ demonstro;demonstration
 demordi;to bite off
 denaska;congenital, inborn, inbred, innate, native
 denombrado;ennumeration
-denove;again, all over again, anew
+denove;again, all over again, anew, newly
 densa;concentrated, dense, thick
 denta;dental
 dentaro;teeth
@@ -2449,7 +2371,6 @@ deprimiteco;dejection, depression
 deprimo;depression
 deputado;delegation, deputation
 deputato;delegate, deputy, representative
-deputi;to depute
 deputilaro;delegation, deputation
 deputito;delegate, deputy, representative
 derazi;to shave, shave off
@@ -2476,7 +2397,6 @@ destini;to destine, earmark, ordain
 destini por;destine for
 destino;destiny, fate
 destinprojekto;development plan
-desubtrahata nombro;minuend
 desuĉilo;hood, suction apparatus
 deŝiri;to pick, pluck, tear off
 deŝovi;to abdicate *de + ŝovi (shove / push)
@@ -2583,14 +2503,14 @@ diplomiĝi;to graduate
 diplomita;certificated, graduate
 diplomo;diploma
 direktado;steering
-direktanta;leading
+direktanta;leading, directing
 direktanto;manager
 direkti;to direct, guide, manage, steer
 direkti al;head for, make for
 direkti sin;bear down, make
 direkti sin al;break down upon, make for
 direkti sin laŭ;abide by
-direktilisto;driver
+direktilisto;driver, director
 direktilo;handlebars, helm, rudder
 direktilstango;tiller
 direkto;direction
@@ -2670,7 +2590,7 @@ dividi;to divide, separate, share
 dividstreko;break
 divizio;division, military division
 dizelo;diesel
-do;so, then, therefore
+do;so, then, therefore *danc (fr)
 doganejo;custom-house
 dogano;customs
 dogmo;dogma
@@ -2732,7 +2652,7 @@ dorsflanko;back, reverse, reverse side
 dorso;back
 dorsosako;rucksack
 dosiero;dossier, file
-dosierujo;folder
+dosierujo;folder, directory
 doti;to endow
 doto;dowry
 dozi;to measure out
@@ -2782,7 +2702,6 @@ dujara;biennial, two-year, two-year-old
 dukino;duchess
 duklando;duchy
 duko;duke
-dukolora;bicolour, bicoloured, of two colours
 dum;for, during, whereas, while, whilst
 dume;all the time, in the meantime, meanwhile
 dumnokte;at night, during the night
@@ -2842,7 +2761,6 @@ ebrio;drunkenness
 ebriulo;drunk
 eburo;ivory
 eĉ;even
-edelvejso;edelweiss
 edifi;to edify
 edukado;education
 eduki;to breed, bring up, educate, raise
@@ -2908,7 +2826,7 @@ ekkanti;to intone, raise
 ekkapti;to clutch, grab, grasp, grip, seize
 ekkoleri;to get angry
 ekkonsumi;to break into, broach, cut into
-ekkrii;to call out
+ekkrii;to call out, exclaim
 ekkuri;to start running
 ekkuro;run
 ekkuŝi;to lie down
@@ -2936,7 +2854,7 @@ ekranumi;to screen
 ekrigardi;to glance
 ekrimarki;to descry, perceive
 eks-;ex-, former
-eksalti;to start
+eksalti;to start, jump, jump up
 eksceso;excess
 ekscita;exciting
 eksciteco;excitement
@@ -2962,7 +2880,7 @@ ekskrecii;to secrete
 ekskui;to jerk, jolt, shake *ek + skui (shake)
 ekskurso;excursion, outing, sightseeing trip
 ekskuzi;to excuse
-ekskuzi sin;apologize
+ekskuzi sin;apologize, apologise
 ekskuzo;apology
 eksmembriĝi;to withdraw one's name, withdraw one's subscription
 eksmoda;old-fashioned, out of date
@@ -2976,8 +2894,7 @@ eksperimenta;experimental
 eksperimenti;to experiment
 eksperimento;experiment
 eksperta;expert
-ekspertisto;expert
-eksperto;expert, specialist
+eksperto, ekspertisto;expert, specialist
 ekspliki;to explain
 ekspliko;explanation
 eksplodi;to explode
@@ -2985,7 +2902,7 @@ eksplodigi;to blow up
 eksplodilo;explosive device
 eksplodmotoro;internal combustion engine
 eksplodo;explosion
-ekspluati;to exploit, utilize
+ekspluati;to exploit, utilize, utilise
 ekspona tempo;exposure time
 eksponi;to demonstrate, exhibit, expose
 eksponmezurilo;exposure meter
@@ -3099,7 +3016,7 @@ elizio;elision
 elĵetaĵo;refuse, rubbish, waste
 elkovi;to hatch out
 elkrani;tap
-ellabori;to finish, work out
+ellabori;to develop, work out, work on
 ellacigi;to fag out, fatigue, jade, overdrive, override, tire out
 ellasi;to release
 ellerni;to master
@@ -3133,7 +3050,7 @@ elŝipiĝi;to disembark
 elŝovi;thrust out
 elteni;to abide, endure
 elterigi;to dig, dig up, lift, pull up
-eltiro;pull
+eltiro;pull, extraction
 eltrovaĵo;invention
 eltrovi;to invent
 eltrovo;invention
@@ -3144,7 +3061,6 @@ eluzita;worn
 elvagoniĝi;to get out
 elveni;come out
 elverŝi;pour out
-elvido;view
 elvoki;to evoke
 emajlo;enamel
 embarasa;straitened
@@ -3158,7 +3074,7 @@ emerita;retired
 emeritiĝi;to retire
 emerito;retired person
 emfaza;emphatic
-emfazi;to accent, accentuate, emphasize
+emfazi;to accent, accentuate, emphasize, emphasise
 emfazo;accent, emphasis
 emi;to have a tendency
 eminenta;eminent
@@ -3186,7 +3102,6 @@ enboteligi;bottle
 enciklopedio;encyclopaedia, encyclopedia
 enĉifri;to encipher
 endanĝerigi;to endanger
-endivio;endive
 endormiĝi;go to sleep
 enen;inwards
 energia;energetic
@@ -3241,7 +3156,7 @@ enorma;enormous
 enpaki;to pack, package, wrap up
 enpoŝtigi;post
 enradikiĝi;root, strike
-enregistri sin;log in
+enregistri sin;log in, register oneself
 enregistrigi;to register
 enskribi;to enter
 enskribigi;to register
@@ -3364,7 +3279,6 @@ esti ... laŭtuŝe;feel ...
 esti longa;measure
 esti malfermetita;be ajar
 esti pli forta ol;be able to match with, be stronger than
-esti preskaŭ;abut on to, abut to
 esti sklaviĝinta;be addicted
 esti traktata kiel;be treated as
 esti unu el;belong to, be one of
@@ -3481,7 +3395,7 @@ falsigi;to falsify
 faluso;phallus
 fama;famous
 fameco;fame, renown
-familia;domestic
+familia;domestic, family
 familia ĉambro;living room
 familia nomo;surname
 familio;family
@@ -3513,7 +3427,6 @@ fariĝo;event
 farmaciisto;chemist, dispensing chemist, pharmaceutical chemist, pharmacist
 farmacio;pharmacy
 farmi;to farm, lease
-farmigi;to farm out
 farmisto;farmer
 farmo;farm
 faro;action
@@ -3648,7 +3561,7 @@ filio;affiliate, branch
 filmo;film, motion picture, movie
 filmruleto;film
 filo;son
-filozofi;to philosophize
+filozofi;to philosophize, philosophise
 filozofio;philosophy
 filozofo;philosopher
 filtri;to filter
@@ -3662,7 +3575,7 @@ financa;financial
 financi;to finance
 financo;finance
 finaranĝi;conclude, dispatch, expedite, finnish, settle
-findecidi;compose, conclude, dispatch, settle
+findecidi;compose, conclude, dispatch, settle, decide
 fine;at last, finally, ultimately
 finfari;to finish, finish off
 finfine;at last, at long last
@@ -3686,7 +3599,7 @@ finstudi;to finish one's studies
 finuzitaĵo;cast-off
 finveni;to end up
 firakonto;dirty story
-firma;fast, firm, stable
+firma;fast, firm, stable, emotionally stable
 firmao;company, firm
 firme;firmly
 firmigi;to fasten, fix, affix, secure
@@ -3755,8 +3668,8 @@ floranta;abloom
 florbrasiko;cauliflower
 floro;bloom, flower
 florpoto;flowerpot
-flosi;to float
-floso;raft
+flosi;to float *Floß (de)
+floso;raft *Floß (de)
 floto;fleet
 flua;fluent
 fluaĵo;fluid, liquid
@@ -3850,7 +3763,7 @@ forlasi;to abandon, forsake, desert, leave, quit
 forlasi ĵure;abjure, forswear, swear off, renounce
 forlasiteco;abandonment
 forlaso;abandonment
-forlavi;to wash off
+forlavi;to wash off, to wash away
 forlesivi;to wash off
 forloga;repellent, repelling, repulsive
 formala;formal
@@ -3889,10 +3802,10 @@ forŝoviĝo;shift
 forŝovo;shift
 forta;strong
 forteco;force, strength
-forteni;to keep at a distance, keep at bay
+forteni;to keep at a distance, keep at bay, keep away
 fortepiano;pianoforte
 fortigi;fortify
-fortika;firm, robust, sturdy
+fortika;firm, robust, sturdy, physically stable
 fortikaĵo;fortification
 fortimiga;deterrent, forbidding
 fortimigi;to deter, discourage, scare
@@ -3956,13 +3869,12 @@ fraŭdi;to defraud, swindle
 fraŭla;single, unmarried
 fraŭlino;unmarried woman, spinster
 fraŭlo;bachelor
-frazisto;coaxer, flatterer
 frazo;sentence
 frekventi;to frequent, visit regularly
 fremda;alien, foreign, strange
 fremdulino;stranger, female stranger
 fremdulo;foreigner, stranger
-freneza;crazy, insane, mad, nuts
+freneza;crazy, insane, mad, nuts, frenetic
 frenezeco;craziness, insanity, lunacy, madness
 frenezeta;crack-brained, daft, loopy, nuts, weird
 frenezi;to act crazy, rave
@@ -4071,7 +3983,6 @@ gajno;benefit, gain, profit
 galaksia;galactic
 galerio;gallery
 galino;fowl
-galinolo;moorhen
 galjono;galloon, gold braid, stripe
 galo;bile, gall
 galopi;to gallop
@@ -4237,7 +4148,7 @@ gluo;glue
 glutegi;to gulp down
 gluteo;buttock
 gluti;to swallow
-gnomo;brownie, gnome, goblin
+gnomo;gnome, brownie, goblin
 gnuo;gnu, wildebeest
 golejo;goal
 golfeto;bay
@@ -4308,8 +4219,8 @@ groso;gooseberry
 groŝo;groschen
 groteska;grotesque
 groto;cave, grotto
-grumbli;to growl, grumble
-grumblulo;grouser, grumbler
+grumbli;to grumble, to growl
+grumblulo;grumbler, grouser
 grumo;groom, stableman
 grunda disfalo;landslide
 grundi;to strand
@@ -4390,7 +4301,7 @@ gvido;guide
 ĝiri;to endorse
 ĝiro;endorsement
 ĝis;until, till
-ĝis nun;yet
+ĝis nun;yet, until now
 ĝis revido;bye, goodbye, so long
 ĝisatendi;to bide, abide, stay for, wait, await, wait for
 ĝisfunde;thoroughly
@@ -4436,7 +4347,6 @@ hamako;hammock
 hamburgero;hamburger
 hanti;to haunt
 hararo;hair
-hararzono;hair ribbon, fillet
 hardi;to harden, temper
 haremo;harem
 harfendado;hair-splitting
@@ -4444,7 +4354,7 @@ harfendemulo;hair-splitter, niggler, nit-picker
 haringo;herring
 harkovrita;hairy, hirsute
 harmonia;harmonious
-harmonii;to fit together, harmonize
+harmonii;to fit together, harmonize, harmonise
 harmoniko;harmonica
 harmonio;harmony
 haro, haroj;hair, hairs
@@ -4455,7 +4365,6 @@ hasta;hurried
 hasto;haste
 haŝiŝo;hashish
 haŭto;skin
-haŭtveziketo;blister
 havebla;available
 haveno;harbor, harbour, port
 havi;to have, have got
@@ -4484,7 +4393,7 @@ hejtaĵo;fuel
 hejti;to heat, stoke
 hejtilo;heater
 hektolitro;hectolitre
-hela;bright, clear, light
+hela;bright, clear, light, whiteness
 helblua;bright blue
 heleboro;hellebore
 helianto;sunflower
@@ -4493,8 +4402,7 @@ heliĝi;to clear
 helika konko;snail-shell
 heliko;snail
 heliumo;helium
-helpa;auxilary
-helpantino;assistant, lady help
+helpa;auxilary, helpful
 helpanto;aid, assistent, helper
 helpema;accommodating, helpful
 helpemo;helpfulness, readiness to help
@@ -4542,7 +4450,7 @@ hieraŭa;yesterday, of yesterday
 higieno;hygiene
 himno;anthem, hymn
 hino;hinny
-hipnotigi;to hypnotize
+hipnotigi;to hypnotize, hypnotise
 hipnotisto;hypnotist
 hipnoto;hypnosis, hypnotic trance
 hipokrita;hypocritical
@@ -4551,7 +4459,7 @@ hipokritulo;hypocrite
 hipopotamo;hippo, hippopotamus
 hipoteko;mortgage
 hipoteza;hypothetical
-hipotezi;to hypothesize
+hipotezi;to hypothesize, hypothesise
 hipotezo;hypothesis
 hirta;bristly, standing on end, untidy
 hirti;to bristle
@@ -4746,7 +4654,7 @@ impostoficejo;tax-collector's office
 impostpaganto;ratepayer, taxpayer
 impostplialtigo;tax hike, tax increase
 impostpremo;tax burden
-impostsistemo;fiscal system, system of taxation, tax system
+impostsistemo;tax system, fiscal system, system of taxation
 impotenta;impotent
 impresebla;accessible, impressible, sensitive
 impresi;to impress
@@ -4756,7 +4664,7 @@ impresionisto;impressionist
 impreso;impression
 impulsi;to impel
 impulso;access, impetus, impulse
-imputi;to blame, hold against
+imputi;to blame, hold against, impute
 imputo;imputation
 imuna;immune
 ina;female, feminine
@@ -4818,8 +4726,8 @@ infesti;to infest
 infesto;infestation
 inflacio;inflation
 inflamo;inflammation
-influi;to affect, influence
-influo;influence
+influi;to affect, to influence
+influo;influence, an influence
 informaĵo;information
 informejo;inquiry-office
 informi;to inform, report
@@ -4854,7 +4762,7 @@ inokuli;to inoculate
 insektforpelilo;repellent, insect repellent
 insekto;bug, insect
 insida;insidious
-insidanto;attacker, enemy
+insidanto;attacker, enemy, intruder
 insidi;to set a trap, set a trap for
 insidi kontraŭ;beset, threaten
 insido;snare
@@ -5008,7 +4916,7 @@ irorevena bileto;return-ticket
 irpreni;to fetch, get, pick up
 itinero;route
 iu;a, any, anybody, some, somebody, one, someone, some one
-iu ajn;any
+iu ajn;any, anyone
 iuj;a few, some
 izola;isolated, secluded
 izolado;insulation, isolation
@@ -5046,8 +4954,7 @@ jodli;yodel
 jodo;iodine
 jogo;yoga
 jogurto;yoghourt, yoghurt
-jokero;wild card
-jokersigno;wild card
+jokero, jokersigno;wild card, joker
 jordanĝero;danger of skidding
 jori;to skid
 joto;iota, jot
@@ -5092,7 +4999,6 @@ juvelo;jewel
 ĵeteti;toss
 ĵeti;throw
 ĵeti sin sur;leap upon, pounce upon, spring upon
-ĵeti sur;abdicate to
 ĵetkovri;to sprinkle, strew
 ĵetkubo;die
 ĵetlanco;javelin
@@ -5197,7 +5103,7 @@ kampi;to camp out
 kamploĝi;to camp out
 kampo;field
 kampulo;farmer
-kampumi;to camp out
+kampumi;to camp out, to camp
 kana;cane, cane-
 kanabo;hemp
 kanajlo;rogue, scoundrel
@@ -5214,7 +5120,6 @@ kanelo;slot
 kanibalo;cannibal
 kanistro;fuel tank
 kano;cane, reed
-kanonigo;canonization
 kanono;cannon
 kanoto;canoe
 kantado;singing
@@ -5226,7 +5131,6 @@ kantistino;singer, female singer
 kantisto;singer
 kanto;song
 kanvaso;canvas
-kanzono;chanson
 kaosa;chaotic
 kaoso;chaos, tangle
 kapabla;able, capable
@@ -5270,8 +5174,8 @@ karafi;to decanter
 karafo;carafe, decanter
 karakteranalizo;profile
 karakteriza, karakterizaĵo;characteristic
-karakterizado;characterization
-karakterizi;to characterize
+karakterizado;characterization, characterisation
+karakterizi;to characterize, characterise
 karakterizo;profile
 karaktero;character, nature, personality
 karambolfrukto;carambola, star-fruit
@@ -5315,8 +5219,7 @@ kartavi;to make a uvular R
 karto;card, map, menu
 kartoĉo;cartridge
 kartono;cardboard
-karulino;darling
-karulo;darling
+karulo, karulino;darling
 karuselo;carousel, carrousel, merry-go-round
 kasavo;cassava
 kasedo;cassette
@@ -5348,7 +5251,7 @@ katarakto;cataract
 katastrofo;catastrophe
 katedralo;cathedral
 katedro;pulpit
-kategoria;firm, peremptory, resolute
+kategoria;categorical, firm, peremptory, resolute
 kategorio;category
 kateĥismo;catechism
 kateni;to fetter, shackle
@@ -5376,7 +5279,6 @@ kavo;cave, cavity
 kavokula;hollow-eyed
 kazerno;barracks
 kazino;casino
-kazo;afair, case, matter
 kazo;affair, case, matter
 ke;that
 keglo;pin
@@ -5396,11 +5298,9 @@ kerno;core, nucleus, kernel, pit
 kesto;box, chest
 kia;what kind of, what sort of
 kiagrade;to what extent
-kial;why
 kial;what for, why
 kialo;reason
 kiam;as, when
-kiam;when
 kiamaniere;how, in what way
 kibico;bushbody, meddler
 kibuco;kibbutz
@@ -5440,14 +5340,14 @@ kirurga;surgical
 kirurgio;surgery
 kirurgo;surgeon
 kisi;to kiss
-kiso;kiss
+kiso;kiss, a kiss
 kitelo;overalls, smock
 kiu;that, which, which one, who
 kiu ajn;any, whichever, whoever
 kiu;who, which, which one, that, which
 kiuj;who, which, which ones, that, which, who
 kiun;which, which one, that, who
-klaĉi;gossip
+klaĉi;to gossip
 klaĉo;gossip
 klakfermi;to bang, slam
 klakfermiĝi;to slam shut
@@ -5492,8 +5392,7 @@ klubano;club member
 klubo;club, society
 kluĉilo;clutch
 kluzo;lock, sluice
-knaba;boyish
-knabeca;boyish
+knaba, knabeca;boyish
 knabino;girl, lass
 knabo;boy
 knari;to creak, grate
@@ -5504,8 +5403,7 @@ koboldo;goblin, imp
 kobro;cobra
 kodigi;to encode
 kodo;code
-kofro;trunk
-kofrujo;trunk
+kofro, kofrujo;trunk
 kohera;coherent, connected, consistent
 koiti;to make love
 kojni;to wedge
@@ -5521,11 +5419,9 @@ kokejo;coop
 koketa;coquettish
 koketi;to flirt
 kokido;chick, chicken
-kokino;chicken, fowl
-koko;chicken, fowl
+koko, kokino;chicken, fowl
 kokono;cocoon
-kokosnukso;cocoanut, cocoa-nut, coconut, coco-nut
-kokoso;cocoanut, cocoa-nut, coconut, coco-nut
+kokoso, kokosnukso;cocoanut, cocoa-nut, coconut, coco-nut
 kokospulpo;coconut pulp, coco-nut pulp
 kokosujo;coconut palm, coconut-palm
 kokri;to be unfaithful, be unfaithful to
@@ -5549,8 +5445,6 @@ kolero;anger
 kolibro;hummingbird
 koliero;necklace
 kolizii;collide
-kolizii kontraŭ;collide with
-kolizii kun;collide with, crash into
 kolizio;collision
 kolo;neck
 kolombino;dove, female pigeon
@@ -5558,7 +5452,7 @@ kolombo;dove, pigeon
 kolombumi;to bill and coo
 kolonelo;colonel
 kolonia;colonial
-koloniigi;colonize
+koloniigi;colonize, colonise
 kolonio;colony, settlement
 kolono;column, pillar
 kolorigi;color, colour, paint
@@ -5576,10 +5470,9 @@ komando;command
 kombi;to comb
 kombilo;comb
 kombinaĵo;combination
-kombini;combine
-kombiniĝi;combine
+kombini, kombiniĝi;combine
 komedio;comedy
-komedono;acne
+komedono;acne *
 komenca;initial
 komenca litero;initial
 komenca periodo;initial stage
@@ -5587,21 +5480,20 @@ komenca salajro;commencing salary
 komencaj kostoj;initial cost, initial costs, start-up cost, start-up costs
 komencanto;beginner
 komence;at first, at the outset, in the beginning
-komenci;to begin, commence, start
-komenciĝi;to begin, commence, start
+komenci, komenciĝi;to begin, commence, start
 komenciĝo;beginning, commencement, start
-komenclitero;initial
+komenclitero;initial, initial letter
 komencloko;starting point
 komenco;beginning, commencement, start
 komencrapido;initial velocity
 komentarii;comment on
 komentario;annotation, note
-komenti;comment
+komenti;to comment
 komento;comment
 komercado;trading
 komercaĵo;merchandise, wares
 komerci;do business, trade
-komercisto;merchant
+komercisto;merchant, businessman
 komerco;business, commerce, trade
 kometo;comet
 komforto;comfort
@@ -5640,15 +5532,14 @@ kompili;compile
 kompililo;compiler
 kompilo;compilation
 komplekso;complex
-komplemento;adjunct
+komplemento;adjunct, complement
 kompleta;absolute, complete
 kompletiga;complementary, supplementary
 kompletigi;to complete
-kompletigo;replacement, replenishment, supplement
+kompletigo;replacement, replenishment, supplement, completion
 kompletiĝi;to become complete
 kompleto;outfit, set, suit
-kompleza;kind, obliging
-komplezema;kind, obliging
+kompleza, komplezema;kind, obliging
 komplezi;do a favor, do a favour
 komplezo;favor, favour
 kompliceco;abetment
@@ -5668,7 +5559,7 @@ komprenebleco;comprehensibility, intelligibility
 kompreni;to understand, realise, realize
 komprenigi;to explain
 komprenita;understood
-kompreno;notion, sense, realization
+kompreno;notion, sense, realization, realisation
 komprenpovo;understanding
 kompromiso;accommodation
 komputero, komputilo;computer
@@ -5683,7 +5574,7 @@ komunismo;communism
 komunisto;communist
 komunumo;community
 komuti;commute
-konata;well-known
+konata;well-known, known
 konateco;acquaintance, conversance, familiarity
 konato;acquaintance
 koncedi;to admit, concede, grant
@@ -5721,13 +5612,12 @@ konfederacio;confederation
 konferenco;conference
 konfese;admittedly
 konfesi;to admit, confess, profess
-konfesio;confession
-konfeso;confession
+konfeso, konfesio;confession
 konfidenco;confidence, secret
 konfidi;confide, have confidence in, trust, entrust
 konfidi al;rely on, trust in
 konfido;confidence
-konfirmacii;confirm
+konfirmacii;confirm, religiously confirm
 konfirmacio;confirmation
 konfirmi;confirm, corroborate
 konfirmo;confirmation
@@ -5788,7 +5678,7 @@ konservativa;conservative
 konservatorio;academy of music
 konservejo;box-room, storage room
 konservema;conservative
-konservemulo;conservative
+konservemulo;conservative, conservative person
 konservi;conserve, keep, maintain, preserve
 konservo;conservation, maintenance, preservation, retention
 konservulo;conservative
@@ -5829,8 +5719,7 @@ konsterno;consternation
 konstipi;constipate
 konstipo;constipation
 konstitucio;constitution
-konstruado;building
-konstruaĵo;building
+konstruaĵo, konstruado;building
 konstruentreprenisto;builder, contractor, building contractor, master builder
 konstrui;to build, construct
 konstruisto;builder
@@ -5874,7 +5763,7 @@ kontrakti prunton;contract a loan
 kontraktita;job-
 kontrakto;contract
 kontralto;contralto
-kontrasti;contrast
+kontrasti;to contrast
 kontrasto;contrast
 kontraŭ;across from, against, in exchange for, opposed to, opposite, upon
 kontraŭa;alien, contrary
@@ -5931,12 +5820,12 @@ konvikti;convict
 konvinki;convince, persuade
 konvinko;belief, conviction
 konvulsio;convulsion
-kopii;copy
+kopii;to copy
 kopio, kopiaĵo;copy
 kopirajto;copyright
 kora;cardiac, cordial, hearty
 korako;raven
-koralinsulo;atoll
+koralinsulo;atoll, coral island
 korbo;basket
 korbopilko;basketball
 kordo;cord, string
@@ -5957,7 +5846,6 @@ korno;hooter, horn, klaxon
 kornuso;cornel, dogberry
 koro;heart
 korodi;corrode
-korono;corona
 korpa;bodily, body, body-, corporal, corporeal, of the body, physical
 korpigi;to embody
 korplingvo;body language
@@ -5999,7 +5887,7 @@ koturno;quail
 koverto;envelope
 kovi;to incubate, sit
 kovraĵo;cover
-kovri;cover
+kovri;to cover
 kovri parte;overlay
 kovrilo;cover, hood, lid
 kovro;cover
@@ -6009,9 +5897,8 @@ kraĉi;to spit
 kraĉujo;cuspidor, spittoon
 kradi;to fence in, fence off, rail in, rail off
 krado;grate, grid, grill
-kradrostado;barbecue
-kradrosti;to barbecue
-kradrostilo;barbecue
+kradrostado, kradrostilo;barbecue
+kradrosti;to barbecue, to grill
 krajono;pencil
 krajonpintigilo;pencil sharpener
 kraketa;brittle, crisp, crunchy
@@ -6069,11 +5956,11 @@ kriptono;kriptono
 kristalo;crystal
 kristaniĝi;to become a Christian
 kritikanto;critic, judge
-kritiki;to criticize
+kritiki;to criticize, criticise
 kritiko;criticism
 kriza;critical
 krizo;crisis, depression, emergency
-kroĉi;hook
+kroĉi;to hook
 kroĉilo;hook
 krokodili;to crocodile
 krokodilo;crocodile
@@ -6112,7 +5999,6 @@ krurvindo;puttee
 kruta;abrupt, steep
 krutaĵo;precipice
 kruteco;steepness
-kruzero;cruzeiro
 ksenono;xenon
 kubutlibereco;elbow room
 kubuto;elbow
@@ -6131,8 +6017,7 @@ kufo;bonnet, cap
 kuglo;bullet
 kuirejo;kitchen
 kuirejstablo;dresser
-kuiri;cook
-kuiriĝi;cook
+kuiri, kuiriĝi;cook
 kuiristino;cook, female cook
 kuiristo;cook, male cook
 kuirpoto;cooking pot
@@ -6155,7 +6040,7 @@ kulo;gnat
 kuloto;short pants, shorts
 kulpa;guilty
 kulpiga;accusatory
-kulpigi;to accuse, blame
+kulpigi;to blame, accuse
 kulpigi pri;to accuse of, charge with, impeach of, indict for, tax with
 kulpigito;accused, defendant
 kulpigo;accusation, charge, complaint, indictment
@@ -6227,7 +6112,6 @@ kuracisto;doctor, physician
 kuraĝa;brave, courageous, valiant
 kuraĝi;to be bold, dare
 kuraĝi batali kontraŭ;dare to fight, stand up to
-kuraĝi entrepreni;to dare, venture
 kuraĝigi;to encourage
 kuraĝigo;encouragement
 kuraĝo;courage
@@ -6251,7 +6135,7 @@ kurteno;curtain
 kurtigi;to abbreviate, shorten
 kurzo;exchange rate, rate of exchange
 kuseno;cushion
-kuŝi;to lie, recline
+kuŝi;to lie, recline *coucher (fr)
 kuŝi supre sur;be on top of, lay on top of
 kuŝigi;to lay
 kuŝiĝi;to lie down
@@ -6260,17 +6144,15 @@ kutimi;to accustom, be in the habit of
 kutimiĝi;to accustom oneself, get used
 kutimo;custom, habit, way
 kuvo;tub, vat
-kuzino;cousin
-kuzo;cousin
+kuzo, kuzino;cousin
 kvadrata;square
 kvadratita;checked, chequered
 kvadratmejlo;square mile
 kvadrato;square
-kvalifi;to qualify
-kvalifiki;to qualify
+kvalifi, kvalifiki;to qualify
 kvalifikita;able
 kvalifiko;ability, qualification
-kvalito;property, quality
+kvalito;quality, property
 kvankam;though, although
 kvanto;quantity
 kvar;four
@@ -6284,9 +6166,7 @@ kvarope;by fours
 kvartalaĉo;back street, slum
 kvartalo;district, neighbourhood, quarter
 kvazaŭ;as if, as though, in a way
-kvazaŭĉasta;demure
-kvazaŭdecmora;demure
-kvazaŭpruda;demure
+kvazaŭĉasta, kvazaŭdecmora, kvazaŭpruda;demure
 kvereli;to quarrel, wrangle
 kverelo;quarrel
 kverko;oak
@@ -6304,16 +6184,14 @@ kvitanci;to receipt
 kvitanco;receipt
 kvitiĝi;to settle, square up
 kvitiĝo;settlement
-l';the
-la;the
+la, l';the
 la antaŭan semajnon;last week
 la cia;yours
-la hieraŭan nokton;last night
 la ilia;theirs
 la lia;his
 la mia;mine
 la nia;ours
-la pasintan nokton;last night
+la pasintan nokton, la hieraŭan nokton;last night
 la pasintan semajnon;last week
 la plejparto de;most of
 la proksiman semajnon;next week
@@ -6339,7 +6217,6 @@ laborista klaso;working class, working classes
 laborista movado;labor movement, labour movement
 laboristino;female laborer, femal labourer, femal worker
 laboristo;hand, laborer, labourer, operative, worker, working man, workman
-laborkapitalo;working capital
 laborkondiĉoj;terms of employment
 laborkonflikto;labor dispute, labour dispute
 labormaltaŭga;disabled, unfit for work
@@ -6354,7 +6231,7 @@ lacega;exhausted, tired out, worn out
 lacegigi;to fag out, jade, overdrive, override
 lacerto;lizard
 laciĝi;to get tired
-laĉo;shoe-lace
+laĉo;lace, shoe-lace
 lada;sheet metal, tin, tin plate
 ladbotelo;flask
 lado;sheet metal, tin, tin plate
@@ -6403,9 +6280,8 @@ lanugo;down, fluff
 lapo;burr
 lapsano;nipplewort
 lardo;bacon
-larĝa;broad
-larĝeco;width
-larĝo;width
+larĝa;broad, wide
+larĝo, larĝeco;width
 lariko;larch
 laringito;laryngitis
 laringo;larynx
@@ -6462,7 +6338,6 @@ lazuro;sky blue
 leciono;lesson
 ledaĵoj;leather goods
 ledo, leda;leather
-legacio;legation
 legaĵo;reading matter
 leganto;reader
 legebla;legible
@@ -6470,7 +6345,7 @@ legendo;legend
 legi;to read
 leginda;worth reading
 legio;legion
-legitimi;to legitimize
+legitimi;to legitimize, legitimise
 legomo;vegetable
 leĝera;light
 leĝo;law
@@ -6566,7 +6441,7 @@ lilio;lily
 limako;slug
 limdifini;to mark out, trace, trace out
 limi;bound
-limiga;restrictive
+limiga;restrictive, limiting
 limigi;to abridge, confine, limit, restrict
 limigo;limitation, restriction
 limo;boundary, frontier, limit
@@ -6575,8 +6450,7 @@ limtuŝanta;adjacent
 limtuŝi;to abut, adjoin, be next to
 lin;him
 linaĝo;linen
-lingva;linguistic
-lingvistika;linguistic
+lingva, lingvistika;linguistic
 lingvisto;linguist
 lingvo;language, tongue
 liniilo;ruler, straightedge, straight-edge
@@ -6585,8 +6459,7 @@ linko;lynx
 lino;flax
 linoleo;lineseed oil, lineseed-oil
 linoleumo;linoleum
-liphararo;moustache
-lipharoj;moustache
+lipharoj, liphararo;moustache
 lipo;lip
 lirli;to burble, gurgle, murmur, purl
 liro;lira, lyre
@@ -6600,14 +6473,13 @@ literaturo;literature
 litero;letter
 literumi;to spell
 litio;lithium
-litkadro;bedstead
 litkovrilo;blanket
-litkuseno;pillow
+litkuseno;pillow, bed cushion, bed pillow
 litmalsana;bedridden, confined to one's bed, laid up
 lito;bed
 litro;liter, litre
 litŝranko;cupboardbed
-littuko;sheet
+littuko;sheet, bed sheet
 liturgio;liturgy
 liturinado;bed-wetting, enuresis
 litvagono;sleeping-car
@@ -6659,22 +6531,21 @@ ludi sur;play, play on
 ludilo;toy
 ludo;game
 ludoni;to let
-luebla;for rent
+luebla;for rent, rentable
 luebla domo;house to let
-lui;to hire
+lui;to hire, to rent
 luigi;to let, rent out
 luigita;hired out
 luita domo;hired house, rented house
 luko;porthole, skylight
 lukontrakto;lease
 luksa;deluxe, de luxe, luxurious
-luksaĵo, lukseco;luxury
-lukso;luxury
+lukso, luksaĵo, lukseco;luxury
 lukti;to struggle, wrestle
 luli;to lull, rock
 lulilo;cradle
 lulkanto;lullaby
-luma;bright, light
+luma;bright, light, not dim
 lumbo;loin
 lumbriko;earthworm
 lumĝeni;to dazzle
@@ -6706,7 +6577,7 @@ magio;magic
 magistrata domo;town-hall
 magistro;master
 magneta;magnetic
-magnetigi;to magnetize
+magnetigi;to magnetize, magnetise
 magnetismo;magnetism
 magneto;magnet
 magnetofono;tape recorder, tape-recorder
@@ -6741,8 +6612,7 @@ malafabla;brutal, gruff, harsh, rough, sour, surly, unkind, unpleasant
 malafablega;grim
 malagrabla;bleak, dismal, dreary, horrible, ghastly, grisly, nasty
 malagrabla laboreto;bad job
-malakcepti;to reject
-malakcepti voĉdone;reject
+malakcepti, malakcepti voĉdone;to reject
 malakcepto;rejection
 malakra;blunt
 malakrigi;to blunt
@@ -6785,7 +6655,7 @@ malatenti;to neglect
 malavantaĝo;disadvantage
 malavara;generous
 malbela;nasty, ugly
-malbelega;dismal, dreary, horrible, nasty
+malbelega;dismal, dreary, horrible, nasty, ugly
 malbeni;to curse
 malbobenado;unrolling, unwinding
 malbobeni;to unroll, unwind, wind off
@@ -6846,7 +6716,6 @@ malfaldi;to spread out
 malfekunda;barren, infertile
 malfeliĉa;unhappy
 malfeliĉiga;miserable
-malfeliĉulo;unfortunate
 malfermegi la buŝon;open one's mouth wide
 malfermetita;ajar
 malfermi;to open, open up
@@ -6855,7 +6724,7 @@ malfermita;open
 malfermo;opening
 malfida;suspicious
 malfidela;unfaithful
-malfideliĝi;to apostatize, desert, secede
+malfideliĝi;to apostatize, desert, secede, apostatise
 malfideliĝo;apostasy, defection
 malfidelulo;deserter, renegade
 malfidema;suspicious
@@ -6902,7 +6771,7 @@ malhelpaĵo;handicap, impediment, obstacle
 malhelpi;to bar, hinder, inhibit, prevent
 malhelpo;hindrance
 malhisi;lower
-malhonesta;nasty
+malhonesta;dishonest, nasty
 malica;malicious, mischievous, nasty, vicious
 malice ruza;shrewd
 malico;craft, craftiness, cunning, guile
@@ -6916,13 +6785,13 @@ maljunulino;gammer, old woman
 maljunulo;old man
 malkara;cheap, inexpensive
 malkaŝa;above-board
-malkaŝi;to reveal
+malkaŝi;to reveal, to unhide
 malklara;indistinct
 malklariĝi;to blur, fade
 malkomforto;discomfort
 malkompakta;loose, sandy
 malkoncentri;to disperse, dilute, rarefy, thin
-malkonekti;to cut, cut a connection
+malkonekti;to cut, cut a connection, disconnect
 malkonsili;to advise against, dissuade from
 malkonstruado;demolition
 malkonstrui;to break down, demolish, pull down, take down
@@ -6949,7 +6818,7 @@ mallaŭdo;observation, remark, reproof
 mallerni;to unlearn
 mallerta;awkward
 mallevi;lower
-malleviĝi;to descend, go down
+malleviĝi;to descend, go down, sink
 malliberejo;jail, gaol, prison
 malliberigi;to imprison, jail
 malliberulejo;jail, gaol, prison
@@ -6968,11 +6837,10 @@ malmasiva;hollow
 malmendi;to cancel, countermand
 malmilda;bleak
 malmobiliziĝi;to be released, demob
-malmodesta;arrogant
 malmodesteco;arrogance, assumingness, high-handedness, presumption, pretence
 malmola;hard
 malmoleco;hardness
-malmorala;abandoned, nasty
+malmorala;abandoned, nasty, immoral
 malmulta;little
 malmultaj;few
 malmulte da;little
@@ -6980,7 +6848,7 @@ malmultekosta;cheap, inexpensive
 malmunti;take apart
 malnaiva;sophisticated
 malneto;draft, rough draft
-malnobla;abject, base, low, nasty, vile
+malnobla;ignoble, abject, base, low, nasty, vile
 malnobleco;abjection
 malnova;old
 malobea, malobeema;disobedient, insubordinate
@@ -7028,7 +6896,7 @@ malproksima;distant, far, remote
 malproksimeco;distance
 malproksimiĝi;to blow over
 malpropra;another man's, other people's
-malprosperi;to decline, recede
+malprosperi;to decline, recede, fail
 malprospero;decay
 malprotesto;acquiescence, resignation, submission
 malpura;dirty, filthy, nasty, soiled, unclean
@@ -7065,7 +6933,6 @@ malseketa;moist
 malseketigi;to dampen
 malsekiĝi;to get wet
 malserena;dismal, dreary
-malseriozaĵo;old wives' tale
 malservi;to be detrimental to, detract from, do harm to
 malsimetria;asymmetric, asymmetrical, dissymmetric *mal + simetria (symmetric)
 malsimila;different
@@ -7094,7 +6961,7 @@ malsuprenirejo;slope
 malsupreniri;to descend, get off, go down
 malsupreniro;descent
 malsuprenpendi;to depend, hang down
-malsuprensalti;to jump off, leap down
+malsuprensalti;to jump off, leap down, jump down
 malŝalti;to shut off, stop, switch off, turn off
 malŝargi;to discharge, fire, fire off, let off
 malŝargiĝi;go off
@@ -7106,8 +6973,7 @@ malŝparo;waste
 malteni;to release
 maltimema;daring
 maltrafi;to miss
-maltrankvila;anxious
-maltrankviliga;anxious, grave, serious
+maltrankvila, maltrankviliga;anxious, grave, serious
 maltrankviligi;to oppress
 malutili;to harm
 malutilo;harm
@@ -7117,7 +6983,7 @@ malvarmeta sezono;cool season
 malvarmetiĝi;cool, cool down
 malvarmo, malvarmumo;cold
 malvasta;close, cramped
-malvastejo;narrow space
+malvastejo;narrow space, bottleneck
 malvenko;defeat
 malvera;false, untrue
 malvirto;vice
@@ -7137,7 +7003,6 @@ mandato;mandate
 manfaritaĵo;handiwork
 mangano;manganese
 mango;mango
-mangostano;mangosteen
 mangujo;mango tree, mango-tree
 manĝaĵo;food
 manĝaĵoŝranko;larder, pantry, store-cupboard
@@ -7158,8 +7023,7 @@ manifestacio;demonstration
 manifesti;to demonstrate, manifest, show
 manifesto;manifest
 manikuri;to manicure
-manioko;cassave
-manipulado;treatment
+manipulado;manipulation, handling
 manipuli;to handle, manipulate
 mankanta;absent
 mankantlisto;attendance register
@@ -7178,7 +7042,7 @@ manpremo;handshake
 manradiko;wrist
 mansako, mansaketo;handbag, hand-bag
 mansardo;attic, garret
-mansigni;to wave
+mansigni;to wave, to wave one's hand
 mantelo;cloak, mantle
 manteni;to have got hold of
 mantuko;towel
@@ -7337,7 +7201,6 @@ merlo;blackbird
 mesaĝo;errand, message
 meso;mass
 metaforo;metaphor
-metaforriĉa;full of images
 metala;metal, metallic
 metalgarnaĵo;ironwork, mounting, studs
 metalo;metal
@@ -7365,9 +7228,7 @@ mezaranĝo;accomodation
 meze;rather
 meze de;among, amidst, in the middle of
 meznokto;midnight
-meznombra;average, mean
-meznombro;average
-mezo;average, mean, middle
+mezo, meznombro, meznombra;average, mean, middle
 meztagmanĝi;to lunch
 mezurado;measurement
 mezuri;to measure
@@ -7383,7 +7244,6 @@ mieltrinkaĵo;mead
 mieno;expression
 migdalkukaĵo;almound pastry
 migdalo;almond
-migdalokula;almond-eyed
 migrema;migrant
 migri;to migrate, roam, wander, wander about
 mikrobo;germ, microbe
@@ -7394,7 +7254,6 @@ miksaĵo;mixture
 miksi;to blend, mingle, mix, shuffle
 miksiĝi;to blend, mingle, mix
 miksomatozo;myxomatosis
-mikspoto;potpourri, pot-pourri
 mil;thousand, one thousand
 milda;gentle, mild
 mildeco;balminess, gentleness, leniency, meekness, mildness
@@ -7407,7 +7266,7 @@ militema;martial, warlike
 militi;to make war, wage war
 militista;military
 militista vesperkoncerto;tattoo
-militistaro;army
+militistaro;army, military
 militisto;warrior
 milito;war
 militpastro;chaplain, padre
@@ -7425,11 +7284,8 @@ minacordono;exhortation, warning
 minbalaa ŝipo;mine sweeper
 minbarita tereno;minefield
 minejo;mine
-minejoligno;pit-props, pitwood
 minekspluatado;mining
 mineralo;mineral
-mingalerio;gallery of a mine
-mingaso;fire-damp
 minimuma;minimum
 minimume;at least
 minimumo;minimum
@@ -7492,7 +7348,7 @@ mizerikordo;mercy
 mizero;misery
 mizerulo;pauper, poor devil, poor man
 mnemonika;mnemonic
-mobilizi;mobilize
+mobilizi;mobilize, mobilise
 modelfolio;pattern
 modeli;to model
 modelo;model
@@ -7501,9 +7357,8 @@ modera;moderate, reasonable
 moderigi;moderate
 moderkosta;reasonable
 moderna;modern
-modernigi;modernize
+modernigi;modernize, modernise
 modero;moderation
-moderpreza;reasonable
 modesta;modest
 modesto, modesteco;modesty
 modifi;modify
@@ -7546,7 +7401,7 @@ monoklo;monocle
 monologo;monologue, soliloquy
 monopolo;monopoly
 monotona;monotonous
-monperdo;loss
+monperdo;loss, loss of money
 monpuni;to fine
 monpuno;fine
 monsinjoro;monsignor
@@ -7639,7 +7494,7 @@ motorcikla policisto;motor-cycle policeman, police motor-cyclist
 motorciklisto;motor-cyclist
 motorciklo;motorcycle
 motoristo;motorist
-motorizi;motorize
+motorizi;motorize, motorise
 motoro;engine, motor
 motorveturilo;motor vehicle
 mova;locomotive, motorial
@@ -7652,7 +7507,7 @@ movsablo;quicksand, quicksands
 mozaiko;mosaic, mosaic work
 mucida;moldy, mouldy, musty
 muelejo;mill
-mueli;to grind, pulverize
+mueli;to grind, pulverize, pulverise
 muelisto;miller
 muĝi;howl, roar
 muka;mucous
@@ -7675,7 +7530,6 @@ multobligi;to duplicate, multiply
 multokupita;busy
 multpaperujo;ring binder
 multpeza;weighty
-multsignifa;significant
 multvojaĝinta;travelled, widely-travelled
 mumiigo;mummification
 mumio;mummy
@@ -7706,7 +7560,6 @@ murpapero;hangings, paper, paper-hangings, wall-paper, wallpaper
 murpentraĵo;mural, mural painting, wall-painting
 muska;mossy
 muskaptilo;mousetrap, mouse-trap
-muskatvino;muscatel
 muskedo;musket
 musketero, musketisto;musketeer
 musketo;musket
@@ -7719,13 +7572,12 @@ musmato;mousepad
 muso;mouse
 mustarda saŭco;mustard sauce
 mustardo;mustard
-mustardujo;mustard pot
 mustelo;marter, weasel
 musveneno;rat-poison
 muŝo;fly, housefly
 muta;dumb, mute, speechless
 mutacio;mutation
-mutulo;mute
+mutulo;mute, mute person
 muzelingo;muzzle
 muzeo;museum
 muzika;musical
@@ -7744,7 +7596,7 @@ muzikisto;musician
 muzikkesto;musical box, musical-box, music-box
 muzikkiosko;bandstand
 muzikleciono;music-lesson
-muziklernejo;school of music
+muziklernejo;school of music, music school
 muziklibro;music-book
 muziko;music
 muzikologio;musicology
@@ -7788,7 +7640,7 @@ narkoti;to drug
 narkotiulo;drug addict
 naskdoloroj;birth pains, labour pains, pains of childbirth, throes
 naski;to bear, give birth to
-naskiĝejo;cradle, place of birth
+naskiĝejo;cradle, place of birth, birthplace, birth place
 naskiĝi;to arise, be born
 naskiĝo;birth
 naskiĝtago;birthday
@@ -7850,7 +7702,7 @@ necesejo;toilet
 necivilizita;uncivilized
 nedankinde;don't mention it, you're welcome
 nedaŭra;temporary
-nedigestebla;stodgy
+nedigestebla;indigestable, stodgy
 nedividebla;indivisible
 nee;negatively
 neebla;impossible
@@ -7858,7 +7710,7 @@ neesprimeble;inexpressibly
 nefari;to fail, neglect, omit
 nefermita;open
 nefiksita;loose
-nefruktodona;barren, infertile, sterile, unfruitful
+nefruktodona;barren, infertile, sterile, unfruitful, fruitless
 negativo;negative
 negi;to deny
 neglektemo;carelessness, negligence, remissness
@@ -7874,17 +7726,17 @@ negrava;unimportant
 negravaĵo;accessory
 negravas;it doesn't matter
 neĝblanka;snow white
-neĝbuli;throw snowballs
+neĝbulo;snowball
 neĝero;snowflake
 neĝhomo;snowman
 neĝi;to snow
 neĝkovrita;snowy, snow covered
 neĝo;snow
 nei;to deny
-neintima;detached
+neintima;detached, non intimate
 nek ...;neither ...
 nek ... nek;neither ... nor
-nekartografita;uncharted
+nekartografita;uncharted, unmapped
 neklarigebla;inexplicable
 nekombita;unkempt
 nekompleta;incomplete
@@ -7904,7 +7756,7 @@ nemalplilongigita;unabbreviated
 nematodo;eelworm, nematode
 nematura;unripe
 nemetiulo, nemetiisto;amateur
-nenatura;artificial
+nenatura;artificial, unnatural
 nenecesa;needless
 nenial;for no reason
 neniam;never
@@ -7922,12 +7774,12 @@ neologismo;neologism
 neona, neono;neon
 neordinara;unordinary
 neorganika;inorganic
-nepagita;back, outstanding, overdue
-nepartia;neutral
+nepagita;back, outstanding, overdue, unpaid
+nepartia;neutral, unbiased
 nepenetrebla;impenetrable
 nepino;granddaughter
 nepo;grandson
-nepra;absolute
+nepra;absolute, inevitable
 nepre ne;definitely not
 nepriskribeble;indescribably
 neprofitema;disinterested
@@ -7948,8 +7800,8 @@ nesto;den, nest
 neŝanĝiĝema;constant, continual, lasting, steady
 neta;cleanly cut, net, neat, precise
 netaksebla;priceless
-netigi;to finalize, put in finished form
-neŭtrala;impartial, neutral
+netigi;to finalize, put in finished form, finalise
+neŭtrala;neutral, impartial
 nevenkebla;invincible
 nevera;false, untrue
 nevidata;unseen
@@ -7965,7 +7817,7 @@ nigro;black
 nikelo;nickel
 nilona, nilono;nylon
 nimbo;halo, nimbus
-nimfeo;waterlily
+nimfeo;waterlily, water lily
 nimfo;nymph
 nin;us
 niti;to rivet
@@ -8079,7 +7931,6 @@ nutri;to feed, nourish
 oazo;oasis
 obea, obeema;obedient
 obei;to obey
-obeigi;to break
 objekto;article, object, thing
 obligacio;bond
 oblikva;oblique, slanting
@@ -8214,10 +8065,9 @@ ora;gold, golden
 oraĵisto;goldsmith
 oraklo;oracle
 oranĝa;orange
-oranĝarbo;orange-tree
 oranĝkolora;orange-coloured
 oranĝosuko;orange juice
-oranĝujo;orange tree, orange-tree
+oranĝarbo, oranĝujo;orange tree, orange-tree
 oratoro;orator
 orbito;orbit
 orblonda;golden
@@ -8239,19 +8089,16 @@ orflava;golden yellow
 orfo;orphan
 organika;organic
 organismo;organism
-organizacio, organizaĵo;organization
-organizi;to organize
-organizo;organization
-organo;organ
-orgeno;organ
+organizo, organizacio, organizaĵo;organization, organisation
+organizi;to organize, organise
+organo, orgeno;organ
 orgio;orgy
 orienta;eastern, Oriental
 oriente de;east of, eastward of, to the east of
 orienti;to orient
 oriento;east, East
 origi;to gild
-origina;aboriginal, original
-originalo, originala;original
+origina, originalo, originala;original
 origine;originally
 origini;to originate
 origino;origin
@@ -8267,7 +8114,6 @@ ornami;to adorn, decorate, ornament
 ornamo;ornament
 oro;gold
 orta;right-angle, square
-ortilo;carpenter's square, T-square
 ortodoksa;orthodox
 ortografio;orthography
 orumi;to gild
@@ -8357,7 +8203,7 @@ panisto;baker
 panjo;mam, mammy, mom, mommy
 pankreaso;pancreas
 pano;bread, loaf
-panoramo;view
+panoramo;view, panorama
 pansaĵo;bandage
 pansbendo;bandage, swathe
 pansi;to dress
@@ -8415,7 +8261,7 @@ pariĝi;to mate
 parkadgaraĝo;parking garage
 parkejo;car park, lay-by, parking bay, parking garage, parking place
 parkere;by heart
-parkeri, parkerigi;to memorize
+parkeri, parkerigi;to memorize, memorise
 parki;to park
 parko;park
 parlamenta;parliamentary
@@ -8439,13 +8285,11 @@ participo;participle
 partio;faction, party, side
 parto;part, Parthian, share
 partopreni;to participate, share, take part
-partpago;installment payment
+partpago;installment payment, partial payment
 partpreni;to participate
-partpreni ies sentojn;sympathize
+partpreni ies sentojn;sympathize, sympathise
 paruo;titmouse
 parvolo;wren
-pasaĝeri;travel as passenger
-pasaĝerigi;convey as passenger
 pasaĝero;passenger
 pasamento;trimming
 pasejo;gate, gangway, passage, passageway
@@ -8494,7 +8338,7 @@ patrolo;patrol
 patroni;to act as patron, to patronise
 patrono;patron
 patrujo;fatherland
-paŭta;dismal
+paŭta;dismal, sulky
 paŭzi;to pause, take a break, take a rest
 paŭzo;break, intermission, pause, recess
 pavi;to show off, strut around
@@ -8566,7 +8410,7 @@ per kio;whereby
 per tio;thereby
 perado;mediation
 peranto;agent
-percepti;to find, notice, perceive
+percepti;to perceive, to find, to notice
 perdi;lose
 perdiĝi;to be lost, get lost
 perdita;lost
@@ -8593,7 +8437,7 @@ perioda gazeto;periodical
 periodo;period
 periosto;periosteum
 periskopo;periscope
-perko;bass
+perko;bass, perch
 perkudrila laboro;needlework
 perlabori;to earn
 perlo;pearl
@@ -8668,7 +8512,6 @@ piedpilko;football, soccer ball
 piedpremi;to step on
 piedvarmigilo;footwarmer
 piedvestaĵo;footwear
-pigmeo;pigmy
 pigo;magpie
 pigra;lazy
 piĵamo;pyjamas
@@ -8737,7 +8580,7 @@ plani, planizi;to plan
 planko;floor
 plano;design, diagram, plan, plane
 plantado;planting
-plantaĵo;plantation
+plantaĵo;plantation, plant
 plantaro;plantation, planting
 plantejo;plantation
 planti;to plant
@@ -8750,7 +8593,6 @@ plata;flat
 plataĵo;plateau
 platano;plane, plane-tree, sycamore
 plateno;platinum
-plateso;plaice
 platformo;platform
 platnazo;pug-nose
 plaŭdeti;to burble, gurgle, murmur, purl
@@ -8792,9 +8634,9 @@ plenplena;brimming, replete
 plenumi;to accomplish, achieve, keep, observe, perform
 plenzorga;anxious
 pleto;tray
-plezura;agreeable, pleasant
+plezura;pleasant, agreeable
 plezuriga;pleasurable
-plezuro;fun, pleasure
+plezuro;pleasure, fun
 pli;more
 pli aĝa;elder, older
 pli bona;better
@@ -8802,7 +8644,7 @@ pli detala;further
 pli ĝuste;rather
 pli juna fratino;younger sister
 pli juna frato;younger brother
-pli juna gefrato;younger brother, younger sibling, younger sister
+pli juna gefrato;younger sibling, younger brother, younger sister
 pli kaj pli;to increasingly, more and more
 pli malbona;worse
 pli malfrue;later, later on
@@ -8967,7 +8809,7 @@ portisto, pordisto;porter
 portreto;portrait
 porvesperaj vestoj;evening dress
 posedaĵo;possession, property
-posedi;to own, possess
+posedi;to possess, own
 posedo;possession
 post;after, behind
 post kiam;after
@@ -9018,7 +8860,7 @@ poŝlanterno;electric torch
 poŝo;pocket
 poŝtaĵo;piece of mail
 poŝtejo;post office, post-office
-poŝtisto;mailman
+poŝtisto;mailman, postman
 poŝtkarto;postcard
 poŝtmandato;money order
 poŝtmarko;stamp, postage stamp
@@ -9112,7 +8954,6 @@ preta;finished, ready, through
 preteco;readiness
 preteksti;to give as an excuse, pretend
 preteksto;pretext
-pretendema;arrogant
 pretendemo;assumingness, overbearingness, presumption, pretence
 pretendi;to claim, presume
 pretendo;claim, presumption, pretence
@@ -9128,7 +8969,6 @@ pretiĝi;to get ready
 preventi;to prevent
 preventilo;preservative
 prezentado;presentation
-prezentata klare;clear, graphic
 prezenti;to introduce, perform, present
 prezentiĝi forire;check out
 prezento;presentation
@@ -9139,7 +8979,7 @@ prezkonkurado;tender
 prezkonkuro;public tender
 prezlisto;price list, price-list
 prezo;price
-preztrompi;to fleece
+preztrompi;to fleece, to cheat on price
 preztrompisto;extortioner, swindler
 preztrompita;taken in
 preztrompo;swindle, swindling
@@ -9218,7 +9058,7 @@ profetaĵo;prophecy
 profeti;forecast, foretell, prophesy
 profeto;prophet
 profilo;profile
-profita;credit, surplus
+profita;credit, surplus, profitable
 profiti;to profit
 profito;gain, profit
 profitparto;share
@@ -9274,7 +9114,7 @@ prononci;to pronounce
 prononcmaniero;accent *prononci (pronounce) + maniero (manner)
 prononco;pronunciation
 propagandaĵo;publicity material
-propagandi;to advertise, publicize
+propagandi;to advertise, publicize, publicise
 propagando;propaganda, publicity
 propeti;to intercede, plead for
 proponado;offer, tender
@@ -9359,7 +9199,7 @@ psiko;psyche
 psikologa;psychological
 psikologio;psychology
 psikologo;psychologist
-publici;to publicize
+publici;to publicize, publicise
 publika;public
 publikeco;publicity
 publikigi;to publish, reveal
@@ -9373,7 +9213,7 @@ pufigi;to puff out
 pufiĝi;to puff up
 pufo;puff, swelling
 pugno;fist
-pugnobatalanto;boxer
+pugnobatalanto;boxer, fist fighter
 pugnobati;to punch
 pugo;behind, bottom, buttocks
 pulio;pulley
@@ -9385,7 +9225,7 @@ pulsi;to pulsate, throb
 pulso;pulse
 pulvo;gunpowder
 pulvora;powdery
-pulvorigi;to pulverize
+pulvorigi;to pulverize, pulverise
 pulvorigita lakto;milk-powder, powdered milk
 pulvoro;powder
 pumo;cougar, mountain lion, puma
@@ -9444,9 +9284,7 @@ radii;to radiate
 radikala;radical
 radikalo, radikalulo;radical
 radiko;root
-radio;beam, radio, ray, wireless
-radio;beam, ray, radio, wireless
-radiofonio;wireless telegraph
+radio;radio, beam, ray, wireless
 radioterapio;radiation
 radiuso;radius
 rado;wheel
@@ -9462,8 +9300,8 @@ rajdi;to ride
 rajdi sur ĉevalo;ride a horse
 rajo;skate, stingray, ray
 rajti;to may, have the right to
-rajtigi;to authorize
-rajtigo;authorization
+rajtigi;to authorize, authorise
+rajtigo;authorization, authorisation
 rajto;right
 raketo;rocket
 rakonti;to narrate, relate, tell
@@ -9488,7 +9326,7 @@ rapidi;go fast, hurry, rush
 rapidlimo;speed-limit, speed limit
 rapido;speed
 rapidtrajno;fast train
-rapidumo;gear
+rapidumo;speedometer, gear
 rapidumujo, rapidumskatolo;gear-box, gear-case
 rapidvagonaro;fast train
 rapo;turnip
@@ -9577,7 +9415,7 @@ registro;record, register
 reglamento;regulations, rules
 regnestro;head of state
 regno;realm, state
-regreso;decline, going down
+regreso;decline, going down, regression
 regula;even, regular
 regularo;regulations, rules
 regule;regularly
@@ -9603,7 +9441,7 @@ rekomendinda;recommendable
 rekomendo;recommendation
 rekompenci;compensate, reward
 rekompenco;compensation, reward
-rekonebla;recognizable
+rekonebla;recognizable, recognisable
 rekoni;to recognise, recognize
 rekonkeri;to recapture
 rekordo;record
@@ -9624,19 +9462,18 @@ remaĉulo;ruminant
 remboato;row-boat, rowing-boat
 remburi;to pad, upholster, stuff
 rememori;to recall, recollect, remember
-rememorigi;to recall
+rememorigi;to recall, to remind
 rememoro, rememorigo;recollection
 remendi;to give a repeat order for, order a fresh supply of
 remi;row
 remilo;oar
 remisto;rower
-remparo;rampart
 rendevui;to meet
 rendevuo;appointment, date, rendezvous
 renegato;deserter, renegate
 renkonti;come across, encounter, meet, see
 renkonti unu la alian;meet each other, meet one another
-renkonto;encounter
+renkonto;encounter, meeting
 reno;kidney
 renomo;fame, renown
 renovigi;to renew
@@ -9680,7 +9517,6 @@ respondeca;responsible
 respondeco;responsibility
 respondi;to answer, reply, respond
 respondi al;answer
-respondigi;hold responsible
 respondkupono;reply coupon
 respondo;answer, reply
 respublika;republican
@@ -9696,8 +9532,8 @@ resti;to remain, stay, stay over
 resto;remainder, rest
 restoracio;restaurant
 restrikti;confine, limit, restrict
-resumi;to abstract, summarize
-resumo;abridgement, abstract, resumé, summary
+resumi;to abstract, summarize, summarise
+resumo;abridgement, abstract, resumé, summary, resume
 reteni;to detain, hold back, retain
 retiri;to draw back, withdraw
 retiriĝi;to retreat
@@ -9871,7 +9707,7 @@ rompita, rompiĝinta;broken
 rompŝtelisto;burglar *rompi (break) + ŝteli (steal) + isto
 ronda;round
 rondigi;round, round off
-rondo;circle
+rondo;circle, ring, group
 rondodanco;round dance
 ronĝi;to gnaw, nibble
 ronĝulo;rodent
@@ -10071,8 +9907,6 @@ sekretario, sekretariino;secretary
 sekreto;secret
 seksa;generative, sexual
 seksardo;heat, sexual desire
-sekskuniĝi;to have sexual intercourse, mate
-sekskuniĝo;copulation
 sekso;sex
 seksumi;to have sex
 seksumo;sex
@@ -10110,7 +9944,7 @@ senatenta;careless, negligent
 senatenteco;carelessness, negligence
 senbarba;beardless
 senbezona;needless
-senbrida;lawless, licentious, riotous
+senbrida;lawless, licentious, riotous, unrestrained
 senbrua;noiseless
 senco;meaning, sense
 senĉesa;constant, lasting, sustained
@@ -10157,11 +9991,11 @@ senkompato;harshness
 senkonscia;unconscious
 senkonsola;desolate
 senkremigi;to cream, skim
-senkreskaĵa;bleak
+senkreska, senkreskaĵa;growthless, bleak
 senkulpa;guiltless, innocent
 senkulpeco;innocence
 senkulpigi;to excuse
-senkulpigi sin;apologize
+senkulpigi sin;apologize, apologise
 senkultura;dreary
 senkunkudra;seamless
 senlabora;unemployed
@@ -10213,7 +10047,7 @@ sentaŭgulo;good-for-nothing
 sentema;sensitive
 sentenco;maxim, proverb
 senti;to feel, sense
-senti naŭzon;be nauseated
+senti naŭzon;be nauseated, feel nauseous
 sentima;bold, courageous, fearless
 sentimento;sentiment*
 sentiva;sensitive
@@ -10295,7 +10129,7 @@ signaro;character set
 signi;to indicate, point out, show
 signifi;to imply, mean, signify
 signifo;meaning
-signifoplena;significant
+signifoplena, multsignifa;significant
 signo;character, mark, sign, signal, token
 signostango;beacon
 signovico;string
@@ -10309,7 +10143,7 @@ siliko;flint, gravel
 silko, silka;silk
 silueto;outline, silhouette
 silvio;hedge-sparrow
-simboli;to symbolize
+simboli;to symbolize, symbolise
 simbolo;symbol
 simetrio;symmetry
 simfonio;symphony
@@ -10332,7 +10166,7 @@ sindeteni;to abstain
 sindeteno;abstention, abstinence
 sindikato;labour-union, trade-union, syndicate
 sindona;devoted, selfless
-sindoneco;attachment
+sindoneco;attachment, devotion
 sindonema;devoted, selfless
 sindonemo;attachement
 sindono;attachment
@@ -10367,7 +10201,7 @@ siroko;sirocco
 siropo;syrup
 sistemo;system
 sitelo;bucket, pail
-situacio;circumstances, condition, situation
+situacio;situation, circumstances, condition
 situi;to be situated
 situo;site
 skabeno;alderman
@@ -10517,10 +10351,8 @@ spasmo;spasm
 speciala;particular, special
 specialcela;ad hoc
 speciale;particularly, specially
-specifa;specific
-specifi;to specify
-specifika;specific
-specifiki;to specify
+specifa, specifika;specific
+specifi, specifiki;to specify
 specimenboteleto;sample-bottle
 specimenkarto;sample-card
 specimenlibro;sample book
@@ -10634,11 +10466,11 @@ stenotajpistino;stenotypist, female stenotypist
 stepo;moor, steppe
 stereotipo;stereotype
 sterila;sterile
-steriligi;to sterilize
-sterkado;dressing, fertilization, manuring
+steriligi;to sterilize, sterilise
+sterkado;dressing, fertilization, manuring, fertilisation
 sterkakvo;liquid manure, muck-water, stale
-sterki;to fertilize
-sterko;fertilizer, manure
+sterki;to fertilize, fertiliae
+sterko;fertilizer, manure, fertiliser
 sterlingo;pound sterling
 sterni;to lay out, spread, spread out
 stevardino;stewardess
@@ -10725,7 +10557,7 @@ subfali;to succumb
 subfosa;subversive
 subfosi;to subvert, undermine
 subigi;to subdue, subjugate
-subiri;go down, set
+subiri;go down, set, go under
 subita;abrupt, sudden
 subjektiva;subjective
 subjekto;subject
@@ -10743,7 +10575,7 @@ subskribo;signature
 substanco;matter, stuff, substance
 substantivo;noun, substantive
 substitui;to substitute
-substreki;to emphasize, underline
+substreki;to emphasize, underline, emphasise
 substreko;underscore
 subŝteli;to pilfer, pinch
 subŝtofo;lining
@@ -10759,7 +10591,7 @@ subtrahi;to subtract
 subtraho;subtraction
 subulo;subordinate
 suburbo;suburb
-subvencii;to subsidize
+subvencii;to subsidize, subsidise
 subvencio;subsidy
 subventro;abdomen
 subvesto;undergarment
@@ -10832,7 +10664,7 @@ superhomo;superman
 superi;to exceed, surpass
 superjaro;leap-year, leap year
 supermarkto;supermarket
-superrega;of paramount importance, predominating
+superrega;of paramount importance, predominating, predominant
 supersigno;accent mark, supersign
 superstiĉo;superstition
 superŝtupare;upstairs
@@ -10870,7 +10702,7 @@ surgenui, surgenuiĝi;to kneel
 surgrati;to scratch all over, scratch over
 surgrimpado;ascent, climbing, mounting
 surgrimpebla;mountable
-surgrimpi;to ascend, climb, scale
+surgrimpi;to ascend, climb, scale, climb up
 surhavi;to wear
 surirebla;passable, practicable
 suriri;tread, walk, walk upon
@@ -10981,7 +10813,7 @@ svingsaluti;to wave
 ŝelo;bark, husk, peel, shell
 ŝenoprazo;chive
 ŝercaĵo;gag, joke
-ŝercema;jocular, playful
+ŝercema;jokey, jocular, playful
 ŝerci;to jest, joke
 ŝerco;gag, joke
 ŝerifo;sheriff
@@ -10992,7 +10824,7 @@ svingsaluti;to wave
 ŝilingo;shilling
 ŝima;moldy, mouldy
 ŝimi;to get moldy, get mouldy
-ŝimo;mold, mould
+ŝimo;mold, mould *Schimmel (de)
 ŝin;her
 ŝindo;shingle
 ŝinko;ham
@@ -11029,7 +10861,7 @@ svingsaluti;to wave
 ŝnuro;cord, rope, string
 ŝnursalti;to skip rope, to skip
 ŝoforo;chauffeur, driver
-ŝokanta;offensive
+ŝokanta;shocking, offensive
 ŝoki;to shock
 ŝokiĝi;to resent, take exception, take offence
 ŝoko;shock
@@ -11068,8 +10900,8 @@ svingsaluti;to wave
 ŝtalo;steel
 ŝtataneco;nationality
 ŝtatestro;head of state
-ŝtatigi;to nationalize
-ŝtatigo;nationalization
+ŝtatigi;to nationalize, nationalise
+ŝtatigo;nationalization, nationalisation
 ŝtato;state
 ŝtele;stealthily
 ŝteli, ŝteliri;to steal
@@ -11084,7 +10916,6 @@ svingsaluti;to wave
 ŝtofo;cloth, material
 ŝtona;metalled, stone
 ŝtonego;boulder
-ŝtonetaro;broken stones, chippings, road-metal, rubble, stone-chippings
 ŝtonhakisto;stone-cutter, stonemason
 ŝtoniĝinta;petrified
 ŝtono;stone
@@ -11149,7 +10980,7 @@ taktiko;tactic, tactics
 takto;musical time, tact
 talento;talent
 talentplena;gifted, talented
-talio;waist, waistline
+talio;waist, waistline *taille (fr)
 talpo;mole
 tambono;tambon
 tamburino;tambourine, timbrel
@@ -11189,7 +11020,6 @@ tegumento;cover
 tekniko;technics, technique
 teknologio;technology
 teko;briefcase, file
-tekruĉo;teapot *teo (tea) + kruĉo (jug)
 teksaĵo;fabric, textile
 teksi;to weave
 teksilo;loom
@@ -11217,9 +11047,8 @@ temas pri;to it's a matter of
 temo;theme, topic, subject
 temperamento;temperament
 temperaturo;temperature
-tempesto;storm, tempest
-tempio;temple
-templo;temple
+tempesto;storm, tempest *
+templo, tempio;temple
 tempo;time, while
 tempo por pripensi;time to consider
 tenajlo;pincers, pair of pincers
@@ -11247,7 +11076,7 @@ teologio;theology
 teologo;theologian
 teoremo;theorem
 teorio;theory
-tepoto;teapot
+tepoto, tekruĉo, teujo;teapot
 tera;earthen, earthly, terrestrial
 tera akso;axis of the earth, earth's axis
 terapio;therapy
@@ -11303,7 +11132,6 @@ testi;test
 testiko;testicle
 testo;test
 testudo;tortoise
-teujo;tea-pot
 tezo;essay, thesis
 tia;such, such a, that kind of
 tial;therefore
@@ -11333,14 +11161,14 @@ tiko;tic, twich
 tildo;tilde
 tilia;lime, lime-, of a lime-tree
 tilio;lime-tree, linden-tree
-tima;afraid
+tima;afraid, fearful
 timego;fright
 timema;afraid, timid
 timemulo;coward, funk
 timi;to be afraid of, fear
 timida;shy
-timiga;horrible
-timigi;to frighten
+timiga;horrible, scary
+timigi;to frighten, scare
 timkrio;cry of distress
 timo;fear
 timtremiga;gaunt, ghastly, gruesome, horrible
@@ -11363,7 +11191,7 @@ tiom;that much
 tipa;typical
 tipo;type
 tiraneco;tyranny
-tirani;tyrannize
+tirani;tyrannize, tyrannise
 tiri;to drag, draw, haul, pull, tug
 tirkesto;drawer
 tirkestŝranko;cabinet
@@ -11508,7 +11336,6 @@ tremiga;eerie, grisly, gruesome, macabre
 tremo;quiver, quivering, vibration
 trempi;to dip, immerse, soak *tremper (fr)
 treni;to drag, tow
-trenkablo;towing-line
 treti;trample on, tread
 trezoro;treasure
 tri;three
@@ -11552,7 +11379,7 @@ triumfo;triumph
 triviala;commonplace, course, vulgar
 tro;too, too much
 tro multa;too much
-troa;undue
+troa;excessive, undue
 trodorloti;to spoil
 trogo;manger, trough
 troigi;to exaggerate
@@ -11591,7 +11418,7 @@ truto;trout
 tualeto;toilet
 tualetujo;cosmetic case, vanity case
 tuberkulozo;tuberculosis
-tubisto;fitter
+tubisto;fitter, plumber
 tubo;barrel, channel, pipe, tube
 tufo;tuft
 tuj;at once, immediately, just, right away, right now
@@ -11618,7 +11445,6 @@ turneo;tour, theatrical tour
 turni;turn, turn around, turn round
 turni plipreme;fasten, tighten, turn, turn on
 turni sin;turn, turn back, turn around, turn round
-turni sin al;apply to
 turniĝadi;to swirl
 turniĝi;to turn
 turniĝo;turn
@@ -11669,9 +11495,6 @@ unito;unit
 universala;general, universal, worldwide
 universala ŝraŭbilo;monkey-wrench, shifting spanner
 universaleco;generality, universality
-universitata;academic
-universitata diplomito;academic, university graduate
-universitata profesoro;academic
 universitato;university
 universo;universe
 unu;one
@@ -11730,7 +11553,7 @@ utero;uterus, womb
 utila;advantageous, useful
 utileca programo;utility
 utili;to avail
-utiligi;to make use of, utilize
+utiligi;to make use of, utilize, utilise
 utilo;advantage, benefit
 utilprogramo;utility
 utopia;utopian
@@ -11766,7 +11589,6 @@ vakskandelo;taper, wax candle
 vakso;wax
 vakstolo;oilcloth
 vakuo;vacuum
-valeriano;valerian
 valida;valid
 validi;to be valid
 validigi;to validate
@@ -11919,7 +11741,6 @@ vespera lernejo;evening classes, evening-school, night-school
 vespera vartantino;babysitter
 vespera vartanto;babysitter
 vespere;in the evening
-vesperiĝas;night is falling
 vespermanĝo;evening meal, supper
 vespero;evening
 vesperrobo;evening frock, evening gown
@@ -11946,11 +11767,10 @@ veturbileto;ticket
 veturi;go, ride, travel
 veturi malantaŭen;back
 veturigi;to drive
-veturigi malantaŭen;back up
-veturigi posten;back up
+veturigi malantaŭen, veturigi posten;back up
 veturigisto;driver
 veturilo;vehicle
-veziketo;blister
+veziketo, haŭtveziketo;blister
 veziko;bladder, bubble
 vi;thou, you
 vi mem;yourself
@@ -11969,14 +11789,12 @@ vicpatrino;step-mother
 vicpatro;step-father
 vicprezidanto;vice-president
 vicvoki;to call over
-vidaĵo;view
 vidbendo;videotape
 videbla;visible
 videobendo;video-tape
 vidi;to see
 vidinda;worth seeing
-vido;sight, view
-vidpunkto;viewpoint
+vido, vidaĵo, elvido;sight, view
 vidvino;widow
 vidvo;widower
 vigla;alert, brisk, keen

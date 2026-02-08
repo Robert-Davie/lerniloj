@@ -18,9 +18,12 @@ knowledge_report.txt
 mistake_report.csv
 results.txt
 results2.csv
+eo_grammar_input.txt
+eo_grammar_output.txt
 mistakes*
 
 flashcard_settings.toml
 flashcard_settings.json
 
 .DS_Store
+frenchslang1.txt

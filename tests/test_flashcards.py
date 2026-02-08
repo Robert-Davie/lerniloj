@@ -1,4 +1,5 @@
-from lerniloj.flashcards import get_question, parse_line, get_number_of_correct_responses, is_user_response_correct
+from lerniloj.flashcards import get_question, parse_line, get_number_of_correct_responses, is_user_response_correct, get_user_response_to_question, compute_user_response_shortcuts
+from unittest.mock import patch
 
 
 def test_get_question_in_english():
@@ -37,3 +38,15 @@ def test_is_user_response_correct_multiple_foreign_terms():
     assert is_user_response_correct(line, "a", True, "german") == True
     assert is_user_response_correct(line, "b", True, "german") == True
     assert is_user_response_correct(line, "c", True, "german") == False
+
+
+def test_compute_user_response_shortcuts_dot():
+    assert compute_user_response_shortcuts(".", "abcdéf") == "abcdef"
+
+
+def test_compute_user_response_shortcuts_dot_3():
+    assert compute_user_response_shortcuts(".3", "abcdéf") == "abc"
+
+
+def test_compute_user_response_shortcuts_dot_3_plus_letters():
+    assert compute_user_response_shortcuts(".3fgh", "abcdéf") == "abcfgh"

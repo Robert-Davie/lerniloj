@@ -2,7 +2,7 @@ LANGUAGE=FRENCH
 à    (prep);to, at, in
 abaisser    (v);to pull down, lower, reduce
 abandon    (nm);abandonment, desertion, withdrawal
-abandonner    (v);to give up, abandon
+abandonner    (v);abandon, to give up
 abattre    (v);to pull down, kill, beat
 abbé    (nm);abbot, priest
 abolir    (v);to abolish, do away with
@@ -49,7 +49,7 @@ accumuler    (v);to accumulate, amass, store, stockpile
 accusation    (nf);accusation, indictment
 accusé    (nadj);defendant
 accuser    (v);to accuse
-acharner    (v);to go at fiercely and unrelentingly
+acharner    (v);to go at fiercely and unrelentingly, to hound *chair = flesh
 achat    (nm);purchase
 acheminement    (nm);routing, shipment
 acheminer    (v);to forward, dispatch, transport
@@ -140,8 +140,8 @@ aimable    (adj(f));pleasant, kind, nice, likeable, amiable
 aimer    (v);to like, love
 aîné    (nadj);oldest, eldest
 ainsi    (adv);thus
-air    (nm);air, appearance
-aire    (nf);surface, area
+air    (nm);air, appearance *air = air, aire =area
+aire    (nf);surface, area *air = air, aire =area
 aisé    (adj);easy, well off, well-to-do
 aise    (nadj(f));comfort, joy, pleasure, ease
 ajourner    (v);to adjourn, defer, postpone
@@ -169,7 +169,7 @@ alliance    (nf);alliance
 allié    (nadj);allied, ally
 allier    (v);to ally, match, unite
 allocation    (nf);allocation, granting, allotment, allowance
-allonger    (v);to lengthen, extend, stretch out
+allonger    (v);to lengthen, extend, stretch out, elongate
 allouer    (v);to allocate
 allumer    (v);to switch on, light up, turn on
 allure    (nf);speed, pace, walk, look, appearance
@@ -181,9 +181,9 @@ alternative    (nf);alternative, choice
 altitude    (nf);altitude, height
 amant    (nm);lover
 amateur    (nm,nf);amateur
-ambassade    (nf);embassy
-ambassadeur    (nm);ambassador
-ambiance    (nf);atmosphere, mood, ambiance
+ambassade    (nf);embassy *ambassade = embassy, ambassadeur = ambassador
+ambassadeur    (nm);ambassador *ambassade = embassy, ambassadeur = ambassador
+ambiance    (nf);ambiance, atmosphere, mood, 
 ambiguïté    (nf);ambiguity
 ambitieux    (nadj(pl));ambitious, man with ambition
 ambition    (nf);ambition
@@ -235,7 +235,7 @@ annuler    (v);to cancel
 anonyme    (adj(f));anonymous
 anormal    (nadj);abnormal
 antenne    (nf);antenna
-antérieur    (nadj);previous, earlier, front
+antérieur    (nadj);previous, earlier, front, anterior
 anticiper    (v);to anticipate, foresee, look or think ahead
 antique    (nadj(f));antique, ancient
 août    (nm);August
@@ -273,8 +273,8 @@ approprié    (adj);appropriate
 approprier    (v);to adapt, appropriate, take over
 approuver    (v);to approve
 approvisionnement    (nm);supply, supplies, stock, supplying, stocking
-appui    (nm);support
-appuyer    (v);to lean, support
+appui    (nm);support *appui/appuyer = physical/tactical support
+appuyer    (v);to lean, support *appui/appuyer = physical/tactical support
 après    (adv,prep);after
 après-midi    (nmi);afternoon
 apte    (adj(f));capable
@@ -314,7 +314,7 @@ artisan    (nm);craftsman, self-employed, artisan
 artiste    (nadj(f));artist
 artistique    (adj(f));artistic
 asiatique    (nadj(f));Asian
-asile    (nm);shelter, asylum, hospital
+asile    (nm);asylum, shelter, hospital
 aspect    (nm);aspect
 aspiration    (nf);aspiration
 aspirer    (v);to breathe in, inhale, aspire to
@@ -359,20 +359,20 @@ attente    (nf);wait
 attentif    (adj);attentive, scrupulous, careful
 attention    (nf);attention
 attentivement    (adv);attentively, carefully, closely
-atténuer    (v);to lessen, diminish, dim, subdue, reduce
+atténuer    (v);to lessen, diminish, dim, subdue, reduce, attenuate
 attester    (v);to attest, confirm
 attirer    (v);to attract
 attitude    (nf);attitude
-attraper    (v);to catch, get, pick up
+attraper    (v);to catch, get, pick up, trap
 attribuer    (v);to award, grant, attribute
 attribution    (nf);awarding, allocation, assignment, attribution
 au-delà    (adv,nmi);beyond
-au-dessous    (adv);underneath
-au-dessus    (adv);above
+au-dessous    (adv);underneath *au-dessous = underneath, au-dessus = above
+au-dessus    (adv);above *au-dessous = underneath, au-dessus = above
 aube    (nf);dawn, daybreak
 aucun    (det,adj,pro);none, either, neither, not any
 aucunement    (adv);in no way, not in the least, not at all
-audacieux    (nadj(pl));daring, audacious, bold
+audacieux    (nadj(pl));audacious, daring, bold
 audience    (nf);audience, hearing
 audiovisuel    (nadj);audio-visual
 auditeur    (nm);auditor, listener
@@ -380,13 +380,13 @@ audition    (nf);hearing, examination, audition
 augmentation    (nf);increase, rise
 augmenter    (v);to increase, raise
 aujourd'hui    (adv);today
-auparavant    (adv);beforehand
+auparavant    (adv);beforehand, previously *au + par + avant
 auprès    (adv);nearby, close to
 aussi    (adv,conj);too, also, as
 aussitôt    (adv);straight away, immediately
 autant    (adv);as much, as many
 auteur    (nm,nf);author
-authentique    (adj(f));genuine, authentic
+authentique    (adj(f));authentic, genuine
 auto    (nm,nf);car
 autobus    (nm(pl));bus
 autochtone    (nadj(f));native, indigenous peoples
@@ -402,7 +402,7 @@ autoritaire    (adj(f));authoritarian
 autorité    (nf);authority
 autoroute    (nf);motorway, highway, freeway
 autour    (adv,nm);around
-autre    (det,nadj(f),pro);other
+autre    (det,nadj(f),pro);other *autre = other, outre = besides
 autrefois    (adv);in the past
 autrement    (adv);differently, something else, otherwise
 autrui    (pro);others
@@ -442,17 +442,17 @@ baiser    (nm,v);to kiss
 baisse    (nf);fall, drop
 baisser    (v);to lower, turn down, bend down
 balance    (nf);scales, balance
-balancer    (v);to swing, sway
-balayer    (v);to sweep up, sweep out
-balle    (nf);ball, bullet
-ballon    (nm);ball
+balancer    (v);to swing, sway *balancer = swing, balayer = sweep
+balayer    (v);to sweep up, sweep out *balancer = swing, balayer = sweep
+balle    (nf);ball, bullet *balle = small, ballon = larger, boule = heavy
+ballon    (nm);ball *balle = small, ballon = larger, boule = heavy
 banal    (adj);banal, trite, commonplace, ordinary
-banc    (nm);bench, workbench, pew
+banc    (nm);bench, workbench, pew *banc = bench, banque = bank
 bancaire    (adj(f));banking
 bande    (nf);band, strip
 banlieue    (nf);suburbs, outskirts
 bannir    (v);to banish, ban
-banque    (nf);bank
+banque    (nf);bank *banc = bench, banque = bank
 banquier    (nm);banker
 baptiser    (v);to name, christen, baptize
 bar    (nm);bar
@@ -469,14 +469,14 @@ baser    (v);to base
 basque    (nadj(f));Basque
 bassin    (nm);bowl, basin
 bataille    (nf);battle
-bateau    (nm);boat, ship
+bateau    (nm);boat, ship *also means unoriginal
 bâtiment    (nm);building
-bâtir    (v);to build
+bâtir    (v);to build *as in to create the foundation, e.g. build a reputation
 bâton    (nm);tick, club, baton
 batterie    (nf);battery, drum set
 battre    (v);to beat, hit
 beau    (adj,nm);handsome, fine, right
-beaucoup    (adv);much, a lot of, many
+beaucoup    (adv);much, a lot of, many *beaucoup/très = standard, vachement = informal
 beauté    (nf);beauty
 bébé    (nadj(f));baby
 belge    (nadj(f));Belgian
@@ -519,7 +519,7 @@ blond    (nadj);blond, fair-haired
 bloquer    (v);to block
 bœuf    (nm);ox, steer, beef
 boire    (nm,v);to drink
-bois    (nm(pl));wood
+bois    (nm(pl));wood *also means wood like forest
 boisson    (nf);drink, beverage
 boîte    (nf);box
 bombardement    (nm);bombing, shelling
@@ -535,25 +535,25 @@ bordel    (nm);brothel, mess, chaos
 borne    (nf);milestone, boundary stone
 borner    (v);to limit, confine
 bosniaque    (nadj(f));Bosnian
-bosser    (v);to work, bash on
-bouche    (nf);mouth
+bosser    (v);to work, bash on *synonyms: œuvrer = formal, travailler = neutral, bosser = casual, taffer/charbonner = slang
+bouche    (nf);mouth *bouche = general, gueule = animal/slang
 boucher    (nm,v);butcher, to fill in, get clogged up
 boucle    (nf);loop, buckle, curl
-boucler    (v);to fasten, loop, resolve
-boue    (nf);mud
+boucler    (v);to fasten, loop, resolve, curl
+boue    (nf);mud *traîner quelqu'un dans la boue = drag someone through the mud = soil their reputation
 bouger    (v);to move, shift, budge
-boule    (nf);ball
+boule    (nf);ball *balle = small, ballon = larger, boule = heavy
 boulevard    (nm);boulevard
 bouleversement    (nm);upheaval
 bouleverser    (v);to upset, distress, disturb, turn upside down
-boulot    (adj,nm);work, job
+boulot    (adj,nm);work, job *'métro, boulot, dodo'
 bourgeois    (nadj(pl));middle class, bourgeois
-bourse    (nf);purse, scholarship
+bourse    (nf);purse, scholarship *bursary
 boursier    (nadj);grant-holder, scholarship holder, stock
 bousculer    (v);to knock over, knock over, knock into
 bout    (nm);bit, tip, end
 bouteille    (nf);bottle
-boutique    (nf);shop
+boutique    (nf);shop, boutique
 bouton    (nm);button, knob, spot
 branche    (nf);branch
 brancher    (v);to plug in, connect
@@ -566,7 +566,7 @@ brièvement    (adv);briefly
 brigade    (nf);team, squad, brigade
 brillant    (adj,nm);brilliant
 briller    (v);to shine
-briser    (v);to break
+briser    (v);to break *casser = general, briser = poetic
 britannique    (nadj(f));British
 brouillard    (nm);fog, mist, haze
 brouiller    (v);to mix-up, confuse, scramble
@@ -600,7 +600,7 @@ calcul    (nm);calculation
 calculer    (v);to calculate
 calendrier    (nm);calendar
 calme    (nadj(f));calm
-calmer    (v);to calm down
+calmer    (v);to calm down, to calm
 camarade    (nm,nf);friend, comrade, pal, mate
 caméra    (nf);camera
 camion    (nm);truck
@@ -637,7 +637,7 @@ carton    (nm);cardboard, card, score, carton
 cas    (nm(pl));case
 case    (nf);box, hut, field
 casque    (nm);helmet
-casser    (v);to break
+casser    (v);to break *casser = general, briser = poetic
 cassette    (nf);cassette
 catastrophe    (nf);catastrophe, disaster
 catastrophique    (adj(f));catastrophic, disastrous
@@ -686,11 +686,11 @@ chair    (nf);flesh
 chaise    (nf);chair
 chaleur    (nf);heat
 chaleureux    (adj(pl));warm
-chambre    (nf);bedroom, chamber
+chambre    (nf);bedroom, chamber *pièce = standard, salle = large/specific, chambre = private
 champ    (nm);field, realm
 champion    (nadj);champion
 championnat    (nm);championship
-chance    (nf);luck, chance
+chance    (nf);chance, luck 
 chancelier    (nm);chancellor
 change    (nm);exchange
 changement    (nm);change
@@ -698,8 +698,8 @@ changer    (v);to change
 chanson    (nf);song
 chant    (nm);song
 chanter    (v);to sing
-chanteur    (nadj);singer
-chantier    (nm);construction site, roadworks
+chanteur    (nadj);singer *chanteur = singer, chantier = construction site
+chantier    (nm);construction site, roadworks *chanteur = singer, chantier = construction site
 chaos    (nm(pl));chaos
 chapeau    (nm);hat
 chapitre    (nm);chapter
@@ -724,7 +724,7 @@ chef    (nm);head, leader, chief
 chemin    (nm);path, way
 chemise    (nf);shirt, folder
 chèque    (nm);check
-cher    (adj,adv);expensive
+cher    (adj,adv);expensive, dear
 chercher    (v);to look for
 chercheur    (nadj);researcher
 chéri    (nadj);darling, love, dear
@@ -803,7 +803,7 @@ clore    (v);to close
 clôture    (nf);enclosure, termination, closure
 club    (nm);club
 coalition    (nf);coalition
-cochon    (nadj);pig
+cochon    (nadj);pig *porc = food, cochon = animal
 cocktail    (nm);cocktail, cocktail party
 code    (nm);code
 coder    (v);to code, encode
@@ -906,7 +906,7 @@ composante    (nf);component
 composer    (v);to compose, dial
 composition    (nf);composition, essay, dialling
 compréhensible    (adj(f));comprehensible, understandable
-compréhension    (nf);understanding, comprehension
+compréhension    (nf);comprehension, understanding
 comprendre    (v);to understand
 compression    (nf);compression, cutback, reduction
 compromettre    (v);to compromise
@@ -954,7 +954,7 @@ confession    (nf);confession
 confiance    (nf);confidence, trust
 confiant    (adj);trusting, confident
 confidentiel    (adj);confidential
-confier    (v);to entrust
+confier    (v);to entrust, confide
 configuration    (nf);configuration, layout
 confiner    (v);to confine
 confirmation    (nf);confirmation
@@ -1005,10 +1005,10 @@ considération    (nf);consideration
 considérer    (v);to consider
 consigne    (nf);deposit, orders, detention
 consister    (v);to consist
-consolider    (v);to strengthen, reinforce
+consolider    (v);to strengthen, reinforce, consolidate
 consommateur    (nm);consumer, customer
 consommation    (nf);consumption
-consommer    (v);to eat, consume, drink, use, consummate
+consommer    (v);to consume, eat, drink, use, consummate
 constamment    (adv);constantly, continuously, consistent
 constant    (adj);constant
 constat    (nm);report, statement
@@ -1019,7 +1019,7 @@ constitutionnel    (nadj);constitutional
 constructeur    (nadj);builder, manufacturer
 constructif    (adj);constructive
 construction    (nf);construction, building
-construire    (v);to build, construct
+construire    (v);to build, construct *as in to assemble, like construct a sentence etc
 consultatif    (adj);advisory
 consultation    (nf);consultation
 consulter    (v);to consult
@@ -1029,10 +1029,10 @@ contaminer    (v);to contaminate, infect
 conte    (nm);tale
 contemporain    (nadj);contemporary
 contenir    (v);to contain
-content    (adj);glad, pleased, happy
+content    (adj);glad, pleased, happy, content
 contenter    (v);to satisfy, please
 contenu    (nadj);contents
-contestation    (nf);questioning, protest
+contestation    (nf);questioning, protest, contestation
 contester    (v);to contest, question
 contexte    (nm);context
 continent    (adj,nm);continent
@@ -1081,10 +1081,10 @@ coopération    (nf);cooperation
 coopérer    (v);to cooperate
 coordination    (nf);coordination
 coordonner    (v);to coordinate
-copain    (nm);friend, buddy, mate
+copain    (nm);friend, buddy, mate *companion
 copie    (nf);copy, replica, paper
 copier    (v);to copy, reproduce
-corde    (nf);rope, cord, string
+corde    (nf);cord, rope, string
 cordon    (nm);cord, string, lead
 corps    (nm(pl));body
 correct    (adj);correct
@@ -1097,9 +1097,9 @@ corriger    (v);to correct
 corrompre    (v);to corrupt, bribe
 corruption    (nf);corruption
 costume    (nm);suit, costume, dress
-côte    (nf);coast
-cote    (nf);rating, share index, quoted value
-côté    (nm);side
+côte    (nf);coast *cote = rating, côte = coast, côté = side
+cote    (nf);rating, share index, quoted value *cote = rating, côte = coast, côté = side
+côté    (nm);side *cote = rating, côte = coast, côté = side
 coter    (v);to quote, rate
 cotisation    (nf);subscription
 coton    (nm);cotton
@@ -1162,11 +1162,11 @@ criminalité    (nf);crime
 criminel    (nadj);criminal
 crise    (nf);crisis
 critère    (nm);criterion, criteria
-critique    (nadj(f));criticism, critic, critical
+critique    (nadj(f));criticism, critic, critical, critique
 critiquer    (v);to criticize, criticise
-croire    (v);to believe
+croire    (v);to believe *croire = believe, croiser = cross
 croisé    (nadj);twill, alternate, crusader, crossed
-croiser    (v);to cross
+croiser    (v);to cross *croire = believe, croiser = cross
 croisière    (nf);cruise
 croissance    (nf);growth
 croissant    (nadj);growing, crescent, crescent-shape
@@ -1185,7 +1185,7 @@ culte    (nm);worship, cult
 cultiver    (v);to cultivate, grow
 culture    (nf);culture
 culturel    (adj);cultural
-curé    (nm);parish priest
+curé    (nm);parish priest, priest *prêtre = general term, curé = specific type of priest
 curieux    (nadj(pl));curious
 curiosité    (nf);curiosity
 cycle    (nm);cycle
@@ -1219,7 +1219,7 @@ déboucher    (v);to unblock, uncork
 debout    (adv);standing
 débrouiller    (v);to untangle, sort out, manage, get by
 début    (nm);beginning, debut
-débuter    (v);to start, begin
+débuter    (v);to start, begin *debut
 décéder    (v);to die, pass away, pass on
 déceler    (v);to discover, detect
 décembre    (nm);December
@@ -1231,7 +1231,7 @@ décès    (nm(pl));death
 décevant    (adj);disappointing
 décevoir    (v);to disappoint
 décharger    (v);to unload
-déchet    (nm);scrap, waste, trash, garbage
+déchet    (nm);scrap, waste, trash, garbage *?discard
 déchirer    (v);to tear up, tear, rip
 décider    (v);to decide
 décisif    (adj);decisive
@@ -1255,7 +1255,7 @@ décrocher    (v);to take down, take off, pick up, lift
 dedans    (adv,nm(pl),prep);inside, indoors
 dédier    (v);to dedicate
 déduire    (v);to deduct, deduce, infer, figure out
-défaillance    (nf);fault, failure, breakdown, blackout, weakness
+défaillance    (nf);fault, failure, breakdown, blackout, weakness, faintness *défaillir = to faint
 défaire    (v);to undo, dismantle, strip, break up
 défaite    (nf);defeat
 défaut    (nm);fault, flaw, shortcoming
@@ -1276,7 +1276,7 @@ définitivement    (adv);definitely, permanently, for good
 déformer    (v);to bend, distort, deform
 dégager    (v);to free, clear
 dégât    (nm);damage
-dégradation    (nf);degrading, damaging, erosion, demotion
+dégradation    (nf);degrading, damaging, erosion, demotion, degradation
 dégrader    (v);to degrade, debase, damage, erode
 degré    (nm);degree
 déguiser    (v);to disguise
@@ -1303,7 +1303,7 @@ démarche    (nf);walk, process
 démarrage    (nm);start, moving off
 démarrer    (v);to start up
 déménager    (v);to move
-démentir    (v);to deny, refute, contradict
+démentir    (v);to deny, refute, contradict *démentir = deny, mentir = lie
 demeure    (nf);residence, home
 demeurer    (v);to remain, live
 demi    (adji,adv,nm);half
@@ -1344,10 +1344,10 @@ dépression    (nf);depression
 depuis    (adv,prep);since, for
 député    (nm);deputy, parlementary delegate
 déranger    (v);to disturb, bother
-dérive    (nf);drift
+dérive    (nf);drift *?divert
 dériver    (v);to divert, derive
 dernier    (nadj);last
-dérober    (v);to steal, hide
+dérober    (v);to steal, hide *rob
 déroulement    (nm);development, progress
 dérouler    (v);to unwind, enroll
 derrière    (adv,nm,prep);last, behind
@@ -1376,12 +1376,12 @@ désormais    (adv);from now on, henceforth
 desservir    (v);to clear, go against, harm, serve
 dessin    (nm);drawing, pattern, design
 dessiner    (v);to draw, design
-dessous    (adv,nm(pl),prep);underneath, below, bottom, underside
-dessus    (adv,nm(pl),prep);above, on top
+dessous    (adv,nm(pl),prep);underneath, below, bottom, underside *dessus = above, dessous = below
+dessus    (adv,nm(pl),prep);above, on top *dessus = above, dessous = below
 destin    (nm);fate, destiny
 destination    (nf);destination
 destinée    (nf);fate, destiny
-destiner    (v);to intend, be used
+destiner    (v);to intend, be used *destiny
 destruction    (nf);destruction
 détachement    (nm);detachment
 détacher    (v);to untie, detach, remove
@@ -1391,9 +1391,9 @@ détecter    (v);to detect
 détendre    (v);to release, slacken, loosen, relax
 détenir    (v);to hold, detain
 détente    (nf);release, relaxation, détente, loosening
-détenteur    (nadj);holder, possessor, bearer
+détenteur    (nadj);holder, possessor, bearer *detainer
 détention    (nf);detention, possession
-détenu    (nadj);prisoner
+détenu    (nadj);prisoner *detained
 détérioration    (nf);deterioration
 détériorer    (v);to deteriorate
 déterminant    (nadj);determining, deciding, crucial, determinant
@@ -1414,10 +1414,10 @@ deuxièmement    (adv);secondly
 devant    (adv,nm,prep);in front, ahead
 développement    (nm);development
 développer    (v);to develop
-devenir    (nm,v);to become
-deviner    (v);to guess, solve
+devenir    (nm,v);to become *devenir = become, deviner = guess
+deviner    (v);to guess, solve *devenir = become, deviner = guess
 devise    (nf);currency, motto, slogan
-dévoiler    (v);to unveil, reveal, disclose
+dévoiler    (v);to unveil, reveal, disclose *voiler = to veil
 devoir    (nm,v);to have to, owe, duty
 dévouer    (v);to devote, sacrifice oneself
 diable    (intj,nm);devil
@@ -1452,13 +1452,13 @@ diplomate    (nadj(f),nm);diplomat, diplomatic
 diplomatie    (nf);diplomacy
 diplomatique    (nadj(f));diplomatic
 diplôme    (nm);diploma, certificate
-dire    (nm,v);to say
+dire    (nm,v);to say, tell
 direct    (nadj);direct
 directement    (adv);directly
 directeur    (nadj);director
 direction    (nf);direction, management
-directive    (nf);guideline
-dirigeant    (nadj);leader
+directive    (nf);guideline, directive
+dirigeant    (nadj);leader *director
 diriger    (v);to lead, direct
 discipline    (nf);discipline
 discours    (nm(pl));speech, talk, discourse
@@ -1510,11 +1510,11 @@ docteur    (nm);doctor
 doctrine    (nf);doctrine
 document    (nm);document
 documentation    (nf);documentation, literature
-doigt    (nm);finger
+doigt    (nm);finger *digit
 dollar    (nm);dollar
 domaine    (nm);domain, field
 domestique    (nadj(f));servant, domestic
-domicile    (nm);home, place of residence
+domicile    (nm);home, place of residence, domicile
 dominant    (adj);dominant, prevailing
 domination    (nf);domination, dominion, rule
 dominer    (v);to dominate
@@ -1525,20 +1525,20 @@ donnée    (nf);fact, datum
 donner    (v);to give
 dont    (pro);whose, of which
 doré    (adj);golden
-dorénavant    (adv);from now on, henceforth
+dorénavant    (adv);from now on, henceforth *from: d'ore en avant 
 dormir    (v);to sleep
 dos    (nm(pl));back
 dose    (nf);dose, amount
 dossier    (nm);file, record, case
 doter    (v);to endow, provide
 douane    (nf);customs, duty
-douanier    (nadj);customs officer
+douanier    (nadj);customs officer *douane = customs
 double    (nadj(f));double
 doubler    (v);to double, pass, to dub
 doucement    (adv);gently, softly
 douceur    (nf);softness, smoothness, mildness, gentleness, sweetness
-douleur    (nf);pain
-douloureux    (adj(pl));painful, grievous, distressing
+douleur    (nf);pain *dolor
+douloureux    (adj(pl));painful, grievous, distressing *dolor
 doute    (nm);doubt
 douter    (v);to doubt
 doux    (adv,nadj(pl));soft, sweet
@@ -1546,7 +1546,7 @@ douzaine    (nf);dozen
 douze    (det,nmi);twelve
 dramatique    (nadj(f));dramatic, tragic, drama
 drame    (nm);drama
-drapeau    (nm);flag
+drapeau    (nm);flag *drape
 dresser    (v);to draw up, put up, raise
 drogue    (nf);drug
 droguer    (v);to drug, take drugs
@@ -1558,8 +1558,8 @@ dur    (adv,nadj);hard
 durable    (adj(f));durable, long-lasting
 durant    (prep);during, for
 durée    (nf);length, duration
-durement    (adv);harshly, severely
-durer    (v);to last
+durement    (adv);harshly, severely *dur = hard
+durer    (v);to last *duration
 dynamique    (nadj(f));dynamic
 dynamisme    (nm);dynamism
 eau    (nf);water
@@ -1590,17 +1590,16 @@ eau    (nf);water
 économiste    (nm,nf);economist
 écouler    (v);to sell, run off, flow out
 écoute    (nf);listening
-écouter    (v);to listen to
+écouter    (v);to listen to *écouter = active, entendre = passive
 écran    (nm);screen
 écrasant    (adj);crushing, overwhelming
 écraser    (v);to crush, grind
-écrier    (v);to exclaim, cry out
-écrire    (v);to write
-écrit    (nadj);writing
+écrier    (v);to exclaim, cry out *écrier = exclaim écrire = write
+écrire    (v);to write *écrier = exclaim écrire = write
+écrit    (nadj);writing, written
 écriture    (nf);writing
 écrivain    (nm);writer
 écrouler    (v);to collapse, tumble
-écu    (nm);ecu
 édifice    (nm);building
 éditeur    (nm);publisher, editor
 édition    (nf);publishing, editing, edition
@@ -1627,7 +1626,7 @@ effrayer    (v);to frighten, scare
 égyptien    (nadj);Egyptian
 eh    (intj);hey, uh
 élaboration    (nf);working-out, development
-élaborer    (v);to work out, develop
+élaborer    (v);to work out, develop, elaborate
 élan    (nm);momentum, surge, rush, elk, moose
 élargir    (v);to widen, expand, broaden, stretch, let out
 élargissement    (nm);widening, letting-out, stretching, broadening
@@ -1642,7 +1641,7 @@ eh    (intj);hey, uh
 élémentaire    (adj(f));elementary, rudimentary, basic
 élevé    (adj);high, heavy, tall, elevated
 élève    (nm,nf);pupil, student
-élever    (v);to grow, lift, raise
+élever    (v);to grow, lift, raise, elevate
 élimination    (nf);elimination
 éliminer    (v);to eliminate
 élire    (v);to elect
@@ -1686,7 +1685,7 @@ emprunter    (v);to borrow
 en    (adv,prep,pro);in, by
 encadrement    (nm);training, framing, supervision
 encadrer    (v);to frame, train
-encaisser    (v);to receive, collect, cash
+encaisser    (v);to receive, collect, cash *caisse = till
 enceinte    (adjf,nf);pregnant, enclosure
 enchaîner    (v);to chain up, connect, string together
 enchanter    (v);to delight, enchant, rejoice
@@ -1721,7 +1720,7 @@ ennuyer    (v);to bore, worry, bother
 énoncer    (v);to state, set out, express
 énorme    (adj(f));enormous
 énormément    (adv);enormously
-enquête    (nf);inquiry, enquiry, investigation
+enquête    (nf);inquiry, enquiry, investigation *sondage = general, scrutin = formal vote, vote = social media poll, enquête = investigation
 enquêter    (v);to investigate, hold inquiry, conduct a survey
 enquêteur    (nm);investigator, pollster
 enregistrement    (nm);recording, registration, check-in, logging
@@ -1734,7 +1733,7 @@ ensemble    (adv,nm);together
 ensuite    (adv);next
 ensuivre    (v);to follow, result, ensue
 entamer    (v);to start
-entendre    (v);to hear
+entendre    (v);to hear *écouter = active, entendre = passive
 entente    (nf);understanding, agreement
 enterrer    (v);to bury, lay aside
 enthousiasme    (nm);enthusiasm, enthusiastically
@@ -1766,15 +1765,15 @@ envelopper    (v);to wrap, surround, veil
 envergure    (nf);wingspan, breadth, scope
 envers    (nm(pl),prep);towards
 envie    (nf);envy
-environ    (adv,prep,nm);about, thereabouts, or so
+environ    (adv,prep,nm);about, thereabouts, or so, around
 environnement    (nm);environment
 environnemental    (adj);environmental
-envisager    (v);to view, contemplate
+envisager    (v);to view, contemplate, envisage
 envoi    (nm);sending, dispatching
 envoler    (v);to fly away, fly off, take off
 envoyer    (v);to send
 épais    (adj(pl),adv);thick, pitch dark, thickly
-épanouir    (v);to bloom, blossom
+épanouir    (v);to bloom, blossom *expand
 épargne    (nf);savings, saving
 épargner    (v);to save, spare
 épaule    (nf);shoulder
@@ -1821,7 +1820,7 @@ essor    (nm);expansion, development, flight
 essuyer    (v);to wipe, dry, mop, dust
 est    (nmi);east
 esthétique    (nadj(f));aesthetics, attractiveness, attractive
-estimation    (nf);appraisal, valuation, assessment estimate,
+estimation    (nf);appraisal, valuation, assessment, estimate
 estimer    (v);to estimate, to consider, deem
 et    (conj);and
 établir    (v);to establish
@@ -1831,7 +1830,6 @@ et    (conj);and
 étape    (nf);stage, step
 état    (nm);state
 état-major    (nm);staff, staff headquarters
-etc    (etc.,);et cetera
 été    (nm);summer
 éteindre    (v);to extinguish, put out, turn off
 étendre    (v);to spread out, stretch out
@@ -1845,10 +1843,10 @@ ethnique    (nadj(f));ethnic
 étonner    (v);to astonish, amaze
 étouffer    (v);to suffocate, smother, muffle
 étrange    (nadj(f));strange, odd
-étranger    (nadj);foreigner, foreign
+étranger    (nadj);foreigner, foreign, stranger
 être    (nm,v);to be, being
 étroit    (adj);narrow, tight
-étroitement    (adv);closely
+étroitement    (adv);closely *étroit = narrow
 étude    (nf);study
 étudiant    (nadj);student
 étudier    (v);to study
@@ -1880,7 +1878,7 @@ exactement    (adv);exactly
 exagérer    (v);to exaggerate, overdo
 examen    (nm);exam
 examiner    (v);to examine
-excédent    (nm);surplus
+excédent    (nm);surplus, excess
 excéder    (v);to exceed
 excellence    (nf);excellence
 excellent    (adj);excellent
@@ -1889,7 +1887,7 @@ exceptionnel    (nadj);exceptional
 excès    (nm(pl));excess, surplus, abuse
 excessif    (nadj);excessive, inordinate
 exciter    (v);to arouse, waken, excite, turn on
-exclu    (nm,adj);outcast
+exclu    (nm,adj);outcast, excluded, expelled
 exclure    (v);to exclude
 exclusif    (nadj);exclusive, sole
 exclusion    (nf);exclusion, expulsion
@@ -1952,11 +1950,11 @@ extrait    (nm);extract, excerpt
 extraordinaire    (adj(f));extraordinary
 extrême    (nadj(f));extreme
 extrêmement    (adv);extremely
-extrémité    (nf);end, extremity
+extrémité    (nf);extremity, end
 fabricant    (nm);manufacturer
 fabrication    (nf);manufacture, production
 fabriquer    (v);to manufacture, invent, make
-façade    (nf);front, façade
+façade    (nf);façade, front
 face    (nf);front, side, face
 fâcher    (v);to anger, make angry, get angry
 facile    (adj(f));easy
@@ -1972,7 +1970,7 @@ faiblesse    (nf);weakness
 faille    (nf);fault
 faillir    (v);to have almost, fail, fail to
 faillite    (nf);bankruptcy, collapse, failure
-faim    (nf);hungry
+faim    (nf);hungry, hunger *famished
 faire    (nm,v);to do, make
 faisceau    (nm);bundle, beam, stack
 fait    (adj,nm);done, fact
@@ -1983,14 +1981,14 @@ familier    (nadj);familiar, informal
 famille    (nf);family
 famine    (nf);famine
 fantastique    (nadj(f));fantastic, terrific, great, weird, eerie
-fantôme    (nm);ghost, phantom
-farce    (nf);joke, prank, hoax, farce
+fantôme    (nm);phantom, ghost
+farce    (nf);farce, joke, prank, hoax
 fardeau    (nm);burden
 fasciner    (v);to fascinate
 fatal    (adj);fatal, deadly, fateful
 fatigue    (nf);tiredness, fatigue tired
 fatiguer    (v);to tire, get
-faute    (nf);mistake, error, fault
+faute    (nf);fault, mistake, error
 fauteuil    (nm);armchair, seat
 faux    (adv,adj(pl),nm(pl),nf(pl));false, scythe
 faveur    (nf);favor, favour
@@ -2004,7 +2002,7 @@ féliciter    (v);to congratulate
 féminin    (nadj);feminine
 femme    (nf);woman, wife
 fenêtre    (nf);window
-fer    (nm);iron
+fer    (nm);iron *ferrous
 fermé    (adj);shut, closed, locked
 ferme    (adj(f),adv,nf);farm, firm
 fermement    (adv);firmly
@@ -2026,12 +2024,12 @@ ficher    (v);to file, to make fun of, not care, not give a damn
 fichier    (nm);file
 fiction    (nf);fiction
 fidèle    (nadj(f));faithful
-fidélité    (nf);loyalty, faithfulness, accuracy, reliability, fidelity
+fidélité    (nf);fidelity, loyalty, faithfulness, accuracy, reliability, 
 fier    (adj,v);to rely on, proud
 fierté    (nf);pride
 fièvre    (nf);fever
 figer    (v);to clot, coagulate, congeal, set
-figure    (nf);face, figure
+figure    (nf);figure, face
 figurer    (v);to represent, appear
 fil    (nm);thread, wire
 file    (nf);line, queue
@@ -2081,18 +2079,18 @@ fonctionnel    (adj);functional
 fonctionnement    (nm);operation, functioning
 fonctionner    (v);to function, work
 fond    (nm);bottom
-fondamental    (adj);fondamental
+fondamental    (adj);fundamental
 fondamentalement    (adv);basically, fundamentally, inherently
 fondateur    (nm);founder
 fondation    (nf);foundation
 fondé    (adj,nm,nf);founded, justified, agent, clerk
 fondement    (nm);foundation
-fonder    (v);to found, set
-fondre    (v);to melt, merge
+fonder    (v);to found, set *fonder = found, fondre = melt
+fondre    (v);to melt, merge *fonder = found, fondre = melt
 fonds    (nm(pl));funds
 football    (nm);football, soccer
 force    (adv,nf);force
-forcément    (adv);without question, inevitably
+forcément    (adv);without question, inevitably *N.B. not forcefully
 forcer    (v);to force
 forestier    (nadj);forest, forester
 forêt    (nf);forest
@@ -2128,7 +2126,7 @@ frais    (adj(pl),adv,nm(pl));cool, fresh, fee, expense
 franc    (adj,adv,adj,nm);frank, franc
 français    (nadj(pl));French
 franchement    (adv);frankly
-franchir    (v);to get over
+franchir    (v);to get over, climb, cross, cover, clear, negotiate
 franchise    (nf);frankness, exemption, duty-free franchise, deductible,
 francophone    (adj(f));French-speaking, French speaker, francophone
 frappe    (nf);strike, striking, stamp, impression, punch, knock
@@ -2140,11 +2138,11 @@ fréquemment    (adv);frequently
 fréquence    (nf);frequency
 fréquent    (adj);frequent
 fréquenter    (v);to frequent, go around with
-frère    (nm);brother
+frère    (nm);brother *frère = standard, fragrin = informal
 froid    (nadj);cold
 fromage    (nm);cheese
 front    (nm);front, forehead
-frontière    (nf);border
+frontière    (nf);frontier, border
 fruit    (nm);fruit
 frustration    (nf);frustration
 frustrer    (v);to frustrate
@@ -2179,8 +2177,8 @@ gaz    (nm(pl));gas
 géant    (nadj);giant, gigantic
 gel    (nm);frost, freezing, gel
 geler    (v);to freeze, ice over, suspend
-gendarme    (nm,nf);policeman
-gendarmerie    (nf);police force, police station
+gendarme    (nm,nf);policeman *gens d'armes
+gendarmerie    (nf);police force, police station *gens d'armes
 gène    (nm);gene
 gêner    (v);to bother, trouble
 général    (nadj);general
@@ -2193,7 +2191,7 @@ générosité    (nf);generosity, generously
 génétique    (nadj(f));genetic
 génétiquement    (adv);genetically
 génial    (adj);inspired, great, brilliant
-génie    (nm);genius
+génie    (nm);genius, genie
 génocide    (nm);genocide
 genou    (nm);knee
 genre    (nm);type, kind, sort
@@ -2240,7 +2238,7 @@ gratuitement    (adv);free, gratuitously
 grave    (adv,nadj(f),nm);serious, grave
 gravement    (adv);seriously, solemnly, gravely
 gravité    (nf);seriousness, solemnity, gravity
-gré    (nm);liking
+gré    (nm);liking, will, consent *bon gré = good will
 grec    (nadj);Greek
 grève    (nf);strike
 grille    (nf);railings, gate, grid, scale
@@ -2252,12 +2250,12 @@ grossier    (adj);unrefined, crude, coarse, rude, rough, gross
 grossir    (v);to get larger
 groupe    (nm);group
 groupement    (nm);grouping, group, categorization, categorisation
-guère    (adv);hardly
-guérir    (v);to cure, heal, get better
-guerre    (nf);war
+guère    (adv);hardly *guère = hardly, guérir = cure, guerre = war
+guérir    (v);to cure, heal, get better *guère = hardly, guérir = cure, guerre = war
+guerre    (nf);war *guère = hardly, guérir = cure, guerre = war
 guerrier    (nadj);warrior, warlike
 guetter    (v);to watch over, watch out for
-gueule    (nf);mouth, trap
+gueule    (nf);mouth, trap *bouche = general, gueule = animal/slang
 guide    (nm,nf);guide
 guider    (v);to guide
 guise    (nf);wish like, by way of
@@ -2270,8 +2268,8 @@ habitude    (nf);habit
 habituel    (adj);customary, habitual
 habituellement    (adv);usually, generally
 habituer    (v);to accustom, get used to
-haine    (nf);hatred, hate
-haïr    (v);to detest, hate, abhor
+haine    (nf);hatred, hate *haine = hate, hâte = haste 
+haïr    (v);to detest, hate, abhor *haïr = to hate, hâter = to hasten
 hall    (nm);foyer, lobby
 handicap    (nm);handicap
 handicapé    (nadj);disabled, handicapped
@@ -2281,9 +2279,9 @@ harceler    (v);to harass, plague
 harmonie    (nf);harmony,
 harmonisation    (nf);harmonization, harmonisation
 harmoniser    (v);to harmonize, harmonize with, harmonise
-hasard    (nm);chance, luck
-hâte    (nf);haste, impatience
-hâter    (v);to quicken, hasten
+hasard    (nm);chance, luck, hazard
+hâte    (nf);haste, impatience *haine = hate, hâte = haste 
+hâter    (v);to quicken, hasten *haïr = to hate, hâter = to hasten
 hausse    (nf);rise, raise, increase
 hausser    (v);to raise
 haut    (adv,nadj);top, high
@@ -2297,8 +2295,8 @@ hélicoptère    (nm);helicopter
 hépatite    (nf);hepatitis
 herbe    (nf);grass, herb
 héritage    (nm);heritage
-hériter    (v);to inherit
-héritier    (nm);heir
+hériter    (v);to inherit *hériter = inherit, héritier = heir
+héritier    (nm);heir *hériter = inherit, héritier = heir
 héroïne    (nf);heroine
 héros    (nm(pl));hero
 hésitation    (nf);hesitation
@@ -2323,7 +2321,7 @@ honneur    (nm);honor, honour
 honorable    (adj(f));honorable, worthy
 honorer    (v);to honor, do credit to, honour
 honte    (nf);shame
-honteux    (adj(pl));ashamed, shameful
+honteux    (adj(pl));ashamed, shameful *honte = shame
 hôpital    (nm);hospital
 horaire    (nadj(f));schedule, timetable, hourly
 horizon    (nm);horizon, skyline
@@ -2343,7 +2341,7 @@ humain    (nadj);human
 humanitaire    (adj(f));humanitarian
 humanité    (nf);humanity
 humble    (adj(f));humble, lowly
-humeur    (nf);mood, temper
+humeur    (nf);mood, temper, humor, humour
 humide    (adj(f));moist, damp, humid, wet
 humour    (nm);humor, humour
 hurler    (v);to scream, yell
@@ -2367,7 +2365,7 @@ illégal    (adj);illegal
 illusion    (nf);illusion
 illustration    (nf);illustration
 illustrer    (v);to illustrate
-image    (nf);picture, image
+image    (nf);image, picture 
 imaginaire    (nadj(f));imaginary
 imagination    (nf);imagination
 imaginer    (v);to imagine
@@ -2383,10 +2381,10 @@ imminent    (adj);imminent, impending
 immobile    (adj(f));still, motionless
 immobilier    (nadj);property, real estate, property business, real estate business
 impact    (nm);impact
-impasse    (nf);dead end, cul-de-sac
+impasse    (nf);dead end, cul-de-sac, impasse
 impatience    (nf);impatience
 impatient    (nadj);impatient
-impératif    (nadj);need, necessity, urgent, imperative
+impératif    (nadj);imperative, need, necessity, urgent 
 implantation    (nf);implanting, setting up, establishment, implantation, installation
 implanter    (v);to implant, set up, establish
 implication    (nf);implication
@@ -2394,7 +2392,7 @@ impliquer    (v);to imply, implicate
 importance    (nf);importance
 important    (nadj);important
 importation    (nf);import
-importer    (v);to import to be important
+importer    (v);to import, to be important
 imposer    (v);to impose
 imposition    (nf);taxation
 impossibilité    (nf);impossibility
@@ -2406,7 +2404,7 @@ impressionner    (v);to impress, upset
 imprimer    (v);to print, print out
 improbable    (adj(f));unlikely, improbable
 improviser    (v);to improvise
-impuissant    (nadj);powerless, helpless
+impuissant    (nadj);powerless, helpless *im + puissant (powerful)
 impulsion    (nf);impulse, pulse
 imputer    (v);to impute to, attribute to
 inacceptable    (adj(f));unacceptable
@@ -2421,7 +2419,7 @@ incertitude    (nf);uncertainty
 inchangé    (adj);unchanged
 incidence    (nf);effect, incidence
 incident    (adj,nm);incident
-incitation    (nf);incitement, incentive
+incitation    (nf);incitement, incentive, incitation
 inciter    (v);to incite, encourage
 incliner    (v);to tilt, tend towards
 inclure    (v);to include
@@ -2444,7 +2442,7 @@ indice    (nm);indication, sign, clue
 indien    (nadj);Indian
 indifférence    (nf);indifference
 indifférent    (nadj);indifferent, unconcerned, unimportant
-indigène    (nadj(f));native, local
+indigène    (nadj(f));native, local, indigenous
 indiquer    (v);to indicate, signal
 indirect    (adj);indirect
 indirectement    (adv);indirectly
@@ -2572,13 +2570,13 @@ intimité    (nf);privacy, intimacy
 intituler    (v);to entitle, call
 intolérable    (adj(f));intolerable
 introduction    (nf);introduction
-introduire    (v);to introduce
+introduire    (v);to introduce, insert *not to introduce someone
 inutile    (nadj(f));useless
 invasion    (nf);invasion
 inventer    (v);to invent
 invention    (nf);invention
 inverse    (nadj(f));opposite, reverse
-inverser    (v);to reverse, invert
+inverser    (v);to invert, reverse 
 investir    (v);to invest
 investissement    (nm);investment
 investisseur    (nm);investor
@@ -2611,20 +2609,20 @@ jambe    (nf);leg
 janvier    (nm);January
 japonais    (nadj(pl));Japanese
 jardin    (nm);garden
-jaune    (adv,nadj(f));yellow
+jaune    (adv,nadj(f));yellow *jaune = yellow, jeune = young
 je    (pro);I
 jet    (nm);jet, throw, spray, nozzle
 jeter    (v);to throw
 jeu    (nm);game
 jeudi    (nm);Thursday
-jeune    (nadj(f));young
+jeune    (nadj(f));young *jaune = yellow, jeune = young
 jeunesse    (nf);youth
 joie    (nf);joy
 joindre    (v);to join
 joli    (adj);pretty, attractive
-joue    (nf);cheek
+joue    (nf);cheek *joue = cheek, jouet = toy
 jouer    (v);to play
-jouet    (nm);toy
+jouet    (nm);toy *joue = cheek, jouet = toy
 joueur    (nadj);player
 jouir    (v);to enjoy
 jour    (nm);day
@@ -2641,7 +2639,7 @@ juillet    (nm);July
 juin    (nm);June
 jumeau    (nadj);twin
 jungle    (nf);jungle
-jurer    (v);to swear
+jurer    (v);to swear, vow, promise
 juridiction    (nf);jurisdiction, court of law
 juridique    (adj(f));legal, judicial
 jury    (nm);jury, board of examiners
@@ -2742,7 +2740,7 @@ local    (nadj);local
 localité    (nf);town, village
 location    (nf);renting
 logement    (nm);accommodation
-loger    (v);to put up, accommodate, stay, find accommodation
+loger    (v);to put up, accommodate, stay, find accommodation, lodge
 logiciel    (nm);software, program, application
 logique    (nadj(f));logic, logical
 logiquement    (adv);logically
@@ -2802,7 +2800,7 @@ majeur    (nadj);major
 majoritaire    (adj(f));majority
 majorité    (nf);majority
 mal    (adji,adv,nm);bad
-malade    (nadj(f));ill, sick
+malade    (nadj(f));ill, sick *malady
 maladie    (nf);illness, disease
 malaise    (nm);uneasiness, discomfort
 malentendu    (nm);misunderstanding
@@ -2820,12 +2818,12 @@ manière    (nf);manner, way
 manifestant    (nm);protester, demonstrator
 manifestation    (nf);demonstration, event
 manifestement    (adv);manifestly, clearly
-manifester    (v);to show, demonstrate, display
+manifester    (v);to show, demonstrate, display, manifest
 manipulation    (nf);handling, manipulation
 manipuler    (v);to handle, manipulate
 manœuvre    (nm,nf);manoeuvre, laborer
 manque    (nm);lack
-manquer    (v);to miss
+manquer    (v);to miss *manquer = physical/emotional, rater = physical only
 manteau    (nm);coat, overcoat
 manuel    (adj,nm);manual
 manuscrit    (adj);manuscript, handwritten
@@ -2874,7 +2872,7 @@ mécanique    (adj(f));mechanical
 mécanisme    (nm);mechanism
 méchant    (nadj);nasty, wicked, mean
 mécontent    (nadj);discontented, dissatisfied, displeased, malcontent, unhappy 
-mécontentement    (nm);displeasure, dissatisfaction, discontent
+mécontentement    (nm);displeasure, dissatisfaction, discontent, malcontentment
 médaille    (nf);medal
 médecin    (nm);physician, doctor
 médecine    (nf);medecine, medical science
@@ -2888,13 +2886,13 @@ méfiance    (nf);distrust, mistrust, suspicion
 méfier    (v);to distrust, mistrust
 meilleur    (nadj);better, best
 mélange    (nm);mixing, mixture, blend
-mélanger    (v);to mix, mix up, confuse
-mêler    (v);to mingle, mix
+mélanger    (v);to mix, mix up, confuse *physical mixing = mélanger, abstract mixing = mêler
+mêler    (v);to mingle, mix *physical mixing = mélanger, abstract mixing = mêler
 membre    (nm);member
 même    (adj(f),adv,pro);same, even, self
 mémoire    (nm,nf);memory
 menaçant    (adj);threatening, menacing
-menace    (nf);threat
+menace    (nf);threat, menace
 menacer    (v);to threaten
 ménage    (nm);housekeeping, housework
 ménager    (nadj,v);to handle, arrange domestic
@@ -2905,7 +2903,7 @@ mental    (nadj);mental
 mentalité    (nf);mentality
 mention    (nf);mention, note, comment, notice
 mentionner    (v);to mention
-mentir    (v);to lie
+mentir    (v);to lie *démentir = deny, mentir = lie
 menu    (adv,nadj);menu, slender, slim, minor
 mépris    (nm(pl));contempt, scorn, disdain
 mépriser    (v);to scorn, look down, spurn, disdain
@@ -2943,7 +2941,7 @@ milieu    (nm);middle
 militaire    (nadj(f));military
 militant    (nadj);militant
 militer    (v);to militate
-mille    (det,nm,nmi);a thousand
+mille    (det,nm,nmi);a thousand, thousand
 millénaire    (nadj(f));millennium, thousand-year-old
 milliard    (nm);billion, thousand million
 millier    (nm);thousand
@@ -3016,8 +3014,8 @@ monument    (nm);monument
 moquer    (v);to mock, make fun of
 moral    (nadj);moral, morale
 morale    (nf);ethics, moral
-morceau    (nm);piece, bit
-mordre    (v);to bite, overlap into
+morceau    (nm);piece, bit *morsel
+mordre    (v);to bite, overlap into *mordant
 mort    (adj,nf);dead, death
 mortalité    (nf);mortality, death rate
 mortel    (nadj);mortal, deadly, lethal
@@ -3032,7 +3030,7 @@ mourir    (v);to die
 mouton    (nadj);sheep
 mouvement    (nm);movement
 moyen    (adj,nm);means, way, medium
-moyenne    (nf);average
+moyenne    (nf);average *mean in mathematics
 muet    (nadj);mute, silent, dumb
 multinational    (adj);multinational
 multiple    (nadj(f));multiple
@@ -3094,13 +3092,13 @@ nettoyage    (nm);cleaning, cleansing
 nettoyer    (v);to clean
 neuf    (det,adj,nmi);nine, new
 neutre    (adj(f));neutral
-nez    (nm(pl));nose
+nez    (nm(pl));nose *nez = neutral, pif = informal
 ni    (conj);nor
 nier    (v);to deny
 niveau    (nm);level
 noble    (nadj(f));noble
 nocturne    (nadj(f));nocturnal, nocturne
-nœud    (nm);knot
+nœud    (nm);knot *node
 noir    (nadj);black
 nom    (nm);name
 nombre    (nm);number
@@ -3123,7 +3121,7 @@ notion    (nf);notion
 notoire    (adj(f));notorious, well-known
 notre    (det);our
 nôtre    (nadj(f));ours, our own
-nouer    (v);to knot, tie
+nouer    (v);to knot, tie *nœud = knot
 nourrir    (v);to feed, nourish
 nourriture    (nf);food
 nous    (pro);we, us
@@ -3148,11 +3146,11 @@ objectif    (adj,nm);objective, aim, goal, lens
 objection    (nf);objection
 objet    (nm);objective, object
 obligation    (nf);obligation, bond
-obligatoire    (adj(f));mandatory, compulsory
+obligatoire    (adj(f));mandatory, compulsory, obligatory
 obligé    (nadj);necessary, required
 obliger    (v);to require, force, oblige
 obscur    (adj);dark, vague, obscure
-obscurité    (nf);darkness
+obscurité    (nf);darkness, obscurity
 obséder    (v);to obsess, haunt
 observateur    (nadj);observer, observant
 observation    (nf);observation
@@ -3176,7 +3174,7 @@ odieux    (adj(pl));hateful, odious
 œil    (nm);eye
 œuf    (nm);egg
 œuvre    (nf);work, task
-œuvrer    (v);to work
+œuvrer    (v);to work *synonyms: œuvrer = formal, travailler = neutral, bosser = casual, taffer/charbonner = slang
 offensive    (nf);offensive, offence
 office    (nm);office, bureau
 officiel    (nadj);official
@@ -3198,7 +3196,7 @@ opération    (nf);operation
 opérationnel    (adj);operational, operating
 opérer    (v);to operate, carry out
 opinion    (nf);opinion
-opportun    (adj);timely,
+opportun    (adj);timely, opportune
 opportunité    (nf);opportunity, timeliness
 opposant    (nadj);opponent, opposing
 opposer    (v);to oppose
@@ -3245,7 +3243,7 @@ ouest    (adji,nm);west
 oui    (adv,nmi);yes
 ours    (adji,nm(pl));bear
 outil    (nm);tool
-outre    (adv,nf,prep);besides
+outre    (adv,nf,prep);besides *autre = other, outre = besides
 ouvert    (adj);open
 ouvertement    (adv);openly, overtly
 ouverture    (nf);opening
@@ -3304,7 +3302,6 @@ parlementaire    (nadj(f));parliamentary, member of parliament
 parler    (nm,v);to speak
 parmi    (prep);among
 parole    (nf);word
-parquet    (nm);parquet floor, hardwood floor, prosecutor's office
 part    (nf);share
 partage    (nm);division, cutting, sharing
 partager    (v);to share
@@ -3318,7 +3315,7 @@ particulier    (nadj);particular, peculiar, person
 particulièrement    (adv);particularly
 partie    (nf);part
 partiel    (nadj);partial
-partiellement    (adv);partly
+partiellement    (adv);partly, partially
 partir    (v);to leave
 partisan    (nadj);partisan, supporter
 partout    (adv);everywhere
@@ -3355,11 +3352,11 @@ pêche    (nf);fishing, peach
 péché    (nm);sin
 pêcher    (nm,v);to fish, go fishing, peach tree
 pêcheur    (nadj);fisherman
-peindre    (v);to paint, depict, portray
+peindre    (v);to paint, depict, portray *peintre = painter, peinture = painting, peindre = to paint
 peine    (nf);effort, trouble
-peiner    (v);to toil, labor, struggle, labour
-peintre    (nm);painter
-peinture    (nf);painting, paint, picture
+peiner    (v);to toil, labor, struggle, labour, pain
+peintre    (nm);painter *peintre = painter, peinture = painting, peindre = to paint
+peinture    (nf);painting, paint, picture *peintre = painter, peinture = painting, peindre = to paint
 pénal    (adj);penal
 pénaliser    (v);to penalize, punish, penalise
 pencher    (v);to lean, tilt
@@ -3380,7 +3377,7 @@ perdre    (v);to lose
 perdu    (nadj);lost, stray, wasted
 père    (nm);father
 performance    (nf);performance
-performant    (adj);productive, efficient
+performant    (adj);productive, efficient, performant
 péril    (nm);peril
 période    (nm,nf);period
 périr    (v);to perish
@@ -3392,7 +3389,7 @@ permission    (nf);permission, leave
 perpétuel    (adj);perpetual, everlasting, never-ending
 perpétuer    (v);to perpetuate, carry on
 persister    (v);to persist, keep up, linger
-personnage    (nm);character, individual
+personnage    (nm);character, individual, persona
 personnalité    (nf);personality
 personne    (nf,pro);person, people, anybody, anyone nobody,
 personnel    (nadj);personnel, personal
@@ -3402,7 +3399,7 @@ persuader    (v);to convince, persuade
 perte    (nf);loss
 pertinent    (adj);pertinent, relevant
 perturbation    (nf);disruption, disturbance
-perturber    (v);to disrupt, disturb
+perturber    (v);to disrupt, disturb, perturb
 pervers    (nadj(pl));pervert, perverse, perverted
 peser    (v);to weigh
 pessimiste    (nadj(f));pessimistic, pessimist
@@ -3419,8 +3416,8 @@ phare    (nm);lighthouse, headlight
 pharmaceutique    (nadj(f));pharmaceutical
 phase    (nf);phase
 phénomène    (nm);phenomenon
-philosophe    (nadj(f));philosopher
-philosophie    (nf);philosophy
+philosophe    (nadj(f));philosopher *philosoph + e = philosopher, + ie = philosophy
+philosophie    (nf);philosophy *philosoph + e = philosopher, + ie = philosophy
 philosophique    (adj(f));philosophical
 photo    (nf);photo
 photographe    (nm,nf);photographer
@@ -3430,9 +3427,9 @@ phrase    (nf);sentence, phrase
 physique    (nadj(f));physical, physics
 physiquement    (adv);physically
 piano    (adv,nm);piano
-pièce    (nf);piece, part, component, room
+pièce    (nf);piece, part, component, room *pièce = standard, salle = large/specific, chambre = private
 pied    (nm);foot
-piège    (nm);trap
+piège    (nm);trap, pitfall
 piéger    (v);to trap, booby-trap
 pierre    (nf);stone
 pile    (nf);pile, stack, battery, tails
@@ -3467,7 +3464,7 @@ plante    (nf);plant
 planter    (v);to plant, pitch
 plaque    (nf);plate, tag, plaque
 plastique    (nadj(f));plastic
-plat    (adj,nm);dish, flat
+plat    (adj,nm);dish, flat, plate
 plate-forme    (nf);platform
 plateau    (nm);plateau, tray, set, stage
 plein    (adv,nadj,prep);full
@@ -3515,7 +3512,7 @@ ponctuel    (adj);punctual
 pont    (nm);bridge
 populaire    (nadj(f));popular
 population    (nf);population
-porc    (nm);pig, pork
+porc    (nm);pig, pork *porc = food, cochon = animal
 port    (nm);harbor, port
 portable    (adj(f),nm);portable, wearable, cell phone
 porte    (nf);door
@@ -3549,12 +3546,12 @@ pourcentage    (nm);percentage, commission, cut
 pourparler    (nm);talk, discussion, negotiation
 pourquoi    (adv,conj,nmi);why
 poursuite    (nf);chase, pursuit
-poursuivre    (v);to pursue
+poursuivre    (v);to pursue *P o URSU ivr E
 pourtant    (adv);yet, nonetheless, nevertheless
 pourvoir    (v);to provide, equip, supply, furnish
 poussée    (nf);push, rise, upsurge
 pousser    (v);to push
-poussière    (nf);dust
+poussière    (nf);dust *mordre la poussière = to bite the dust
 pouvoir    (nm,v);can, to be able to
 pratique    (nadj(f));practice, practical
 pratiquement    (adv);practically
@@ -3619,7 +3616,7 @@ prétendu    (nadj);so-called, alleged
 prétention    (nf);claim, pretension
 prêter    (v);to lend
 prétexte    (nadj(f),nm);pretext
-prêtre    (nm);priest
+prêtre    (nm);priest *prêtre = general term, curé = specific type of priest
 preuve    (nf);proof
 prévaloir    (v);to prevail
 prévenir    (v);to prevent, warn, to notify
@@ -3771,8 +3768,8 @@ quai    (nm);platform, quay, embankment
 qualification    (nf);qualification
 qualifier    (v);to qualify
 qualité    (nf);quality
-quand    (adv,conj);when
-quant    (adv);as for
+quand    (adv,conj);when *quand = when, quant = as for
+quant    (adv);as for *quand = when, quant = as for
 quantité    (nf);quantity
 quarantaine    (nf);about forty
 quarante    (det,nmi);forty
@@ -3849,7 +3846,7 @@ rassembler    (v);to gather together
 rassurant    (adj);reassuring, comforting
 rassurer    (v);to reassure, calm down
 rat    (adj(f),nm);rat
-rater    (v);to miss, misfire
+rater    (v);to miss, misfire *manquer = physical/emotional, rater = physical only
 ratification    (nf);ratification
 ratifier    (v);to ratify
 rationnel    (nadj);rational
@@ -3876,7 +3873,7 @@ récent    (adj);recent
 récepteur    (nm);receiver, receiving
 réception    (nf);reception
 récession    (nf);recession
-recette    (nf);recipe
+recette    (nf);recipe *recette = recipe, reçu = receipt
 recevoir    (v);to receive
 recherche    (nf);research, search
 rechercher    (v);to search for
@@ -3902,14 +3899,14 @@ reconstruire    (v);to rebuild, reconstruct
 record    (nm);record
 recourir    (v);to turn to, run again
 recours    (nm(pl));resort, recourse
-recouvrir    (v);to cover, hide, conceal
+recouvrir    (v);to cover, hide, conceal, recover *as in cover again
 recrutement    (nm);recruiting, recruitment
 recruter    (v);to recruit
 rectifier    (v);to rectify, correct
-reçu    (nm);receipt, accepted
+reçu    (nm);receipt, accepted *recette = recipe, reçu = receipt
 recueillir    (v);to collect, gather
 recul    (nm);backward movement, setback, slip
-reculer    (v);to move back, back up
+reculer    (v);to move back, back up, retreat
 récupération    (nf);recovery, retrieval, salvage
 récupérer    (v);to get back, recover, recuperate
 rédacteur    (nm);editor, writer, drafter, compiler
@@ -3947,7 +3944,7 @@ refus    (nm(pl));refusal
 refuser    (v);to refuse
 regagner    (v);to win again, regain, get back, make up
 regard    (nm);look, glance
-regarder    (v);to look, watch
+regarder    (v);to look, watch *regarder = active, voir = passive
 régime    (nm);regime
 régiment    (nm);regiment
 région    (nf);region
@@ -3997,7 +3994,7 @@ remarquer    (v);to remark, to notice, point out
 remboursement    (nm);reimbursement
 rembourser    (v);to reimburse, pay back, pay off, repay
 remède    (nm);cure, remedy
-remédier    (v);to cure, remedy, put right
+remédier    (v);to cure, remedy, put right, remediate
 remercier    (v);to thank
 remettre    (v);to deliver, replace, set, put
 remise    (nf);presentation, delivery
@@ -4016,7 +4013,7 @@ rendre    (v);to render, return, yield, give up
 renfermer    (v);to contain, shut, lock, enclose
 renforcement    (nm);reinforcement, strengthening
 renforcer    (v);to reinforce, strengthen
-renfort    (nm);help, back-up, support
+renfort    (nm);help, back-up, support, reinforcement
 renier    (v);to disown, repudiate, go back on
 renoncer    (v);to give up, renounce
 renouveau    (nm);renewal
@@ -4051,7 +4048,7 @@ replacer    (v);to replace, put back
 repli    (nm);bend, twist, wrinkle, fold, fallback
 replier    (v);to fold, roll up, fold up, withdraw
 réplique    (nf);reply, retort, replica
-répliquer    (v);to reply
+répliquer    (v);to reply, retort, replicate
 répondre    (v);to answer
 réponse    (nf);answer, response
 report    (nm);postponement, deferment
@@ -4096,7 +4093,7 @@ respecter    (v);to respect
 respectif    (adj);respective
 respectivement    (adv);respectively
 respectueux    (adj(pl));respectful
-respirer    (v);to breath
+respirer    (v);to breathe
 responsabilité    (nf);responsibility
 responsable    (nadj(f));responsible
 ressembler    (v);to look like, resemble
@@ -4132,7 +4129,7 @@ retour    (nm);return
 retourner    (v);to return, go back
 retrait    (nadj);withdrawal
 retraité    (nadj);retired
-retraite    (nf);retirement, pension
+retraite    (nf);retirement, pension, retreat
 retrancher    (v);to deduct, remove, to entrench
 retrouver    (v);to find, recall
 réunion    (nf);meeting
@@ -4194,7 +4191,6 @@ roue    (nf);wheel
 rouge    (nadj(f));red
 rouler    (v);to roll
 route    (nf);road
-routier    (nadj);road, long-distance lorry or truck driver
 routine    (nf);routine
 rouvrir    (v);to reopen
 royal    (adj);royal
@@ -4216,7 +4212,7 @@ sacrifice    (nm);sacrifice
 sacrifier    (v);to sacrifice, give away
 sage    (nadj(f));wise, good, sound, sensible
 sagesse    (nf);wisdom, moderation
-sain    (adj);healthy, sane
+sain    (adj);healthy, sane *sain = healthy, sein = breast
 saint    (nadj);saint, holy
 saisir    (v);to take hold of, grab, seize
 saison    (nf);season
@@ -4226,9 +4222,9 @@ salarial    (adj);salary
 salarié    (nadj);wage-earning, employee
 salaud    (nadj);bastard
 sale    (nadj(f));dirty
-salle    (nf);room
+salle    (nf);room *pièce = standard, salle = large/specific, chambre = private
 salon    (nm);lounge, living room
-saluer    (v);to greet, salute
+saluer    (v);to greet, salute *salut
 salut    (intj,nm);salute, hi, bye
 samedi    (nm);Saturday
 sanction    (nf);sanction
@@ -4258,14 +4254,14 @@ scénario    (nm);scenario, script
 scène    (nf);scene
 scepticisme    (nm);scepticism
 sceptique    (nadj(f));sceptical, sceptic
-schéma    (nm);diagram, outline
+schéma    (nm);diagram, outline, schema
 science    (nf);science
 scientifique    (nadj(f));scientific
 scolaire    (adj(f));school, educational, academic
 score    (nm);score
-scrutin    (nm);ballot, poll
+scrutin    (nm);ballot, poll *sondage = general, scrutin = formal vote, vote = social media poll, enquête = investigation
 se    (pro);oneself, himself, herself, itself, themselves
-séance    (nf);session, meeting
+séance    (nf);session, meeting, seance, séance
 sec    (adj,adv,nm);dry
 sécheresse    (nf);dryness, drought
 second    (adj,det,nm);second
@@ -4282,7 +4278,7 @@ sécuritaire    (adj(f));safe
 sécurité    (nf);security, safety
 séduire    (v);to seduce, charm, captivate, appeal to
 seigneur    (nm);lord
-sein    (nm);breast, bosom
+sein    (nm);breast, bosom *sain = healthy, sein = breast
 seize    (det,nmi);sixteen
 séjour    (nm);stay
 sel    (nm);salt
@@ -4334,7 +4330,7 @@ sexe    (nm);sex
 sexuel    (adj);sexual
 si    (adv,conj,nmi);if, whether
 siècle    (nm);century
-siège    (nm);seat, bench
+siège    (nm);seat, bench, headquarters, siege
 siéger    (v);to sit
 sien    (nadj);his, hers
 signal    (nm);signal
@@ -4373,7 +4369,7 @@ social    (nadj);social
 socialisme    (nm);socialism
 socialiste    (nadj(f));socialist
 société    (nf);society
-sœur    (nf);sister
+sœur    (nf);sister *sœur = standard, fragrine = informal
 soi    (nmi,pro);one, oneself, self
 soi-disant    (adji);so-called, supposedly
 soif    (nf);thirst
@@ -4390,7 +4386,7 @@ solaire    (adj(f));solar
 soldat    (nm);soldier
 solde    (nm,nf);balance, pay, sale
 soleil    (nm);sun
-solidaire    (adj(f));interdependent, jointly dependent
+solidaire    (adj(f));interdependent, jointly dependent, united *solidarity
 solidarité    (nf);solidarity
 solide    (nadj(f));solid
 solitaire    (nadj(f));solitary, lone, lonely
@@ -4401,10 +4397,10 @@ sombre    (adj(f));dark
 sombrer    (v);to darken, to sink, lapse
 sommaire    (nadj(f));summary, brief, cursory
 somme    (nm,nf);amount, sum, nap
-sommeil    (nm);sleep, sleepiness
-sommet    (nm);summit
+sommeil    (nm);sleep, sleepiness *sommeil = sleep, sommet = summit
+sommet    (nm);summit *sommeil = sleep, sommet = summit
 son    (det,nm);his, her, its, sound, bran
-sondage    (nm);poll
+sondage    (nm);poll *sondage = general, scrutin = formal vote, vote = social media poll, enquête = investigation
 sonder    (v);to probe, poll, sound out
 songer    (v);to dream
 sonner    (v);to ring
@@ -4434,7 +4430,7 @@ souligner    (v);to underline, stress
 soumettre    (v);to submit
 soumission    (nf);submission
 soupçon    (nm);suspicion
-soupçonner    (v);to suspect
+soupçonner    (v);to suspect *soupçon = suspicion
 soupe    (nf);soup
 souple    (adj(f));supple, agile, soft, floppy, flexible
 souplesse    (nf);suppleness, flexibility
@@ -4448,8 +4444,8 @@ sous-marin    (nadj);submarine, underwater
 sous-sol    (nm);basement, lower ground floor, subsoil, underground
 souscrire    (v);to subscribe
 soustraire    (v);to substract, remove, shield, escape from
-soutenir    (v);to sustain, support
-souterrain    (nadj);underground, underground passage
+soutenir    (v);to sustain, support *soutenir = support, supporter = endure
+souterrain    (nadj);underground, underground passage, subterranean
 soutien    (nm);support
 souvenir    (nm,v);memory, to remember
 souvent    (adv);often
@@ -4468,10 +4464,10 @@ spécifique    (adj(f));specific
 spectacle    (nm);sight, show
 spectaculaire    (adj(f));spectacular
 spectateur    (nm);member of the audience, spectator, onlooker
-spectre    (nm);spectrum, ghost
+spectre    (nm);spectrum, ghost, spectre
 spéculation    (nf);speculation
 sphère    (nf);sphere
-spirituel    (nadj);witty, spiritual, sacred
+spirituel    (nadj);spiritual, witty, sacred
 spontané    (adj);spontaneous
 sport    (adji,nm);sport
 sportif    (nadj);sports, athletic, competitive
@@ -4488,7 +4484,7 @@ statistique    (nf);statistics, statistical
 statue    (nf);statue
 statut    (nm);status
 stimuler    (v);to stimulate
-stipuler    (v);to state, stipulate, specify
+stipuler    (v);to stipulate, state, specify
 stock    (nm);stock, to supply
 stopper    (v);to stop, halt
 stratégie    (nf);strategy
@@ -4544,7 +4540,7 @@ supplément    (nm);supplement, extra
 supplémentaire    (adj(f));additional
 supplier    (v);to beg, implore
 support    (nm);support, stand
-supporter    (nm,v);to support, endure
+supporter    (nm,v);to support, endure *soutenir = support, supporter = endure
 supposer    (v);to suppose, assume
 suppression    (nf);deletion, suppression
 supprimer    (v);to remove, withdraw
@@ -4594,8 +4590,8 @@ système    (nm);system
 tabac    (nm);tobacco
 table    (nf);table
 tableau    (nm);frame, picture, painting, panel
-tache    (nf);stain, spot, mark
-tâche    (nf);task
+tache    (nf);stain, spot, mark *tache = stain, tâche = task
+tâche    (nf);task *tache = stain, tâche = task
 tâcher    (v);to endeavor
 tactique    (nadj(f));tactics, tactical
 taille    (nf);size, height
@@ -4607,7 +4603,7 @@ tant    (adv);so much, so many
 tante    (nf);aunt
 tantôt    (adv);this afternoon, sometimes
 taper    (v);to beat, slam, bang, type
-tapis    (nm(pl));carpet, mat, covering
+tapis    (nm(pl));carpet, mat, covering *tapestry
 tard    (adv);late
 tarder    (v);to delay
 tardif    (adj);late
@@ -4657,7 +4653,7 @@ tenter    (v);to tempt, try
 tenue    (nf);dress, outfit
 terme    (nm);term, deadline
 terminal    (nadj);terminal
-terminer    (v);to finish, end,
+terminer    (v);to finish, end, terminate
 terrain    (nm);ground, terrain
 terre    (nf);earth, world, soil, land
 terrestre    (adj(f));land, earth, terrestrial, earthly, worldly
@@ -4719,7 +4715,7 @@ tour    (nm,nf);tower, turn, tour
 tourisme    (nm);tourism, sightseeing
 touriste    (nm,nf);tourist
 touristique    (adj(f));holiday, tourist
-tournant    (adj,nm);revolving, swivel, encircling, bend turning point,
+tournant    (adj,nm);revolving, swivel, encircling, bend turning point, turning
 tournée    (nf);tour, round
 tourner    (v);to turn
 tournoi    (nm);tournament
@@ -4727,7 +4723,7 @@ tout    (adv,det,nadj,pro);all, very
 toutefois    (adv,conj);however
 toxique    (nadj(f));toxic, toxin
 trace    (nf);trace, mark, track
-tracer    (v);to draw, write, mark out
+tracer    (v);to trace, to draw, write, mark out
 tradition    (nf);tradition
 traditionnel    (adj);traditional
 traditionnellement    (adv);traditionally
@@ -4736,7 +4732,7 @@ traduire    (v);to translate
 trafic    (nm);traffic, circulation
 tragédie    (nf);tragedy
 tragique    (nadj(f));tragic
-trahir    (v);to betray, give away
+trahir    (v);to betray, give away *trahison = treason
 trahison    (nf);betrayal, treachery, treason
 train    (nm);train
 traîner    (v);to drag, pull
@@ -4745,7 +4741,7 @@ traite    (nf);trade, draft, stretch, milking
 traité    (nm);treaty
 traitement    (nm);treatment, salary, wage
 traiter    (v);to treat, handle, deal with
-trajet    (nm);journey, route
+trajet    (nm);journey, route, trajectory
 trame    (nf);weft, framework, tram
 tranche    (nf);slice, edge, section, bracket, slot
 trancher    (v);to cut, sever, settle, decide
@@ -4765,7 +4761,7 @@ transparent    (nadj);transparent, see-through, evident
 transport    (nm);transportation
 transporter    (v);to transport, carry
 travail    (nm);work
-travailler    (v);to work
+travailler    (v);to work *synonyms: œuvrer = formal, travailler = neutral, bosser = casual, taffer/charbonner = slang
 travailleur    (nadj);worker
 travers    (nm(pl));breadth, across, fault, amiss
 traversée    (nf);crossing
@@ -4775,7 +4771,7 @@ tremblement    (nm);shiver, trembling, shaking
 trembler    (v);to shiver, tremble, shake, flicker
 trentaine    (nf);about thirty
 trente    (det,nmi);thirty
-très    (adv);very
+très    (adv);very *beaucoup/très = standard, vachement = informal
 trésor    (nm);treasure, treasury
 trêve    (nf);truce
 tribu    (nf);tribe
@@ -4858,7 +4854,6 @@ variation    (nf);variation, change
 varier    (v);to vary, change
 variété    (nf);variety
 vaste    (adj(f));vast, immense
-vedette    (nf);star, patrol boat
 véhicule    (nm);vehicle
 véhiculer    (v);to transport, convey
 veille    (nf);the day before, the eve of, night watch
@@ -4868,18 +4863,18 @@ vendeur    (nm);salesman, seller
 vendre    (v);to sell
 vendredi    (nm);Friday
 vendu    (nadj);sold, bribed
-vengeance    (nf);revenge
+vengeance    (nf);revenge, vengeance
 venger    (v);to avenge, take revenge
 venir    (v);to come
-vent    (nm);wind
-vente    (nf);sale
-ventre    (nm);belly, stomach
+vent    (nm);wind *vent = wind, vente = sale, ventre = belly
+vente    (nf);sale *vent = wind, vente = sale, ventre = belly
+ventre    (nm);belly, stomach *vent = wind, vente = sale, ventre = belly
 venu    (nadj);come
 venue    (nf);coming
 verbal    (adj);verbal
 verdict    (nm);verdict
 vérificateur    (nadj);checker, inspector, auditor
-vérification    (nf);check, verification
+vérification    (nf);verification, check
 vérifier    (v);to check, verify
 véritable    (adj(f));real, true
 véritablement    (adv);truly, really
@@ -4892,7 +4887,7 @@ verser    (v);to pour, deposit, shed
 version    (nf);version
 vert    (nadj);green
 vertu    (nf);virtue
-vêtement    (nm);garment, item or article of clothing
+vêtement    (nm);garment, item or article of clothing *vêtements/habits = standard, fringues = informal
 vêtir    (v);to clothe, dress, put on
 veuf    (nadj);surviving spouse
 via    (prep);via
@@ -4906,9 +4901,9 @@ vide    (nadj(f));empty
 vidéo    (adji,nf);video
 vider    (v);to empty, vacate
 vie    (nf);life
-vieillard    (nm);old man
-vieillesse    (nf);old age
-vieillir    (v);to grow old, to age
+vieillard    (nm);old man *vieillard = old man, vieillesse = old age, vieillir = to age
+vieillesse    (nf);old age *vieillard = old man, vieillesse = old age, vieillir = to age
+vieillir    (v);to grow old, to age *vieillard = old man, vieillesse = old age, vieillir = to age
 vierge    (nadj(f));virgin
 vieux    (adj(pl),nm(pl));old
 vif    (nadj);lively
@@ -4961,14 +4956,14 @@ voie    (nf);road, lane, route, track, way
 voilà    (prep);right, there, here
 voile    (nm,nf);veil, sail
 voiler    (v);to veil
-voir    (v);to see
+voir    (v);to see *regarder = active, voir = passive
 voire    (adv);even, indeed
 voisin    (nadj);neighbor
 voisinage    (nm);neighborhood, neighbourhood
 voiture    (nf);car
 voix    (nf(pl));voice
 vol    (nm);flight, theft
-volant    (adj,nm);steering wheel
+volant    (adj,nm);steering wheel, flying
 voler    (v);to steal, rob
 volet    (nm);shutter
 voleur    (nadj);thief, light-fingered
@@ -4977,7 +4972,7 @@ volontairement    (adv);voluntarily, willingly
 volonté    (nf);will
 volontiers    (adv);with pleasure, willingly, gladly
 volume    (nm);volume
-vote    (nm);vote
+vote    (nm);vote *sondage = general, scrutin = formal vote, vote = social media poll, enquête = investigation
 voter    (v);to vote
 votre    (det);your
 vôtre    (nadj(f));yours

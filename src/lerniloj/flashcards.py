@@ -5,9 +5,9 @@ import csv
 import json
 from pathlib import Path
 import traceback
-import tomllib
 from typing import Any
 
+from lerniloj.knowledge_report import knowledge_report
 from lerniloj import utilities
 from dataclasses import make_dataclass
 
@@ -15,19 +15,32 @@ from dataclasses import make_dataclass
 def get_question(line_in: str, question_in_english: bool) -> str:
     foreign_term, english_terms, _ = parse_line(line_in)
     english_terms = ", ".join(english_terms)
-    if question_in_english:
-        question = english_terms
-    else:
-        question = foreign_term
-    return question
+    return english_terms if question_in_english else foreign_term
 
 
 def get_user_response_to_question(line_in: str, question_in_english: bool) -> str:
-    response = ""
-    while response == "":
+    while True:
         question = get_question(line_in, question_in_english)
         response = input(question + "\n").lower().strip()
-    return response
+        response = compute_user_response_shortcuts(response, question)
+        if response != "":
+            return response
+        
+
+def compute_user_response_shortcuts(user_response_in: str, question_in: str, language_in: str = "french") -> str:
+    if user_response_in == "":
+        return ""
+    if user_response_in[0] == ".":
+        deduct = 0
+        r = question_in.split()[0]
+        if len(user_response_in) > 1 and user_response_in[1] in "123456789":
+            deduct = int(user_response_in[1])
+            r = r[:-deduct]
+            user_response_in = "." + user_response_in[2:]
+        user_response_in = user_response_in.replace(".", r, 1)
+        user_response_in = utilities.remove_accents(user_response_in, language_in)
+        print(f"replaced . -> {user_response_in}")
+    return user_response_in
 
 
 def is_user_response_correct(
@@ -41,8 +54,8 @@ def is_user_response_correct(
     english_terms = [term.lower() for term in english_terms]
     if hint:
         print(f"hint: {hint}")
-    elif len(foreign_term.split(",")) == 1:
-        breakdown, meanings = utilities.decompose_esperanto_word(foreign_term.split(",")[0])
+    elif foreign_language_in == "esperanto" and len(foreign_term.split(",")) == 1:
+        breakdown, meanings, _ = utilities.decompose_esperanto_word(foreign_term.split(",")[0])
         res = ""
         if len(meanings) > 1:
             for division in range(len(breakdown)):
@@ -80,11 +93,13 @@ def parse_line(line_in: str) -> tuple[str|list[str]]:
 
 
 def get_number_of_correct_responses(user_responses_in: list[dict[bool|str]]) -> int:
-    return sum(1 for response in user_responses_in if response["is_correct"])
+    return len([r for r in user_responses_in if r["is_correct"]])
 
 
 def get_correct_answer(line_in: str, is_question_in_english_in: bool) -> str:
-    return parse_line(line_in)[0] if is_question_in_english_in else ", ".join(parse_line(line_in)[1])
+    foreign_term = parse_line(line_in)[0]
+    english_terms = ", ".join(parse_line(line_in)[1])
+    return foreign_term if is_question_in_english_in else english_terms
 
 
 def save_results(
@@ -124,10 +139,19 @@ def add_value_to_json(
     
     if not quiz_type_in in json_data_in.keys():
         json_data_in[quiz_type_in] = {}
-    if foreign_term_in in json_data_in[quiz_type_in].keys():
-        json_data_in[quiz_type_in][foreign_term_in].append(value)
+    q = json_data_in[quiz_type_in]
+    if foreign_term_in in q.keys():
+        q[foreign_term_in].append(value)
     else:
-        json_data_in[quiz_type_in][foreign_term_in] = [value]
+        q[foreign_term_in] = [value]
+
+
+
+def get_quiz_type(settings_in):
+    quiz_type = "to" if settings_in["give_question_in_english"] else "from"
+    quiz_type += f"_{settings_in["foreign_language"]}_"
+    quiz_type += "oral" if settings_in["audio_mode"] else "written"
+    return quiz_type
 
 
 def save_to_answer_history(
@@ -141,13 +165,13 @@ def save_to_answer_history(
             data = json.load(f)
     else:
         data = {}
-    quiz_type = "to" if settings_in["give_question_in_english"] else "from"
-    quiz_type += f"_{settings_in["foreign_language"]}_"
-    quiz_type += "oral" if settings_in["audio_mode"] else "written"
+    quiz_type = get_quiz_type(settings_in)
     current_time_unix = int(datetime.datetime.now().timestamp())
     
     for answer in answers_in:
         foreign_term, _, _ = parse_line(answer["line"])
+        if " " in foreign_term:
+            foreign_term = foreign_term.split()[0]
         add_value_to_json(data, answer["is_correct"], current_time_unix, answer["user_response"], quiz_type, foreign_term)
     
     print("dumping to json")
@@ -185,10 +209,10 @@ def flashcard():
     is_question_in_english = settings["give_question_in_english"]
     
     # load terms
-    reference_file = settings["reference_file"]
-    with open(f"word_lists/{reference_file}", "r") as f:
+    reference_file = f"word_lists/{settings["reference_file"]}"
+    with open(reference_file, "r") as f:
         lines = [line.strip() for line in f.readlines() if line != ""]
-        assert re.fullmatch("^LANGUAGE=[A-Z]*$", lines[0]), f"language=x line at top of file {reference_file} incorrect"
+        assert re.fullmatch("^LANGUAGE=[A-Z]*$", lines[0]), f"language line at top of file {reference_file} incorrect"
         foreign_language = lines[0].split("=")[1].lower()
         settings["foreign_language"] = foreign_language
         lines = lines[1:]
@@ -206,7 +230,26 @@ def flashcard():
         try:
             print(f"{get_number_of_correct_responses(user_responses)} / {iteration}")
             line = random.choice(lines)
+            if foreign_language == "esperanto" and is_question_in_english:
+                foreign_word, _, _ = parse_line(line)
+                match foreign_word[-1]:
+                    case "o":
+                        print("[noun]")
+                    case "i":
+                        print("[verb]")
+                    case "a":
+                        print("[adjective]")
+                    case "e":
+                        print("[adverb]")
+                    case _:
+                        pass                
             user_response = get_user_response_to_question(line, is_question_in_english)
+            if user_response == "!!!":
+                if len(user_responses) >= 1:
+                    user_responses[-1]["is_correct"] = True
+                    print(f"{get_number_of_correct_responses(user_responses)} / {iteration}")
+                    print("user override: your last answer is now recorded as correct")
+                user_response = get_user_response_to_question(line, is_question_in_english)
             is_correct = is_user_response_correct(line, user_response, is_question_in_english, foreign_language)
             if is_correct:
                 print("correct\n")
@@ -232,12 +275,15 @@ def flashcard():
         except Exception as e:
             print(e.with_traceback())
             print("an error occurred whilst trying to save user responses to answer history")
+    report = knowledge_report(get_quiz_type(settings), reference_file, settings["answer_history_file"])
+    print(report)
     if get_number_of_correct_responses(user_responses) == settings["iterations"]:
         # no mistakes to revisit
         quit()
     # repeating previous wrong answers
     previous_mistakes = [response for response in user_responses if response["is_correct"] == False]
     previous_mistakes = previous_mistakes[::-1]
+    
     print("repeating previous wrong answers")
     print("type 'skip' to skip a question")
     while previous_mistakes != []:

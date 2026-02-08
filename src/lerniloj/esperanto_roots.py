@@ -86,6 +86,8 @@ suffixes = (
 
 
 final_parts = (
+    ("n", "accusative"),
+    ("j", "plural"),
     ("a", "adj/quality"),
     ("al", "reason"),
     ("am", "time"),
@@ -95,5 +97,6 @@ final_parts = (
     ("i", "verb"),
     ("o", "noun/thing"),
     ("om", "amount"),
-    ("u", "individual")
+    ("u", "individual"),
+    ("us", "conditional")
 )
