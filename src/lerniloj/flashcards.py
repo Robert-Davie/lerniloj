@@ -1,4 +1,5 @@
 import re
+import os
 import random
 import datetime
 import csv
@@ -12,24 +13,45 @@ from lerniloj import utilities
 from dataclasses import make_dataclass
 
 
+BLUE = "\033[94m"
+RED = "\033[31m"
+GREEN = "\033[32m"
+RESET = "\033[0m"
+
+
 def get_question(line_in: str, question_in_english: bool) -> str:
     foreign_term, english_terms, _ = parse_line(line_in)
     english_terms = ", ".join(english_terms)
     return english_terms if question_in_english else foreign_term
 
 
-def get_user_response_to_question(line_in: str, question_in_english: bool) -> str:
+def get_user_response_to_question(line_in: str, question_in_english: bool, settings_in: dict) -> str:
     while True:
+        m =  re.search(r"\((.+?)\)", line_in)
         question = get_question(line_in, question_in_english)
-        response = input(question + "\n").lower().strip()
+        if m:
+            print(f"{BLUE}clarification: {m.group(1)}{RESET}")
+        if settings_in["audio_mode"]:
+            q = question.split("    ")[0]
+            if len(question.split("    ")) > 1:
+                print(question.split("    ")[1])
+            os.system(f"""say -v Amélie {q}""".replace("'", "\\'"))
+            response = input(f"please give english equivalent\n").lower().strip()
+        else:
+            response = input(question + "\n").lower().strip()
         response = compute_user_response_shortcuts(response, question)
         if response != "":
+            if settings_in["audio_mode"] and response != "!!!":
+                print(question)
             return response
         
 
 def compute_user_response_shortcuts(user_response_in: str, question_in: str, language_in: str = "french") -> str:
+    start = user_response_in
     if user_response_in == "":
         return ""
+    user_response_in = re.sub("qqch", "quelque chose", user_response_in)
+    user_response_in = re.sub("qqn", "quelqu'un", user_response_in)
     if user_response_in[0] == ".":
         deduct = 0
         r = question_in.split()[0]
@@ -39,7 +61,8 @@ def compute_user_response_shortcuts(user_response_in: str, question_in: str, lan
             user_response_in = "." + user_response_in[2:]
         user_response_in = user_response_in.replace(".", r, 1)
         user_response_in = utilities.remove_accents(user_response_in, language_in)
-        print(f"replaced . -> {user_response_in}")
+    if user_response_in != start:
+        print(f"replaced -> {user_response_in}")
     return user_response_in
 
 
@@ -51,6 +74,7 @@ def is_user_response_correct(
 ) -> tuple[bool]:
     foreign_term, english_terms, hint = parse_line(line_in)
     foreign_term = utilities.remove_gender_abbreviations(foreign_term).lower()
+    foreign_term = foreign_term.split("(")[0]
     english_terms = [term.lower() for term in english_terms]
     if hint:
         print(f"hint: {hint}")
@@ -69,11 +93,14 @@ def is_user_response_correct(
         res = res.strip("+").strip()
         if res:
             print(res.strip("+").strip())
+
     if is_question_in_english_in:
+        if foreign_language_in == "french":
+            foreign_term = foreign_term.replace("œ", "oe")
+            user_response_in = user_response_in.replace("œ", "oe")
         foreign_terms = [i.strip() for i in foreign_term.split(",")]
         foreign_term = utilities.remove_punctuation(foreign_term)
         user_response_in = utilities.toggle_accents(user_response_in, foreign_language_in, True)
-        print(f"formatted: {user_response_in}")
 
         return user_response_in == foreign_term or user_response_in in foreign_terms
     else:
@@ -243,19 +270,19 @@ def flashcard():
                         print("[adverb]")
                     case _:
                         pass                
-            user_response = get_user_response_to_question(line, is_question_in_english)
+            user_response = get_user_response_to_question(line, is_question_in_english, settings)
             if user_response == "!!!":
                 if len(user_responses) >= 1:
                     user_responses[-1]["is_correct"] = True
                     print(f"{get_number_of_correct_responses(user_responses)} / {iteration}")
                     print("user override: your last answer is now recorded as correct")
-                user_response = get_user_response_to_question(line, is_question_in_english)
+                user_response = get_user_response_to_question(line, is_question_in_english, settings)
             is_correct = is_user_response_correct(line, user_response, is_question_in_english, foreign_language)
             if is_correct:
-                print("correct\n")
+                print(f"{GREEN}correct\n{RESET}")
             else:
                 correct_answer = get_correct_answer(line, is_question_in_english)
-                print(f"incorrect - answer is '{correct_answer}'\n")
+                print(f"{RED}incorrect - answer is '{correct_answer}'\n{RESET}")
             user_responses.append({
                 "is_correct": is_correct,
                 "user_response": user_response,
@@ -290,16 +317,16 @@ def flashcard():
         print(f"{len(previous_mistakes)} mistakes remaining")
         previous_mistake = previous_mistakes.pop()
         line = previous_mistake["line"]
-        user_response = get_user_response_to_question(line, is_question_in_english)
+        user_response = get_user_response_to_question(line, is_question_in_english, settings)
         if user_response == "skip":
             print("skipping question")
             continue
         is_correct = is_user_response_correct(line, user_response, is_question_in_english, foreign_language)
         if is_correct:
-            print("correct\n")
+            print(f"{GREEN}correct\n{RESET}")
         if not is_correct:
             correct_answer = get_correct_answer(line, is_question_in_english)
-            print(f"incorrect - answer is '{correct_answer}'\n")
+            print(f"{RED}incorrect - answer is '{correct_answer}'\n{RESET}")
             previous_mistakes.insert(0, previous_mistake)
         
     

@@ -1,0 +1,1967 @@
+LANGUAGE=FRENCH
+abaisser;to lower, to pull down, to shorten
+abandonner;to forsake, to desert, to abandon
+abasourdir;to stun, to deafen, to astound
+abattre;to beat, to knock, to strike
+abêtir;to render stupid, to dull
+abhorrer;to abhor
+abîmer;to damage, to spoil, to undo, to destroy
+abolir;to abolish, to repeal
+abonder;to abound, to overflow
+abonner;to subscribe
+aborder;to land, to arrive, to reach
+aboutir;to tend, to lead
+aboyer;to bark, to yelp
+abréger;to abridge, to shorten
+abreuver;to water, to overwhelm
+abriter;to shelter, to screen, to shield
+abrutir;to brutify, to render stupid
+s'absenter;to absent oneself, to leave home
+absoudre;to absolve, to acquit
+s'abstenir;to abstain, to refrain
+abstraire;to abstract, to set aside
+abuser;to abuse, to deceive *false friend, does not mean to insult
+accabler;to crush, to overwhelm, to overpower
+accaparer;to buy up, to monopolise, to monopolize
+accéder;to have access, to accede, to comply
+accélérer;to accelerate
+accentuer;to accent, to accentuate
+accepter;to accept
+accoler;to hug, to embrace, to join
+accommoder;to accomodate
+accompagner;to accompany
+accomplir;to achieve, to accomplish
+accorder;to grant, to confer
+accoucher;to give birth, to deliver
+accourir;to rush up, to hurry
+accrocher;to hang up, to hook
+accroire;to believe
+accroître;to augment, to englarge
+s'accroupir;to squat, to crouch
+accueillir;to welcome, to receive
+accumuler;to accumulate
+accuser;to accuse
+acharner;to excite, to set on, to flesh
+s'acharner;to pursue, to go at
+acheminer;to forward, to to send on
+acheter;to buy, to purchase, to bribe
+achever;to complete, to end, to achieve
+aciérer;to steel, to turn into steel
+acquérir;to acquire
+acquiescer;to acquiesce, to consent
+acquitter;to acquit, to discharge, to clear
+acter;to enact
+activer;to quicken, to accerlate
+actualiser;to actualise, to actualize
+adapter;to adapt
+additionner;to add up
+adhérer;to adhere
+adirer;to lose, to misplace
+adjoindre;to join, to adjoin
+admettre;to admit
+administrer;to administer
+admirer;to admire
+s'adonner;to addict oneself, to devote oneself
+adopter;to adopt
+adorer;to adore, to worship, to idolise, to idolize
+adoucir;to soften, to soothe
+adresser;to address
+advenir;to happen, to occur
+aérer;to air, to ventilate
+affaiblir;to weaken, to impair
+affecter;to allot, to destine
+affectionner;to affectionate, to be fond of, to like
+affermir;to strengthen
+afficher;to put up, to display
+affiner;to refine, to purify
+affirmer;to affirm
+affliger;to afflict
+affoler;to madden, to disturb, to infatuate
+affranchir;to free, to enfranchise
+affronter;to confront, to face
+agacer;to irritate, to plague
+s'agenouiller;to kneel, to kneel down
+aggraver;to aggravate
+agir;to act, to operate, to behave
+agiter;to agitate
+agonir;to throw insults at, to abuse
+agrafer;to hook, to clasp
+agrandir;to enlarge, to extend
+agréer (formal);to accept
+agréger;to admit
+agresser;to assault, to attack
+agripper;to clutch, to seize
+aguerrir;to inure to war, to harden, to season
+aider;to help, to aid
+aiguiller;to switch
+aiguiser;to sharpen, to whet
+ailler;to add garlic, to add garlic to
+aimer;to love, to like, to be fond of
+airer;to nest
+ajouter;to add, to join
+alerter;to alert, to alarm
+aliéner;to alienate
+aligner;to align, to arrange
+alimenter;to feed, to support
+aliter;to confine to bed
+allécher;to attract, to lure
+allégerè;to lighten, to unload
+alléguer;to allege, to plead
+aller;to go, to proceed
+allier;to alloy, to match
+allonger;to lengthen
+allouer;to allow
+allumer;to light, to light up
+alourdir;to make heavy
+altérer;to alter
+amarrer;to moor, to tie with rope
+amasser;to amass
+améliorer;to improve, to ameliorate
+aménager;to dispose
+amener;to bring, to draw
+amenuiser;to thin, to make thinner
+amerrir;to splash down, to crash land
+amoindrir;to lessen, to decrease
+amonceler;to heap up, to pile up
+amorcer;to bait
+amortir;to deaden, to break
+amplifier;to amplify
+amuïr;to become mute
+amuser;to amuse, to entertain
+analyser;to analyse
+anéantir;to annihilate
+animer;to animate
+annihiler;to annihilate
+annoncer;to announce
+annoter;to annotate
+annuler;to annul
+anticiper;to anticipate
+apaiser;to appease
+apercevoir;to perceive, to discover
+apeurer;to frighten
+s'apitoyer;to feel sorry for
+aplanir;to smooth
+aplatir;to flatten
+apparaître;to appear
+apparenter;to marry
+apparier;to pair
+apparoir;to appear, to be evident
+appartenir;to belong
+appauvrir;to impoverish
+appeler;to call, to call in, to call out, to summon
+appendre;to hang up
+applaudir;to applaud
+appliquer;to apply, to fix
+apporter;to bring, to furnish
+apposer;to put up
+apprécier;to appreciate, to value
+appréhender;to apprehend, to arrest
+apprendre;to learn, to acquire, to study
+apprêter;to prepare, to season
+approcher;to bring forward
+approfondir;to deepen
+approprier;to accomodate
+approuver;to approve, to sanction, to ratify
+approvisionner;to stock, to provision
+appuyer;to prop, to stay, to lean
+arborer;to hoist
+arguer;to infer, to argue
+arracher;to pull up, to tear up, to extract, to uproot
+arranger;to arrange
+arrêter;to stop, to arrest
+arriver;to arrive, t come
+arrondir;to round
+arroser;to water, to sprinkle
+aspirer;to aspirate, to suck in
+assagir;to impart wisdom to, to settle down, to calm
+assaillir;to assault
+assainir;to cleanse
+assembler;to assemble
+asseoir;to seat
+asservir;to enslave
+assiéger;to besiege
+assimiler;to assimilate
+assister;to attend, to be present
+associer;to associate
+assombrir;to darken
+assommer;to knock on the head, to slaughter
+assortir;to match, to assort
+assoupir;to make drowsy, to make sleepy
+assouplir;to make supple
+assouvir;to satiate, to satisfy
+assujettir;to subjugate
+assumer;to assume
+assurer;to assure
+astreindre;to compel
+attacher;to attach, to fasten
+attaquer;to attack, to assault
+attarder;to delay
+atteindre;to attain, to reach
+atteler;to harness
+attendre;to wait for, to await, to stay for
+attendrir;to soften, to make tender
+attenter;to assault
+atténuer;to attenuate
+atterrer;to strike down, to overthrow
+atterrir;to land, to alight
+attester;to attest, to witness
+attirer;to attract, to draw
+attiser;to stir up, to poke
+attraper;to trap, to catch, to seize
+attribuer;to grant, to recognise, to recognize, to attribute to
+augmenter;to augment, to increase
+autoriser;to authorise, to authorize
+avaler;to swallow, to swallow down
+avancer;to advance
+aventurer;to venture, to risk
+avérer;to verify
+avertir;to warn, to inform
+aviser;to perceive, to inform
+avoir;to have, to possess
+avouer;to admit, to confess
+baigner
+bailler
+bâiller
+baisser
+balader
+balancer
+balayer
+balbutier
+bander
+bannir
+baptiser
+barrer
+barrir
+basculer
+baser
+bâter
+bâtir
+battre
+bavarder
+baver
+bayer
+béer
+bégayer
+bêler
+bénéficier
+bénir
+bercer
+besogner
+bienvenir
+biner
+biper
+biser
+blaguer
+blâmer
+blanchir
+blêmir
+blesser
+bleuir
+bloquer
+blottir
+boire
+boiser
+boiter
+boîter
+bonder
+bondir
+bonifier
+bosser
+botter
+boucher
+bouder
+bouffer
+bouger
+bouillir
+bouler
+bouleverser
+bourrer
+bousculer
+bouter
+braire
+bramer
+brancher
+brandir
+branler
+brayer
+breveter
+bricoler
+briller
+brimbaler
+briser
+bronzer
+brosser
+brouter
+broyer
+bruire
+brûler
+brumer
+brunir
+budgéter
+buriner
+cacher
+cacheter
+calculer
+caler
+calmer
+caner
+capeler
+caper
+capter
+caqueter
+caracoler
+caractériser
+caresser
+carreler
+caser
+casser
+causer
+caver
+céder
+ceindre
+célébrer
+celer
+cerner
+certifier
+cesser
+chahuter
+chaloir
+chanceler
+changer
+chanter
+charger
+charmer
+charrier
+chasser
+châtier
+chauffer
+chausser
+chercher
+chérir
+cherrer
+chevaucher
+chialer
+choir
+choisir
+choper
+choquer
+choyer
+chuchoter
+chuter
+circoncire
+circonscrire
+circuler
+cirer
+ciseler
+citer
+claquer
+clarifier
+classer
+clignoter
+cliquer
+cloner
+clore
+clôturer
+clouer
+cocher
+côcher
+cogiter
+cogner
+coiffer
+coincer
+coïncider
+collaborer
+collecter
+collectionner
+coller
+colorer
+colorier
+combattre
+combiner
+combler
+commander
+commencer
+commenter
+commercer
+commettre
+communiquer
+comparaître
+comparer
+compatir
+compenser
+compiler
+complaire
+compléter
+complexifier
+compliquer
+comporter
+composer
+comprendre
+compromettre
+compter
+concéder
+concentrer
+concerner
+concevoir
+concilier
+conclure
+concourir
+concurrencer
+condamner
+conditionner
+conduire
+confectionner
+conférer
+confesser
+confier
+configurer
+confire
+confirmer
+confondre
+conformer
+confronter
+congeler
+conjoindre
+conjuguer
+conjurer
+connaître
+connecter
+conquérir
+consacrer
+conseiller
+consentir
+conserver
+considérer
+consister
+consoler
+consommer
+constater
+constituer
+construire
+consulter
+consumer
+contacter
+contempler
+contenir
+contenter
+conter
+continuer
+contraindre
+contrarier
+contredire
+contrefaire
+contrer
+contrevenir
+contribuer
+contrôler
+convaincre
+convenir
+convertir
+convier
+convoiter
+convoquer
+convoyer
+coopérer
+coordonner
+copier
+corréler
+correspondre
+corriger
+corroborer
+corrompre
+coter
+cotiser
+côtoyer
+coucher
+coudre
+couiner
+couler
+couper
+courbaturer
+courir
+courre
+coûter
+couver
+couvrir
+cracher
+craindre
+cramer
+craquer
+créditer
+créer
+creuser
+crever
+crier
+critiquer
+croire
+croiser
+croître
+croquer
+crosser
+crotter
+croupir
+cueillir
+cuire
+cuisiner
+cultiver
+cumuler
+curer
+daigner
+daller
+damer
+damner
+danser
+dater
+déballer
+débarquer
+débarrasser
+débattre
+débiter
+déblatérer
+déblayer
+débloquer
+déborder
+déboucher
+débouillir
+débrouiller
+débuter
+décaler
+décéder
+déceler
+décevoir
+décharger
+déchiqueter
+déchirer
+déchoir
+décider
+déclarer
+déclencher
+décliner
+décoller
+décommettre
+déconner
+décorer
+découdre
+découper
+décourager
+découvrir
+décrier
+décrire
+décrocher
+décroître
+dédicacer
+dédier
+dédire
+déduire
+défaillir
+défaire
+défendre
+défier
+défiler
+définir
+défoncer
+défrayer
+dégager
+dégeler
+dégénérer
+déglutir
+dégourdir
+dégoûter
+déguerpir
+déguster
+déjeuner
+délayer
+déléguer
+délier
+délivrer
+demander
+démanteler
+démarrer
+déménager
+démener
+démentir
+démettre
+demeurer
+démissionner
+démolir
+démontrer
+démordre
+démunir
+dénier
+dénigrer
+dénoncer
+dénuer
+dépanner
+départir
+dépasser
+dépecer
+dépêcher
+dépeindre
+dépendre
+dépenser
+dépérir
+déplacer
+déplaire
+déplier
+déployer
+déposer
+déprimer
+déranger
+déraper
+déroger
+dérouler
+désapprendre
+descendre
+désespérer
+déshabiller
+désigner
+désirer
+désister
+désobéir
+désoler
+dessaisir
+desservir
+dessiner
+destiner
+détacher
+détailler
+détaler
+détecter
+déteindre
+détendre
+détenir
+détériorer
+déterminer
+détester
+détruire
+devancer
+développer
+devenir
+dévêtir
+dévier
+deviner
+dévoiler
+devoir
+dévorer
+dévouer
+dévoyer
+diagnostiquer
+dialoguer
+dicter
+différencier
+différer
+diffuser
+digérer
+diluer
+diminuer
+dîner
+dire
+diriger
+disconvenir
+discourir
+discuter
+disjoindre
+disparaître
+dispenser
+disperser
+disposer
+disputer
+dissiper
+dissoudre
+distinguer
+distraire
+distribuer
+diverger
+divertir
+diviser
+divorcer
+divulguer
+doigter
+doler
+dominer
+donner
+doper
+dorer
+dorloter
+dormir
+doter
+doubler
+doucher
+douer
+douter
+draguer
+draper
+dresser
+duper
+dupliquer
+durcir
+durer
+ébahir
+ébattre
+éberluer
+éblouir
+échanger
+échapper
+écher
+échoir
+échouer
+éclabousser
+éclaircir
+éclairer
+éclater
+éclore
+écœurer
+éconduire
+écouler
+écouter
+écraser
+écrier
+écrire
+éditer
+éduquer
+effacer
+effectuer
+effleurer
+effondrer
+efforcer
+effrayer
+égaler
+égarer
+égayer
+égoutter
+égrainer
+égrener
+éjaculer
+élaborer
+élaguer
+élancer
+élargir
+élever
+éliminer
+élire
+éloigner
+émaner
+emballer
+embarquer
+embarrasser
+embatre
+embaucher
+embellir
+embêter
+emboire
+embraser
+embrasser
+embrayer
+émerger
+émettre
+émier
+emmêler
+emménager
+emmener
+émoudre
+émouvoir
+emparer
+empêcher
+empiéter
+empirer
+emplir
+employer
+emporter
+empreindre
+empresser
+emprunter
+émuler
+encaisser
+enchaîner
+enchanter
+enchérir
+enclore
+encourager
+encourir
+endommager
+endormir
+enduire
+endurer
+énerver
+enfermer
+enfiler
+enflammer
+enfler
+enfoncer
+enfouir
+enfreindre
+enfuir
+engager
+engendrer
+engloutir
+engueuler
+enivrer
+enjoindre
+enlacer
+enlever
+ennoyer
+ennuyer
+énoncer
+enorgueillir
+énouer
+enquérir
+enquêter
+enrayer
+enregistrer
+enrhumer
+enrichir
+enseigner
+ensevelir
+ensorceler
+ensuivre
+entacher
+entamer
+entendre
+enter
+entériner
+enterrer
+enthousiasmer
+entourer
+entraîner
+entre-haïr
+entreprendre
+entrer
+entretenir
+entrevoir
+entrouvrir
+énucléer
+énumérer
+envahir
+envelopper
+envier
+envisager
+envoler
+envoyer
+épaissir
+épandre
+épanouir
+épargner
+épater
+épeler
+épier
+épiner
+éplucher
+épouser
+épousseter
+éprendre
+éprouver
+épuiser
+équiper
+équivaloir
+errer
+escalader
+espérer
+essayer
+essouffler
+essuyer
+ester
+estimer
+établir
+étaler
+étayer
+éteindre
+étendre
+éternuer
+étinceler
+étiqueter
+étirer
+étoffer
+étonner
+étouffer
+étourdir
+être
+étrécir
+étreindre
+étrenner
+étudier
+évacuer
+évader
+évaluer
+évanouir
+éveiller
+éviter
+évoluer
+évoquer
+exagérer
+examiner
+exaucer
+excéder
+exceller
+exciter
+exclamer
+exclure
+excuser
+exécrer
+exécuter
+exempter
+exercer
+exiger
+exister
+expédier
+expirer
+expliquer
+exploiter
+explorer
+exploser
+exposer
+exprimer
+extasier
+extraire
+fabriquer
+fâcher
+faciliter
+façonner
+facturer
+fader
+faiblir
+failler
+faillir
+faire
+falloir
+familiariser
+faner
+farcir
+fasciner
+fatiguer
+fauter
+favoriser
+faxer
+feindre
+fêler
+féliciter
+fendre
+férir
+fermer
+festoyer
+fêter
+feuilleter
+fiancer
+ficeler
+ficher
+fier
+figer
+figurer
+filer
+filmer
+finaliser
+finir
+fixer
+flamboyer
+flâner
+flatter
+fléchir
+fleurir
+flotter
+flûter
+foirer
+foncer
+fonctionner
+fonder
+fondre
+forcer
+forer
+forger
+formater
+former
+formuler
+foudroyer
+fouetter
+fouiller
+fouir
+fournir
+fourvoyer
+foutre
+fraîchir
+franchir
+frapper
+frayer
+freiner
+frémir
+fréquenter
+frire
+froisser
+frôler
+frotter
+fuir
+fumer
+fureter
+fuser
+fusionner
+gâcher
+gager
+gagner
+galoper
+garantir
+garder
+garer
+garnir
+gaspiller
+gâter
+gazer
+geindre
+geler
+gémir
+gêner
+générer
+gérer
+gésir
+gîter
+glacer
+glander
+glisser
+gonfler
+gourer
+goûter
+grandir
+grasseyer
+gratter
+graver
+gravir
+gréer
+grêler
+grever
+gréver
+grignoter
+grimper
+grogner
+gronder
+grossir
+guérir
+guetter
+gueuler
+guider
+habiliter
+habiller
+habiter
+habituer
+habler
+hacher
+haïr
+haler
+hâler
+haleter
+halluciner
+hanter
+happer
+harceler
+hâter
+hausser
+haver
+havir
+héberger
+héler
+hennir
+hériter
+hésiter
+heurter
+homogénéiser
+honnir
+honorer
+houer
+huer
+huir
+humer
+humilier
+hurler
+identifier
+ignorer
+illuminer
+illustrer
+imager
+imaginer
+imiter
+immiscer
+impacter
+impartir
+impatienter
+implanter
+implémenter
+impliquer
+importer
+importuner
+imposer
+imprégner
+impressionner
+imprimer
+inaugurer
+inciter
+incliner
+inclure
+incomber
+indiquer
+induire
+influencer
+influer
+informer
+inhiber
+initier
+inonder
+inquiéter
+inscrire
+insérer
+insinuer
+insister
+inspirer
+installer
+instruire
+intégrer
+intensifier
+interagir
+interdire
+intéresser
+interférer
+interpeller
+interpréter
+interroger
+interrompre
+intervenir
+intervertir
+interviewer
+intriguer
+introduire
+inventer
+inverser
+investiguer
+investir
+inviter
+ioder
+irriter
+isoler
+issir
+jaillir
+jalouser
+japper
+jaser
+jaunir
+jeter
+jeûner
+joindre
+jongler
+jouer
+juger
+jurer
+justifier
+juter
+kiffer
+koter
+lacer
+lâcher
+lainer
+laisser
+lamenter
+lamer
+lancer
+languir
+laper
+larguer
+lasser
+laver
+layer
+lécher
+léguer
+léser
+leurrer
+lever
+libérer
+licencier
+lier
+limiter
+lire
+lister
+livrer
+loger
+longer
+lotir
+louer
+louper
+louvoyer
+lover
+luire
+luter
+lutter
+luxer
+mâcher
+maigrir
+maintenir
+maîtriser
+manager
+mander
+manger
+manier
+manifester
+manipuler
+manquer
+maquiller
+marcher
+marier
+marquer
+marrer
+marteler
+masser
+mater
+mâter
+maudire
+maugréer
+mécroire
+médire
+méditer
+méfier
+mélanger
+mêler
+menacer
+ménager
+mendier
+mener
+mentionner
+mentir
+méprendre
+mériter
+messeoir
+mesurer
+métrer
+mettre
+meuler
+meurtrir
+miauler
+migrer
+mijoter
+mimer
+mincir
+miner
+mirer
+miser
+modeler
+modérer
+modifier
+moisir
+mollir
+monnayer
+monter
+montrer
+moquer
+mordre
+morfondre
+motiver
+moucher
+moudre
+mouiller
+mouler
+mourir
+mouver
+mouvoir
+muer
+multiplier
+munir
+murer
+mûrir
+murmurer
+muser
+muter
+nager
+naître
+narguer
+narrer
+naviguer
+nécessiter
+négliger
+négocier
+neiger
+nettoyer
+nier
+niveler
+noircir
+nominer
+nommer
+noter
+notifier
+nouer
+nourrir
+noyer
+nuer
+nuire
+obéir
+obliger
+obscurcir
+obséder
+observer
+obtempérer
+obtenir
+occasionner
+occire
+occlure
+occuper
+ocrer
+octroyer
+oeuvrer
+offenser
+officier
+offrir
+oindre
+omettre
+opérer
+opposer
+opter
+ordonner
+organiser
+orienter
+orner
+osciller
+oser
+ôter
+oublier
+ouïr
+ourdir
+ouvrer
+ouvrir
+pagayer
+pager
+paître
+pâlir
+pallier
+paner
+panner
+panser
+paraître
+paramétrer
+parcourir
+pardonner
+parer
+parfaire
+parier
+parler
+parrainer
+partager
+participer
+partir
+parvenir
+passer
+passionner
+pâter
+patienter
+patiner
+pâtir
+pauser
+paver
+payer
+peaufiner
+pêcher
+pécher
+pédaler
+peigner
+peindre
+peiner
+peinturer
+peler
+pelleter
+pencher
+pendre
+pénétrer
+penser
+percer
+percevoir
+perdre
+perdurer
+pérenniser
+périr
+permettre
+persévérer
+persister
+persuader
+perturber
+peser
+pétrir
+photographier
+piéger
+pifer
+pincer
+piper
+piquer
+placer
+plaider
+plaindre
+plaire
+plaisanter
+planer
+planifier
+planter
+pleurer
+pleuvoir
+plier
+plonger
+ployer
+poiler
+poindre
+pointer
+polir
+polluer
+pondre
+porter
+poser
+positionner
+posséder
+poster
+postuler
+poter
+pourrir
+poursuivre
+pourvoir
+pousser
+pouvoir
+pratiquer
+précéder
+prêcher
+précipiter
+préciser
+préconiser
+prédire
+préétablir
+préférer
+prendre
+prénommer
+préoccuper
+préparer
+prescrire
+présenter
+préserver
+pressentir
+presser
+prétendre
+prêter
+prévaloir
+prévenir
+prévoir
+prier
+primer
+priser
+priver
+privilégier
+procéder
+procurer
+prodiguer
+produire
+profiter
+programmer
+progresser
+projeter
+prolonger
+promener
+promettre
+promouvoir
+prôner
+prononcer
+proposer
+proscrire
+protéger
+prouver
+provenir
+provoquer
+publier
+puer
+puiser
+pulluler
+punir
+qualifier
+quémander
+querir
+quérir
+questionner
+quêter
+quitter
+rabattre
+raccourcir
+raccrocher
+racheter
+raconter
+raffoler
+rafraîchir
+rager
+raidir
+railler
+raire
+raisonner
+rajeunir
+rajouter
+ralentir
+râler
+rallier
+ramasser
+ramener
+ramer
+ramollir
+ranger
+rapatrier
+rapetisser
+rappeler
+rapporter
+rapprocher
+raser
+rassasier
+rassembler
+rasseoir
+rassir
+rassurer
+rater
+rattacher
+rattraper
+ravager
+ravir
+ravoir
+rayer
+rayonner
+réagir
+réaliser
+réapparaître
+réapprendre
+rebondir
+recéler
+receler
+recenser
+réceptionner
+recevoir
+réchauffer
+rechercher
+réciter
+réclamer
+récolter
+recommander
+recommencer
+récompenser
+réconcilier
+reconduire
+réconforter
+reconnaître
+reconquérir
+reconstruire
+recontacter
+recopier
+recoudre
+recourir
+recouvrer
+recouvrir
+recréer
+récréer
+récrire
+recruter
+rectifier
+recueillir
+reculer
+récupérer
+redécouvrir
+redémarrer
+redescendre
+redevenir
+redevoir
+rédiger
+redire
+redonner
+réduire
+réécrire
+réélire
+réer
+réessayer
+refaire
+référencer
+référer
+refermer
+réfléchir
+refléter
+refroidir
+réfugier
+refuser
+régaler
+regarder
+régir
+réglementer
+régler
+régner
+regretter
+regrouper
+réinscrire
+réitérer
+rejeter
+rejoindre
+réjouir
+relâcher
+relancer
+relater
+relayer
+relever
+relier
+relire
+reluire
+remarquer
+rembourser
+remédier
+remémorer
+remercier
+remettre
+remonter
+remplacer
+remplir
+remporter
+remuer
+rémunérer
+renaître
+renchérir
+rencontrer
+rendormir
+rendre
+renforcer
+renier
+renommer
+renoncer
+renouveler
+renseigner
+renter
+rentrer
+renverser
+renvoyer
+repaître
+répandre
+reparaître
+réparer
+reparler
+repartir
+répartir
+repasser
+repeindre
+rependre
+repentir
+repérer
+répertorier
+répéter
+repleuvoir
+replier
+répondre
+reporter
+reposer
+repousser
+reprendre
+représenter
+reprocher
+reproduire
+requérir
+réserver
+résider
+résilier
+résister
+résonner
+résoudre
+respecter
+respirer
+resplendir
+ressaisir
+ressayer
+ressembler
+ressentir
+resserrer
+resservir
+ressortir
+ressusciter
+restaurer
+rester
+restituer
+restreindre
+résulter
+résumer
+rétablir
+retarder
+retenir
+retentir
+retirer
+retomber
+retourner
+retranscrire
+retransmettre
+rétrécir
+retrouver
+réunir
+réussir
+revaloir
+rêvasser
+réveiller
+révéler
+revendiquer
+revendre
+revenir
+rêver
+revêtir
+réviser
+revivre
+revoir
+revouloir
+rigoler
+rimer
+rincer
+rire
+risquer
+rôder
+roder
+rompre
+ronfler
+ronger
+ronronner
+roquer
+roser
+rôtir
+rougir
+rouler
+rouspéter
+rouvrir
+ruer
+rugir
+ruisseler
+sacrifier
+saigner
+saillir
+saisir
+saler
+salir
+saloper
+saluer
+sangloter
+saouler
+saper
+satisfaire
+saurer
+sauter
+sauvegarder
+sauver
+savoir
+savonner
+savourer
+scanner
+sceller
+scier
+scinder
+scruter
+sécher
+secouer
+secourir
+séduire
+séjourner
+sélectionner
+seller
+sembler
+semer
+sentir
+seoir
+séparer
+serrer
+sertir
+servir
+sévir
+sevrer
+siéger
+siffler
+signaler
+signer
+signifier
+simplifier
+siroter
+situer
+skier
+soigner
+solliciter
+solutionner
+sommeiller
+sommer
+songer
+sonner
+sortir
+soucier
+souder
+soudoyer
+souffler
+souffrir
+souhaiter
+soulager
+soûler
+soulever
+souligner
+soumettre
+soupçonner
+souper
+soupirer
+sourdre
+sourire
+sous-entendre
+sous-tendre
+souscrire
+soustraire
+soutenir
+souvenir
+spécifier
+statuer
+stipuler
+stocker
+stopper
+stresser
+stupéfaire
+stupéfier
+subir
+subodorer
+subsister
+substituer
+subvenir
+succéder
+succomber
+suer
+suffire
+suffoquer
+suggérer
+suicider
+suivre
+suppléer
+supplier
+supporter
+supposer
+supprimer
+supputer
+surfaire
+surfer
+surgir
+surprendre
+sursauter
+surseoir
+surveiller
+survenir
+survivre
+susciter
+suspendre
+sustenter
+susurrer
+tacher
+tâcher
+tailler
+taire
+taler
+tanner
+taper
+tapir
+taquiner
+tarder
+tarer
+tarir
+tasser
+tâter
+tatouer
+teindre
+teinter
+télécharger
+téléphoner
+témoigner
+tendre
+tenir
+tenter
+terminer
+ternir
+tester
+têter
+téter
+tiédir
+tinter
+tirer
+titiller
+toiler
+toiser
+tolérer
+tomber
+tomer
+tondre
+tonner
+toquer
+tordre
+toucher
+tourner
+tournoyer
+tousser
+tracasser
+tracer
+traduire
+trahir
+traîner
+traire
+traiter
+tramer
+transcrire
+transférer
+transformer
+transmettre
+transparaître
+transporter
+travailler
+traverser
+trembler
+tremper
+tressaillir
+tricher
+tricoter
+trier
+tripoter
+tromper
+trotter
+troubler
+trouer
+trouver
+tuer
+tuiler
+tutoyer
+unir
+urger
+uriner
+user
+utiliser
+vagir
+vaguer
+vaincre
+valider
+valoir
+vanner
+vanter
+vaquer
+varier
+vaser
+veiller
+vêler
+vendre
+vénérer
+venger
+venir
+venter
+verdir
+vérifier
+vernir
+verrouiller
+verser
+vêtir
+vexer
+vider
+vieillir
+viner
+violer
+virer
+viser
+visionner
+visiter
+visser
+vivre
+voguer
+voiler
+voir
+voler
+voleter
+vomir
+voter
+vouer
+vouloir
+voûter
+vouvoyer
+voyager
+zapper
+zézayer

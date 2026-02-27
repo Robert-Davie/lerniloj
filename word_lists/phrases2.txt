@@ -49,7 +49,7 @@ J'ai ... enfants.;I have ... children.
 Je n'ai pas d'enfants.;I don't have any children., I don't have children.
 Voici mes…;These are my...
 le mari;husband
-l'épouse f;wife
+l'épouse (nf);wife
 le fils;son
 la fille;daughter
 les parents mpl;parents
@@ -68,12 +68,12 @@ la belle-mère;stepmother
 la belle-fille;stepdaughter
 le beau-frère;stepbrother
 la belle-sœur;stepsister
-l'oncle m;uncle
+l'oncle (nm);uncle
 la tante;aunt
 le neveu;nephew
 la nièce;niece
 le bébé;baby
-l'enfant m;child
+l'enfant (nm);child
 Comment allez-vous;How are you?
 Comment ça va ?;How's it going?
 Super bien !;Great!
@@ -115,18 +115,18 @@ le serveur;waiter
 la serveuse;waitress
 la compagnie;company, airline
 le chantier;construction site
-l'usine f;factory
+l'usine (nf);factory
 le gouvernement;government
-l'hôpital m;hospital
-l'hôtel m;hotel
+l'hôpital (nm);hospital
+l'hôtel (nm);hotel
 le bureau;office, desk
-l'école f;school
+l'école (nf);school
 le matin;morning
-l'après-midi m;afternoon
+l'après-midi (nm);afternoon
 le soir;evening
 la nuit;night
 le midi;midday
-minuit m;midnight
+minuit (nm);midnight
 aujourd'hui;today
 ce soir;tonight
 demain;tomorrow
@@ -166,7 +166,7 @@ le week-end;weekend
 la semaine;week
 les quinze jours mpl;fortnight
 le mois;month
-l'année f;year
+l'année (nf);year
 la décennie;decade
 tous les quinze jours;fortnightly
 mensuel;monthly
@@ -176,9 +176,9 @@ tous les dimanches;every Sunday
 jeudi dernier;last Thursday
 vendredi prochain;next Friday
 le printemps;spring
-l'été m;summer
-l'automne m;autumn
-l'hiver m;winter
+l'été (nm);summer
+l'automne (nm);autumn
+l'hiver (nm);winter
 en hiver;in winter
 Quel temps fait-il;How's the weather, What's the weather like
 Est-ce qu'il va pleuvoir;Is it going to rain
@@ -204,22 +204,22 @@ le coup de vent;gale, gust of wind
 la brume;mist
 le brouillard;fog
 le tonnerre;thunder
-l'éclair m;lightning
-l'orage m;thunderstorm, storm
+l'éclair (nm);lightning
+l'orage (nm);thunderstorm, storm
 le nuage;cloud
 la température;temperature
-l'hélicoptère m;helicopter
+l'hélicoptère (nm);helicopter
 le rotor;rotor
 la pale;blade
 le nez;nose
 la rue;street
-l'embouteillage m;traffic jam
-l'heure de pointe f;rush hour
+l'embouteillage (nm);traffic jam
+l'heure de pointe (nf);rush hour
 la pointe;point, tip, peak, remark
 le taxi;taxi
 la station de taxis;taxi rank
 les indications fpl;directions
-l'itinéraire m;route, itinerary
+l'itinéraire (nm);route, itinerary
 le panneau de signalisation;road sign, traffic sign, sign, highway sign, warning sign
 conduire;to drive
 revenir;to return
@@ -227,13 +227,13 @@ traverser;to cross
 tourner;to turn
 faire la navette;to commute
 le billet;ticket
-l'horaire m;timetable, schedule
+l'horaire (nm);timetable, schedule
 le monospace;people carrier
 le siège du passager;passenger seat
 la place du conducteur;driver's seat
 le siège arrière;back seat
 la batterie;battery
-l'accélérateur m;accelerator
+l'accélérateur (nm);accelerator
 le pot d'échappement;exhaust (pipe)
 automatique;automatic
 électrique;electric
@@ -252,7 +252,7 @@ la roue;wheel
 la portière;door
 le pneu;tyre
 le pare-brise;windscreen
-l'essuie-glace m;windscreen wiper
+l'essuie-glace (nm);windscreen wiper
 le phare;headlight
 le pare-chocs;bumper
 le clignotant;indicator
@@ -261,14 +261,14 @@ la jauge d'essence;fuel gauge
 le levier de vitesse;gearstick
 la boîte à gants;glove compartment
 le frein à main;handbrake
-l'appuie-tête m;headrest
-l'allumage m;ignition
+l'appuie-tête (nm);headrest
+l'allumage (nm);ignition
 la ceinture de sécurité;seatbelt
 le macadam;tarmac
 le coin;corner
 la sortie;exit
 la bretelle;slip road
-l'aire de service f;services
+l'aire de service (nf);services
 la limitation de vitesse;speed limit
 la déviation;diversion
 le permis de conduire;driving licence
@@ -280,7 +280,7 @@ le carrefour;junction, crossroads
 le bord du trottoir;kerb
 la voie;lane, track
 le passage à niveau;level crossing
-l'autoroute f;motorway
+l'autoroute (nf);motorway
 le parcmètre;parking meter
 le trottoir;pavement
 la station-service;petrol station
@@ -301,8 +301,8 @@ avoir un accident;to have an accident
 avoir un pneu à plat;to have a flat tyre
 changer le pneu;to change a tyre
 remorquer;to tow
-l'airbag m;airbag
-l'antigel m;antifreeze
+l'airbag (nm);airbag
+l'antigel (nm);antifreeze
 la borne d'urgence;emergency phone
 le cric;jack
 la roue de secours;spare wheel
@@ -319,8 +319,8 @@ le bus de nuit;night bus
 l'autocar touristique;tour bus
 prendre le bus;to catch the bus
 le bus;bus
-l'Abribus m;bus shelter
-l'arrêt de bus m;bus stop
+l'Abribus (nm);bus shelter
+l'arrêt de bus (nm);bus stop
 le car;coach
 faire du vélo;to cycle
 faire une crevaison;to get a puncture
@@ -339,8 +339,8 @@ le train de passagers;passenger train
 le wagon;coach, carriage
 la station de métro;metro station
 la carte de réduction;railcard, discount card
-l'aller simple m;single ticket
-l'aller-retour m;return ticket
+l'aller simple (nm);single ticket
+l'aller-retour (nm);return ticket
 le billet électronique;e-ticket, electronic ticket
 la première classe;first-class, 
 la réservation;seat reservation
@@ -369,8 +369,8 @@ l'excédent de bagages;excess baggage
 le bagage à main;hand luggage
 le décalage horaire;jetlag
 le décalage; difference, gap, interval, shift, movement, discrepancy
-l'avion m;aeroplane, plane, airplane
-l'aéroport m;airport
+l'avion (nm);aeroplane, plane, airplane
+l'aéroport (nm);airport
 la carte;boarding card, menu, map, card
 la cabine;cabin
 la boutique hors taxes;duty-free shop
@@ -383,14 +383,14 @@ la cheminée;funnel, chimney, fireplace
 le port;port, harbour
 le canal;canal
 le canot de sauvetage;lifeboat
-l'équipage m;crew
+l'équipage (nm);crew
 naviguer;to sail, to navigate
 mettre à quai;to dock
-l'ancre f;anchor
+l'ancre (nf);anchor
 le ferry;ferry
 le voilier;sailing boat
 le yacht;yacht
-l'immeuble m;block of flats, apartment block, building
+l'immeuble (nm);block of flats, apartment block, building
 le toit;roof
 la maison mitoyenne;terraced house
 la maison de ville;townhouse
@@ -413,7 +413,7 @@ le plafond;ceiling
 le mur;wall
 le sol;floor
 le balcon;balcony
-l'adaptateur m;adaptor
+l'adaptateur (nm);adaptor
 la climatisation;air conditioning
 le chauffage central;central heating
 l'antenne parabolique;satellite dish
@@ -426,7 +426,7 @@ le ventilateur de plafond;ceiling fan
 la multiprise;extension cable
 la boîte à fusibles;fusebox
 le radiateur;heater, radiator
-l'ampoule f;light bulb, blister
+l'ampoule (nf);light bulb, blister
 le détecteur de fumée;smoke alarm, smoke detector
 le thermostat;thermostat
 l'antenne;aerial, antenna
@@ -438,7 +438,7 @@ le judas;peephole
 le paillasson;doormat
 la boîte aux lettres;letterbox
 le couloir;corridor, aisle, lane
-l'escalier m;staircase, stairs
+l'escalier (nm);staircase, stairs
 le palier;landing
 s'essuyer les pieds;to wipe one's feet
 le parquet;floorboards, parquet
@@ -453,9 +453,9 @@ la télécommande;remote control
 le buffet;sideboard, buffet
 la télé;TV
 le canapé;sofa, couch
-l'image f;picture, image, painting, photo, drawing
-l'ornement m;ornament
-l'étagère f;shelves
+l'image (nf);picture, image, painting, photo, drawing
+l'ornement (nm);ornament
+l'étagère (nf);shelves
 le coussin;cushion
 la cuisinière;(electric) cooker, chef
 la gazinière;gas cooker
@@ -482,13 +482,13 @@ le rouleau à pâtisserie;rolling pin
 la casserole;saucepan
 le tamis;sieve
 la spatule;spatula
-l'ouvre-boîtes m;tin opener
+l'ouvre-boîtes (nm);tin opener
 le fouet;whisk, whip
 le wok;wok
 la cuillère en bois;wooden spoon
 le sac poubelle;bin bag
 le film alimentaire;clingfilm
-l'essuie-tout m;kitchen roll
+l'essuie-tout (nm);kitchen roll
 le four;oven
 la plaque chauffante;hob
 chauffante;heating
@@ -496,7 +496,7 @@ le four à micro-ondes;microwave
 le spot;spotlight
 le réfrigérateur-congélateur;fridge-freezer
 le placard;cupboard
-l'égouttoir m;draining board
+l'égouttoir (nm);draining board
 le tiroir;drawer
 les carreaux mpl;tiles
 la table à manger;dining table, dinner table
@@ -512,7 +512,7 @@ la tasse;cup
 la soucoupe;saucer
 le couteau;knife
 la fourchette;fork
-l'assiette f;plate
+l'assiette (nf);plate
 la cuillère;spoon
 la cuillère à café;teaspoon, small amount of something
 le verre;tumbler, glass
@@ -533,22 +533,22 @@ le portemanteau;coat hanger
 la coiffeuse;dressing table
 le sèche-cheveux;hairdryer
 le panier à linge;laundry basket
-l'édredon m;quilt
+l'édredon (nm);quilt
 les draps mpl;sheets
 la commode;chest of drawers
 le lit;bed
-l'armoire f;wardrobe
+l'armoire (nf);wardrobe
 la couette;duvet
 les rideaux mpl;curtains
 le fauteuil;armchair
 la lampe de chevet;bedside lamp
 le tapis;rug, carpet, mat
-l'oreiller m;pillow
+l'oreiller (nm);pillow
 le matelas;mattress
 la table de chevet;bedside table
 le rideau de douche;shower curtain
 la chasse d'eau;flush
-l'égout m;drain
+l'égout (nm);drain
 se doucher;to shower
 prendre un bain;to have a bath
 se laver les mains;to wash one's hands
@@ -557,12 +557,12 @@ aller aux toilettes;to go to the toilet
 le tapis de bain;bath mat
 la serviette de bain;bath towel
 le gant de toilette;face cloth
-l'essuie-mains m;hand towel
-l'éponge f;sponge
+l'essuie-mains (nm);hand towel
+l'éponge (nf);sponge
 la brosse à toilettes;toilet brush
 le papier toilette;toilet roll, toilet paper
 le miroir;mirror
-l'évier m;sink
+l'évier (nm);sink
 la douche;shower
 les toilettes fpl;toilet, toilets, bathroom
 le porte-serviettes;towel rail
@@ -570,9 +570,9 @@ le robinet;tap
 le cabinet;cabinet
 le bidet;bidet
 la baignoire;bath
-l'arbre m;tree
+l'arbre (nm);tree
 la terre;soil, earth, land, ground
-l'herbe f;grass, weed
+l'herbe (nf);grass, weed
 la plante;plant
 la mauvaise herbe;weed
 la plate-bande;flowerbed
@@ -589,11 +589,11 @@ la serre;greenhouse
 la binette;hoe
 la tondeuse;lawnmower
 la pelle;spade, dustpan, shovel, spatula
-l'arrosoir m;watering can
+l'arrosoir (nm);watering can
 le désherbant;weedkiller
 la brouette;wheelbarrow
 la pelouse;lawn
-l'arbuste m;shrub
+l'arbuste (nm);shrub
 la palissade;fence
 le chemin;path
 les fleurs fpl;flowers
@@ -602,7 +602,7 @@ le pot de fleur;flowerpot
 la buanderie;utility room
 les tâches;chores
 la bassine;basin
-l'eau de javel f;bleach
+l'eau de javel (nf);bleach
 le désinfectant;disinfectant
 la pastille;dishwasher tablet, lozenge
 la lessive;laundry detergent
@@ -616,7 +616,7 @@ nettoyer;to clean
 sortir les poubelles;to take out the bin
 la brosse;brush
 le seau;bucket
-l'étendoir m;clothes horse, drying rack, airer
+l'étendoir (nm);clothes horse, drying rack, airer
 les pinces à linge fpl;clothes pegs
 le lave-vaisselle;dishwasher
 la poubelle;dustbin
@@ -626,7 +626,7 @@ la serpillière;mop
 les gants en caoutchouc;rubber gloves
 le torchon;tea towel, cloth
 le sèche-linge;tumble drier
-l'aspirateur m;vacuum cleaner
+l'aspirateur (nm);vacuum cleaner
 la corde à linge;washing line
 la machine à laver;washing machine
 le pain;bread, loaf
@@ -651,7 +651,7 @@ le lecteur de cartes;card reader
 le sac en plastique;plastic bag
 le reçu;receipt
 le sac réutilisable;reusable shopping bag, reusable bag
-l'allée f;aisle
+l'allée (nf);aisle
 le plat cuisiné;ready meal
 la bouteille;bottle
 la boîte;box
@@ -673,13 +673,13 @@ le café instantané;instant coffee
 le ketchup;ketchup
 la marmelade;marmalade
 la mayonnaise;mayonnaise
-l'huile d'olive f;olive oil
+l'huile d'olive (nf);olive oil
 le poivre;pepper
 le sel;salt
 les épices fpl;spices
 le sucre;sugar
 les sachets de thé;teabags
-l'huile végétale f;vegetable oil
+l'huile végétale (nf);vegetable oil
 le vinaigre;vinegar
 le chocolat;chocolate
 les chips fpl;crisps
@@ -689,20 +689,20 @@ les bonbons mpl;sweets
 la bière;beer
 la boisson gazeuse;fizzy drink
 le jus de fruit;fruit juice
-l'eau minérale f;mineral water
+l'eau minérale (nf);mineral water
 les spiritueux mpl;spirits
 le vin;wine
 la place du marché;marketplace
 le marché aux puces;flea market
 le marché couvert;indoor market
 le marché fermier;farmer's market
-l'étal m;stall
+l'étal (nm);stall
 les produits mpl;produce
 local;local
 bio;organic
 saisonnier;seasonal
 fait maison;home-made
-l'épicerie f;grocer's
+l'épicerie (nf);grocer's
 le jus;juice
 la feuille;leaf
 la pelure;peel
@@ -721,7 +721,7 @@ râper;to grate
 faire du jus de;to juice
 peler;to peel
 la pomme;apple
-l'abricot m;apricot
+l'abricot (nm);apricot
 la banane;banana
 la mûre;blackberry
 le cassis;blackcurrant
@@ -734,18 +734,18 @@ le kiwi;kiwi fruit, kiwi
 le citron;lemon
 la mangue;mango
 le melon;melon
-l'orange f;orange
+l'orange (nf);orange
 le fruit de la passion;passion fruit
 la pêche;peach, fishing
 la poire;pear
-l'ananas m;pineapple
+l'ananas (nm);pineapple
 la prune;plum
 la framboise;raspberry
 la fraise;strawberry
 la pastèque;watermelon
-l'artichaut m;artichoke
-l'asperge f;asparagus
-l'aubergine f;aubergine
+l'artichaut (nm);artichoke
+l'asperge (nf);asparagus
+l'aubergine (nf);aubergine
 la betterave;beetroot
 les brocolis mpl;broccoli, broc
 le chou de Bruxelles;Brussels sprout
@@ -756,17 +756,17 @@ le céleri;celery
 le piment;chilli
 la courgette;courgette
 le concombre;cucumber
-l'ail m;garlic
+l'ail (nm);garlic
 les haricots verts mpl;green beans
 le poireau;leek
 la laitue;lettuce
-l'oignon m;onion
+l'oignon (nm);onion
 les petits pois mpl;peas
 la pomme de terre;potato
 le poivron rouge;red pepper
 les épinards mpl;spinach
 la tomate;tomato
-l'arête f;fishbone, edge, bone
+l'arête (nf);fishbone, edge, bone
 le filet;fillet, net
 les écailles fpl;scales
 les crustacés mpl;shellfish, crustaceans
@@ -779,7 +779,7 @@ salé;salted
 fumé;smoked
 découpé en filets;filleted
 le cabillaud;cod
-l'aiglefin m;haddock
+l'aiglefin (nm);haddock
 le hareng;herring
 le maquereau;mackerel
 le saumon;salmon
@@ -789,13 +789,13 @@ la raie;skate
 la truite;trout
 le thon;tuna
 la palourde;clam
-l'écrevisse f;crayfish
+l'écrevisse (nf);crayfish
 le homard;lobster
 la moule;mussel
 la pieuvre;octopus
-l'huître f;oyster
+l'huître (nf);oyster
 la crevette;prawn, shrimp
-l'oursin m;sea urchin
+l'oursin (nm);sea urchin
 le calamar;squid
 la viande;meat
 la viande rouge;red meat
@@ -852,13 +852,13 @@ de poules élevées en;free-range
 pasteurisé;pasteurized, pasteurised
 non pasteurisé;unpasteurized, unpasteurised
 le beurre;butter
-l'œuf m;egg
+l'œuf (nm);egg
 la margarine;margarine
 le lait;milk
 le yaourt;yoghurt
-l'antihistaminique m;antihistamine
+l'antihistaminique (nm);antihistamine
 le décongestif;decongestant, decongestive
-l'analgésique m;painkiller
+l'analgésique (nm);painkiller
 le savon liquide;handwash
 le parfum;fragrance, perfume
 le rhume;cold
@@ -871,14 +871,14 @@ le sirop pour la toux;cough mixture, cough syrup
 les gouttes fpl;drops
 goutter;to drip
 le répulsif à insectes;insect repellent
-l'antitranspirant m;antiperspirant
+l'antitranspirant (nm);antiperspirant
 l'après-shampooing;conditioner
 le rasoir;razor
 la serviette;sanitary towel, napkin, serviette
 le shampooing;shampoo
 les coliques fpl;colic
 le sac hygiénique;nappy sack, sanitary bag
-l'érythème fessier m;nappy rash
+l'érythème fessier (nm);nappy rash
 allaiter;to breast-feed
 le bavoir;bib
 les moufles fpl;mittens
@@ -891,7 +891,7 @@ la brosse à dents;toothbrush
 le dentifrice;toothpaste
 le fard à joues;blusher
 le peigne;comb
-l'eye-liner m;eyeliner
+l'eye-liner (nm);eyeliner
 le fard à paupières;eyeshadow
 la brosse à cheveux;hairbrush
 la laque;hairspray, lake
@@ -936,9 +936,9 @@ la carte à gratter;scratch card, scratchcard
 la marque;brand
 le comptoir;counter
 le rayon;department, ray, radius
-l'étage m;floor
-l'escalator m;escalator
-l'ascenseur m;lift
+l'étage (nm);floor
+l'escalator (nm);escalator
+l'ascenseur (nm);lift
 les soldes fpl;sale
 les vêtements pour femmes;womenswear
 les vêtements pour hommes;menswear
@@ -951,7 +951,7 @@ les chaussures fpl;footwear, shoes
 les meubles mpl;furniture
 les ustensiles de cuisine;kitchenware, kitchen utensils
 la maroquinerie;leather goods
-l'éclairage m;lighting, flash
+l'éclairage (nm);lighting, flash
 la lingerie;lingerie
 les jouets mpl;toys
 les sous-vêtements;underwear
@@ -992,7 +992,7 @@ la cravate;tie
 les collants mpl;tights
 le pantalon;trousers
 le t-shirt;T-shirt
-l'imperméable m;waterproof jacket
+l'imperméable (nm);waterproof jacket
 la ceinture;belt
 le bracelet;bracelet
 les boucles d'oreille;earrings
@@ -1005,8 +1005,8 @@ les sandales fpl;sandals
 les pantoufles fpl;slippers
 les baskets fpl;trainers
 le bricolage;home improvements, DIY
-l'outil m;tool
-l'électricité f;electricity
+l'outil (nm);tool
+l'électricité (nf);electricity
 la peinture;painting, paint
 la plomberie;plumbing
 le marteau;hammer
@@ -1017,12 +1017,12 @@ le tournevis;screwdriver
 les vis fpl;screws
 la clé;spanner, key
 le niveau à bulle;spirit level
-l'escabeau m;stepladder
+l'escabeau (nm);stepladder
 le papier peint;wallpaper
 la clé à molette;wrench, spanner
 le magasin caritatif;charity shop
 l'agence immobilière;estate agency
-l'opticien m;optician's, optician
+l'opticien (nm);optician's, optician
 la tasse;cup
 tartiner;to spread
 prendre le petit déjeuner;to have breakfast
@@ -1083,7 +1083,7 @@ sans gluten;gluten-free
 sans produits laitiers;dairy-free
 commander;to order, to command
 demander l'addition;to ask for the bill
-l'addition f;bill, accumulation, addition, sum
+l'addition (nf);bill, accumulation, addition, sum
 être servi;to be served
 la note;bill
 la chaise;chair
@@ -1106,27 +1106,27 @@ le hamburger;burger
 les frites fpl;fries, chips
 le hot dog;hot dog
 la brochette;kebab, skewer
-l'omelette f;omelette
+l'omelette (nf);omelette
 la pizza;pizza
 le sandwich;sandwich, filled baguette
 le sushi;sushi
 le wrap;wrap
 les réseaux sociaux;social media
-l'e-mail m;email
+l'e-mail (nm);email
 l'adresse électronique;email address, email
-l'internet m;internet
+l'internet (nm);internet
 le wifi;WiFi
 le site web;website
 le lien;link
-l'icône f;icon
+l'icône (nf);icon
 le tapis de souris;mouse mat
 le clavier;keyboard
-l'appli f;app
+l'appli (nf);app
 les données mobiles;data
 la ligne fixe;landline
 le message vocal;voice mail
-l'écran tactile m;touchscreen
-l'écran m;screen, monitor, block, guard, shield
+l'écran tactile (nm);touchscreen
+l'écran (nm);screen, monitor, block, guard, shield
 le bouton;button
 le câble;cable
 passer un appel;to make a phone call, to make a call
@@ -1134,23 +1134,23 @@ poster (en ligne);to post (online)
 charger son portable;to charge your phone
 cliquer sur;to click on
 le chargeur;charger
-l'ordinateur m;computer
+l'ordinateur (nm);computer
 la carte SIM;SIM card
 le smartphone;smartphone
 le routeur sans fil;wireless router
-l'école maternelle f;nursery school, nursery
-l'école primaire f;primary school
+l'école maternelle (nf);nursery school, nursery
+l'école primaire (nf);primary school
 le collège;middle school
 le lycée;high school
 l'enseignement supérieur;higher education
-l'université f;university
+l'université (nf);university
 la salle de classe;classroom
-l'emploi du temps m;timetable
+l'emploi du temps (nm);timetable
 la leçon;lesson
 le cours;lecture
 le didacticiel;tutorial
 les devoirs mpl;homework
-l'examen m;exam
+l'examen (nm);exam
 le diplôme;degree, certificate, diploma
 la cantine;canteen
 la carte d'étudiant;student card
@@ -1176,7 +1176,7 @@ le manuel;textbook, manual
 le tableau blanc;whiteboard
 la cafétéria;cafeteria
 le campus;campus
-l'amphithéâtre m;lecture hall, amphitheatre
+l'amphithéâtre (nm);lecture hall, amphitheatre
 le rapport;report
 la réunion;meeting
 la conférence téléphonique;conference call
@@ -1197,14 +1197,14 @@ la perforatrice;hole punch
 l'ordinateur portable;laptop
 le bloc-notes;notepad
 la photocopieuse;photocopier
-l'imprimante f;printer
+l'imprimante (nf);printer
 le scanner;scanner, scan
 les ciseaux mpl;scissors
-l'agrafeuse f;stapler
+l'agrafeuse (nf);stapler
 le scotch;sticky tape, scotch, scotch tape, tape
 le téléphone;telephone
 la clé USB;USB stick
-l'adresse f;address
+l'adresse (nf);address
 la lettre prioritaire;first-class
 la lettre écopli;second-class
 les services bancaires;online banking
@@ -1232,7 +1232,7 @@ le distributeur de billets;ATM, ticket machine
 les billets de banque;banknotes
 le taux de change;exchange rate
 le coffre-fort;safety deposit box, safe
-l'église f;church
+l'église (nf);church
 le palais des congrès;conference centre
 le palais;palace, palate
 le congrès;congress, convention, conference
@@ -1243,8 +1243,8 @@ la laverie;laundrette
 la mosquée;mosque
 l'immeuble de bureaux;office block
 le parc;park
-l'aire de jeux f;playground
-l'aire f;area, zone, park, estate
+l'aire de jeux (nf);playground
+l'aire (nf);area, zone, park, estate
 le commissariat;police station
 la synagogue;synagogue
 la mairie;town hall
@@ -1252,14 +1252,14 @@ le coursier;courier
 le courrier;mail
 poster;to post
 envoyer;to send
-l'enveloppe f;envelope
+l'enveloppe (nf);envelope
 la lettre;letter
 le colis;package
 la carte postale;postcard
 le timbre;stamp
 les vacances fpl;holiday, vacation
 le temps libre;spare time, free time
-l'activité f;activity
+l'activité (nf);activity
 amusant;fun, amusing
 ennuyeux;boring
 s'intéresser à;to be interested in
@@ -1288,7 +1288,7 @@ le jardin public;gardens
 le guide;guidebook, guide
 le monument;monument
 le musée;museum
-l'office de tourisme m;tourist office
+l'office de tourisme (nm);tourist office
 un verre;a drink, a glass, drink, glass
 la vie nocturne;nightlife
 la fête;party
@@ -1310,7 +1310,7 @@ le concert;concert
 la fête foraine;funfair
 la comédie musicale;musical
 la boîte de nuit;nightclub
-l'opéra m;opera
+l'opéra (nm);opera
 le restaurant;restaurant
 le théâtre;theatre
 la chambre d'hôte;bed and breakfast
@@ -1330,7 +1330,7 @@ la chambre pour une;single room
 la chambre à deux;twin room
 le camping;campsite
 la colonie de vacances;summer camp
-l'emplacement m;pitch
+l'emplacement (nm);pitch
 camper;to camp
 partir en caravane;to go caravanning
 la caravane;caravan
@@ -1354,14 +1354,14 @@ les tongs fpl;flip-flops
 la promenade;promenade, walk
 le château de sable;sandcastle
 les coquillages mpl;seashells, shells
-l'algue f;seaweed
+l'algue (nf);seaweed
 le tuba;snorkel, tuba
 les lunettes de soleil;sunglasses
 le chapeau de soleil;sunhat
 la crème solaire;suntan lotion
 le short de bain;swimming trunks
 la chanson;song
-l'album m;album
+l'album (nm);album
 le chanteur auteur;singer-songwriter
 le CD;CD
 le microphone;microphone
@@ -1380,7 +1380,7 @@ le casque;headphones, headguard, helmet
 la barre de son;soundbar
 les haut-parleurs;speakers, loudspeakers
 la platine;turntable
-l'accordéon m;accordion
+l'accordéon (nm);accordion
 la guitare acoustique;acoustic guitar
 la grosse caisse;bass drum
 la guitare basse;bass guitar
@@ -1392,7 +1392,7 @@ la guitare électrique;electric guitar
 la flûte;flute
 la harpe;harp
 le clavier;keyboard
-l'harmonica m;mouth organ, harmonica
+l'harmonica (nm);mouth organ, harmonica
 le piano;piano
 le saxophone;saxophone
 la caisse claire;snare drum
@@ -1401,7 +1401,7 @@ la trompette;trumpet
 le violon;violin
 le xylophone;xylophone
 la chorale;choir
-l'orchestre m;orchestra
+l'orchestre (nm);orchestra
 la partition;sheet music, partition
 la photo;photo
 zoomer;to zoom in
@@ -1431,7 +1431,7 @@ coudre;to sew
 tricoter;to knit
 la broderie;embroidery
 la poterie;pottery
-l'encre f;ink
+l'encre (nf);ink
 le carnet de croquis;sketchpad
 les couleurs pour aquarelle;watercolours
 la pelote de laine;ball of wool
@@ -1439,7 +1439,7 @@ les boutons mpl;buttons
 les aiguilles à tricoter;knitting needles
 du fil et une aiguille;needle and thread
 les épingles fpl;pins
-l'épingle à nourrice f;safety pin
+l'épingle à nourrice (nf);safety pin
 la nourrice;nanny, childminder
 la machine à coudre;sewing machine
 le tournoi;tournament
@@ -1459,7 +1459,7 @@ le podium;podium
 les spectateurs mpl;spectators
 le stade;stadium
 la tribune;stands
-l'équipe f;team
+l'équipe (nf);team
 le trophée;trophy
 la salle de sport;gym
 la course;running, race
@@ -1478,7 +1478,7 @@ le but;goal
 les gants de gardien;goalkeeper's gloves
 les protège-tibias mpl;shin pads, shinpads
 le sifflet;whistle
-l'ace m;ace
+l'ace (nm);ace
 jouer au tennis;to play tennis
 frapper;to hit, to strike
 servir;to serve
@@ -1510,7 +1510,7 @@ le maillot de bain;swimsuit
 la station de sports;ski resort
 le remonte-pente;ski lift
 la poudreuse;powder
-l'avalanche f;avalanche
+l'avalanche (nf);avalanche
 le bodyboard;bodyboarding
 le canoë;canoeing, canoe
 le kayak;kayaking, kayak
@@ -1535,13 +1535,13 @@ faire de la lutte;to wrestle
 s'entraîner;to spar, to train
 assommer;to knock out
 le protège-dents;mouthguard
-l'escrime m;fencing
+l'escrime (nm);fencing
 escrimer;to fence
 le taekwondo;taekwondo
 la lutte;wrestling
 le faux départ;false start
 la ligne d'arrivée;finish line
-l'éliminatoire f;heat, elimination
+l'éliminatoire (nf);heat, elimination
 la finale;final
 le sprint;sprint
 courir;to run
@@ -1556,7 +1556,7 @@ le club de golf;golf club
 le tir à l'arc;archery
 le baseball;baseball
 les boules fpl;bowls
-l'escalade f;climbing
+l'escalade (nf);climbing
 le cricket;cricket
 la gymnastique;gymnastics
 le hockey;hockey
@@ -1571,14 +1571,14 @@ la maladie;illness
 le symptôme;symptom
 la santé mentale;mental health
 le traitement;treatment
-l'assurance maladie f;health insurance
+l'assurance maladie (nf);health insurance
 sain;healthy
 se remettre;to recover
 s'occuper de;to look after, to see to, to take care of, to deal with
 traiter;to treat
 la pharmacie;pharmacy
 la gorge;throat
-l'aisselle f;armpit
+l'aisselle (nf);armpit
 les organes génitaux;genitals
 le sein;breast
 le cil;eyelash
@@ -1590,13 +1590,13 @@ les lèvres fpl;lips, labia
 la langue;tongue
 les poils mpl;(body) hair, hair
 le poids;weight
-l'IMC m;BMI
-l'ouïe f;sense of hearing
+l'IMC (nm);BMI
+l'ouïe (nf);sense of hearing
 la vue;sense of sight, view
-l'odorat m;sense of smell
+l'odorat (nm);sense of smell
 le goût;sense of taste, taste
 le toucher;sense of touch
-l'équilibre m;balance, equilibrium
+l'équilibre (nm);balance, equilibrium
 voir;to see
 sentir;to smell
 entendre;to hear
@@ -1607,8 +1607,8 @@ marcher;to walk
 perdre l'équilibre;to lose one's balance
 les cheveux mpl;hair
 le front;forehead
-l'œil m;eye
-l'oreille f;ear
+l'œil (nm);eye
+l'oreille (nf);ear
 la joue;cheek
 la bouche;mouth
 la mâchoire;jaw
@@ -1620,7 +1620,7 @@ le doigt;finger
 le pouce;thumb
 la paume;palm
 le gros orteil;big toe
-l'ongle du pied m;toenail
+l'ongle du pied (nm);toenail
 le doigt de pied;toe
 la plante du pied;sole
 le talon;heel
@@ -1630,46 +1630,46 @@ le visage;face
 le cou;neck
 le bras;arm
 la poitrine;chest
-l'abdomen m;abdomen
+l'abdomen (nm);abdomen
 la main;hand
 la cuisse;thigh
 la jambe;leg
 le genou;knee
 le tibia;shin, tibia
 le pied;foot
-l'épaule f;shoulder
+l'épaule (nf);shoulder
 la coude;elbow
 le dos;back
 la hanche;hip
 les fesses fpl;buttocks
 le mollet;calf
-l'organe m;organ
+l'organe (nm);organ
 le cerveau;brain
 le cœur;heart
 le poumon;lung
 le foie;liver
-l'estomac m;stomach
+l'estomac (nm);stomach
 le rein;kidney
 les intestins mpl;intestines
 la vessie;bladder
 le système digestif;digestive system
 le système respiratoire;respiratory system
 le sang;blood
-l'articulation f;joint
-l'os m;bone
+l'articulation (nf);joint
+l'os (nm);bone
 le muscle;muscle
 le nerf;nerve
 le tendon;tendon
 le tissu;tissue, fabric
 le ligament;ligament
 la cellule;cell
-l'artère f;artery
+l'artère (nf);artery
 la veine;vein
-l'oxygène m;oxygen
+l'oxygène (nm);oxygen
 le crâne;skull
 la clavicule;collarbone, clavicle
 les vertèbres fpl;vertebrae
-l'humérus m;humerus
+l'humérus (nm);humerus
 le sternum;breastbone, sternum
 la colonne vertébrale;spine
 le cubitus;ulna
@@ -1679,12 +1679,12 @@ le fémur;femur
 la rotule;kneecap
 le péroné;fibula
 le rendez-vous;appointment
-l'examen médical m;examination, medical exam, medical examination
+l'examen médical (nm);examination, medical exam, medical examination
 le test;test
 les antibiotiques mpl;antibiotics
 la pilule;the pill
 le somnifère;sleeping pill
-l'ordonnance f;prescription
+l'ordonnance (nf);prescription
 la visite à domicile;home visit
 le vaccin;vaccination, vaccine, antidote
 le médicament;medication, medicine
@@ -1699,15 +1699,15 @@ le stéthoscope;stethoscope
 la seringue;syringe
 le thermomètre;thermometer
 la salle d'attente;waiting room
-l'examen dentaire m;check-up
+l'examen dentaire (nm);check-up
 la molaire;molar
-l'incisive f;incisor
+l'incisive (nf);incisor
 la canine;canine
 les dents de sagesse fpl;wisdom teeth
 la plombage;filling
-l'extraction f;extraction
+l'extraction (nf);extraction
 la douleur dentaire;toothache
-l'abcès m;abscess
+l'abcès (nm);abscess
 se passer du fil;to floss
 l'appareil (dentaire);braces
 le fil dentaire;dental floss
@@ -1721,7 +1721,7 @@ la dent;tooth
 les lunettes de lecture;reading glasses
 les lunettes à double foyer;bifocals, bifocal glasses
 la conjonctivite;conjunctivitis
-l'orgelet m;stye
+l'orgelet (nm);stye
 la vision brouillée;blurred vision
 les cataractes fpl;cataracts
 myope;short-sighted, myopic
@@ -1732,17 +1732,17 @@ daltonien;colour-blind
 porter des lunettes;to wear glasses
 le tableau d'acuité visuelle;eye chart
 le collyre;eye drops
-l'examen de la vue m;eye test, eye exam
+l'examen de la vue (nm);eye test, eye exam
 la monture;frames, mount, frame, setting
 les lunettes fpl;glasses
-l'étui à lunettes m;glasses case
+l'étui à lunettes (nm);glasses case
 l'étui;case
 la clinique;private hospital, clinic
-l'opération f;operation
+l'opération (nf);operation
 le défibrillateur;defibrillator
 les soins intensifs mpl;intensive care
 le diagnostic;diagnosis
-l'ambulance f;ambulance
+l'ambulance (nf);ambulance
 les béquilles fpl;crutches
 la perfusion;drip, infusion
 le lit d'hôpital;hospital bed
@@ -1755,7 +1755,7 @@ la salle d'hôpital;ward
 le fauteuil roulant;wheelchair
 le fauteuil;armchair
 le déambulateur;Zimmer frame, walking frame
-l'accident m;accident
+l'accident (nm);accident
 le pouls;pulse
 la commotion;concussion
 la chute;fall
@@ -1763,7 +1763,7 @@ le déboîtement;dislocation
 la foulure;sprain
 la cicatrice;scar
 le coup du lapin;whiplash
-l'enflure f;swelling
+l'enflure (nf);swelling
 les premiers secours;first aid
 la position latérale de sécurité;recovery position
 la RCP;CPR
@@ -1775,25 +1775,25 @@ se tordre la cheville;to twist one's ankle
 la brûlure;burn
 la coupure;cut
 la fracture;fracture
-l'éraflure f;graze
-l'écharde f;splinter
+l'éraflure (nf);graze
+l'écharde (nf);splinter
 la piqûre;sting
 le coup de soleil;sunburn
-l'antiseptique m;antiseptic
+l'antiseptique (nm);antiseptic
 le bandage;bandage
 la poche de glace;ice pack
 la minerve;neck brace
 la pommade;ointment
-l'écharpe f;sling, scarf, sash
+l'écharpe (nf);sling, scarf, sash
 la pince à épiler;tweezers
 la crise cardiaque;heart attack
-l'attaque f;stroke, attack
-l'infection f;infection
-l'otite f;ear infection
+l'attaque (nf);stroke, attack
+l'infection (nf);infection
+l'otite (nf);ear infection
 la fièvre;fever
 le virus;virus
 la varicelle;chicken pox
-l'éruption cutanée f;rash
+l'éruption cutanée (nf);rash
 la gastroentérite;stomach bug, gastroenteritis
 l'intoxication alimentaire;food poisoning
 les vomissements mpl;vomiting
@@ -1801,11 +1801,11 @@ la nausée;nausea
 la diarrhée;diarrhoea
 la constipation;constipation
 le diabète;diabetes
-l'épilepsie f;epilepsy
-l'asthme m;asthma
+l'épilepsie (nf);epilepsy
+l'asthme (nm);asthma
 le vertige;dizziness, vertigo
-l'inhalateur m;inhaler
-l'insuline f;insulin
+l'inhalateur (nm);inhaler
+l'insuline (nf);insulin
 les douleurs de règles;period pain
 tousser;to cough
 éternuer;to sneeze
@@ -1813,12 +1813,12 @@ vomir;to vomit
 s'évanouir;to faint
 la femme enceinte;pregnant woman
 le fœtus;foetus
-l'utérus m;uterus
+l'utérus (nm);uterus
 le col de l'utérus;cervix
 le travail;labour, work
 la péridurale;epidural
 le projet de naissance;birth plan
-l'accouchement m;delivery
+l'accouchement (nm);delivery
 la césarienne;Caesarean section, Caesarean
 la fausse couche;miscarriage
 la nausée matinale;morning sickness
@@ -1831,7 +1831,7 @@ la couveuse;incubator
 la sage-femme;midwife
 le test de grossesse;pregnancy test
 la grossesse;pregnancy
-l'échographie f;ultrasound
+l'échographie (nf);ultrasound
 le masseur;masseur
 la masseuse;masseuse
 le remède;remedy
@@ -1849,10 +1849,10 @@ la quarantaine;quarantine
 vacciner;to vaccinate
 traiter contre les vers;to worm, treat for worms
 pucer;to microchip
-l'animal m;animal
-l'oiseau m;bird
+l'animal (nm);animal
+l'oiseau (nm);bird
 le poisson;fish
-l'espèce f;species
+l'espèce (nf);species
 le zoo;zoo
 la réserve naturelle;nature reserve
 le paysage;scenery, landscape
@@ -1881,7 +1881,7 @@ la paille;straw
 la prairie;meadow, grassland, prairie
 le chien d'aveugle;guide dog
 le veau;calf, veal
-l'agneau m;lamb
+l'agneau (nm);lamb
 le poulain;foal
 le chiot;puppy
 le chaton;kitten
@@ -1904,23 +1904,23 @@ le rat;rat
 le taureau;bull
 le poulet;chicken
 la vache;cow
-l'âne m;donkey
+l'âne (nm);donkey
 le canard;duck
 la chèvre;goat
-l'oie f;goose
+l'oie (nf);goose
 le cheval;horse
 le cochon;pig
 le mouton;sheep
 le chien de berger;sheepdog
 le dindon;turkey
-l'aquarium m;aquarium
+l'aquarium (nm);aquarium
 la muselière;muzzle
-l'écurie f;stable
-l'alligator m;alligator
+l'écurie (nf);stable
+l'alligator (nm);alligator
 le crocodile;crocodile
 la grenouille;frog
 le gecko;gecko
-l'iguane m;iguana
+l'iguane (nm);iguana
 le lézard;lizard
 le triton;newt
 la salamandre;salamander
@@ -1938,15 +1938,15 @@ le hérisson;hedgehog
 la taupe;mole
 la souris;mouse
 la loutre;otter
-l'écureuil m;squirrel
+l'écureuil (nm);squirrel
 le loup;wolf
-l'ours m;bear
+l'ours (nm);bear
 le chameau;camel
 le chimpanzé;chimpanzee
-l'éléphant m;elephant
+l'éléphant (nm);elephant
 la girafe;giraffe
 le gorille;gorilla
-l'hippopotame m;hippopotamus
+l'hippopotame (nm);hippopotamus
 le kangourou;kangaroo
 le lion;lion
 le singe;monkey
@@ -1956,15 +1956,15 @@ le merle;blackbird
 la grue;crane
 le corbeau;crow
 la colombe;dove
-l'aigle m;eagle
+l'aigle (nm);eagle
 le pinson;finch
 le flamant rose;flamingo
 la mouette;gull
 le faucon;hawk, falcon
 le héron;heron
 le martin-pêcheur;kingfisher
-l'alouette f;lark
-l'autruche f;ostrich
+l'alouette (nf);lark
+l'autruche (nf);ostrich
 la chouette;owl
 le paon;peacock
 le pélican;pelican
@@ -1976,14 +1976,14 @@ le moineau;sparrow
 la cigogne;stork
 le cygne;swan
 la grive;thrush
-l'essaim m;swarm
+l'essaim (nm);swarm
 la colonie;colony
 la toile d'araignée;cobweb, spider web
 la piqûre d'insecte;insect bite
 bourdonner;to buzz
 piquer;to sting
 la fourmi;ant
-l'abeille f;bee
+l'abeille (nf);bee
 le scarabée;beetle
 le papillon;butterfly
 la chenille;caterpillar
@@ -1995,23 +1995,23 @@ le ver de terre;earthworm, worm
 la mouche;fly
 la sauterelle;grasshopper
 la coccinelle;ladybird
-l'éphémère f;mayfly, ephemeral
+l'éphémère (nf);mayfly, ephemeral
 le moustique;mosquito
 le papillon de nuit;moth
 la limace;slug
-l'escargot m;snail
-l'araignée f;spider
+l'escargot (nm);snail
+l'araignée (nf);spider
 la guêpe;wasp
 le cloporte;woodlouse
 le corail;coral
 le crabe;crab
 le dauphin;dolphin
-l'anguille f;eel
+l'anguille (nf);eel
 la méduse;jellyfish
-l'orque f;killer whale, orca
+l'orque (nf);killer whale, orca
 le phoque;seal
 le requin;shark
-l'étoile de mer f;starfish
+l'étoile de mer (nf);starfish
 la baleine;whale
 la tige;stalk
 le pétale;petal
@@ -2020,19 +2020,19 @@ le bourgeon;bud
 le bois;wood
 la branche;branch
 le tronc;trunk
-l'écorce f;bark
+l'écorce (nf);bark
 la racine;root
 le bulbe;bulb
 le bouton-d'or;buttercup
-l'œillet m;carnation
+l'œillet (nm);carnation
 le chrysanthème;chrysanthemum
 la jonquille;daffodil
 la pâquerette;daisy
 la jacinthe;hyacinth
-l'iris m;iris
+l'iris (nm);iris
 le lys;lily
 le muguet;lily-of-the-valley
-l'orchidée f;orchid
+l'orchidée (nf);orchid
 la pensée;pansy
 le coquelicot;poppy
 la rose;rose
@@ -2048,16 +2048,16 @@ la lavande;lavender
 le lilas;lilac
 la mousse;moss
 le chêne;oak
-l'olivier m;olive
+l'olivier (nm);olive
 le pin;pine
 le peuplier;poplar
 le saule;willow
 le paysage;landscape
 la boue;mud
-l'eau f;water
-l'estuaire m;estuary
-l'air m;air
-l'atmosphère f;atmosphere
+l'eau (nf);water
+l'estuaire (nm);estuary
+l'air (nm);air
+l'atmosphère (nf);atmosphere
 la comète;comet
 le lever du soleil;sunrise
 le coucher de soleil;sunset
@@ -2084,17 +2084,17 @@ la cascade;waterfall, cascade
 la falaise;cliff
 la côte;coast, rib, shore
 le récif coralien;coral reef
-l'île f;island
+l'île (nf);island
 la péninsule;peninsula
 la flaque d'eau salée;rockpool
 la flaque;puddle
 les nuages mpl;clouds
 la lune;moon
-l'arc-en-ciel m;rainbow
+l'arc-en-ciel (nm);rainbow
 les étoiles fpl;stars
 la plume;feather
-l'occasion f;occasion
-l'anniversaire m;birthday
+l'occasion (nf);occasion
+l'anniversaire (nm);birthday
 le mariage;wedding, marriage
 l'anniversaire de mariage;wedding anniversary
 le jour férié;public holiday
@@ -2120,17 +2120,17 @@ les fiançailles fpl;engagement
 avoir un bébé;having a child, having a baby, have a baby
 le déménagement;relocation
 la retraite;retirement
-l'enterrement m;funeral
+l'enterrement (nm);funeral
 les feux d'artifice mpl;fireworks
 la Toussaint;All Saints' Day
 poisson d'avril;April Fool's Day, April Fool's
 le nouvel an chinois;Chinese New Year
-Dipavali f;Diwali
+Dipavali (nf);Diwali
 Pâques fpl;Easter
-l'Aïd-el-Fitr m;Eid-al-Fitr, Eid
-Halloween f;Halloween
-Hanoukka f;Hanukkah
-Pâque juive f;Passover
+l'Aïd-el-Fitr (nm);Eid-al-Fitr, Eid
+Halloween (nf);Halloween
+Hanoukka (nf);Hanukkah
+Pâque juive (nf);Passover
 le ramadan;Ramadan
 la veille de Noël;Christmas Eve
 le jour de Noël;Christmas Day

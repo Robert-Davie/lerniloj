@@ -50,3 +50,13 @@ def test_compute_user_response_shortcuts_dot_3():
 
 def test_compute_user_response_shortcuts_dot_3_plus_letters():
     assert compute_user_response_shortcuts(".3fgh", "abcdéf") == "abcfgh"
+
+
+def test_ligature_french():
+    # therefore reducing need for special accents
+    assert is_user_response_correct("cœur;heart", "coeur", True, "french")
+    
+
+def test_ligature_french():
+    # test ok still with ligature
+    assert is_user_response_correct("cœur;heart", "cœur", True, "french")

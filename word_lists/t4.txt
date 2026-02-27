@@ -1,0 +1,2396 @@
+LANGUAGE = FRENCH
+à armature
+à côté de
+à deux portes
+à droite
+à feuilles caduques
+à feuilles persistantes
+à gauche
+à genou
+à grains longs
+à grains ronds
+à impériale
+à l'extérieur de
+à l'heure
+à l'intérieur de
+à la carte
+à l'huile
+à quatre portes
+à sens unique
+à travers
+à trois portes
+abats
+abdominaux
+abribus
+acacia
+accès aux handicapés
+accessoires de toilette
+accident de voiture
+accompagnement
+accotement stabilisé
+accouchement assisté
+accoudoir
+acquitté
+acrylique
+acte de naissance
+acte judiciaire
+acteurs
+actions
+activités
+activités de plein air
+actrice
+acuponcture
+acupression
+additionner
+adolescente
+adresse de courrier électronique
+adzukis
+aérobic
+aéroboxe
+aéroglisseur
+affaires
+after-shave
+agence de voyage
+agenda électronique
+agent de conservation
+agent de la bourse
+agent de la circulation
+agent de voyage
+agent immobilier
+aggloméré
+agrafes
+agrandissement
+agrumes
+aigue-marine
+aiguille à tricoter
+aiguisoir
+aïkido
+aileron
+ailes de raie
+aire de stationnement
+ajusté
+album de photos
+alésoir
+aliments en bouteille
+allaitement
+allant au four
+allume-feu
+allumer la télévision
+allumer un feu
+alternateur
+amarres
+améthyste
+ameublement
+amniocentèse
+ampère
+amphibiens
+amplificateur
+amuse-gueule
+analgésiques
+analyse de sang
+anesthésiste
+aneth
+animalerie
+anneaux
+annulaire
+anorak
+antenne radio
+anti-adhérent
+anti-inflammatoire
+antirides
+antivol
+appareil de chauffage
+appareil de gym
+appareil dentaire
+appareil instantané
+appareil jetable
+appareil numérique
+appareil photo
+appareil photo APS
+appareils électriques
+appareils ménagers
+après-shampoing
+après-soleil
+arbre de transmission
+arbuste à fleurs
+arceau
+architrave
+arithmétique
+armoire à pharmacie
+armoire encastrée
+aromathérapie
+arrêt interdit
+arrivées
+arroseur
+art déco
+art nouveau
+articles de sport
+articles de toilette
+articles pour bébés
+artiste peintre
+arts et métiers
+arts martiaux
+assaisonné
+assiette à dessert
+assiette à soupe
+assiette plate
+assistante
+assister à
+associée
+assouplisseur
+astigmatisme
+astronomie
+athlétisme
+atrium
+attaches
+attelle
+attenante
+attendrisseur
+attraction touristique
+attractions
+au carré
+au revoir
+au sirop
+auburn
+au-delà de
+au-dessous de
+au-dessus de
+aujourd'hui
+auriculaire
+autobronzant
+autoneige
+autopont
+autour de
+autres arts
+autres bateaux
+autres magasins
+autres sports
+aux pépites de chocolats
+avance rapide
+avant-bras
+avant-toit
+avec plomb
+avertisseur d'incendie
+avion de ligne
+avion léger
+avion supersonique
+avoine
+avoir faim
+babeurre
+bac à légumes
+bac à peinture
+bac à sable
+baffle
+bagages à main
+baignoire en plastique
+bain moussant
+balai à gazon
+balai laveur
+balance à ressort
+balancier
+balayette
+balle de criquet
+balle de golf
+ballon lancé
+banc à pique-nique
+banc de touche
+banc des jurés
+bande de roulement
+bande fluorescente
+bande sonore
+barbillon
+barre à poids
+barre d'outils
+barre de défilement
+barre de menus
+barre de mesure
+barre fixe
+barreaux
+barres asymétriques
+barres parallèles
+barrière d'escalier
+barrière de sécurité
+basalte
+base du batteur
+bassiste
+basson
+bateau de pêche
+bâtiments
+bâton de ski
+bâtons
+battre un record
+bec Bunsen
+bécarre
+bêche
+bécher
+bêcher
+beignets de poulet
+bémol
+berline
+berline à hayon
+bermuda
+bétonnière
+beurre de cacahouètes
+biathlon
+bière anglaise
+bière brune
+bifteck d'aloyau
+bigoudi
+billard américain
+billets de loterie
+biplan
+bisannuel
+biscuit scandinave
+blanc d'œuf
+blazer
+blé écrasé
+bloc de béton
+bobine de fil
+bobsleigh
+bocal scellé
+bois dur
+bois tendre
+boisson en boîte
+boisson maltée
+boisson non alcoolisée
+boissons
+boissons alcoolisées
+boissons chaudes
+boissons non alcoolisées
+boîte à bijoux
+boîte à déchets recyclables
+boîte à onglets
+boîte à outils
+boîte d'équipement
+boîte de kleenex
+boîte de tri
+boîte de vitesses
+boîte d'outils
+bol du mixeur
+bollard
+bôme
+bonbon à la menthe
+bonbon au fruit
+bonbons assortis
+bongos
+bonne nuit
+bonnet de natation
+bordure de plantes
+bordure de plantes mixtes
+borne d'incendie
+bottes de caoutchouc
+bottes de pêche
+bouche d'égout
+bouchon d'objectif
+boucle d'oreille
+boudoirs
+bouée de sauvetage
+bougies d'anniversaire
+bouilloire électrique
+bouillotte
+boule de bowling
+bouleau
+boules de coton
+boulettes de viande
+bouquet garni
+bourriche
+bouteille d'eau
+bouteille d'air
+boutique d'art
+boutique de cadeaux
+bouton d'appel
+bouton d'arrêt
+bouton de manchette
+bouton de mise au point
+bouton de porte
+boutonnière
+bouton-pression
+boxe thaïlandaise
+bracelet d'identité
+brassière
+bretelle d'accès
+bretelle de sortie
+brillant à lèvres
+brindille
+brise-bise
+brochure de vacances
+brosse à encoller
+brosse à sourcils
+brosse à tapisser
+brosse pour le dos
+broyeur d'ordures
+brûleur
+brûleur à gaz
+brulure
+bruyère
+buffet du petit déjeuner
+buggy
+bureau de change
+bureau des douanes
+bureau du chef
+burin
+bus à deux étages
+bus de touristes
+bus scolaire
+bus touristique bytes
+cabine d'essayage
+cabine de plage
+cabine du conducteur
+cabine téléphonique
+cabriole
+cabriolet sport
+cacahouète
+cacahouètes
+cacao
+cacatoès
+cachets
+antinaupathiques
+caddie
+cadre de photo
+café filtre
+café glacé
+café moulu
+cage à poules
+cage thoracique
+calcaire
+calcite
+calcium
+cale sèche
+cale-pied
+calice
+calmar
+cambrure
+camembert
+caméscope
+camomille
+camping-car
+caneton
+canne à pêche
+canne à sucre
+canneberge
+cannelle
+cannes
+canot pneumatique
+cape cervicale
+capitaine de port
+capoeira
+câpres
+caractéristiques
+carambole
+carapace
+cardamome
+cardiologie
+cardio-vasculaire
+carie
+carnet à croquis
+carpe koi
+carquois
+carreler
+carrosserie
+carte bancaire
+carte d'embarquement
+carte de crédit
+carte de lecteur
+carte des vins
+carte du monde
+cartilage
+carton jaune
+carton rouge
+casier à bagages
+casier judiciaire
+casiers
+casque de sécurité
+catamaran
+cataphote
+cathéter
+cèdre
+ceinture à outils
+ceinture de plomb
+ceinture noire
+cendres d'os
+centre de pisciculture
+cerceau
+cercle central
+cercle de jeu
+cercle polaire arctique
+céréales traitées
+cérémonie de la remise des diplômes
+cette semaine
+chaîne à péage
+chaîne de montagnes
+chaîne de sûreté
+chaîne hi-fi
+chaise roulante
+chaise tournante
+chambre à air
+chambre à deux lits
+chambre d'enfants
+chambre d'eau
+chambre double
+chambre noire
+chambre privée
+chambre simple
+chambres
+champ central
+champ droit
+champ extérieur
+champ gauche
+champ intérieur
+champs de courses
+changer de chaîne
+changer de vitesse
+changer une roue
+chanteuse
+chantier naval
+chapeau de plage
+chapelure
+charbon de bois
+charcuterie
+chardon
+chariot de levage
+chariot élévateur
+chasse-d'eau
+châssis
+châtaigne d'eau
+châtain
+chauffeur de taxi
+chaussons
+chaussure à semelle
+compensée
+chaussure à talon
+chaussure de cuir
+chaussure de ski
+chaussure lacée
+chaussures de marche
+chaussures en cuir
+chaux
+chef d'orchestre
+chef de cuisine
+chemise de nuit
+cheval d'arçons
+cheval de course
+chevalet
+chevreau
+chèvrefeuille
+chevron
+chewing-gum
+chiche-kébab
+chicorée
+chien assis
+chignon
+chiropractie
+chirurgie esthétique
+choc électrique
+chocolat au lait
+chocolat blanc
+chocolat en poudre
+chocolat noir
+chœur
+chorizo
+chou chinois
+chou frisé
+chou précoce
+chou-rave
+chutney
+ciboule
+ciboulette
+cigarettes
+cintre
+circonférence
+ciseaux à ongles
+citron et glaçons
+citron vert
+citronnelle
+clarinette basse
+classe affaires
+classe économique
+classeur à levier
+clayette
+clé de fa
+clé de sol
+clef à molette
+clef à pipe
+clef de la chambre
+clef serre-tube
+clémentine
+clipboard
+clitoris
+clou de girofle
+clubs de golf
+coccyx
+code barres
+code postal
+code secret
+cœurs de palmier
+coiffures
+coin de la rue
+col de l'utérus
+col de l'utérus
+col rond
+colibri
+colle à bois
+colle à tapisser
+colza
+combinaison de neige
+combinaison de plongée
+combinaison de ski
+combinaison-short
+combiné
+comédie romantique
+commandes
+commencer à l'école
+commotion cérébrale
+communications
+compartiment-couchettes
+compositions florales
+compresseur
+compte de courrier
+compte d'épargne
+compte rendu
+compte-gouttes
+compte-tours
+compteur de vues
+compteur d'électricité
+comptoir sandwichs
+concert de rock
+conditionnement
+conducteur de bus
+conduit éjaculatoire
+conduit spermatique
+conduite à droite
+conduite à gauche
+conduite d'amenée
+conférencier
+confiseur
+confiture de framboises
+confiture d'oranges
+conglomérat
+conifère
+conseil juridique
+conseillère
+conseillère financière
+conserves
+consterné
+contraception
+contrebasson
+contrefort
+contreplaqué
+contrôle de passeports
+convecteur
+copeaux
+copilote
+coquetier
+coquille Saint-Jacques
+cor anglais
+corbeille à couture
+corbeille à papier
+corbeille arrivée
+corbeille de fruits
+corbeille départ
+cordes
+cordes vocales
+cordon ombilical
+coriandre
+cornée
+corniche
+correcteur
+côte de bœuf
+côtes
+couche de fond
+couche d'ozone
+couche éponge
+couche jetable
+coucher du soleil
+cou-de-pied
+couenne
+couettes
+couleur pour bois
+coulisses
+coup droit
+coup franc
+coup manqué
+coupe courte
+coupe-ongles
+coupe-tube
+coupe-vent
+coupure de courant
+cour de ferme
+courant alternatif
+courant continu
+coureur automobile
+courge musquée
+courrier électronique
+courroie de cames
+courroie de ventilateur
+course attelée
+course automobile
+course de chevaux
+course de moto
+course de plat
+course de trot
+courser
+court de tennis
+coussinets
+couteau à pain
+couteau de cuisine
+couturière
+couverture chauffante
+couverture de protection
+couverture du sol
+couverture laineuse
+couvre-lit
+crachoir
+craie de tailleur
+crampes
+cravache
+crayon à lèvres
+crayon à sourcils
+crayon de couleur
+crème allégée
+crème anglaise
+crème caramel
+crème épaisse
+crème fouettée
+crème fraîche
+crème hydratante
+crème pâtissière
+crème pour le visage
+crème pour l'érythème
+crémerie
+cresson
+creuset
+creux des reins
+crevettes décortiquées
+cristallin
+croissant de lune
+croquant
+crosse de hockey
+cuiller à café
+cuiller à glace
+cuiller à servir
+cuiller à soupe
+cuiller en bois
+cuiller pour mesurer
+cuir chevelu
+cuire à la vapeur
+cuit à la vapeur
+cuivres
+culasse
+culot à baïonette
+culotte en plastique
+cultivateur
+cultures
+cumin
+curcuma
+curling
+danseuse
+date d'expiration
+date de retour
+date du procès
+datte
+daurade
+dé à coudre
+de ferme
+de rien
+de saison
+de troisième cycle
+déchets bios
+l'accouchement
+déclencheur
+décongeler
+décor de cinéma
+décortiqué
+décrêper
+déjeuner d'affaires
+deltaplane
+deltoïde
+démaquillant
+demi-litre
+démonte-pneu
+dénominateur
+déodorant
+déodorants
+départ plongé
+déplantoir
+dépliants
+dermatologie
+dernière couche
+desserts
+dessin animé
+dessinatrice
+détergent
+dévidoir de scotch
+dévidoir de tuyau
+devises étrangères
+diagonale
+diaphragme
+dièse
+digitale
+dilatation
+dimensions
+dioptrie
+directeur d'agence
+directeur général
+disque dur
+dissertation
+dissolvant
+distractions à la maison
+dividendes
+divisé par
+donner à manger
+donner le sein
+dorsal
+dos du pied
+dos-nu
+dossier suspendu
+dossier-classeur
+double toit
+douches
+douve
+dragée à la gelée
+drainage
+drapeau de coin
+dressage
+dribbler
+dumper
+duodénum
+eau de toilette
+eau dentifrice
+eau du robinet
+eau en bouteille
+écaillé
+échafaudage
+échalote
+écheveau
+échiquier
+école de danse
+école des beaux arts
+écolière
+écorchure
+écran d'information
+écran de protection
+écran solaire
+écran total
+écrous de roue
+écumoire
+eczéma
+édam
+éducation physique
+effets secondaires
+élaguer
+élastique pour cheveux
+électrode négative
+électrode positive
+électroménager
+émail
+embarcadère
+embouts de tournevis
+embrayage
+embryon
+émotions
+empennage
+emplacements libres
+employée de magasin
+employeuse
+empreintes
+en bas
+en différé
+en direct
+en face de
+en flocons
+en haut
+en morceaux
+en poudre
+en purée
+en sauce
+en saumure
+en verre
+encolure
+endive
+endocrine
+endocrinologie
+enduit
+enjoliveur
+enlèvement de déchets
+enlever les fleurs fanées
+ennuyé
+enrobé de chocolat
+en-tête
+entonnoir
+entraînement en circuit
+entraîneuse
+entrer en éruption
+envoi en recommandé
+épaulette
+épiglotte
+épilation
+épingle de cravate
+épingle de sûreté
+épisiotomie
+épluche-légume
+épousseter
+épreuves
+éprouvette
+épuisette
+équateur
+équerre
+équipement de bureau
+équipement d'entretien
+équitation
+escalade en glace
+escalier de secours
+escalier d'entraînement
+espadon
+essorer
+essoreuse
+estragon
+étage inférieur
+étage supérieur
+étain
+étaler au rouleau
+étamine
+étau
+éteindre la télévision
+éternuement
+étiquettes
+étirement
+être en défense
+étrier
+études d'ingénieur
+étui à lentilles
+eucalyptus
+événements de la vie
+exécuter un swing
+exercice pour la poitrine
+exercice pour les biceps
+exercices
+exercices au sol
+exercices Pilates
+exfolier
+exosphère
+expéditeur
+exploitation fruitière
+exploitations agricoles
+exploration spatiale
+expresso
+facile à cuisiner
+fair du pain
+faire rebondir
+faire son testament
+faire un dunk
+faire un vœu
+faire une manchette
+faire une mise en plis
+faire une passe
+faire une réservation de
+faire une tête
+fairway
+fait-tout
+fans
+farine avec la levure
+farine blanche
+farine brute
+farine complète
+farine sans levure
+farine traitée
+fauteuil de dentiste
+femme d'affaires
+fendoir
+feng shui
+fenouil
+fente avant
+fenugrec
+fer à cheval
+fer à friser
+fer à souder
+ferme d'aviculture
+ferme de culture
+ferme d'élevage de moutons
+ferme d'élevage porcin
+ferme laitière
+fermeture éclair
+fermoir
+fertilisation
+fertiliser
+feu arrière
+feu de camp
+feuille de laurier
+feuilles de thé
+feux de détresse
+fève
+fèves
+fiancés
+fibre naturelle
+fiche compliments
+fiche de retrait
+fiche intercalaire
+fiches de versement
+figue de Barbarie
+fil à plomb
+fil de fer
+filament
+file de droite
+filets de flétan
+film d'aventure
+film d'horreur
+film d'animation
+film de science-fiction
+filtre à air
+filtre d'air
+flageolets
+flash compact
+fleuret
+fleurette
+fleuron
+fleurs séchées
+flexion de jambes
+florentin
+flotteur
+follicule
+fond de teint
+fontaine publique
+football américain
+forceps
+foret à bois plat
+foret à métaux
+foret de maçonnerie
+foret de sécurité
+forêt tropicale
+forets
+forets à bois
+formes
+fosse d'orchestre
+fossette
+fougère
+fourches
+fourchette à découper
+fournitures de bureau
+fourre-tout
+frais bancaires
+frange de lit
+freesia
+fromage à la crème
+fromage à pâte molle
+fromage à pâte pressée
+fromage frais
+fromage râpé
+froncement de sourcils
+frontail
+fronton
+fruit confit
+fruit de feijoa
+fruit de l'arbre à pain
+fruits
+fruits à noyau
+fruits de mer
+fruits en bocaux
+fruits secs
+fruits tropicaux
+fumer en surface
+fusain
+fuseau
+fusée d'orientation
+fusée éclairante
+fuselage
+galerie à vélo
+gallon
+galvanisé
+gant isolant
+gants de boxe
+garde-boue
+garde-feu
+gardien de but
+gardien de guichet
+gardien de prison
+garniture
+gâteau d'anniversaire
+gâteau de mariage
+gâteau de miel
+gâteaux
+gâteaux de fête
+gaufres
+gazonner
+gélule
+gemmes
+génératrice
+genouillère
+genres de pêche
+genres de plantes
+géométrie
+gerbera
+germe de soja
+germoir
+geyser
+gin tonic
+gingembre
+giroflée
+glaçage
+glaïeul
+glissière de sécurité
+gneiss
+gotique
+gouache
+gourde amère
+gousse
+goyave
+grain de beauté
+grain de moutarde
+grain de poivre
+graine de carvi
+graine de potiron
+graine de sésame
+graine de tournesol
+graines
+graines de fenouil
+graines de pavot
+graines de soja
+grains
+grand bassin
+grand bol
+grand lit
+grand magasin
+grande aiguille
+grande cisaille
+grande tasse
+grandes ondes
+grand-voile
+granite
+graphite
+gratte-ciel
+grattoir
+gravure
+gréement
+greffier
+grenat
+grenoullière
+grille de refroidissement
+gros haricots blancs
+gros intestin
+groseille à maquereau
+groseille blanche
+grue de caméra
+guêpière
+guérison par cristaux
+guide de fil
+guidon
+guimauve
+guimbarde
+guindeau
+guirlande de fleurs
+gymnaste
+gymnastique rythmique
+gynécologie
+gynécologue
+gypsophile
+haies
+hall de gare
+haltère
+hamburger au poulet
+hamburger avec des
+hamburger végétarien
+haricot grimpant
+haricot vert
+haricots blancs
+haricots mung
+haricots pinto
+haricots rouges
+hautbois
+hayon
+heavy métal
+hebicide
+hématite
+hémisphère nord
+hémisphère sud
+herbes et les épices
+herbicide
+herboristerie
+hêtre
+heures de visite
+hexagone
+hippocampe
+hirondelle
+histoire de l'art
+hochet
+hockeyeur
+homéopathie
+homme d'affaires
+homme de base
+homogénéisé
+hors jeu
+hors piste
+hors-bord
+hors-jeu
+hôtesse de l'air
+houppette
+houx
+huile d'amande
+huile d'arachide
+huile d'olive
+huile de colza
+huile de maïs
+huile de noisette
+huile de noix
+huile de pépins de raisin
+huile de sésame
+huile de tournesol
+huile parfumée
+huile pressée à froid
+huiles
+huiles essentielles
+huit cents
+hydravion
+hydroptère
+hydrothérapie
+hygiène dentaire
+hygiène féminine
+hypnothérapie
+hypoallergénique
+hypoténuse
+igname
+île Maurice
+îles Galapagos
+îles Malouines
+îles Salomon
+immobilisation
+infirmier du SAMU
+infirmière
+information touristique
+infusion de menthe
+ingénieur du son
+inoculation
+inox
+institutrice
+instruments
+intercostal
+interdit de tourner à
+interrupteur feux
+interviewer
+intestin grêle
+invertébrés
+ionosphère
+isorel
+jacinthes des bois
+jade
+jais
+jambière
+jante
+jardin à la française
+jardin d'eau
+jardin d'herbes
+aromatiques
+jardin paysan
+jardin sur le toit
+jarretelle
+jauge d'essence
+jauge d'huile
+jaune d'œuf
+javelot
+jet d'eau
+jet privé
+jetable
+jeter l'ancre
+jet-ski
+jeu de cartes
+jeu télévisé
+jeux de raquette
+jeux de société
+joaillerie
+jodhpur
+jogger sur place
+jointoiement
+jouet en peluche
+jour ouvrable
+judo
+juge de ligne
+jumeaux
+jumelles
+jumping
+jus d'ananas
+jus de pomme
+jus de raisin
+jus de tomate
+jus d'orange
+jus et milk-shakes
+kaki
+kilogramme
+koala
+laisser tremper
+lait condensé
+lait de brebis
+lait demi-écrémé
+lait écrémé
+lait en poudre
+lame de rasoir
+lampe de radio
+lampe d'entrée
+lampe torche
+lancement du poids
+langue de bœuf
+langues
+languette
+lanière
+largeur
+larynx
+latitude
+lave-auto
+lave-glace
+lave-linge
+lave-linge séchant
+laver à la brosse
+laverie automatique
+laxatif
+le long de
+lecteur cassettes
+lecteur CD
+lecteur DVD
+lecteur optique
+légumes secs
+lentille de l'objectif
+lentilles
+lentilles de contact
+lentilles rouges
+lettre par avion
+levier de frein
+levier de vitesses
+levure
+liberté conditionnelle
+licenciée
+licou
+ligne d'arrivée
+ligne de bout
+ligne de but
+ligne de centre
+ligne de côté
+ligne de départ
+ligne de fond
+ligne de jeu
+ligne de lancer franc
+ligne de pénalité
+ligne de service
+ligne de touche
+ligne de trois points
+ligne d'envoi
+ligne du ballon mort
+lignes
+limande-sole
+lime à ongles
+limite du terrain
+limousine
+linge de lit
+linge de maison
+linge propre
+linge sale
+linteau
+liquide amniotique
+liseuse
+lit d'enfant
+lit de camp
+lit simple
+lit U.V.
+litchi
+livraison à domicile
+location de voitures
+loganberry
+logement du film
+loin de
+lombaires
+longitude
+longueur d'ondes
+losange
+lotion pour le corps
+lotion solaire
+louvoyer
+luffa
+lunettes de protection
+lunettes de sécurité
+lunettes protectrices
+lupins
+luzerne
+lymphatique
+macadam goudronné
+macadamia
+macéré
+machine à couper
+machine à ramer
+machine de randonnée
+machine de rayons X
+machines
+macis
+macramé
+madeleine
+magasin à papier
+magasin bio
+magasin d'antiquités
+magasin d'appareils
+photos
+magasin de chaussures
+magasin de disques
+magasin de meubles
+magasin de vins et
+magazines
+magma
+magnésium
+maillet
+maillon
+maillot de rugby
+maison de deux étages
+maison de poupée
+maison d'habitation
+maison pliante
+maître nageur
+majorette
+mal de tête
+mal d'estomac
+malachite
+malade en consultation
+maladie sexuellement transmissible
+mamelon
+mammifères
+manchego
+mandarine
+mandat postal
+mandrin
+manette de chauffage
+manette de secours
+manger sur place
+mangoustan
+manioc
+manivelle
+mante religieuse
+manicure
+maracas
+marchand de hot-dogs
+marchand de journaux
+marchand de légumes
+marchand d'occasion
+marchande de poissons
+marguerite
+marina
+mariné
+marjolaine
+marque de flottaison en
+marteau de forgeron
+marteau de porte
+marteau-piqueur
+marteler
+masque de beauté
+masque protecteur
+mastic
+mastiquer
+matelas à langer
+matelas pneumatique
+matériaux
+matériel de pêche
+mathématiques
+mauvais point
+mauvaises herbes
+maxillaire
+médailles
+médecine ayurvédique
+multivitamine
+médicament pour la
+mêlée
+mêlée ouverte
+mélèze
+menottes
+menu du déjeuner
+menu du soir
+menu enfant
+mercerie
+mercure
+mésosphère
+messages
+mesure pour les liquides
+mesures
+métacarpien
+métamorphique
+métatarsien
+métaux
+météore
+métier à tisser
+mètre carré
+metteur en scène
+mettre en pot
+mettre le réveil
+mettre un tuteur
+meuble à tiroirs
+meuble-classeur
+miel liquide
+miel solide
+milk-shake à la fraise
+milk-shake au chocolat
+millet
+milligramme
+millilitre
+minéraux
+minijupe
+mise à la terre
+mise au point
+mi-temps
+mitrailleuse
+mixeur
+mocassin
+mode d'emploi
+modèles
+modélisme
+modem
+module lunaire
+moïse
+moissonneuse-batteuse
+monorail
+mont du lanceur
+montagnes russes
+monter une tente
+montgolfière
+monument historique
+morceaux de viande
+moto de course
+moto routière
+moto tout-terrain
+motocross
+motonautisme
+moule à gâteaux
+moule à muffins
+moule à soufflé
+moule à tarte
+moulinet
+moulure
+mousson
+moustiquaire
+moutarde anglaise
+moutarde en grains
+moutarde française
+moyeu
+muscles
+musée d'art
+muserolle
+musique classique
+musique folk
+myopie
+naan
+nacelle
+nage synchronisée
+nageoire
+nageoire dorsale
+nageoire pectorale
+nager sur place
+naturopathie
+navette spatiale
+navigateur satellite
+navire de guerre
+navire porte-conteneurs
+ne pas plier
+nébuleuse
+nectarine
+négligé
+neige fondue
+néoclassique
+nerf optique
+neuf cents
+neurologie
+nœud papillon
+noix de cajou
+noix de coco
+noix de muscade
+noix du Brésil
+noix pacane
+nombres
+non gazeux
+non salé
+notation
+nougat
+nourriture pour animaux
+nouvelle lune
+nouvelles
+noyau extérieur
+noyau intérieur
+nuageux
+numérateur
+numéro de bus
+numéro de la porte d'embarquement
+numéro de voie
+nylon
+objet exposé
+observation des oiseaux
+obsidienne
+obstacle d'eau
+obstétricien
+obtenir sa licence
+octogone
+odomètre
+œilleton
+œsophage
+œuf à la coque
+œuf de caille
+œuf de cane
+œuf de poule
+œuf d'oie
+œuf sur le plat
+œufs brouillés
+officier de police
+officine
+okra
+olive fourrée
+olive noire
+olive verte
+omoplate
+oncologie
+ondes courtes
+ondes moyennes
+onyx
+opale
+ophtalmologie
+orangeade
+ordre du jour
+oreillons
+organes de
+orientation d'un patient
+origami
+origan
+ornemental
+ornements de jardin
+orthopédie
+ostéopathie
+otarie
+ouatage
+ourlet
+ours blanc
+ours en peluche
+outils
+outils de jardin
+ouvrages
+recommandés
+ouvre-bouteille
+ovaire
+over par
+ovulation
+ovule
+paille de fer
+pailler
+pain au bicarbonate de
+pain au levain
+pain aux graines
+pain aux raisins secs
+pain bis
+pain blanc
+pain de maïs
+pain de seigle
+pain de son
+pain perdu
+pain plat
+pain tranché
+pale de rotor
+palet
+palette
+palisser
+panais
+pancréas
+panier à jouets
+panier à pique-nique
+panier de jardinier
+panier de pêche
+panier suspendu
+panneau d'affichage
+panneaux routiers
+papaye
+papeterie
+papier cache
+papier d'apprêt
+papier de verre
+papier filtre
+papier gaufré
+papier mâché
+paprika
+paquebot
+paquet de cigarettes
+par avion
+parachutisme
+parallélogramme
+parapente
+parc d'attractions
+parc national
+parcomètre
+parcours de golf
+pare-vent
+parfumé
+parfumerie
+parking réservé aux
+handicapées
+paroles
+partenaire m,
+partie fumeur
+partie non-fumeur
+partir du tee
+passage clouté
+passage inférieur
+pastels
+pastille pour la gorge
+patate douce
+pataugas
+pataugeoire
+patchwork
+pâte à choux
+pâte à tartiner au
+pâte à tartiner au citron
+pâte d'amandes
+pâte de filo
+pâte feuilletée
+pâtés en croûte
+pathologie
+patin à roulettes
+patin de frein
+patinage
+patinage à roulettes
+patinage artistique
+patinage de vitesse
+patinoire
+pavé
+peau blanche
+pêche à la mouche
+pêche au lancer en mer
+pêche en eau douce
+pêche hauturière
+pêche maritime
+pêche sous-marine
+pêche sportive
+pectoral
+pédale de frein
+pédaler
+pédiatrie
+pédicurie
+peintures à l'huile f pl
+peinture mate
+pelle à poisson
+pelle mécanique
+pellicules
+pelote à épingles
+penalty
+pendentif
+pentagone
+pente de ski
+pépinière
+pepperoni
+perceuse électrique
+perceuse manuelle
+perceuse rechargeable
+percolateur
+perdre les eaux
+perforateur
+pergola
+périodique
+permanente
+permis de pêche
+perpendiculaire
+pesanteur
+pèse-bébé
+pesticide
+petit ami
+petit bassin
+petit déjeuner anglais
+petit enfant
+petit galop
+petit gâteau
+petit orteil
+petit pain
+petit pain américain
+petit pain rond
+petit pois
+petite aiguille
+petite amie
+petite fourche
+petite voiture
+petits-enfants
+pétrir
+pharmacienne
+pharynx
+philatélie
+photo-finish
+physalis
+piano électronique
+piccolo
+pichet
+pièce de théâtre
+pièces rendues
+pied carré
+pied du lit
+pierre à aiguiser
+pierre de lune
+pierre ponce
+piles
+pillule
+pilon
+pince à cheveux
+pince à dénuder
+pince à dessin
+pince à linge
+pince coupante
+pince crocodile
+pince fine
+pince plate
+pince pour le nez
+pince universelle
+pinceau à lèvres
+pinceau à pâtisserie
+pinte
+pipette
+pissenlit
+pistache
+piste cavalière
+piste cyclable
+piste de ski
+pistolet à colle
+pivoine
+placenta
+places
+placeur
+plaidoyer
+plan de métro
+plan de travail
+planche à hacher
+planche à roulette
+planches
+planchiste
+planeur
+plante à fleurs
+plante alpestre
+plante aquatique
+plante d'ombre
+plante en pot
+plante en pot
+plante grasse
+plante grimpante
+plante rampante
+plantes
+plantes de jardin
+plaque à gâteaux
+plaque d'immatriculation
+plat à gratin
+plat à rôtir
+plat principal
+plateau de desserts
+plateau à petit déjeuner
+platine magnétophone
+plâtrer
+plats cuisinés
+pleine lune
+plongeon de haut vol
+plot de départ
+pochoir
+poids de naissance
+poignées
+pointes
+pois cassés
+pois chiches
+poisson avec des frites
+poisson fumé
+poissonnerie
+poissons
+poivre de la Jamaïque
+pôle nord
+polyester
+pomme d'Adam
+pomme de terre nouvelle
+pommeau
+pommeau de douche
+pompe à bière
+pompe à lait
+poncer
+ponceuse
+pont arrière
+pont de
+pont de côté
+porcelet
+porridge
+port de conteneurs
+port de passagers
+port de pêche
+porte automatique
+porte d'entrée
+porte de douche
+porte vitrée
+porte-avions
+porte-bébé
+porte-crayons
+porte-dossiers
+porte-fusibles
+porte-objet
+porte-outils
+porte-parapluies
+porte-savon
+portrait-robot
+posemètre
+posologie
+poste de péage
+poste de police
+poste d'incendie
+postier
+pot à fleurs
+pot d'échappement
+pot de peinture
+pot d'échappement
+pot-pourri
+poudre de curry
+poudrier
+poulet frit
+poulet préparé
+premier étage
+prémolaire
+prénatal
+prendre au filet
+prendre des notes
+prendre la mer
+prendre sa retraite
+prendre un bain de soleil
+prendre une douche
+prépuce
+presbytie
+présentatrice
+presse-ail
+presse-pied
+presse-purée
+pression des pneus
+primevère
+principauté
+prise de courant
+prise maladroite du
+prix d'entrée
+prix des actions
+prix du ticket
+produit anti-insecte
+produits à tartiner
+produits d'entretien
+produits surgelés
+professions
+prolongation
+promotions
+prosciutto
+prostate
+protections
+protège-barreaux
+protège-slip
+protège-tête
+proue
+pruneau
+psychothérapie
+pullover
+pulpe
+pulvérisateur
+punching-bag
+pupitre
+pupitre de mixage
+putter
+quadriceps
+quartz
+queue de cheval
+quiche
+quinoa
+rabot
+raboter
+racines
+racler
+racquetball
+radeau de sauvetage
+radicchio
+radio dentaire
+radiologie
+rafting
+rage de dents
+raifort
+rail conducteur
+raisin sec
+rallonge
+ramasseur de balles
+rambarde
+ramequin
+rampe de lancement
+ramure
+rang de perles
+rapides
+rapports sexuels
+rasage
+rasoir électrique
+rasoir jetable
+rassasié
+râteau
+raton laveur
+rayon bagages
+rayon chaussures
+rayon enfants
+rayons
+rayons ultraviolets
+réchaud
+récif de corail
+récipient Petri
+record personnel
+rectangle
+rectum
+rédactrice
+redressement assis
+reflets
+réflexologie
+refroidissement
+réglage de l'allumage
+réglage du temps de
+régler la radio
+réglisse
+régulateur
+reiki
+remorqueur
+rênes
+renoncule
+renseignements
+rentrée en touche
+rentrée en touche
+renvoyé
+repas de noces
+répasser
+repose-tête
+repriser
+reproducteur
+reptiles
+réservoir d'huile
+réservoir de lave-glace
+réservoir de liquide de
+refroidissement
+réservoir d'essence
+résidence universitaire
+restaurant rapide
+restauration rapide
+rétine
+retour rapide
+retrait des bagages
+rétroprojecteur
+rétroviseur
+revêtement
+rhombe
+rhubarbe
+rhum coca
+richelieu
+riz à grains ronds
+riz blanc
+riz complet
+riz sauvage
+robe de chambre
+robe de mariée
+robe du soir
+robinet d'eau chaude
+robinet d'eau froide
+robinet de purge
+robinet de sectionnement
+robot ménager
+rocaille
+roches
+rococo
+rognon
+romarin
+rond de serviette
+rond-point
+roue arrière
+roue avant
+roue de nez
+roue dentée
+roues d'entraînement
+rougeole
+rouget barbet
+rouleau compresseur
+rouleau de papier
+rouleau de pellicule
+route à quatre voies
+route d'accès
+routes
+ruban isolant
+rue transversale
+rugby
+rumsteck
+runabout
+rustine
+rutabaga
+sabre
+sac à bandoulière
+sac à dos
+sac à herbe
+sac à provisions
+sac d'appareil photo
+sac de golf
+sac de plage
+sac postal
+sachet de thé
+safran
+saignement de nez
+salle à manger
+salle d'opération
+salle d'attente
+salle de bain privée
+salle de cinéma
+salle de conférence
+salle de cours
+salle de départ
+salle de lecture
+salle de tribunal
+salle des moteurs
+salle des urgences
+salon de coiffeur
+salopette
+salto
+sandwich grillé
+sandwich mixte
+sans arêtes
+sans bretelles
+sans connaissance
+sans manches
+sans matières grasses
+sans peau
+sans plomb
+sapeurs-pompiers
+saphir
+sas d'équipage
+satsuma
+saucisson piquant
+sauge
+saut à l'élastique
+saut à la corde
+saut à la perche
+saut en chute libre
+saut en hauteur
+saut en longueur
+sauté
+scanographie
+scaphandre spatial
+schiste
+scie à chantourner
+scie à dosseret
+scie à main
+scie circulaire
+scie égoïne
+scie sauteuse
+sciences
+sciences économiques
+sciences politiques
+scooter
+scotch à l'eau
+scrotum
+sculpteur
+sculpture sur bois
+se faire des amis
+se lever
+se marier
+se mettre à quai
+se noyer
+seau à glace
+sécateur
+s'échauffer
+séché
+sédimentaire
+seiche
+sélecteur de point
+selle de femme
+semaine dernière
+semaine prochaine
+semis
+semoule
+s'endormir
+sens interdit
+s'entraîner
+sept cents
+série télévisée
+serre-joint
+serre-tête
+serrure de sécurité
+serveur d'accès
+service après-vente
+service compris
+service de blanchisserie
+service de ménage
+service de messagerie
+service de prêt
+service de ressources humaines
+service de santé
+service de soins
+service des ventes
+service d'étage
+service du contentieux
+service marketing
+service non compris
+services d'urgence
+serviette antiseptique
+serviette en papier
+serviette hygiénique
+set de table
+s'évanouir
+shaker à cocktails
+siège d'enfant
+siège des toilettes
+siège du conducteur
+siège social
+sierra para metales
+signalisations
+silex
+sillet
+silo
+sirop d'érable
+ski alpin
+ski de randonnée
+ski nautique
+skieur nautique
+skieuse
+slalom
+slalom géant
+slip de bain
+soap-opéra
+soda
+soin dentaire
+soin du visage
+soins de beauté
+soins de bébé
+soins de la peau
+solides
+soluble
+solution désinfectante
+solution nettoyante
+solvant
+sortie de secours
+soudure
+soufflé
+soupape de sûreté
+sous tension
+sous-exposé
+souvenirs
+spécialités
+sperme
+sports aquatiques
+sports d'hiver
+sports de combat
+spray contre les
+sprinter
+stades
+starting block
+statif
+station de radio
+station spatiale
+statuette
+steeple
+sténographe
+stérilet
+store vénitien
+stratosphère
+studio d'enregistrement
+studio de télévision
+styles
+styles de jardin
+styles de musique
+styliste
+succursale
+sucré
+suppositoire
+surexposé
+surf des neiges
+surface de but
+surface de réparation
+surfeur
+survêtement
+sweat-shirt
+swing d'essai
+swing en arrière
+système solaire
+systèmes domestiques
+systèmes du corps
+table à encoller
+table basse
+table de cuisson
+table de cuisson
+vitrocéramique
+table de nuit
+table du petit déjeuner
+tableau à feuilles
+tableau des points
+tablette de cheminée
+tablette de chocolat
+tabouret de bar
+tache de rousseur
+tache rouge
+tacler
+taï chi
+taie d'oreiller
+tamiser
+tampon de la poste
+tampon encreur
+tangelo
+tapis de sol
+tapisser
+tapisserie
+tapissier décorateur
+taquet
+tarif d'affranchissement
+taro
+tarte à la crème
+tarte aux fruits
+tas de compost
+tasse à café
+tasse à thé
+teinture de cheveux
+télécabine
+téléphone à carte
+téléphone à pièces
+téléphone de secours
+téléphone sans fil
+téléphoniste
+téléprompteur
+télésiège
+télévision par câble
+temps mort
+tendon d'Achille
+tendon du jarret
+tenue de foot
+téquila
+térébenthine
+terreau
+terre-plein
+têtard
+tête du lit
+texto
+théière
+thénar
+thérapeute
+thym
+thyroïde
+tiebrake
+tige de verre
+tilleul
+timbale
+tir à cible
+tir à l'arc
+titres
+toile de fond
+toile métallique
+toit ouvrant
+tomate cerise
+tomber amoureux
+tondeuse à gazon
+tonic
+tonique
+topaze
+topiaire
+topinambour
+tour de batte
+tour de contrôle
+tour de potier
+tour de surveillance
+tourmaline
+tourne-disque
+tournevis cruciforme
+tournois
+tourte
+tourtière
+tout droit
+trachée
+traction pour les jambes
+train d'atterrissage
+train de marchandises
+traîneau à chiens
+transformateur
+transplanter
+trapèze
+traumatisme crânien
+travaux
+traveller
+treillis
+tremplin
+trépied
+très chaud
+triceps
+tricot de corps
+trictrac
+trognon
+trois cents
+trolleybus
+trompe de Fallope
+tropique du cancer
+tropique du capricorne
+tropiques
+troposphère
+trop-plein
+trotteuse
+trou noir
+trousse de premiers
+trouver un emploi
+truelle
+truite arc-en-ciel
+tube porte-selle
+turquoise
+tuyau d'arrosage
+tuyau d'écoulement
+tuyau flexible
+types
+types d'appareils photo
+types de bus
+types de trains
+ultrasons
+unité centrale
+uretère
+urètre
+urinaire
+urologie
+utiliser le fil dentaire
+vaisselle et les couverts
+valet d'écurie
+vaporisateur
+véhicule de service
+vélo de course
+vélo de ville
+vélo d'entraînement
+vélo tous terrains
+venteux
+ventouse
+verre gradué
+verres
+verrouillage
+vertèbres cervicales
+vertèbres thoraciques
+vésicule
+veste de sport
+vestibule
+vêtement en cuir
+vêtements de nuit
+vêtements pour enfants
+vêtements sport
+viande cuite
+viande et la volaille
+viande maigre
+viande non cuite
+vide-pomme
+vilebrequin
+visière
+visiophone
+visite de contrôle
+vitamines
+vitesses
+vivace
+vodka à l'orange
+voie à sens unique
+voie centrale
+voie de dépassement
+voie ferrée
+voile d'avant
+voiture à six places
+voiture de police
+voiture de pompiers
+voiture d'époque
+voiture-restaurant
+vol domestique
+vol international
+vol plané
+vollée
+volley
+voyage d'affaires
+voyage de noces
+whisky
+yaourt aux fruits
+yaourt surgelé
+zone d'attaque
+zone de défense
+zone de fond
+zone industrielle
+zone neutre
+zone piétonnière
+zones
+zoologie

@@ -377,7 +377,7 @@ audience    (nf);audience, hearing
 audiovisuel    (nadj);audio-visual
 auditeur    (nm);auditor, listener
 audition    (nf);hearing, examination, audition
-augmentation    (nf);increase, rise
+augmentation    (nf);increase, rise, augmentation
 augmenter    (v);to increase, raise
 aujourd'hui    (adv);today
 auparavant    (adv);beforehand, previously *au + par + avant
@@ -397,7 +397,7 @@ automobile    (nadj(f));automobile
 autonome    (nadj(f));autonomous, independent
 autonomie    (nf);autonomy
 autorisation    (nf);authorization, permission, permit, authorisation
-autoriser    (v);to authorize
+autoriser    (v);to authorize, authorise
 autoritaire    (adj(f));authoritarian
 autorité    (nf);authority
 autoroute    (nf);motorway, highway, freeway
@@ -454,7 +454,7 @@ banlieue    (nf);suburbs, outskirts
 bannir    (v);to banish, ban
 banque    (nf);bank *banc = bench, banque = bank
 banquier    (nm);banker
-baptiser    (v);to name, christen, baptize
+baptiser    (v);to name, christen, baptize, baptise
 bar    (nm);bar
 barbare    (nadj(f));barbaric, barbarian
 barrage    (nm);barrier, obstruction, dam, roadblock
@@ -585,7 +585,7 @@ bus    (nm(pl));bus
 but    (nm);goal, aim, objective, purpose
 buter    (v);to stumble, trip, run into, prop up, score
 c'est-à-dire    (adv);in other words
-cabine    (nf);hut, cubicle, booth, box, room
+cabine    (nf);hut, cubicle, booth, box, room, cabin
 cabinet    (nm);cabinet, agency, office
 câble    (nm);cable, wire
 cacher    (v);to hide
@@ -646,7 +646,7 @@ catholique    (nadj(f));catholic
 cauchemar    (nm);nightmare, bad dream
 cause    (nf);cause
 causer    (v);to cause, to chat
-caution    (nf);deposit, guarantee, bail
+caution    (nf);deposit, guarantee, bail *english caution -> french prudence
 cave    (adj(f),nm,nf);cellar, basement
 ce    (det,pro);this, that
 ceci    (pro);this
@@ -776,7 +776,7 @@ citoyen    (nadj);citizen
 citoyenneté    (nf);citizenship
 civil    (nadj);civil, civilian
 civilisation    (nf);civilization, civilisation
-civiliser    (v);to civilize
+civiliser    (v);to civilize, civilise
 civique    (adj(f));civil, civics
 clair    (adv,nadj);clear
 clairement    (adv);clearly
@@ -796,7 +796,6 @@ cliché    (nm);cliché, negative
 client    (nm);client
 clientèle    (nf);customers, clientele
 climat    (nm);climate
-climatique    (adj(f));climatic
 clinique    (nadj(f));clinic
 cloche    (nf);bell
 clore    (v);to close
@@ -972,7 +971,7 @@ confrontation    (nf);confrontation
 confronter    (v);to confront
 confus    (adj(pl));confused, embarrassed
 confusion    (nf);confusion, mix-up
-congé    (nm);holiday, time off, day off, notice
+congé    (nm);holiday, time off, day off, notice *most often used in a professional context
 congrès    (nm(pl));congress, conference
 conjoint    (nadj);spouse, joint
 conjointement    (adv);jointly
@@ -1104,7 +1103,7 @@ coter    (v);to quote, rate
 cotisation    (nf);subscription
 coton    (nm);cotton
 cou    (nm);neck
-couche    (nf);layer, coat, bed
+couche    (nf);layer, coat, bed, nappy
 coucher    (nm,v);lie down, sleep
 coude    (nm);elbow
 couler    (v);to flow, run, sink
@@ -1590,7 +1589,7 @@ eau    (nf);water
 économiste    (nm,nf);economist
 écouler    (v);to sell, run off, flow out
 écoute    (nf);listening
-écouter    (v);to listen to *écouter = active, entendre = passive
+écouter    (v);to listen to, to listen *écouter = active, entendre = passive
 écran    (nm);screen
 écrasant    (adj);crushing, overwhelming
 écraser    (v);to crush, grind
@@ -1625,7 +1624,7 @@ effrayer    (v);to frighten, scare
 église    (nf);church
 égyptien    (nadj);Egyptian
 eh    (intj);hey, uh
-élaboration    (nf);working-out, development
+élaboration    (nf);working-out, development, elaboration
 élaborer    (v);to work out, develop, elaborate
 élan    (nm);momentum, surge, rush, elk, moose
 élargir    (v);to widen, expand, broaden, stretch, let out
@@ -1838,7 +1837,7 @@ et    (conj);and
 éthique    (nadj(f));ethical, ethics
 ethnique    (nadj(f));ethnic
 étiquette    (nf);label, ticket, etiquette, sticker, tag
-étoile    (nf);star
+étoile    (nf);star *étoile = star, toile = cloth
 étonnant    (nadj);surprising, amazing, incredible
 étonner    (v);to astonish, amaze
 étouffer    (v);to suffocate, smother, muffle
@@ -1936,7 +1935,7 @@ exportation    (nf);export
 exporter    (v);to export
 exposé    (nadj);account, statement, talk
 exposer    (v);to display, exhibit, expose
-exposition    (nf);exhibition, show
+exposition    (nf);exhibition, show, exposition
 exprès    (adj(pl),adv);deliberately, on purpose, intentionally
 expression    (nf);expression
 exprimer    (v);to express
@@ -1965,7 +1964,7 @@ façon    (nf);way, manner
 facteur    (nm);postman, mailman, factor
 facture    (nf);invoice, bill
 faculté    (nf);ability, right, option, faculty, university
-faible    (nadj(f));weak
+faible    (nadj(f));weak faible = weak, fiable = reliable
 faiblesse    (nf);weakness
 faille    (nf);fault
 faillir    (v);to have almost, fail, fail to
@@ -2018,7 +2017,7 @@ fêter    (v);to celebrate
 feu    (adj(f),nm);fire
 feuille    (nf);leaf, sheet, slip
 février    (nm);February
-fiable    (adj(f));reliable, trustworthy
+fiable    (adj(f));reliable, trustworthy *faible = weak, fiable = reliable
 fiche    (nf);card, sheet, slip, form
 ficher    (v);to file, to make fun of, not care, not give a damn
 fichier    (nm);file
@@ -2041,7 +2040,7 @@ fillette    (nf);little girl, girl
 film    (nm);film
 filmer    (v);to film, shoot
 fils    (nm(pl));son
-fin    (adj,adv,nf,nm);end, gist, clever person
+fin    (adj,adv,nf,nm);end, gist, clever person, goal *le fin = the goal, la fin = the end
 final    (nadj);final
 finale    (nm,nf);finale, final event
 finalement    (adv);finally, eventually
@@ -2297,7 +2296,7 @@ herbe    (nf);grass, herb
 héritage    (nm);heritage
 hériter    (v);to inherit *hériter = inherit, héritier = heir
 héritier    (nm);heir *hériter = inherit, héritier = heir
-héroïne    (nf);heroine
+héroïne    (nf);heroine, heroin *means both a female hero and the drug
 héros    (nm(pl));hero
 hésitation    (nf);hesitation
 hésiter    (v);to hesitate
@@ -2421,7 +2420,7 @@ incidence    (nf);effect, incidence
 incident    (adj,nm);incident
 incitation    (nf);incitement, incentive, incitation
 inciter    (v);to incite, encourage
-incliner    (v);to tilt, tend towards
+incliner    (v);to tilt, tend towards, incline
 inclure    (v);to include
 incomber    (v);to be incumbent upon
 incompatible    (adj(f));incompatible
@@ -2514,7 +2513,7 @@ instaurer    (v);to institute, introduce
 instinct    (nm);instinct
 instituer    (v);to introduce, impose, establish, institute
 institut    (nm);institute
-instituteur    (nm);school teacher
+instituteur    (nm);school teacher, teacher
 institution    (nf);institution
 institutionnel    (adj);institutional
 instruction    (nf);instruction, direction
@@ -2908,7 +2907,7 @@ menu    (adv,nadj);menu, slender, slim, minor
 mépris    (nm(pl));contempt, scorn, disdain
 mépriser    (v);to scorn, look down, spurn, disdain
 mer    (nf);sea
-merci    (intj,nm,nf);thank you favor
+merci    (intj,nm,nf);thank you, favor
 mercredi    (nm);Wednesday
 merde    (intj,nf);shit, crap
 mère    (adj,nf);mother
@@ -2928,7 +2927,7 @@ métier    (nm);job, occupation, trade
 mètre    (nm);meter
 métro    (nm);underground, metro
 mettre    (v);to put, place
-meuble    (nadj(f));piece of furniture
+meuble    (nadj(f));piece of furniture, furniture
 meurtre    (nm);murder
 meurtrier    (nadj);murderer, deadly, lethal
 mexicain    (nadj);Mexican
@@ -3233,7 +3232,7 @@ origine    (nf);origin, source
 os    (nm(pl));bone
 oser    (v);to dare
 otage    (nm);hostage
-ôter    (v);to remove, take away, take off, take out
+ôter    (v);to remove, take away, take off, take out *formal
 où    (adv,pro);where
 ou    (conj);or
 ouais    (intj);yeah
@@ -3735,7 +3734,7 @@ provenance    (nf);origin
 provenir    (v);to be from, come from
 province    (nf);province
 provincial    (nadj);provincial
-provision    (nf);stock, supply
+provision    (nf);stock, supply, provision
 provisoire    (adj(f));temporary, provisional
 provisoirement    (adv);temporarily, provisionally
 provocation    (nf);provocation
@@ -3907,7 +3906,7 @@ reçu    (nm);receipt, accepted *recette = recipe, reçu = receipt
 recueillir    (v);to collect, gather
 recul    (nm);backward movement, setback, slip
 reculer    (v);to move back, back up, retreat
-récupération    (nf);recovery, retrieval, salvage
+récupération    (nf);recovery, retrieval, salvage, recuperation
 récupérer    (v);to get back, recover, recuperate
 rédacteur    (nm);editor, writer, drafter, compiler
 rédaction    (nf);writing, composition
@@ -3979,7 +3978,7 @@ relance    (nf);boost, reminder, recovery
 relancer    (v);to throw back, restart, relaunch
 relater    (v);to relate, recount
 relatif    (nadj);relative
-relation    (nf);relationship
+relation    (nf);relationship, relation
 relativement    (adv);relatively
 reléguer    (v);to relegate
 relevé    (nadj);statement, list, relieved, put in relief, rolled up
@@ -3997,7 +3996,7 @@ remède    (nm);cure, remedy
 remédier    (v);to cure, remedy, put right, remediate
 remercier    (v);to thank
 remettre    (v);to deliver, replace, set, put
-remise    (nf);presentation, delivery
+remise    (nf);presentation, delivery, discount, markdown
 remonter    (v);to go back up
 remplacement    (nm);replacement, standing in
 remplacer    (v);to replace
@@ -4030,8 +4029,8 @@ rentrer    (v);to go in, come in, come back, return
 renverser    (v);to knock down, turn over, overturn
 renvoi    (nm);dismissal, expulsion, suspension, crossreference
 renvoyer    (v);to send back, dismiss
-répandre    (v);to spread, spill
-réparation    (nf);repair, repairing, correction, compensation
+répandre    (v);to spread, spill *répandre = spread, répondre = respond
+réparation    (nf);repair, repairing, correction, compensation, reparation
 réparer    (v);to repair, fix, correct, make up
 répartir    (v);to distribute, spread out, share out, divide up
 repartir    (v);to set off again, start up again
@@ -4049,7 +4048,7 @@ repli    (nm);bend, twist, wrinkle, fold, fallback
 replier    (v);to fold, roll up, fold up, withdraw
 réplique    (nf);reply, retort, replica
 répliquer    (v);to reply, retort, replicate
-répondre    (v);to answer
+répondre    (v);to answer *répandre = spread, répondre = respond
 réponse    (nf);answer, response
 report    (nm);postponement, deferment
 reportage    (nm);report, reporting
@@ -4425,7 +4424,7 @@ souhaitable    (adj(f));desirable
 souhaiter    (v);to wish
 soulagement    (nm);relief
 soulager    (v);to relieve, soothe, ease
-soulever    (v);to lift up
+soulever    (v);to lift up, raise
 souligner    (v);to underline, stress
 soumettre    (v);to submit
 soumission    (nf);submission
@@ -4443,7 +4442,7 @@ sous-estimer    (v);to underestimate
 sous-marin    (nadj);submarine, underwater
 sous-sol    (nm);basement, lower ground floor, subsoil, underground
 souscrire    (v);to subscribe
-soustraire    (v);to substract, remove, shield, escape from
+soustraire    (v);to subtract, remove, deduct, shield, escape from *soustraire à means protect something from danger
 soutenir    (v);to sustain, support *soutenir = support, supporter = endure
 souterrain    (nadj);underground, underground passage, subterranean
 soutien    (nm);support
@@ -4481,8 +4480,8 @@ standard    (adji,nm);standard, switchboard
 star    (nf);star
 station    (nf);station
 statistique    (nf);statistics, statistical
-statue    (nf);statue
-statut    (nm);status
+statue    (nf);statue *statue = statue, statut = status
+statut    (nm);status *statue = statue, statut = status
 stimuler    (v);to stimulate
 stipuler    (v);to stipulate, state, specify
 stock    (nm);stock, to supply
@@ -4691,7 +4690,7 @@ tissu    (nadj);fabric, material, cloth, tissue, woven
 titre    (nm);title
 titulaire    (nadj(f));holder, with tenure, occupant
 toi    (nm,pro);you, yourself
-toile    (nf);cloth, canvas, web
+toile    (nf);cloth, canvas, web *étoile = star, toile = cloth
 toilette    (nf);washing, toilet, lavatory, bathroom, restroom
 toit    (nm);roof
 tolérance    (nf);tolerance
@@ -4833,8 +4832,8 @@ usine    (nf);factory
 utile    (adj(f));useful
 utilisateur    (nadj);user
 utilisation    (nf);use
-utiliser    (v);to use
-utilité    (nf);use, usefulness
+utiliser    (v);to use, utilise, utilize
+utilité    (nf);use, usefulness, utility
 vacance    (nf);vacancy, vacation
 vache    (adj(f),nf);cow
 vague    (nadj(f),nf);vague, wave

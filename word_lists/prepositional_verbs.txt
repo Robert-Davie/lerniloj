@@ -1,0 +1,507 @@
+LANGUAGE=FRENCH
+acheter à;to buy from
+arracher à;to grab, tear away from
+aller à quelqu'un;to suit someone
+assister à;to attend, to be present, to witness *false friend with assist
+assister à la réunion;to attend the meeting
+convenir à quelqu'un;to please someone, to be suitable for someone
+convenir à quelque chose;to please something, to be suitable for something *convenir à = suitable, convenir de = agree
+croire à (as in belief of existence);to believe in something *no prep = fact, à = existence, en = trust/faith in
+demander quelque chose à quelqu'un;to ask someone something
+déplaire à;to be displeasing to *plaire always use à
+désobéir à;to disobey *both désobéir and obéir use à
+dire à quelqu'un (verb = dire);to say to someone, to tell someone
+donner quelque chose à quelqu'un;to give someone something
+échapper à;to escape from
+écrire à quelqu'un;to write to someone
+emprunter quelque chose à quelqu'un;to borrow something from someone
+envoyer quelque chose à quelqu'un;to send something to someone
+être à;to belong to
+faire attention à;to pay attention to
+faire confiance à quelqu'un (as in character);to trust someone
+se fier à quelqu'un (as in accuracy / reliability);to trust someone
+faire mal à;to hurt
+faillir à;to fail in, to fall at, to fall to *with à -> fail, without -> almost do
+goûter à quelque chose;to try something, to sample the taste of something *with à -> to try, without à -> to taste
+goûter quelque chose;to taste something *with à -> to try, without à -> to taste
+interdire quelque chose à quelqu'un;to forbid someone something
+mêler à;to mingle with, to join in
+nuire à;to harm
+obéir à;to obey *both désobéir and obéir use à
+s'opposer à;to oppose
+ordonner à;to order
+pardonner à;to pardon, forgive
+plaire à;to please, to be pleasing to *plaire always use à
+prendre à quelqu'un;to take from someone
+prendre garde à;to be careful of, to watch out for, to pay attention to *followed by noun or infinitive
+prendre garde de;to be careful not to *followed by infinitive only
+procurer à quelqu'un;to procure for someone, to obtain for someone
+promettre quelque chose à quelqu'un;to promise something to someone
+promettre de x (where x is an infinitive);to promise to do x
+raconter à quelqu'un (verb = raconter);to recount to someone, to tell someone
+rappeler quelque chose à quelqu'un;to remind someone of something
+réfléchir à (standard);to reflect upon, to consider doing, to consider
+rendre visite à quelqu'un;to visit someone
+répondre à;to respond to, to answer
+reprocher à;to reproach, to criticize
+répugner à;to feel reluctant to, to be loath to *commitment / detachment -> à
+résister à;to resist, to resist doing
+ressembler à;to resemble
+réussir à l'examen;to pass the test
+rêver à (verb = rêver, formal / literary);to imagine, to dream of *rêver/songer à = formal
+rêver de (verb = rêver, standard);to dream of doing, to dream of, to desire
+serrer la main à quelqu'un;to shake hands with someone
+servir à (+ noun / + infinitive);to be used for, to be used as, to be useful for, to serve as
+songer à (verb = songer, formal / literary);to dream, to think of, to dream of doing *rêver/songer à = formal
+sourire à;to smile at
+succéder à;to succeed, to follow, to be next in the sequence
+survivre à;to survive
+téléphoner à;to telephone, to call
+voler quelque chose à quelqu'un;to steal something from someone
+aider à;to help to
+s'amuser à;to amuse oneself by doing
+apprendre à;to learn how to
+s'apprêter à;to get ready to
+arriver à (effort);to manage to do, to succeed in doing
+aspirer à;to aspire to, to yearn to *commitment / detachment -> à
+astreindre quelqu'un à;to compel someone to, to force someone to
+s'attendre à;to expect to
+autoriser quelqu'un à;to authorise someone to, to authorize someone to, to allow someone to
+s'autoriser à;to authorise oneself to
+avoir à;to have to, to be obliged to
+chercher à;to attempt to
+consentir à;to consent to
+contraindre à;to force to, to compel to
+contraindre quelqu'un à;to force someone to, to compel someone to
+se décider à;to make up one's mind to *caution: exception to choice -> de rule
+encourager à;to encourage to
+s'engager à;to pledge to, to commit to *commitment / detachment -> à
+enseigner à;to teach to *knowledge is destination -> à
+s'épuiser à;to exhaust oneself by doing
+forcer à;to force to
+s'habituer à;to get used to *commitment / detachment -> à
+hésiter à;to hesitate to *commitment / detachment -> à
+s'intéresser à;to be interested in
+inviter quelqu'un à;to invite someone to
+se mettre à (sudden / new habit);to start doing, to set about doing
+motiver quelqu'un à (+ infinitive);to motivate someone to
+motiver quelqu'un;to motivate someone
+motiver quelqu'un pour (+ noun);to motivate someone to
+obliger à;to oblige to, to force to *oublier de, obliger à
+obliger quelqu'un à;to oblige someone to, to force someone to
+parvenir à (as in achieve);to succeed in doing
+passer du temps à;to spend time doing
+perdre du temps à;to waste time doing
+persister à;to persist in doing
+se plaire à;to take pleasure in doing *plaire always use à
+pousser à;to push to, to urge to
+pousser quelqu'un à;to push someone to, to urge someone to
+se préparer à;to prepare oneself to
+rechigner à;to begrudge doing, to be reluctant in doing *comes from old french reschigner = show one's teeth
+recommencer à x;to recommence doing x
+renoncer à;to renounce doing, to give up doing *commitment / detachment -> à
+se résigner à;to become resigned to doing *commitment / detachment -> à
+réussir à (as in perform well);to succeed in doing, to pull off
+tarder à;to be late in doing
+tenir à;to hold (someone) to / insist on doing
+venir à;to happen to
+aboyer contre quelqu'un;to bark at someone, to yell at someone
+s'abriter contre;to take shelter against
+s'abriter contre le vent;to take shelter against the wind
+s'abriter contre la pluie;to take shelter against the rain
+acculer quelqu'un contre;to drive someone back to
+s'acharner contre quelqu'un;to be relentless against someone, to hound someone, to pick on someone, to be out to get someone
+adosser contre (specifically using the back);to lean against, to stand against
+agir contre l'avis de quelqu'un;to act against someone's advice
+agir contre les ordres;to act against orders *lit. to act against the orders
+aguerrir quelqu'un contre;to harden someone to, inure someone to
+aller contre le courant;to go against the current
+aller contre le vent;to go into the wind
+s'appuyer contre;to lean oneself against
+s'appuyer contre un arbre;to lean oneself against a tree
+s'appuyer contre un mur;to lean oneself against a wall
+s'asseoir contre;to sit next to
+s'asseoir contre quelqu'un;to sit next to someone
+se battre contre (physical);to fight against
+se blottir contre quelqu'un;to cuddle next to someone
+se cogner la tête contre le mur;to bang one's head against the wall *se cogner means to bump into
+donner quelque chose contre quelque chose;to give something in exchange for something
+échanger quelque chose contre quelque chose;to exchange something for something
+être contre;to be against, disagree with
+être en colère contre;to be mad at, to be angry at *lit. to be in anger against
+être juste contre quelque chose;to be right next to something *lit. to be just against something
+se fâcher contre quelqu'un;to get angry at someone
+se fâcher de quelque chose;to get angry at something
+faire grève contre;to strike against
+heurter contre;to stumble/knock/bang against
+manifester contre;to protest against
+se mettre contre le mur;to stand against the wall *lit. to put oneself against the wall
+se mettre contre la porte;to stand against the door
+nager contre le courant;to swim against the current
+prendre le contre-pied;to take the opposite view *contre-pied is derived from sporting terminology
+prendre parti contre;to side against
+serrer quelqu'un contre son cœur, serrer quelqu'un contre sa poitrine;to hug someone
+troquer quelque chose contre quelque chose;to swap something for something
+s'unir contre;to unite against
+voter contre;to vote against
+apprendre quelque chose dans un livre;to learn something from a book
+avoir dans l'esprit que, avoir dans l'idée que;to have a feeling that
+avoir dans l'idée de, avoir dans la tête de;to have a mind to
+boire quelque chose dans une tasse;to drink something out of a cup
+boire quelque chose dans un verre;to drink something out of a glass
+chercher dans;to search inside, to search in
+chercher dans un tiroir;to look in a drawer
+copier quelque chose dans un livre;to copy something from a book
+courir dans;to run through
+courir dans l'herbe;to run through the grass
+courir dans l'eau;to run through the water
+coûter environ;to cost about
+entrer dans;to enter, to enter into
+entrer dans une salle;to enter a room
+entrer dans un appartement;to enter an apartment
+errer dans;to wander around, to wander through
+errer dans la ville;to wander around town
+errer dans la campagne;to wander around the countryside
+fouiller dans;to look through
+fouiller dans ses poches;to rummage into one's pockets, to look through one's pockets
+lire dans;to read in
+lire dans le journal;to read in the paper
+manger dans une assiette;to eat off of a plate
+manger dans la main à quelqu'un (informal / idiomatic);to eat out of someone's hand *de is used rather than à for formal register
+mettre son espoir dans;to pin one's hopes on *lit. to put one's hope into
+partir dans;to leave in
+partir dans 20 minutes;to leave in 20 minutes
+partir pour les montagnes;to leave for the mountains
+partir pour la plage;to leave for the beach
+pleuvoir dans;to rain in
+pleuvoir dans le désert;to rain in the desert
+reconnaître quelqu'un dans;to recognize someone in
+reconnaître quelqu'un dans la foule;to recognize someone in the crowd
+reconnaître quelqu'un dans le distance;to recognize someone in the distance
+regarder dans (verb = regarder);to look in
+regarder dans la boîte;to look in the box
+regarder dans le frigo;to look in the fridge
+verser de l'eau dans un verre;to pour water into a glass
+verser du vin dans un verre;to pour wine into a glass
+vivre dans (as in emotionally);to live in
+vivre dans la misère;to live in poverty
+vivre dans la peur;to live in fear
+s'apercevoir de;to notice, to realise something, to realize something
+approcher de;to approach
+arriver de;to arrive from
+arriver de Paris;to arrive from Paris
+avoir besoin de;to need
+avoir envie de (informal);to feel like, to have a craving for
+avoir l'habitude de;to have the habit of, to be used to
+avoir peur de (standard);to be afraid of
+changer de;to change
+changer de train;to change trains
+convaincre de;to convince of
+couvrir de;to cover with
+déborder de (informal);to be bursting with
+démunir quelqu'un de;to deprive someone of
+dépendre de;to depend on
+douter de;to doubt
+écrire de;to write with
+écrire de la main gauche;to write with the left hand
+s'emparer de;to grab
+s'étonner de;to be amazed by
+hériter de;to inherit
+jouir de;to enjoy
+se méfier de;to distrust, beware of *to beware OF -> de
+se moquer de;to mock, to make fun of, to ridicule *to make fun OF -> de
+s'occuper de;to be busy with
+partir de;to leave
+se passer de;to do without
+se plaindre de;to complain about
+punir de;to punish for
+raffoler de (as in obsession);to love, be crazy about
+récompenser de;to reward for
+remercier de (+ infinitive);to thank for doing *de = thank for doing something, pour = thank for something
+se rendre compte de;to realize
+rire de;to laugh about, to laugh at
+servir de;to put to use as
+se servir de;to use
+se soucier de;to care about, to care about doing
+se souvenir de;to remember, to remember doing
+tenir de;to take after, resemble
+se tromper de;to be wrong about something
+vivre de;to live on
+accepter de;to accept, agree to
+accuser quelqu'un de;to accuse someone of
+achever de (formal);to finish doing, to completely finish doing
+s'agir de;to be a question of doing, to be a question of
+arrêter de;to stop, to settle on *choice = de
+s'arrêter de;to stop oneself doing *choice = de
+attendre de x (where x is infinitive);to wait to do x
+avertir quelqu'un de;to warn someone to
+blâmer quelqu'un pour;to blame someone for doing
+cesser de;to cease doing *stopping -> de
+choisir de;to choose to *choice → de
+se contenter de;to be content doing *lit. to content oneself of
+convenir de;to agree on *convenir à = suitable, convenir de = agree    choice -> de
+craindre de (+ infinitive, formal/ongoing/abstract);to fear doing
+décider de;to decide to *choice = de
+défendre à quelqu'un de faire quelque chose (formal);to forbid someone to do something
+se délecter de;to delight in doing, to take delight in
+se dépêcher de (standard);to hurry to
+s'empresser de (eager / proactive);to hurry to
+se hâter de (formal / urgent);to hurry to *haste = formal
+se presser de (action orientated);to hurry to
+déranger quelqu'un de;to bother someone to
+s'efforcer de;to endeavor, try one's best to
+empêcher de;to prevent from doing, to keep from doing
+ennuyer quelqu'un de;to bother someone to
+en train de (+ infinitive);currently doing *used to mean -ing, but avoid overusage
+essayer de (standard);to try to *essayer de = standard, tâcher de = formal
+être xxx de (xxx = adjective / past participle);to be xxx to
+s'excuser de (+ infinitive);to apologize for doing
+faire semblant de;to pretend *false friend with prétendre
+féliciter de;to congratulate, to congratulate for doing
+finir de (standard);to finish doing
+mériter de;to merit, to deserve to
+offrir de;to offer to
+oublier de;to forget to *oublier de, obliger à
+persuader de (as in convince of the truth);to persuade to
+prendre le parti de quelqu'un;to side with someone
+prendre le parti de faire quelque chose (formal);to decide to do something, to side with taking a course of action
+prier de;to beg to
+proposer de;to propose doing, to suggest doing *choice → de
+refuser de;to refuse to *choice -> de
+regretter de;to regret doing
+risquer de;to risk
+supplier de;to beg, to beseech
+tâcher de (formal, intense);to try to *essayer de = standard, tâcher de = formal
+venir de x (where x is infinitive);to have just done x
+agir en;to act like/as
+arranger en;to arrange, set up as
+avoir confiance en quelqu'un;to have confidence in someone
+avoir confiance en quelque chose;to have confidence in something
+casser en;to break in, to break into
+casser en morceaux;to break into pieces
+casser en quatre;to break into four
+changer en;to change into
+convertir en;to convert into
+couper en x;to cut into x pieces
+couper en trois;to cut into three, to cut into three pieces
+croire en (as in to trust);to believe in *no prep = fact, à = existence, en = trust/faith in
+dégénérer en;to degenerate into
+se déguiser en;to disguise oneself as
+écrire en;to write in
+écrire en français;to write in French
+ériger en;to set up as
+s'habiller en;to dress in
+mesurer en;to measure in
+mesurer en mètres;to measure in metres
+mesurer en litres;to measure in litres
+se mettre en colère;to get mad *lit. to put oneself in anger
+se mettre en route;to set out, to get going
+partir en (verb = partir);to leave in, to leave for, to leave by
+partir en guerre;to leave for war
+partir en voyage;to leave for a trip
+partir en train;to leave by train
+peindre en;to paint in/with
+réduire en;to reduce to
+traduire en ;to translate into
+traduire en français, ;to translate into French
+traduire en anglais;to translate into English
+transformer en;to transform into
+se vendre en;to be sold in
+se vendre en bouteilles;to be sold in bottles
+voyager en;to travel by
+voyager en train;to travel by train
+voyager en taxi;to travel by taxi
+commencer par (verb infinitive);to begin by doing
+commencer par (noun);to begin with
+différer par (noun);to be different due to
+entrer par;to enter by
+entrer par la porte;to enter by the door
+entrer par le portail;to enter by the gate
+être célèbre par x;to be famous for x
+faire par pitié;to do out of pity
+faire par plaisir;to do for pleasure
+finir par (infinitive);to end up doing, to finally do
+finir par (standard);to end with
+habiter par ici;to live around here
+habiter par là;to live around there
+jurer par;to swear by
+obtenir quelque chose par;to obtain something by
+prendre quelqu'un par;to take someone by
+prendre quelqu'un par la main;to take someone by the hand
+se promener dans;to walk in, to walk through
+sortir par (verb = sortir);to leave by
+sortir par la porte;to leave by the door
+terminer par (infinitive);to end by doing
+terminer par (logical conclusion);to terminate by, to end with
+venir par;to come along, to come by
+venir par le chemin;to come by the trail
+venir par la côte;to come by the coast
+acheter pour quelqu'un;to buy for someone
+compter pour;to be worth
+condamner pour;to sentence for
+condamner pour vol;to sentence for theft
+condamner pour meurtre;to sentence for murder
+craindre pour (verb = craindre);to fear for
+craindre pour sa vie (verb = craindre);to fear for one's life
+creuser pour;to dig for
+être célèbre pour;to be famous for *used for nouns
+être pour;to be in favor of, to be for
+insister pour;to insist on
+laisser pour mort;to leave for dead
+parler pour;to speak on behalf of
+partir pour;to leave for, to be off to
+payer pour;to pay for
+payer pour quelqu'un;to pay for someone
+se pencher pour;to bend down in order to
+prendre (quelqu'un) pour + noun;to take (someone) for (e.g., a child)
+quêter pour;to collect for
+quêter pour les orphelins;to collect for orphans
+remercier pour x (where x is noun);to thank for x *where x is a noun *de = thank for doing something, pour = thank for something
+remercier pour le livre;to thank for the book
+signer pour quelqu'un;to sign for someone, to sign on behalf of someone
+téléphoner pour;to phone about
+téléphoner pour le problème;to phone about the problem
+travailler pour;to work for
+voter pour;to vote for
+acheter quelque chose sur le marché;to buy something at the market
+appuyer sur;to press, to lean on
+appuyer sur le bouton;to press the button
+appuyer sur le mur;to lean on the wall
+arriver sur;to arrive at around
+arriver sur minuit;to arrive at around midnight
+avoir de l'effet sur;to have an effect on *lit. to have of the effect on
+avoir de l'influence sur;to have influence over
+boire x sur z;to drink x on top of z, to drink x immediately after z
+chanter sur l'air de;to sing to the tune of
+choisir sur catalogue;to choose from a catalogue
+compter sur;to count on
+se concentrer sur;to concentrate on
+copier sur;to copy from
+copier sur quelqu'un;to copy from someone
+croire quelqu'un sur parole;to take someone's word, to take someone at his word *literally to believe someone on word
+déteindre sur;to rub off on, to influence *figurative expression, where déteindre expresses how something stains another thing
+diriger son attention sur;to direction one's attention to *son is used here as next word begins with a vowel
+donner sur;to overlook, open onto
+écrire sur;to write about
+s'endormir sur;to fall asleep over
+s'endormir sur un livre;to fall asleep over a book
+s'endormir sur une tâche;to fall asleep over a task
+s'étendre sur;to spread out over, measure
+être sur le départ;to be about to leave *lit. to be on the departure
+être sur le point de x (x = infinitive);to be about to x*lit. to be on the point of x
+être sur une bonne affaire;to be onto a bargain *lit. to be on a good affair
+être sur un coup (informal);to be in a job
+être sur une piste;to be on a trail
+être sur un projet;to be working on a project, occupied with a project
+être sur un travail (where job is travail);to be on a job, occupied with a job
+fermer la porte sur;to close the door behind
+fermer la porte sur toi;to close the door behind you
+fermer la porte sur le chien;to close the door behind the dog
+gémir sur ses malheurs;to bemoan one's misfortunes
+influer sur une décision;to influence a decision, to have an influence on a decision
+interroger quelqu'un sur quelque chose;to interrogate someone about something, to question someone about something
+se jeter sur quelqu'un;to throw oneself upon someone
+se lamenter sur ses malheurs;to lament one's misfortunes
+loucher sur;to ogle
+prendre modèle sur quelqu'un;to model oneself on someone *lit. to take model on someone
+questionner quelqu'un sur quelque chose;to question someone about something
+réfléchir sur (formal);to reflect on, to reflect upon, to think about
+régner sur;to reign over *remember é is second letter
+rejeter une faute sur quelqu'un;to place the blame on someone
+rester sur la défensive;to stay on the defensive
+rester sur ses gardes;to keep one's guard up
+revenir sur;to go back over
+revenir sur un sujet;to go back over a topic, to revisit a subject
+revenir sur une question;to return to a question *lit. to return on a question
+sauter sur une occasion;to jump at an opportunity *lit. to jump on an occasion
+tirer sur;to shoot at
+tomber sur;to come across, to encounter
+tomber sur un livre;to come across a book
+tomber sur une personne;to come across someone, to encounter someone
+toucher une commission sur les ventes;to earn a commission on sales *lit. to touch a commission on the sales
+vivre sur son salaire;to live on one's salary
+vivre sur ses économies;to live on one's savings
+décider quelqu'un à (as in convince to do something);to persuade someone to, to convince someone to
+décider de faire quelque chose (standard);to decide to do something
+demander de;to ask, to ask to do
+jouer à (game, sport);to play
+jouer de (musical instrument);to play
+manquer à quelqu'un;to miss someone *à points to the direction of the missingness
+manquer de;to neglect, to neglect to do, to fail to
+parler à quelqu'un;to talk to someone
+parler de;to talk about
+penser à (logical);to think about, to imagine *no prep = intend, à = think about, de = have opinion of
+penser de (as in opinion);to think of, to think about *no prep = intend, à = think about, de = have opinion of
+profiter à;to benefit
+profiter de;to make the most of
+commander à quelqu'un de faire quelque chose;to command someone to do something
+conseiller à quelqu'un de faire quelque chose;to advise someone to do something
+demander à quelqu'un de faire quelque chose;to ask someone to do something
+dire à quelqu'un de faire quelque chose;to tell someone to do something
+interdire à quelqu'un de faire quelque chose (standard);to forbid someone to do something
+ordonner à quelqu'un de faire quelque chose;to order someone to do something
+permettre à quelqu'un de faire quelque chose;to allow someone to do something
+commencer à (standard, more common);to start
+commencer de (formal, less common);to start
+continuer à, continuer de;to continue *most interchangeable, however classically à is for action in progress, whereas de is for habit
+apercevoir;to catch sight of
+appeler quelqu'un;to call someone
+approuver;to approve of
+attendre x (where x is noun);to wait for x
+attendre que (as in someone else, subjunctive trigger);to wait for
+chercher;to search for, to look for
+côtoyer;to be next to
+craindre (+ noun);to fear
+demander;to ask for
+descendre;to go down
+devoir de l'argent de;to owe money to
+écouter;to listen to
+emmener;to take, to lead away
+essayer;to try on
+estimer;to estimate *also to assess
+grignoter;to nibble on
+habiter, habiter à (as in logically);to live in *à is optional
+ignorer;to be unaware of
+mettre;to put on
+monter;to go up, climb
+pleurer;to cry about
+préférer;to prefer to
+prier;to pray to *also takes à in formal french
+puer;to stink of
+regarder;to look at, to watch someone doing
+reprocher à quelqu'un de faire quelque chose;to reproach someone for something 
+sentir;to smell of, to feel, to feel someone doing
+soigner;to take care of, to treat
+subir;to be subjected to
+voir;to see, to see someone doing
+vouloir;to want, to want to
+adorer;to love to
+aimer;to like to
+aller;to go, to be going to
+avoir beau;despite doing, however much one does
+compter;to expect, intend to
+critiquer;to criticise, to criticize, to find fault, to analyse
+croire (as in person or fact);to believe *no prep = fact, à = existence, en = trust/faith in
+daigner;to deign, condescend to
+désirer;to desire to
+détester;to detest doing, to hate doing
+devoir;must, to have to, be obliged to
+entendre;to hear
+espérer;to hope to
+être censé;to be supposed to
+faillir;to almost do something
+faire faire quelque chose à quelqu'un;to make someone do something
+falloir;to be necessary to
+se figurer;to imagine doing, to picture doing
+s'imaginer;to imagine doing
+laisser;to let, to allow someone to do, to let someone to do
+nier;to deny doing
+oser;to dare to
+paraître;to appear to
+penser x (where x is infinitive);to plan on x, to intend to x *no prep = intend, à = think about, de = have opinion of
+pouvoir;to be able to
+prétendre x (where x is infinitive);to claim to x
+savoir;to know how to
+sembler;to seem to
+souhaiter;to wish to
+valoir mieux;to be preferable to, to be better to
