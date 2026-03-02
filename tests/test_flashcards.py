@@ -1,5 +1,4 @@
 from lerniloj.flashcards import get_question, parse_line, get_number_of_correct_responses, is_user_response_correct, get_user_response_to_question, compute_user_response_shortcuts
-from unittest.mock import patch
 
 
 def test_get_question_in_english():

@@ -109,8 +109,8 @@ def toggle_accents(
     return str_in
 
 
-with open("word_lists/esperanto_roots.txt", "r") as f:
-    esperanto_root_templates = [i.strip().split(",") for i in f.readlines()]
+# with open("word_lists/esperanto_roots.txt", "r") as f:
+#     esperanto_root_templates = [i.strip().split(",") for i in f.readlines()]
 
 
 def decompose_esperanto_word(str_in: str) -> tuple[list[str], list[str], bool]:
